@@ -1,1 +1,0 @@
-# oneinstack-redirect-mirror
