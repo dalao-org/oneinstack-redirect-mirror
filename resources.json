@@ -4802,26 +4802,6 @@
         "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.21.zip"
     },
     {
-        "version": "1.16.2",
-        "url": "https://pecl.php.net/get/mongodb-1.16.2.tgz"
-    },
-    {
-        "version": "1.16.1",
-        "url": "https://pecl.php.net/get/mongodb-1.16.1.tgz"
-    },
-    {
-        "version": "1.16.0",
-        "url": "https://pecl.php.net/get/mongodb-1.16.0.tgz"
-    },
-    {
-        "version": "1.15.3",
-        "url": "https://pecl.php.net/get/mongodb-1.15.3.tgz"
-    },
-    {
-        "version": "1.15.2",
-        "url": "https://pecl.php.net/get/mongodb-1.15.2.tgz"
-    },
-    {
         "version": "8.2",
         "url": "https://pecl.php.net/get/memcache-8.2.tgz"
     },
@@ -4840,26 +4820,6 @@
     {
         "version": "3.0.8",
         "url": "https://pecl.php.net/get/memcache-3.0.8.tgz"
-    },
-    {
-        "version": "3.7.0",
-        "url": "https://pecl.php.net/get/imagick-3.7.0.tgz"
-    },
-    {
-        "version": "3.6.0",
-        "url": "https://pecl.php.net/get/imagick-3.6.0.tgz"
-    },
-    {
-        "version": "3.5.1",
-        "url": "https://pecl.php.net/get/imagick-3.5.1.tgz"
-    },
-    {
-        "version": "3.5.0",
-        "url": "https://pecl.php.net/get/imagick-3.5.0.tgz"
-    },
-    {
-        "version": "3.4.4",
-        "url": "https://pecl.php.net/get/imagick-3.4.4.tgz"
     },
     {
         "version": "2.0.6RC1",
