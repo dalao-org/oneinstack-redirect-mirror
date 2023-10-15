@@ -4802,6 +4802,257 @@
         "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.21.zip"
     },
     {
+        "version": "23.2.1",
+        "file_name": "pip-23.2.1.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.2.1.tar.gz/sha512/a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8/pip-23.2.1.tar.gz",
+        "sha512": "a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8"
+    },
+    {
+        "version": "23.1.2",
+        "file_name": "pip-23.1.2.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.1.2.tar.gz/sha512/b33070cb59a1258904a60b48ec8abfd9e316c5f87681fea13d89ddf6d516afac10965ae1db54fea299a0a72f98602ce02e8b3be46f239e857db84866045730e1/pip-23.1.2.tar.gz",
+        "sha512": "b33070cb59a1258904a60b48ec8abfd9e316c5f87681fea13d89ddf6d516afac10965ae1db54fea299a0a72f98602ce02e8b3be46f239e857db84866045730e1"
+    },
+    {
+        "version": "23.0",
+        "file_name": "pip-23.0.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.0.tar.gz/sha512/9b791ed15b4e5dd768351043929dc6ee18eeab251a26fb2b0d712dec578101f1620a13d5914d44f2761ecb95e64bc47e6b07096126404ca70345268028524d43/pip-23.0.tar.gz",
+        "sha512": "9b791ed15b4e5dd768351043929dc6ee18eeab251a26fb2b0d712dec578101f1620a13d5914d44f2761ecb95e64bc47e6b07096126404ca70345268028524d43"
+    },
+    {
+        "version": "23.0.1",
+        "file_name": "pip-23.0.1.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.0.1.tar.gz/sha512/ed14ce37293e749b4fd93d7f93d81356c77428b1fb14dfd760b59aea720ebb3cce5a49c2d32ab600e73b37389937830ff4dee04750e83078c8ab9d57513f294c/pip-23.0.1.tar.gz",
+        "sha512": "ed14ce37293e749b4fd93d7f93d81356c77428b1fb14dfd760b59aea720ebb3cce5a49c2d32ab600e73b37389937830ff4dee04750e83078c8ab9d57513f294c"
+    },
+    {
+        "version": "22.3.1",
+        "file_name": "pip-22.3.1.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-22.3.1.tar.gz/sha512/c7865c4ce79b0fea7ba469fe593af3be205b3bdb574a6ae019842e0f82a0af406ec905d8c6ff02fbbafe01630c8899a398d071ce74501ca830249160f2f6df98/pip-22.3.1.tar.gz",
+        "sha512": "c7865c4ce79b0fea7ba469fe593af3be205b3bdb574a6ae019842e0f82a0af406ec905d8c6ff02fbbafe01630c8899a398d071ce74501ca830249160f2f6df98"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/3.0.0.tar.gz",
+        "file_name": "tengine-3.0.0.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/2.4.1.tar.gz",
+        "file_name": "tengine-2.4.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/2.4.0.tar.gz",
+        "file_name": "tengine-2.4.0.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/2.3.4.tar.gz",
+        "file_name": "tengine-2.3.4.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/2.3.3.tar.gz",
+        "file_name": "tengine-2.3.3.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/2.3.2.tar.gz",
+        "file_name": "tengine-2.3.2.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/2.3.1.tar.gz",
+        "file_name": "tengine-2.3.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/2.3.0.tar.gz",
+        "file_name": "tengine-2.3.0.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/2.2.3.tar.gz",
+        "file_name": "tengine-2.2.3.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/tengine-2.2.2.tar.gz",
+        "file_name": "tengine-tengine-2.2.2.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/tengine-2.2.1.tar.gz",
+        "file_name": "tengine-tengine-2.2.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/tengine-2.2.0.tar.gz",
+        "file_name": "tengine-tengine-2.2.0.tar.gz"
+    },
+    {
+        "version": "1.79.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.79.0/source/boost_1_79_0.tar.gz",
+        "file_name": "boost_1_79_0.tar.gz"
+    },
+    {
+        "version": "1.80.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.80.0/source/boost_1_80_0.tar.gz",
+        "file_name": "boost_1_80_0.tar.gz"
+    },
+    {
+        "version": "1.81.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.gz",
+        "file_name": "boost_1_81_0.tar.gz"
+    },
+    {
+        "version": "1.82.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz",
+        "file_name": "boost_1_82_0.tar.gz"
+    },
+    {
+        "version": "1.83.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz",
+        "file_name": "boost_1_83_0.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.1.tar.gz",
+        "file_name": "lua-resty-core-v0.0.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.2.tar.gz",
+        "file_name": "lua-resty-core-v0.0.2.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.3.tar.gz",
+        "file_name": "lua-resty-core-v0.0.3.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.4.tar.gz",
+        "file_name": "lua-resty-core-v0.0.4.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.5.tar.gz",
+        "file_name": "lua-resty-core-v0.0.5.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.6.tar.gz",
+        "file_name": "lua-resty-core-v0.0.6.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.7.tar.gz",
+        "file_name": "lua-resty-core-v0.0.7.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.8.tar.gz",
+        "file_name": "lua-resty-core-v0.0.8.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.9.tar.gz",
+        "file_name": "lua-resty-core-v0.0.9.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.0.tar.gz",
+        "file_name": "lua-resty-core-v0.1.0.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.1.tar.gz",
+        "file_name": "lua-resty-core-v0.1.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.2.tar.gz",
+        "file_name": "lua-resty-core-v0.1.2.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.3.tar.gz",
+        "file_name": "lua-resty-core-v0.1.3.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.4.tar.gz",
+        "file_name": "lua-resty-core-v0.1.4.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.5.tar.gz",
+        "file_name": "lua-resty-core-v0.1.5.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.6.tar.gz",
+        "file_name": "lua-resty-core-v0.1.6.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.7.tar.gz",
+        "file_name": "lua-resty-core-v0.1.7.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.8.tar.gz",
+        "file_name": "lua-resty-core-v0.1.8.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.9.tar.gz",
+        "file_name": "lua-resty-core-v0.1.9.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.10.tar.gz",
+        "file_name": "lua-resty-core-v0.1.10.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.11.tar.gz",
+        "file_name": "lua-resty-core-v0.1.11.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.12.tar.gz",
+        "file_name": "lua-resty-core-v0.1.12.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.13.tar.gz",
+        "file_name": "lua-resty-core-v0.1.13.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.14.tar.gz",
+        "file_name": "lua-resty-core-v0.1.14.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.15.tar.gz",
+        "file_name": "lua-resty-core-v0.1.15.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.16.tar.gz",
+        "file_name": "lua-resty-core-v0.1.16.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.17.tar.gz",
+        "file_name": "lua-resty-core-v0.1.17.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.18.tar.gz",
+        "file_name": "lua-resty-core-v0.1.18.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.19.tar.gz",
+        "file_name": "lua-resty-core-v0.1.19.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.20.tar.gz",
+        "file_name": "lua-resty-core-v0.1.20.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.21.tar.gz",
+        "file_name": "lua-resty-core-v0.1.21.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.22.tar.gz",
+        "file_name": "lua-resty-core-v0.1.22.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.23.tar.gz",
+        "file_name": "lua-resty-core-v0.1.23.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.24.tar.gz",
+        "file_name": "lua-resty-core-v0.1.24.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.25.tar.gz",
+        "file_name": "lua-resty-core-v0.1.25.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.26.tar.gz",
+        "file_name": "lua-resty-core-v0.1.26.tar.gz"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.27.tar.gz",
+        "file_name": "lua-resty-core-v0.1.27.tar.gz"
+    },
+    {
         "version": "5.1.22",
         "url": "https://pecl.php.net/get/apcu-5.1.22.tgz"
     },
@@ -4850,15 +5101,15 @@
         "url": "https://pecl.php.net/get/memcache-4.0.5.2.tgz"
     },
     {
-        "version": "1.16.2",
-        "url": "https://pecl.php.net/get/mongodb-1.16.2.tgz"
+        "version": "3.3.5",
+        "url": "https://pecl.php.net/get/yaf-3.3.5.tgz"
     },
     {
-        "version": "1.16.1",
-        "url": "https://pecl.php.net/get/mongodb-1.16.1.tgz"
+        "version": "3.3.4",
+        "url": "https://pecl.php.net/get/yaf-3.3.4.tgz"
     },
     {
-        "version": "1.16.0",
-        "url": "https://pecl.php.net/get/mongodb-1.16.0.tgz"
+        "version": "3.3.3",
+        "url": "https://pecl.php.net/get/yaf-3.3.3.tgz"
     }
 ]
