@@ -4826,6 +4826,18 @@
         "url": "https://pecl.php.net/get/gmagick-2.0.4RC1.tgz"
     },
     {
+        "version": "3.7.0",
+        "url": "https://pecl.php.net/get/imagick-3.7.0.tgz"
+    },
+    {
+        "version": "3.7.0RC1",
+        "url": "https://pecl.php.net/get/imagick-3.7.0RC1.tgz"
+    },
+    {
+        "version": "3.6.0",
+        "url": "https://pecl.php.net/get/imagick-3.6.0.tgz"
+    },
+    {
         "version": "8.2",
         "url": "https://pecl.php.net/get/memcache-8.2.tgz"
     },
@@ -4836,5 +4848,17 @@
     {
         "version": "4.0.5.2",
         "url": "https://pecl.php.net/get/memcache-4.0.5.2.tgz"
+    },
+    {
+        "version": "1.16.2",
+        "url": "https://pecl.php.net/get/mongodb-1.16.2.tgz"
+    },
+    {
+        "version": "1.16.1",
+        "url": "https://pecl.php.net/get/mongodb-1.16.1.tgz"
+    },
+    {
+        "version": "1.16.0",
+        "url": "https://pecl.php.net/get/mongodb-1.16.0.tgz"
     }
 ]
