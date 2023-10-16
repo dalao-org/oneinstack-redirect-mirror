@@ -2,792 +2,950 @@
     {
         "version": "8.4.0",
         "url": "https://curl.se/download/curl-8.4.0.tar.gz",
+        "file_name": "curl-8.4.0.tar.gz",
         "gpg": "https://curl.se/download/curl-8.4.0.tar.gz.asc"
     },
     {
         "version": "8.3.0",
         "url": "https://curl.se/download/curl-8.3.0.tar.gz",
+        "file_name": "curl-8.3.0.tar.gz",
         "gpg": "https://curl.se/download/curl-8.3.0.tar.gz.asc"
     },
     {
         "version": "8.2.1",
         "url": "https://curl.se/download/curl-8.2.1.tar.gz",
+        "file_name": "curl-8.2.1.tar.gz",
         "gpg": "https://curl.se/download/curl-8.2.1.tar.gz.asc"
     },
     {
         "version": "8.2.0",
         "url": "https://curl.se/download/curl-8.2.0.tar.gz",
+        "file_name": "curl-8.2.0.tar.gz",
         "gpg": "https://curl.se/download/curl-8.2.0.tar.gz.asc"
     },
     {
         "version": "8.1.2",
         "url": "https://curl.se/download/curl-8.1.2.tar.gz",
+        "file_name": "curl-8.1.2.tar.gz",
         "gpg": "https://curl.se/download/curl-8.1.2.tar.gz.asc"
     },
     {
         "version": "8.1.1",
         "url": "https://curl.se/download/curl-8.1.1.tar.gz",
+        "file_name": "curl-8.1.1.tar.gz",
         "gpg": "https://curl.se/download/curl-8.1.1.tar.gz.asc"
     },
     {
         "version": "8.1.0",
         "url": "https://curl.se/download/curl-8.1.0.tar.gz",
+        "file_name": "curl-8.1.0.tar.gz",
         "gpg": "https://curl.se/download/curl-8.1.0.tar.gz.asc"
     },
     {
         "version": "8.0.1",
         "url": "https://curl.se/download/curl-8.0.1.tar.gz",
+        "file_name": "curl-8.0.1.tar.gz",
         "gpg": "https://curl.se/download/curl-8.0.1.tar.gz.asc"
     },
     {
         "version": "8.0.0",
         "url": "https://curl.se/download/curl-8.0.0.tar.gz",
+        "file_name": "curl-8.0.0.tar.gz",
         "gpg": "https://curl.se/download/curl-8.0.0.tar.gz.asc"
     },
     {
         "version": "7.88.1",
         "url": "https://curl.se/download/curl-7.88.1.tar.gz",
+        "file_name": "curl-7.88.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.88.1.tar.gz.asc"
     },
     {
         "version": "7.88.0",
         "url": "https://curl.se/download/curl-7.88.0.tar.gz",
+        "file_name": "curl-7.88.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.88.0.tar.gz.asc"
     },
     {
         "version": "7.87.0",
         "url": "https://curl.se/download/curl-7.87.0.tar.gz",
+        "file_name": "curl-7.87.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.87.0.tar.gz.asc"
     },
     {
         "version": "7.86.0",
         "url": "https://curl.se/download/curl-7.86.0.tar.gz",
+        "file_name": "curl-7.86.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.86.0.tar.gz.asc"
     },
     {
         "version": "7.85.0",
         "url": "https://curl.se/download/curl-7.85.0.tar.gz",
+        "file_name": "curl-7.85.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.85.0.tar.gz.asc"
     },
     {
         "version": "7.84.0",
         "url": "https://curl.se/download/curl-7.84.0.tar.gz",
+        "file_name": "curl-7.84.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.84.0.tar.gz.asc"
     },
     {
         "version": "7.83.1",
         "url": "https://curl.se/download/curl-7.83.1.tar.gz",
+        "file_name": "curl-7.83.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.83.1.tar.gz.asc"
     },
     {
         "version": "7.83.0",
         "url": "https://curl.se/download/curl-7.83.0.tar.gz",
+        "file_name": "curl-7.83.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.83.0.tar.gz.asc"
     },
     {
         "version": "7.82.0",
         "url": "https://curl.se/download/curl-7.82.0.tar.gz",
+        "file_name": "curl-7.82.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.82.0.tar.gz.asc"
     },
     {
         "version": "7.81.0",
         "url": "https://curl.se/download/curl-7.81.0.tar.gz",
+        "file_name": "curl-7.81.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.81.0.tar.gz.asc"
     },
     {
         "version": "7.80.0",
         "url": "https://curl.se/download/curl-7.80.0.tar.gz",
+        "file_name": "curl-7.80.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.80.0.tar.gz.asc"
     },
     {
         "version": "7.79.1",
         "url": "https://curl.se/download/curl-7.79.1.tar.gz",
+        "file_name": "curl-7.79.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.79.1.tar.gz.asc"
     },
     {
         "version": "7.79.0",
         "url": "https://curl.se/download/curl-7.79.0.tar.gz",
+        "file_name": "curl-7.79.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.79.0.tar.gz.asc"
     },
     {
         "version": "7.78.0",
         "url": "https://curl.se/download/curl-7.78.0.tar.gz",
+        "file_name": "curl-7.78.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.78.0.tar.gz.asc"
     },
     {
         "version": "7.77.0",
         "url": "https://curl.se/download/curl-7.77.0.tar.gz",
+        "file_name": "curl-7.77.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.77.0.tar.gz.asc"
     },
     {
         "version": "7.76.1",
         "url": "https://curl.se/download/curl-7.76.1.tar.gz",
+        "file_name": "curl-7.76.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.76.1.tar.gz.asc"
     },
     {
         "version": "7.76.0",
         "url": "https://curl.se/download/curl-7.76.0.tar.gz",
+        "file_name": "curl-7.76.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.76.0.tar.gz.asc"
     },
     {
         "version": "7.75.0",
         "url": "https://curl.se/download/curl-7.75.0.tar.gz",
+        "file_name": "curl-7.75.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.75.0.tar.gz.asc"
     },
     {
         "version": "7.74.0",
         "url": "https://curl.se/download/curl-7.74.0.tar.gz",
+        "file_name": "curl-7.74.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.74.0.tar.gz.asc"
     },
     {
         "version": "7.73.0",
         "url": "https://curl.se/download/curl-7.73.0.tar.gz",
+        "file_name": "curl-7.73.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.73.0.tar.gz.asc"
     },
     {
         "version": "7.72.0",
         "url": "https://curl.se/download/curl-7.72.0.tar.gz",
+        "file_name": "curl-7.72.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.72.0.tar.gz.asc"
     },
     {
         "version": "7.71.1",
         "url": "https://curl.se/download/curl-7.71.1.tar.gz",
+        "file_name": "curl-7.71.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.71.1.tar.gz.asc"
     },
     {
         "version": "7.71.0",
         "url": "https://curl.se/download/curl-7.71.0.tar.gz",
+        "file_name": "curl-7.71.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.71.0.tar.gz.asc"
     },
     {
         "version": "7.70.0",
         "url": "https://curl.se/download/curl-7.70.0.tar.gz",
+        "file_name": "curl-7.70.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.70.0.tar.gz.asc"
     },
     {
         "version": "7.69.1",
         "url": "https://curl.se/download/curl-7.69.1.tar.gz",
+        "file_name": "curl-7.69.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.69.1.tar.gz.asc"
     },
     {
         "version": "7.69.0",
         "url": "https://curl.se/download/curl-7.69.0.tar.gz",
+        "file_name": "curl-7.69.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.69.0.tar.gz.asc"
     },
     {
         "version": "7.68.0",
         "url": "https://curl.se/download/curl-7.68.0.tar.gz",
+        "file_name": "curl-7.68.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.68.0.tar.gz.asc"
     },
     {
         "version": "7.67.0",
         "url": "https://curl.se/download/curl-7.67.0.tar.gz",
+        "file_name": "curl-7.67.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.67.0.tar.gz.asc"
     },
     {
         "version": "7.66.0",
         "url": "https://curl.se/download/curl-7.66.0.tar.gz",
+        "file_name": "curl-7.66.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.66.0.tar.gz.asc"
     },
     {
         "version": "7.65.3",
         "url": "https://curl.se/download/curl-7.65.3.tar.gz",
+        "file_name": "curl-7.65.3.tar.gz",
         "gpg": "https://curl.se/download/curl-7.65.3.tar.gz.asc"
     },
     {
         "version": "7.65.2",
         "url": "https://curl.se/download/curl-7.65.2.tar.gz",
+        "file_name": "curl-7.65.2.tar.gz",
         "gpg": "https://curl.se/download/curl-7.65.2.tar.gz.asc"
     },
     {
         "version": "7.65.1",
         "url": "https://curl.se/download/curl-7.65.1.tar.gz",
+        "file_name": "curl-7.65.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.65.1.tar.gz.asc"
     },
     {
         "version": "7.65.0",
         "url": "https://curl.se/download/curl-7.65.0.tar.gz",
+        "file_name": "curl-7.65.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.65.0.tar.gz.asc"
     },
     {
         "version": "7.64.1",
         "url": "https://curl.se/download/curl-7.64.1.tar.gz",
+        "file_name": "curl-7.64.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.64.1.tar.gz.asc"
     },
     {
         "version": "7.64.0",
         "url": "https://curl.se/download/curl-7.64.0.tar.gz",
+        "file_name": "curl-7.64.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.64.0.tar.gz.asc"
     },
     {
         "version": "7.63.0",
         "url": "https://curl.se/download/curl-7.63.0.tar.gz",
+        "file_name": "curl-7.63.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.63.0.tar.gz.asc"
     },
     {
         "version": "7.62.0",
         "url": "https://curl.se/download/curl-7.62.0.tar.gz",
+        "file_name": "curl-7.62.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.62.0.tar.gz.asc"
     },
     {
         "version": "7.61.1",
         "url": "https://curl.se/download/curl-7.61.1.tar.gz",
+        "file_name": "curl-7.61.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.61.1.tar.gz.asc"
     },
     {
         "version": "7.61.0",
         "url": "https://curl.se/download/curl-7.61.0.tar.gz",
+        "file_name": "curl-7.61.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.61.0.tar.gz.asc"
     },
     {
         "version": "7.60.0",
         "url": "https://curl.se/download/curl-7.60.0.tar.gz",
+        "file_name": "curl-7.60.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.60.0.tar.gz.asc"
     },
     {
         "version": "7.59.0",
         "url": "https://curl.se/download/curl-7.59.0.tar.gz",
+        "file_name": "curl-7.59.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.59.0.tar.gz.asc"
     },
     {
         "version": "7.58.0",
         "url": "https://curl.se/download/curl-7.58.0.tar.gz",
+        "file_name": "curl-7.58.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.58.0.tar.gz.asc"
     },
     {
         "version": "7.57.0",
         "url": "https://curl.se/download/curl-7.57.0.tar.gz",
+        "file_name": "curl-7.57.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.57.0.tar.gz.asc"
     },
     {
         "version": "7.56.1",
         "url": "https://curl.se/download/curl-7.56.1.tar.gz",
+        "file_name": "curl-7.56.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.56.1.tar.gz.asc"
     },
     {
         "version": "7.56.0",
         "url": "https://curl.se/download/curl-7.56.0.tar.gz",
+        "file_name": "curl-7.56.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.56.0.tar.gz.asc"
     },
     {
         "version": "7.55.1",
         "url": "https://curl.se/download/curl-7.55.1.tar.gz",
+        "file_name": "curl-7.55.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.55.1.tar.gz.asc"
     },
     {
         "version": "7.55.0",
         "url": "https://curl.se/download/curl-7.55.0.tar.gz",
+        "file_name": "curl-7.55.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.55.0.tar.gz.asc"
     },
     {
         "version": "7.54.1",
         "url": "https://curl.se/download/curl-7.54.1.tar.gz",
+        "file_name": "curl-7.54.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.54.1.tar.gz.asc"
     },
     {
         "version": "7.54.0",
         "url": "https://curl.se/download/curl-7.54.0.tar.gz",
+        "file_name": "curl-7.54.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.54.0.tar.gz.asc"
     },
     {
         "version": "7.53.1",
         "url": "https://curl.se/download/curl-7.53.1.tar.gz",
+        "file_name": "curl-7.53.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.53.1.tar.gz.asc"
     },
     {
         "version": "7.53.0",
         "url": "https://curl.se/download/curl-7.53.0.tar.gz",
+        "file_name": "curl-7.53.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.53.0.tar.gz.asc"
     },
     {
         "version": "7.52.1",
         "url": "https://curl.se/download/curl-7.52.1.tar.gz",
+        "file_name": "curl-7.52.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.52.1.tar.gz.asc"
     },
     {
         "version": "7.52.0",
         "url": "https://curl.se/download/curl-7.52.0.tar.gz",
+        "file_name": "curl-7.52.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.52.0.tar.gz.asc"
     },
     {
         "version": "7.51.0",
         "url": "https://curl.se/download/curl-7.51.0.tar.gz",
+        "file_name": "curl-7.51.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.51.0.tar.gz.asc"
     },
     {
         "version": "7.50.3",
         "url": "https://curl.se/download/curl-7.50.3.tar.gz",
+        "file_name": "curl-7.50.3.tar.gz",
         "gpg": "https://curl.se/download/curl-7.50.3.tar.gz.asc"
     },
     {
         "version": "7.50.2",
         "url": "https://curl.se/download/curl-7.50.2.tar.gz",
+        "file_name": "curl-7.50.2.tar.gz",
         "gpg": "https://curl.se/download/curl-7.50.2.tar.gz.asc"
     },
     {
         "version": "7.50.1",
         "url": "https://curl.se/download/curl-7.50.1.tar.gz",
+        "file_name": "curl-7.50.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.50.1.tar.gz.asc"
     },
     {
         "version": "7.50.0",
         "url": "https://curl.se/download/curl-7.50.0.tar.gz",
+        "file_name": "curl-7.50.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.50.0.tar.gz.asc"
     },
     {
         "version": "7.49.1",
         "url": "https://curl.se/download/curl-7.49.1.tar.gz",
+        "file_name": "curl-7.49.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.49.1.tar.gz.asc"
     },
     {
         "version": "7.49.0",
         "url": "https://curl.se/download/curl-7.49.0.tar.gz",
+        "file_name": "curl-7.49.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.49.0.tar.gz.asc"
     },
     {
         "version": "7.48.0",
         "url": "https://curl.se/download/curl-7.48.0.tar.gz",
+        "file_name": "curl-7.48.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.48.0.tar.gz.asc"
     },
     {
         "version": "7.47.1",
         "url": "https://curl.se/download/curl-7.47.1.tar.gz",
+        "file_name": "curl-7.47.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.47.1.tar.gz.asc"
     },
     {
         "version": "7.47.0",
         "url": "https://curl.se/download/curl-7.47.0.tar.gz",
+        "file_name": "curl-7.47.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.47.0.tar.gz.asc"
     },
     {
         "version": "7.46.0",
         "url": "https://curl.se/download/curl-7.46.0.tar.gz",
+        "file_name": "curl-7.46.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.46.0.tar.gz.asc"
     },
     {
         "version": "7.45.0",
         "url": "https://curl.se/download/curl-7.45.0.tar.gz",
+        "file_name": "curl-7.45.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.45.0.tar.gz.asc"
     },
     {
         "version": "7.44.0",
         "url": "https://curl.se/download/curl-7.44.0.tar.gz",
+        "file_name": "curl-7.44.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.44.0.tar.gz.asc"
     },
     {
         "version": "7.43.0",
         "url": "https://curl.se/download/curl-7.43.0.tar.gz",
+        "file_name": "curl-7.43.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.43.0.tar.gz.asc"
     },
     {
         "version": "7.42.1",
         "url": "https://curl.se/download/curl-7.42.1.tar.gz",
+        "file_name": "curl-7.42.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.42.1.tar.gz.asc"
     },
     {
         "version": "7.42.0",
         "url": "https://curl.se/download/curl-7.42.0.tar.gz",
+        "file_name": "curl-7.42.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.42.0.tar.gz.asc"
     },
     {
         "version": "7.41.0",
         "url": "https://curl.se/download/curl-7.41.0.tar.gz",
+        "file_name": "curl-7.41.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.41.0.tar.gz.asc"
     },
     {
         "version": "7.40.0",
         "url": "https://curl.se/download/curl-7.40.0.tar.gz",
+        "file_name": "curl-7.40.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.40.0.tar.gz.asc"
     },
     {
         "version": "7.39.0",
         "url": "https://curl.se/download/curl-7.39.0.tar.gz",
+        "file_name": "curl-7.39.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.39.0.tar.gz.asc"
     },
     {
         "version": "7.38.0",
         "url": "https://curl.se/download/curl-7.38.0.tar.gz",
+        "file_name": "curl-7.38.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.38.0.tar.gz.asc"
     },
     {
         "version": "7.37.1",
         "url": "https://curl.se/download/curl-7.37.1.tar.gz",
+        "file_name": "curl-7.37.1.tar.gz",
         "gpg": "https://curl.se/download/curl-7.37.1.tar.gz.asc"
     },
     {
         "version": "7.37.0",
         "url": "https://curl.se/download/curl-7.37.0.tar.gz",
+        "file_name": "curl-7.37.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.37.0.tar.gz.asc"
     },
     {
         "version": "7.36.0",
         "url": "https://curl.se/download/curl-7.36.0.tar.gz",
+        "file_name": "curl-7.36.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.36.0.tar.gz.asc"
     },
     {
         "version": "7.35.0",
         "url": "https://curl.se/download/curl-7.35.0.tar.gz",
+        "file_name": "curl-7.35.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.35.0.tar.gz.asc"
     },
     {
         "version": "7.34.0",
         "url": "https://curl.se/download/curl-7.34.0.tar.gz",
+        "file_name": "curl-7.34.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.34.0.tar.gz.asc"
     },
     {
         "version": "7.33.0",
         "url": "https://curl.se/download/curl-7.33.0.tar.gz",
+        "file_name": "curl-7.33.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.33.0.tar.gz.asc"
     },
     {
         "version": "7.32.0",
         "url": "https://curl.se/download/curl-7.32.0.tar.gz",
+        "file_name": "curl-7.32.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.32.0.tar.gz.asc"
     },
     {
         "version": "7.31.0",
         "url": "https://curl.se/download/curl-7.31.0.tar.gz",
+        "file_name": "curl-7.31.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.31.0.tar.gz.asc"
     },
     {
         "version": "7.30.0",
         "url": "https://curl.se/download/curl-7.30.0.tar.gz",
+        "file_name": "curl-7.30.0.tar.gz",
         "gpg": "https://curl.se/download/curl-7.30.0.tar.gz.asc"
     },
     {
         "version": "7.29.0",
         "url": "https://curl.se/download/archeology/curl-7.29.0.tar.gz",
+        "file_name": "curl-7.29.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.29.0.tar.gz.asc"
     },
     {
         "version": "7.28.0",
         "url": "https://curl.se/download/archeology/curl-7.28.0.tar.gz",
+        "file_name": "curl-7.28.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.28.0.tar.gz.asc"
     },
     {
         "version": "7.27.0",
         "url": "https://curl.se/download/archeology/curl-7.27.0.tar.gz",
+        "file_name": "curl-7.27.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.27.0.tar.gz.asc"
     },
     {
         "version": "7.26.0",
         "url": "https://curl.se/download/archeology/curl-7.26.0.tar.gz",
+        "file_name": "curl-7.26.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.26.0.tar.gz.asc"
     },
     {
         "version": "7.25.0",
         "url": "https://curl.se/download/archeology/curl-7.25.0.tar.gz",
+        "file_name": "curl-7.25.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.25.0.tar.gz.asc"
     },
     {
         "version": "7.24.0",
         "url": "https://curl.se/download/archeology/curl-7.24.0.tar.gz",
+        "file_name": "curl-7.24.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.24.0.tar.gz.asc"
     },
     {
         "version": "7.23.0",
         "url": "https://curl.se/download/archeology/curl-7.23.0.tar.gz",
+        "file_name": "curl-7.23.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.23.0.tar.gz.asc"
     },
     {
         "version": "7.22.0",
         "url": "https://curl.se/download/archeology/curl-7.22.0.tar.gz",
+        "file_name": "curl-7.22.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.22.0.tar.gz.asc"
     },
     {
         "version": "7.21.0",
         "url": "https://curl.se/download/archeology/curl-7.21.0.tar.gz",
+        "file_name": "curl-7.21.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.21.0.tar.gz.asc"
     },
     {
         "version": "7.20.0",
         "url": "https://curl.se/download/archeology/curl-7.20.0.tar.gz",
+        "file_name": "curl-7.20.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.20.0.tar.gz.asc"
     },
     {
         "version": "7.19.7",
         "url": "https://curl.se/download/archeology/curl-7.19.7.tar.gz",
+        "file_name": "curl-7.19.7.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.19.7.tar.gz.asc"
     },
     {
         "version": "7.19.6",
         "url": "https://curl.se/download/archeology/curl-7.19.6.tar.gz",
+        "file_name": "curl-7.19.6.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.19.6.tar.gz.asc"
     },
     {
         "version": "7.19.5",
         "url": "https://curl.se/download/archeology/curl-7.19.5.tar.gz",
+        "file_name": "curl-7.19.5.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.19.5.tar.gz.asc"
     },
     {
         "version": "7.19.4",
         "url": "https://curl.se/download/archeology/curl-7.19.4.tar.gz",
+        "file_name": "curl-7.19.4.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.19.4.tar.gz.asc"
     },
     {
         "version": "7.19.3",
         "url": "https://curl.se/download/archeology/curl-7.19.3.tar.gz",
+        "file_name": "curl-7.19.3.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.19.3.tar.gz.asc"
     },
     {
         "version": "7.19.2",
         "url": "https://curl.se/download/archeology/curl-7.19.2.tar.gz",
+        "file_name": "curl-7.19.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.19.2.tar.gz.asc"
     },
     {
         "version": "7.19.1",
         "url": "https://curl.se/download/archeology/curl-7.19.1.tar.gz",
+        "file_name": "curl-7.19.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.19.1.tar.gz.asc"
     },
     {
         "version": "7.19.0",
         "url": "https://curl.se/download/archeology/curl-7.19.0.tar.gz",
+        "file_name": "curl-7.19.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.19.0.tar.gz.asc"
     },
     {
         "version": "7.18.2",
         "url": "https://curl.se/download/archeology/curl-7.18.2.tar.gz",
+        "file_name": "curl-7.18.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.18.2.tar.gz.asc"
     },
     {
         "version": "7.18.1",
         "url": "https://curl.se/download/archeology/curl-7.18.1.tar.gz",
+        "file_name": "curl-7.18.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.18.1.tar.gz.asc"
     },
     {
         "version": "7.18.0",
         "url": "https://curl.se/download/archeology/curl-7.18.0.tar.gz",
+        "file_name": "curl-7.18.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.18.0.tar.gz.asc"
     },
     {
         "version": "7.17.1",
         "url": "https://curl.se/download/archeology/curl-7.17.1.tar.gz",
+        "file_name": "curl-7.17.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.17.1.tar.gz.asc"
     },
     {
         "version": "7.17.0",
         "url": "https://curl.se/download/archeology/curl-7.17.0.tar.gz",
+        "file_name": "curl-7.17.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.17.0.tar.gz.asc"
     },
     {
         "version": "7.16.4",
         "url": "https://curl.se/download/archeology/curl-7.16.4.tar.gz",
+        "file_name": "curl-7.16.4.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.16.4.tar.gz.asc"
     },
     {
         "version": "7.16.3",
         "url": "https://curl.se/download/archeology/curl-7.16.3.tar.gz",
+        "file_name": "curl-7.16.3.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.16.3.tar.gz.asc"
     },
     {
         "version": "7.16.2",
         "url": "https://curl.se/download/archeology/curl-7.16.2.tar.gz",
+        "file_name": "curl-7.16.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.16.2.tar.gz.asc"
     },
     {
         "version": "7.16.1",
         "url": "https://curl.se/download/archeology/curl-7.16.1.tar.gz",
+        "file_name": "curl-7.16.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.16.1.tar.gz.asc"
     },
     {
         "version": "7.16.0",
         "url": "https://curl.se/download/archeology/curl-7.16.0.tar.gz",
+        "file_name": "curl-7.16.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.16.0.tar.gz.asc"
     },
     {
         "version": "7.15.0",
         "url": "https://curl.se/download/archeology/curl-7.15.0.tar.gz",
+        "file_name": "curl-7.15.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.15.0.tar.gz.asc"
     },
     {
         "version": "7.14.0",
         "url": "https://curl.se/download/archeology/curl-7.14.0.tar.gz",
+        "file_name": "curl-7.14.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.14.0.tar.gz.asc"
     },
     {
         "version": "7.13.0",
         "url": "https://curl.se/download/archeology/curl-7.13.0.tar.gz",
+        "file_name": "curl-7.13.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.13.0.tar.gz.asc"
     },
     {
         "version": "7.12.0",
         "url": "https://curl.se/download/archeology/curl-7.12.0.tar.gz",
+        "file_name": "curl-7.12.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.12.0.tar.gz.asc"
     },
     {
         "version": "7.11.2",
         "url": "https://curl.se/download/archeology/curl-7.11.2.tar.gz",
+        "file_name": "curl-7.11.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.11.2.tar.gz.asc"
     },
     {
         "version": "7.11.0",
         "url": "https://curl.se/download/archeology/curl-7.11.0.tar.gz",
+        "file_name": "curl-7.11.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.11.0.tar.gz.asc"
     },
     {
         "version": "7.10.8",
         "url": "https://curl.se/download/archeology/curl-7.10.8.tar.gz",
+        "file_name": "curl-7.10.8.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.10.8.tar.gz.asc"
     },
     {
         "version": "7.10.4",
         "url": "https://curl.se/download/archeology/curl-7.10.4.tar.gz",
+        "file_name": "curl-7.10.4.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.10.4.tar.gz.asc"
     },
     {
         "version": "7.10.1",
         "url": "https://curl.se/download/archeology/curl-7.10.1.tar.gz",
+        "file_name": "curl-7.10.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.10.1.tar.gz.asc"
     },
     {
         "version": "7.10",
         "url": "https://curl.se/download/archeology/curl-7.10.tar.gz",
+        "file_name": "curl-7.10.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.10.tar.gz.asc"
     },
     {
         "version": "7.9.8",
         "url": "https://curl.se/download/archeology/curl-7.9.8.tar.gz",
+        "file_name": "curl-7.9.8.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.9.8.tar.gz.asc"
     },
     {
         "version": "7.9",
         "url": "https://curl.se/download/archeology/curl-7.9.tar.gz",
+        "file_name": "curl-7.9.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.9.tar.gz.asc"
     },
     {
         "version": "7.8.1",
         "url": "https://curl.se/download/archeology/curl-7.8.1.tar.gz",
+        "file_name": "curl-7.8.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.8.1.tar.gz.asc"
     },
     {
         "version": "7.8",
         "url": "https://curl.se/download/archeology/curl-7.8.tar.gz",
+        "file_name": "curl-7.8.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.8.tar.gz.asc"
     },
     {
         "version": "7.7.3",
         "url": "https://curl.se/download/archeology/curl-7.7.3.tar.gz",
+        "file_name": "curl-7.7.3.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.7.3.tar.gz.asc"
     },
     {
         "version": "7.7.2",
         "url": "https://curl.se/download/archeology/curl-7.7.2.tar.gz",
+        "file_name": "curl-7.7.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.7.2.tar.gz.asc"
     },
     {
         "version": "7.7.1",
         "url": "https://curl.se/download/archeology/curl-7.7.1.tar.gz",
+        "file_name": "curl-7.7.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.7.1.tar.gz.asc"
     },
     {
         "version": "7.7",
         "url": "https://curl.se/download/archeology/curl-7.7.tar.gz",
+        "file_name": "curl-7.7.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.7.tar.gz.asc"
     },
     {
         "version": "7.6.1",
         "url": "https://curl.se/download/archeology/curl-7.6.1.tar.gz",
+        "file_name": "curl-7.6.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.6.1.tar.gz.asc"
     },
     {
         "version": "7.6",
         "url": "https://curl.se/download/archeology/curl-7.6.tar.gz",
+        "file_name": "curl-7.6.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.6.tar.gz.asc"
     },
     {
         "version": "7.5.2",
         "url": "https://curl.se/download/archeology/curl-7.5.2.tar.gz",
+        "file_name": "curl-7.5.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.5.2.tar.gz.asc"
     },
     {
         "version": "7.5.1",
         "url": "https://curl.se/download/archeology/curl-7.5.1.tar.gz",
+        "file_name": "curl-7.5.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.5.1.tar.gz.asc"
     },
     {
         "version": "7.5",
         "url": "https://curl.se/download/archeology/curl-7.5.tar.gz",
+        "file_name": "curl-7.5.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.5.tar.gz.asc"
     },
     {
         "version": "7.4.2",
         "url": "https://curl.se/download/archeology/curl-7.4.2.tar.gz",
+        "file_name": "curl-7.4.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.4.2.tar.gz.asc"
     },
     {
         "version": "7.4.1",
         "url": "https://curl.se/download/archeology/curl-7.4.1.tar.gz",
+        "file_name": "curl-7.4.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.4.1.tar.gz.asc"
     },
     {
         "version": "7.3",
         "url": "https://curl.se/download/archeology/curl-7.3.tar.gz",
+        "file_name": "curl-7.3.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.3.tar.gz.asc"
     },
     {
         "version": "7.2.1",
         "url": "https://curl.se/download/archeology/curl-7.2.1.tar.gz",
+        "file_name": "curl-7.2.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.2.1.tar.gz.asc"
     },
     {
         "version": "7.2",
         "url": "https://curl.se/download/archeology/curl-7.2.tar.gz",
+        "file_name": "curl-7.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.2.tar.gz.asc"
     },
     {
         "version": "7.1.1",
         "url": "https://curl.se/download/archeology/curl-7.1.1.tar.gz",
+        "file_name": "curl-7.1.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-7.1.1.tar.gz.asc"
     },
     {
         "version": "6.5.2",
         "url": "https://curl.se/download/archeology/curl-6.5.2.tar.gz",
+        "file_name": "curl-6.5.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-6.5.2.tar.gz.asc"
     },
     {
         "version": "6.4",
         "url": "https://curl.se/download/archeology/curl-6.4.tar.gz",
+        "file_name": "curl-6.4.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-6.4.tar.gz.asc"
     },
     {
         "version": "6.3.1",
         "url": "https://curl.se/download/archeology/curl-6.3.1.tar.gz",
+        "file_name": "curl-6.3.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-6.3.1.tar.gz.asc"
     },
     {
         "version": "6.2",
         "url": "https://curl.se/download/archeology/curl-6.2.tar.gz",
+        "file_name": "curl-6.2.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-6.2.tar.gz.asc"
     },
     {
         "version": "6.1",
         "url": "https://curl.se/download/archeology/curl-6.1.tar.gz",
+        "file_name": "curl-6.1.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-6.1.tar.gz.asc"
     },
     {
         "version": "6.0",
         "url": "https://curl.se/download/archeology/curl-6.0.tar.gz",
+        "file_name": "curl-6.0.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-6.0.tar.gz.asc"
     },
     {
         "version": "5.9",
         "url": "https://curl.se/download/archeology/curl-5.9.tar.gz",
+        "file_name": "curl-5.9.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-5.9.tar.gz.asc"
     },
     {
         "version": "4.8",
         "url": "https://curl.se/download/archeology/curl-4.8.tar.gz",
+        "file_name": "curl-4.8.tar.gz",
         "gpg": "https://curl.se/download/archeology/curl-4.8.tar.gz.asc"
     },
     {
         "version": "3.12",
         "url": "https://curl.se/download/archeology/urlget-3.12.tar.gz",
+        "file_name": "urlget-3.12.tar.gz",
         "gpg": "https://curl.se/download/archeology/urlget-3.12.tar.gz.asc"
     },
     {
         "version": "1.0.2",
         "url": "https://github.com/fail2ban/fail2ban/archive/refs/tags/1.0.2.tar.gz",
-        "gpg": "https://github.com/fail2ban/fail2ban/releases/download/1.0.2/fail2ban-1.0.2.tar.gz.asc"
+        "gpg": "https://github.com/fail2ban/fail2ban/releases/download/1.0.2/fail2ban-1.0.2.tar.gz.asc",
+        "file_name": "fail2ban-1.0.2.tar.gz"
     },
     {
         "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-8.0.33-linux-glibc2.28-x86_64.tar.gz",
@@ -2227,2167 +2385,2600 @@
     {
         "version": "1.25.2",
         "url": "https://nginx.org/download/nginx-1.25.2.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.25.2.tar.gz.asc"
+        "gpg": "https://nginx.org/download/nginx-1.25.2.tar.gz.asc",
+        "file_name": "nginx-1.25.2.tar.gz"
     },
     {
         "version": "1.22.1",
         "url": "https://nginx.org/download/nginx-1.22.1.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.22.1.tar.gz.asc"
+        "gpg": "https://nginx.org/download/nginx-1.22.1.tar.gz.asc",
+        "file_name": "nginx-1.22.1.tar.gz"
     },
     {
         "version": "1.20.2",
         "url": "https://nginx.org/download/nginx-1.20.2.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.20.2.tar.gz.asc"
+        "gpg": "https://nginx.org/download/nginx-1.20.2.tar.gz.asc",
+        "file_name": "nginx-1.20.2.tar.gz"
     },
     {
         "version": "1.18.0",
         "url": "https://nginx.org/download/nginx-1.18.0.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.18.0.tar.gz.asc"
+        "gpg": "https://nginx.org/download/nginx-1.18.0.tar.gz.asc",
+        "file_name": "nginx-1.18.0.tar.gz"
     },
     {
         "version": "1.16.1",
         "url": "https://nginx.org/download/nginx-1.16.1.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.16.1.tar.gz.asc"
+        "gpg": "https://nginx.org/download/nginx-1.16.1.tar.gz.asc",
+        "file_name": "nginx-1.16.1.tar.gz"
     },
     {
         "version": "1.14.2",
         "url": "https://nginx.org/download/nginx-1.14.2.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.14.2.tar.gz.asc"
+        "gpg": "https://nginx.org/download/nginx-1.14.2.tar.gz.asc",
+        "file_name": "nginx-1.14.2.tar.gz"
     },
     {
         "version": "8.2.11",
         "url": "https://www.php.net/distributions/php-8.2.11.tar.gz",
-        "sha256": "48b1b41279a678a4d4afcd0b256ed921ebf2a91febb0634fdc4449b91c75799f"
+        "sha256": "48b1b41279a678a4d4afcd0b256ed921ebf2a91febb0634fdc4449b91c75799f",
+        "file_name": "php-8.2.11.tar.gz"
     },
     {
         "version": "8.1.24",
         "url": "https://www.php.net/distributions/php-8.1.24.tar.gz",
-        "sha256": "d6001a5c16765cd1897609fc71ff083e35db9a28c8874a1ff191cdebe80a6460"
+        "sha256": "d6001a5c16765cd1897609fc71ff083e35db9a28c8874a1ff191cdebe80a6460",
+        "file_name": "php-8.1.24.tar.gz"
     },
     {
         "version": "8.0.30",
         "url": "https://www.php.net/distributions/php-8.0.30.tar.gz",
-        "sha256": "449d2048fcb20a314d8c218097c6d1047a9f1c5bb72aa54d5d3eba0a27a4c80c"
+        "sha256": "449d2048fcb20a314d8c218097c6d1047a9f1c5bb72aa54d5d3eba0a27a4c80c",
+        "file_name": "php-8.0.30.tar.gz"
     },
     {
         "version": "8.1.23",
         "url": "https://www.php.net/distributions/php-8.1.23.tar.gz",
-        "sha256": "ec5330b3978edc8fe2f78830720505bf69d12542622b5cddccee63ae3a0e5b58"
+        "sha256": "ec5330b3978edc8fe2f78830720505bf69d12542622b5cddccee63ae3a0e5b58",
+        "file_name": "php-8.1.23.tar.gz"
     },
     {
         "version": "8.2.10",
         "url": "https://www.php.net/distributions/php-8.2.10.tar.gz",
-        "sha256": "7e3e277d6eab652616f90bc7c75991179c0512953933ceba27496fb5514f7e78"
+        "sha256": "7e3e277d6eab652616f90bc7c75991179c0512953933ceba27496fb5514f7e78",
+        "file_name": "php-8.2.10.tar.gz"
     },
     {
         "version": "8.1.22",
         "url": "https://www.php.net/distributions/php-8.1.22.tar.gz",
-        "sha256": "f5140e94b139b4adec4b29c337537b7b6f1ef023197eb32be909e724e3da157a"
+        "sha256": "f5140e94b139b4adec4b29c337537b7b6f1ef023197eb32be909e724e3da157a",
+        "file_name": "php-8.1.22.tar.gz"
     },
     {
         "version": "8.2.9",
         "url": "https://www.php.net/distributions/php-8.2.9.tar.gz",
-        "sha256": "5fac52041335cacfb5845aeff2303f92403925338a0285f2e160feebcb840f04"
+        "sha256": "5fac52041335cacfb5845aeff2303f92403925338a0285f2e160feebcb840f04",
+        "file_name": "php-8.2.9.tar.gz"
     },
     {
         "version": "8.2.8",
         "url": "https://www.php.net/distributions/php-8.2.8.tar.gz",
-        "sha256": "6419b74e9b675c8d5a1afd2788c4d7996a19bbe2be409716ccb2067897af9df1"
+        "sha256": "6419b74e9b675c8d5a1afd2788c4d7996a19bbe2be409716ccb2067897af9df1",
+        "file_name": "php-8.2.8.tar.gz"
     },
     {
         "version": "8.0.29",
         "url": "https://www.php.net/distributions/php-8.0.29.tar.gz",
-        "sha256": "db6ee08df5706365f624cde1cffb20ad6de1effe59d7e886337213a09f2e2684"
+        "sha256": "db6ee08df5706365f624cde1cffb20ad6de1effe59d7e886337213a09f2e2684",
+        "file_name": "php-8.0.29.tar.gz"
     },
     {
         "version": "8.1.21",
         "url": "https://www.php.net/distributions/php-8.1.21.tar.gz",
-        "sha256": "a95f8d35924aa5705ad07a70dc994bf41b5d45126ecdec7aaad6edfbe5e1c37f"
+        "sha256": "a95f8d35924aa5705ad07a70dc994bf41b5d45126ecdec7aaad6edfbe5e1c37f",
+        "file_name": "php-8.1.21.tar.gz"
     },
     {
         "version": "8.1.20",
         "url": "https://www.php.net/distributions/php-8.1.20.tar.gz",
-        "sha256": "b7d3e2a0c5bed37bb39e4627550d0ee5a4a600042b83c63037b0f5f84793cbe6"
+        "sha256": "b7d3e2a0c5bed37bb39e4627550d0ee5a4a600042b83c63037b0f5f84793cbe6",
+        "file_name": "php-8.1.20.tar.gz"
     },
     {
         "version": "8.2.7",
         "url": "https://www.php.net/distributions/php-8.2.7.tar.gz",
-        "sha256": "7046f939f0e5116285341d55c06af1d50907e107ac2c70defc32ef880f88cde4"
+        "sha256": "7046f939f0e5116285341d55c06af1d50907e107ac2c70defc32ef880f88cde4",
+        "file_name": "php-8.2.7.tar.gz"
     },
     {
         "version": "8.1.19",
         "url": "https://www.php.net/distributions/php-8.1.19.tar.gz",
-        "sha256": "0ebb6b0ecf5d8e355c2f1362807f9b73c6e803d496c5ad3e4fb00be989988372"
+        "sha256": "0ebb6b0ecf5d8e355c2f1362807f9b73c6e803d496c5ad3e4fb00be989988372",
+        "file_name": "php-8.1.19.tar.gz"
     },
     {
         "version": "8.2.6",
         "url": "https://www.php.net/distributions/php-8.2.6.tar.gz",
-        "sha256": "1b8463df1f180ed39475cfcded1ff106242ccb823f99c9fc1a407c0b76afa2c8"
+        "sha256": "1b8463df1f180ed39475cfcded1ff106242ccb823f99c9fc1a407c0b76afa2c8",
+        "file_name": "php-8.2.6.tar.gz"
     },
     {
         "version": "8.0.28",
         "url": "https://www.php.net/distributions/php-8.0.28.tar.gz",
-        "sha256": "7432184eae01e4e8e39f03f80e8ec0ca2c8bfebc56e9a7b983541ca8805df22f"
+        "sha256": "7432184eae01e4e8e39f03f80e8ec0ca2c8bfebc56e9a7b983541ca8805df22f",
+        "file_name": "php-8.0.28.tar.gz"
     },
     {
         "version": "8.1.18",
         "url": "https://www.php.net/distributions/php-8.1.18.tar.gz",
-        "sha256": "8b6b12902e7d6bdf68668acc067b4d75a3c504722f768098c5f80c7d7bfd2563"
+        "sha256": "8b6b12902e7d6bdf68668acc067b4d75a3c504722f768098c5f80c7d7bfd2563",
+        "file_name": "php-8.1.18.tar.gz"
     },
     {
         "version": "8.2.5",
         "url": "https://www.php.net/distributions/php-8.2.5.tar.gz",
-        "sha256": "8974dea2507155471660b13a0bcbdc165ac778eeb845a7dbd65d5ffb92738c0a"
+        "sha256": "8974dea2507155471660b13a0bcbdc165ac778eeb845a7dbd65d5ffb92738c0a",
+        "file_name": "php-8.2.5.tar.gz"
     },
     {
         "version": "8.1.17",
         "url": "https://www.php.net/distributions/php-8.1.17.tar.gz",
-        "sha256": "ef270156291d90a80ce83d68eee812f301cf5e48836a0ff6fd2931913f8e25c5"
+        "sha256": "ef270156291d90a80ce83d68eee812f301cf5e48836a0ff6fd2931913f8e25c5",
+        "file_name": "php-8.1.17.tar.gz"
     },
     {
         "version": "8.2.4",
         "url": "https://www.php.net/distributions/php-8.2.4.tar.gz",
-        "sha256": "cee7748015a2ddef1739d448b980b095dccd09ed589cf1b6c6ee2d16f5e73c50"
+        "sha256": "cee7748015a2ddef1739d448b980b095dccd09ed589cf1b6c6ee2d16f5e73c50",
+        "file_name": "php-8.2.4.tar.gz"
     },
     {
         "version": "8.2.3",
         "url": "https://www.php.net/distributions/php-8.2.3.tar.gz",
-        "sha256": "7c475bcbe61d28b6878604b1b6f387f39d1a63b5f21fa8156fd7aa615d43e259"
+        "sha256": "7c475bcbe61d28b6878604b1b6f387f39d1a63b5f21fa8156fd7aa615d43e259",
+        "file_name": "php-8.2.3.tar.gz"
     },
     {
         "version": "8.1.16",
         "url": "https://www.php.net/distributions/php-8.1.16.tar.gz",
-        "sha256": "a929fb9ed3bc364a5dea4f64954e8aaaa3408b87df04d7c6f743a190f5594e84"
+        "sha256": "a929fb9ed3bc364a5dea4f64954e8aaaa3408b87df04d7c6f743a190f5594e84",
+        "file_name": "php-8.1.16.tar.gz"
     },
     {
         "version": "8.1.15",
         "url": "https://www.php.net/distributions/php-8.1.15.tar.gz",
-        "sha256": "4035236180efac535ff4f22db9ef3195672f31e3e0aa88f89c38ac0715beca3b"
+        "sha256": "4035236180efac535ff4f22db9ef3195672f31e3e0aa88f89c38ac0715beca3b",
+        "file_name": "php-8.1.15.tar.gz"
     },
     {
         "version": "8.2.2",
         "url": "https://www.php.net/distributions/php-8.2.2.tar.gz",
-        "sha256": "d82dda50356cebf6b6e14dbb576b14bc8b85f0f4476a787f0f50611f11eb37d2"
+        "sha256": "d82dda50356cebf6b6e14dbb576b14bc8b85f0f4476a787f0f50611f11eb37d2",
+        "file_name": "php-8.2.2.tar.gz"
     },
     {
         "version": "8.0.27",
         "url": "https://www.php.net/distributions/php-8.0.27.tar.gz",
-        "sha256": "fe2376faaf91c28ead89a36e118c177f4a8c9a7280a189b97265da1af1f4d305"
+        "sha256": "fe2376faaf91c28ead89a36e118c177f4a8c9a7280a189b97265da1af1f4d305",
+        "file_name": "php-8.0.27.tar.gz"
     },
     {
         "version": "8.1.14",
         "url": "https://www.php.net/distributions/php-8.1.14.tar.gz",
-        "sha256": "4755af2563ad187ceaf4a3632359c55e3f3be4050e0299e0f713bbb5e0531965"
+        "sha256": "4755af2563ad187ceaf4a3632359c55e3f3be4050e0299e0f713bbb5e0531965",
+        "file_name": "php-8.1.14.tar.gz"
     },
     {
         "version": "8.2.1",
         "url": "https://www.php.net/distributions/php-8.2.1.tar.gz",
-        "sha256": "6d7b1b8feb14fd1c65a2bc9d0f72c75589a61a946566cf9c3bf9536a5530b635"
+        "sha256": "6d7b1b8feb14fd1c65a2bc9d0f72c75589a61a946566cf9c3bf9536a5530b635",
+        "file_name": "php-8.2.1.tar.gz"
     },
     {
         "version": "8.0.26",
         "url": "https://www.php.net/distributions/php-8.0.26.tar.gz",
-        "sha256": "3c83a7355a640b2ba436b8202e8597df8f9daadee1ec9241729ece8e578d21cd"
+        "sha256": "3c83a7355a640b2ba436b8202e8597df8f9daadee1ec9241729ece8e578d21cd",
+        "file_name": "php-8.0.26.tar.gz"
     },
     {
         "version": "8.2.0",
         "url": "https://www.php.net/distributions/php-8.2.0.tar.gz",
-        "sha256": "435c4c2439db648cdf34236f7cd459f93f943fb788b66723a033610d4a059fc6"
+        "sha256": "435c4c2439db648cdf34236f7cd459f93f943fb788b66723a033610d4a059fc6",
+        "file_name": "php-8.2.0.tar.gz"
     },
     {
         "version": "8.1.13",
         "url": "https://www.php.net/distributions/php-8.1.13.tar.gz",
-        "sha256": "eed1981ce9999d807cb139a9d463ae54bbeda2a57a9a28ad513badf5b99b0073"
+        "sha256": "eed1981ce9999d807cb139a9d463ae54bbeda2a57a9a28ad513badf5b99b0073",
+        "file_name": "php-8.1.13.tar.gz"
     },
     {
         "version": "8.0.25",
         "url": "https://www.php.net/distributions/php-8.0.25.tar.gz",
-        "sha256": "349a2b5a01bfccbc9af8afdf183e57bed3349706a084f3c4694aa4c7ff7cb2e9"
+        "sha256": "349a2b5a01bfccbc9af8afdf183e57bed3349706a084f3c4694aa4c7ff7cb2e9",
+        "file_name": "php-8.0.25.tar.gz"
     },
     {
         "version": "8.1.12",
         "url": "https://www.php.net/distributions/php-8.1.12.tar.gz",
-        "sha256": "e0e7c823c9f9aa4c021f5e34ae1a7acafc2a9f3056ca60eb70a8af8f33da3fdf"
+        "sha256": "e0e7c823c9f9aa4c021f5e34ae1a7acafc2a9f3056ca60eb70a8af8f33da3fdf",
+        "file_name": "php-8.1.12.tar.gz"
     },
     {
         "version": "8.1.11",
         "url": "https://www.php.net/distributions/php-8.1.11.tar.gz",
-        "sha256": "3660e8408321149f5d382bb8eeb9ea7b12ea8dd7ea66069da33f6f7383750ab2"
+        "sha256": "3660e8408321149f5d382bb8eeb9ea7b12ea8dd7ea66069da33f6f7383750ab2",
+        "file_name": "php-8.1.11.tar.gz"
     },
     {
         "version": "8.0.24",
         "url": "https://www.php.net/distributions/php-8.0.24.tar.gz",
-        "sha256": "6020843a2f1ce36745d958b3ca17f3fdc42e78a43899f552ab5dbc509ff19232"
+        "sha256": "6020843a2f1ce36745d958b3ca17f3fdc42e78a43899f552ab5dbc509ff19232",
+        "file_name": "php-8.0.24.tar.gz"
     },
     {
         "version": "8.0.23",
         "url": "https://www.php.net/distributions/php-8.0.23.tar.gz",
-        "sha256": "a2dd50e9c4a0328d921b6bc914e8b4e6572f94f09867318f88acca5ac4fa76c7"
+        "sha256": "a2dd50e9c4a0328d921b6bc914e8b4e6572f94f09867318f88acca5ac4fa76c7",
+        "file_name": "php-8.0.23.tar.gz"
     },
     {
         "version": "8.1.10",
         "url": "https://www.php.net/distributions/php-8.1.10.tar.gz",
-        "sha256": "3ea4f323109dfbc8d2631d08aa0e08602c1f713678e9dc6c750f081ef49eab0f"
+        "sha256": "3ea4f323109dfbc8d2631d08aa0e08602c1f713678e9dc6c750f081ef49eab0f",
+        "file_name": "php-8.1.10.tar.gz"
     },
     {
         "version": "8.0.22",
         "url": "https://www.php.net/distributions/php-8.0.22.tar.gz",
-        "sha256": "56fce7529a9798fd0895bca3539d2a65b9cac5d23ffbdf6338419c62ed083519"
+        "sha256": "56fce7529a9798fd0895bca3539d2a65b9cac5d23ffbdf6338419c62ed083519",
+        "file_name": "php-8.0.22.tar.gz"
     },
     {
         "version": "8.1.9",
         "url": "https://www.php.net/distributions/php-8.1.9.tar.gz",
-        "sha256": "954cf77f7e0a70dc765e7639acdfdccd164be5cd1bce3dbe9d10c58dca631e76"
+        "sha256": "954cf77f7e0a70dc765e7639acdfdccd164be5cd1bce3dbe9d10c58dca631e76",
+        "file_name": "php-8.1.9.tar.gz"
     },
     {
         "version": "8.1.8",
         "url": "https://www.php.net/distributions/php-8.1.8.tar.gz",
-        "sha256": "889d910558d2492f7f2236921b9bcde620674c8b684ec02d126060f8ca45dc8d"
+        "sha256": "889d910558d2492f7f2236921b9bcde620674c8b684ec02d126060f8ca45dc8d",
+        "file_name": "php-8.1.8.tar.gz"
     },
     {
         "version": "8.0.21",
         "url": "https://www.php.net/distributions/php-8.0.21.tar.gz",
-        "sha256": "2f51f6e90e2e8efd3a20db08f0dd61d7f8d5a9362f8c7325f1ad28ccea5be0ac"
+        "sha256": "2f51f6e90e2e8efd3a20db08f0dd61d7f8d5a9362f8c7325f1ad28ccea5be0ac",
+        "file_name": "php-8.0.21.tar.gz"
     },
     {
         "version": "8.1.7",
         "url": "https://www.php.net/distributions/php-8.1.7.tar.gz",
-        "sha256": "5f0b422a117633c86d48d028934b8dc078309d4247e7565ea34b2686189abdd8"
+        "sha256": "5f0b422a117633c86d48d028934b8dc078309d4247e7565ea34b2686189abdd8",
+        "file_name": "php-8.1.7.tar.gz"
     },
     {
         "version": "8.0.20",
         "url": "https://www.php.net/distributions/php-8.0.20.tar.gz",
-        "sha256": "7e21fd985966264194cde63503b57fd0f0170b32a39bd7af2384c1071b50f164"
+        "sha256": "7e21fd985966264194cde63503b57fd0f0170b32a39bd7af2384c1071b50f164",
+        "file_name": "php-8.0.20.tar.gz"
     },
     {
         "version": "8.0.19",
         "url": "https://www.php.net/distributions/php-8.0.19.tar.gz",
-        "sha256": "48e57634d350bcab4745d25d9d94ffa474649bf4f7e879fad163226c0d107bb5"
+        "sha256": "48e57634d350bcab4745d25d9d94ffa474649bf4f7e879fad163226c0d107bb5",
+        "file_name": "php-8.0.19.tar.gz"
     },
     {
         "version": "8.1.6",
         "url": "https://www.php.net/distributions/php-8.1.6.tar.gz",
-        "sha256": "e847745fd66fc8c57fac993a609fefcded93fddccd225f0620a26bb5ae5753c3"
+        "sha256": "e847745fd66fc8c57fac993a609fefcded93fddccd225f0620a26bb5ae5753c3",
+        "file_name": "php-8.1.6.tar.gz"
     },
     {
         "version": "8.1.5",
         "url": "https://www.php.net/distributions/php-8.1.5.tar.gz",
-        "sha256": "44d637627746082395d5d3d3d6ae7d71e780b82a8d55a0228887158c4316bf11"
+        "sha256": "44d637627746082395d5d3d3d6ae7d71e780b82a8d55a0228887158c4316bf11",
+        "file_name": "php-8.1.5.tar.gz"
     },
     {
         "version": "8.0.18",
         "url": "https://www.php.net/distributions/php-8.0.18.tar.gz",
-        "sha256": "cd980f5a2f422362f8c52d314ed25140c6f472877c5442c4f3304205f54e192a"
+        "sha256": "cd980f5a2f422362f8c52d314ed25140c6f472877c5442c4f3304205f54e192a",
+        "file_name": "php-8.0.18.tar.gz"
     },
     {
         "version": "8.0.17",
         "url": "https://www.php.net/distributions/php-8.0.17.tar.gz",
-        "sha256": "bdbd792901c156c4d1710c9d266732d3c17f6ff63850d6660b9d8d3411188424"
+        "sha256": "bdbd792901c156c4d1710c9d266732d3c17f6ff63850d6660b9d8d3411188424",
+        "file_name": "php-8.0.17.tar.gz"
     },
     {
         "version": "8.1.4",
         "url": "https://www.php.net/distributions/php-8.1.4.tar.gz",
-        "sha256": "a9951c1c8fd5d2eefde28de0f646c344eb61d751319d220713a6da26f986abde"
+        "sha256": "a9951c1c8fd5d2eefde28de0f646c344eb61d751319d220713a6da26f986abde",
+        "file_name": "php-8.1.4.tar.gz"
     },
     {
         "version": "8.1.3",
         "url": "https://www.php.net/distributions/php-8.1.3.tar.gz",
-        "sha256": "92d74f5a4af7de90cef6cda65bd0c341dc9a1027b32f70e7b8861f6f68a38bb2"
+        "sha256": "92d74f5a4af7de90cef6cda65bd0c341dc9a1027b32f70e7b8861f6f68a38bb2",
+        "file_name": "php-8.1.3.tar.gz"
     },
     {
         "version": "8.0.16",
         "url": "https://www.php.net/distributions/php-8.0.16.tar.gz",
-        "sha256": "ce0ea32ff9c5af18cfb70197b40caf55824400dc8d5b4258a783ec9168baa5b1"
+        "sha256": "ce0ea32ff9c5af18cfb70197b40caf55824400dc8d5b4258a783ec9168baa5b1",
+        "file_name": "php-8.0.16.tar.gz"
     },
     {
         "version": "8.1.2",
         "url": "https://www.php.net/distributions/php-8.1.2.tar.gz",
-        "sha256": "9992409c0543e0c8e89914f7307e1485a08c057091146e4731565b59065f8bde"
+        "sha256": "9992409c0543e0c8e89914f7307e1485a08c057091146e4731565b59065f8bde",
+        "file_name": "php-8.1.2.tar.gz"
     },
     {
         "version": "8.0.15",
         "url": "https://www.php.net/distributions/php-8.0.15.tar.gz",
-        "sha256": "47f0be6188b05390bb457eb1968ea19463acada79650afc35ec763348d5c2370"
+        "sha256": "47f0be6188b05390bb457eb1968ea19463acada79650afc35ec763348d5c2370",
+        "file_name": "php-8.0.15.tar.gz"
     },
     {
         "version": "8.1.1",
         "url": "https://www.php.net/distributions/php-8.1.1.tar.gz",
-        "sha256": "4e4cf3f843a5111f6c55cd21de8f26834ea3cd4a5be77c88357cbcec4a2d671d"
+        "sha256": "4e4cf3f843a5111f6c55cd21de8f26834ea3cd4a5be77c88357cbcec4a2d671d",
+        "file_name": "php-8.1.1.tar.gz"
     },
     {
         "version": "8.0.14",
         "url": "https://www.php.net/distributions/php-8.0.14.tar.gz",
-        "sha256": "e67ebd8c4c77247ad1fa88829e5b95d51a19edf3d87814434de261e20a63ea20"
+        "sha256": "e67ebd8c4c77247ad1fa88829e5b95d51a19edf3d87814434de261e20a63ea20",
+        "file_name": "php-8.0.14.tar.gz"
     },
     {
         "version": "8.1.0",
         "url": "https://www.php.net/distributions/php-8.1.0.tar.gz",
-        "sha256": "848705043ea4a6e022246ae12a1bff6afcf5c73ea98c6ac4d2108d6028c5c125"
+        "sha256": "848705043ea4a6e022246ae12a1bff6afcf5c73ea98c6ac4d2108d6028c5c125",
+        "file_name": "php-8.1.0.tar.gz"
     },
     {
         "version": "8.0.13",
         "url": "https://www.php.net/distributions/php-8.0.13.tar.gz",
-        "sha256": "b4c2d27c954e1b0d84fd4bfef4d252e154ba479e7db11abd89358f2164ee7cc8"
+        "sha256": "b4c2d27c954e1b0d84fd4bfef4d252e154ba479e7db11abd89358f2164ee7cc8",
+        "file_name": "php-8.0.13.tar.gz"
     },
     {
         "version": "8.0.12",
         "url": "https://www.php.net/distributions/php-8.0.12.tar.gz",
-        "sha256": "a5b78f04a89d3b401465febf449c7ea9de48681f92803dd8dc2bf922812d572b"
+        "sha256": "a5b78f04a89d3b401465febf449c7ea9de48681f92803dd8dc2bf922812d572b",
+        "file_name": "php-8.0.12.tar.gz"
     },
     {
         "version": "8.0.11",
         "url": "https://www.php.net/distributions/php-8.0.11.tar.gz",
-        "sha256": "c6a461f57b4bcb46cd4dec443253b1e2e8e981466f1280093322b7864afe8be7"
+        "sha256": "c6a461f57b4bcb46cd4dec443253b1e2e8e981466f1280093322b7864afe8be7",
+        "file_name": "php-8.0.11.tar.gz"
     },
     {
         "version": "8.0.10",
         "url": "https://www.php.net/distributions/php-8.0.10.tar.gz",
-        "sha256": "4612dca9afe8148801648839175ab588097ace66658c6859e9f283ecdeaf84b3"
+        "sha256": "4612dca9afe8148801648839175ab588097ace66658c6859e9f283ecdeaf84b3",
+        "file_name": "php-8.0.10.tar.gz"
     },
     {
         "version": "8.0.9",
         "url": "https://www.php.net/distributions/php-8.0.9.tar.gz",
-        "sha256": "1f0d72e90ab6ad0ae13329a96b281f71bc592563ce4e3a4c816b8da4b5854fb4"
+        "sha256": "1f0d72e90ab6ad0ae13329a96b281f71bc592563ce4e3a4c816b8da4b5854fb4",
+        "file_name": "php-8.0.9.tar.gz"
     },
     {
         "version": "8.0.8",
         "url": "https://www.php.net/distributions/php-8.0.8.tar.gz",
-        "sha256": "084a1e8020e86fb99b663d195fd9ac98a9f37dfcb9ecb5c159054cdb8f388945"
+        "sha256": "084a1e8020e86fb99b663d195fd9ac98a9f37dfcb9ecb5c159054cdb8f388945",
+        "file_name": "php-8.0.8.tar.gz"
     },
     {
         "version": "8.0.7",
         "url": "https://www.php.net/distributions/php-8.0.7.tar.gz",
-        "sha256": "1e7462455bec8062ef3fc7c74f1f496417cb80aa374ce11edb35015de248c3c1"
+        "sha256": "1e7462455bec8062ef3fc7c74f1f496417cb80aa374ce11edb35015de248c3c1",
+        "file_name": "php-8.0.7.tar.gz"
     },
     {
         "version": "8.0.6",
         "url": "https://www.php.net/distributions/php-8.0.6.tar.gz",
-        "sha256": "51a3dcea6deb8ab82ad035d15baa7f5398980f576ac1968313ef149f7cf20100"
+        "sha256": "51a3dcea6deb8ab82ad035d15baa7f5398980f576ac1968313ef149f7cf20100",
+        "file_name": "php-8.0.6.tar.gz"
     },
     {
         "version": "8.0.5",
         "url": "https://www.php.net/distributions/php-8.0.5.tar.gz",
-        "sha256": "50aeac6fe9c2b5577d534369392ebb89c3e7a342b20ef538832b1df996cccb2a"
+        "sha256": "50aeac6fe9c2b5577d534369392ebb89c3e7a342b20ef538832b1df996cccb2a",
+        "file_name": "php-8.0.5.tar.gz"
     },
     {
         "version": "8.0.3",
         "url": "https://www.php.net/distributions/php-8.0.3.tar.gz",
-        "sha256": "e7ecfee901e0843377b64b2d8124132eae75bdb71a2675ba7c5c038d6592383d"
+        "sha256": "e7ecfee901e0843377b64b2d8124132eae75bdb71a2675ba7c5c038d6592383d",
+        "file_name": "php-8.0.3.tar.gz"
     },
     {
         "version": "8.0.2",
         "url": "https://www.php.net/distributions/php-8.0.2.tar.gz",
-        "sha256": "cc17a32f76beb5f405da39a548218b3b6736710884fcd761838098553df149da"
+        "sha256": "cc17a32f76beb5f405da39a548218b3b6736710884fcd761838098553df149da",
+        "file_name": "php-8.0.2.tar.gz"
     },
     {
         "version": "8.0.1",
         "url": "https://www.php.net/distributions/php-8.0.1.tar.gz",
-        "sha256": "f1fee0429aa2cce6bc5df5d7e65386e266b0aab8a5fad7882d10eb833d2f5376"
+        "sha256": "f1fee0429aa2cce6bc5df5d7e65386e266b0aab8a5fad7882d10eb833d2f5376",
+        "file_name": "php-8.0.1.tar.gz"
     },
     {
         "version": "8.0.0",
         "url": "https://www.php.net/distributions/php-8.0.0.tar.gz",
-        "sha256": "3ed7b48d64357d3e8fa9e828dbe7416228f84105b8290c2f9779cd66be31ea71"
+        "sha256": "3ed7b48d64357d3e8fa9e828dbe7416228f84105b8290c2f9779cd66be31ea71",
+        "file_name": "php-8.0.0.tar.gz"
     },
     {
         "version": "7.4.33",
         "url": "https://www.php.net/distributions/php-7.4.33.tar.gz",
-        "sha256": "5a2337996f07c8a097e03d46263b5c98d2c8e355227756351421003bea8f463e"
+        "sha256": "5a2337996f07c8a097e03d46263b5c98d2c8e355227756351421003bea8f463e",
+        "file_name": "php-7.4.33.tar.gz"
     },
     {
         "version": "7.4.32",
         "url": "https://www.php.net/distributions/php-7.4.32.tar.gz",
-        "sha256": "197e3372afd69694eb6b230838305eb9e1cbe5db272e0fa3bbe0d38e329a95bc"
+        "sha256": "197e3372afd69694eb6b230838305eb9e1cbe5db272e0fa3bbe0d38e329a95bc",
+        "file_name": "php-7.4.32.tar.gz"
     },
     {
         "version": "7.4.30",
         "url": "https://www.php.net/distributions/php-7.4.30.tar.gz",
-        "sha256": "e37ea37e0f79109351ac615da85eb7c2c336101fc5bc802ee79a124a4310dc10"
+        "sha256": "e37ea37e0f79109351ac615da85eb7c2c336101fc5bc802ee79a124a4310dc10",
+        "file_name": "php-7.4.30.tar.gz"
     },
     {
         "version": "7.4.29",
         "url": "https://www.php.net/distributions/php-7.4.29.tar.gz",
-        "sha256": "f73f89873bb9447cb99eb4863cf0a0deab4481cb8acf7552c0e70647e6885854"
+        "sha256": "f73f89873bb9447cb99eb4863cf0a0deab4481cb8acf7552c0e70647e6885854",
+        "file_name": "php-7.4.29.tar.gz"
     },
     {
         "version": "7.4.28",
         "url": "https://www.php.net/distributions/php-7.4.28.tar.gz",
-        "sha256": "a04014cd1646b90547907e2e0ac5371594533960de317b6c7ac70bcb42db92fb"
+        "sha256": "a04014cd1646b90547907e2e0ac5371594533960de317b6c7ac70bcb42db92fb",
+        "file_name": "php-7.4.28.tar.gz"
     },
     {
         "version": "7.4.27",
         "url": "https://www.php.net/distributions/php-7.4.27.tar.gz",
-        "sha256": "564fd5bc9850370db0cb4058d9087f2f40177fa4921ce698a375416db9ab43ca"
+        "sha256": "564fd5bc9850370db0cb4058d9087f2f40177fa4921ce698a375416db9ab43ca",
+        "file_name": "php-7.4.27.tar.gz"
     },
     {
         "version": "7.4.26",
         "url": "https://www.php.net/distributions/php-7.4.26.tar.gz",
-        "sha256": "890a7e730f96708a68a77b19fd57fec33cc81573f7249111c870edac42b91a72"
+        "sha256": "890a7e730f96708a68a77b19fd57fec33cc81573f7249111c870edac42b91a72",
+        "file_name": "php-7.4.26.tar.gz"
     },
     {
         "version": "7.3.33",
         "url": "https://www.php.net/distributions/php-7.3.33.tar.gz",
-        "sha256": "9a369c32c6f52036b0a890f290327f148a1904ee66aa56e2c9a7546da6525ec8"
+        "sha256": "9a369c32c6f52036b0a890f290327f148a1904ee66aa56e2c9a7546da6525ec8",
+        "file_name": "php-7.3.33.tar.gz"
     },
     {
         "version": "7.3.32",
         "url": "https://www.php.net/distributions/php-7.3.32.tar.gz",
-        "sha256": "4739160cbd8f5d4529429ac01e181cba9705a515666002e76e4e34891c034fcb"
+        "sha256": "4739160cbd8f5d4529429ac01e181cba9705a515666002e76e4e34891c034fcb",
+        "file_name": "php-7.3.32.tar.gz"
     },
     {
         "version": "7.4.25",
         "url": "https://www.php.net/distributions/php-7.4.25.tar.gz",
-        "sha256": "3b2632252c933cac489a20f68b8f4ab769e5a0a3bf22b6ef47427aff6922e31f"
+        "sha256": "3b2632252c933cac489a20f68b8f4ab769e5a0a3bf22b6ef47427aff6922e31f",
+        "file_name": "php-7.4.25.tar.gz"
     },
     {
         "version": "7.3.31",
         "url": "https://www.php.net/distributions/php-7.3.31.tar.gz",
-        "sha256": "57ca37b08d3eed4cadc3976e78b0f51d0305bb6e60333f6e8c76e8aee07c3f0f"
+        "sha256": "57ca37b08d3eed4cadc3976e78b0f51d0305bb6e60333f6e8c76e8aee07c3f0f",
+        "file_name": "php-7.3.31.tar.gz"
     },
     {
         "version": "7.4.24",
         "url": "https://www.php.net/distributions/php-7.4.24.tar.gz",
-        "sha256": "8cc1758cf7ff45428c17641b1be84cd917a2909ba40c770f06a814d8b7f36333"
+        "sha256": "8cc1758cf7ff45428c17641b1be84cd917a2909ba40c770f06a814d8b7f36333",
+        "file_name": "php-7.4.24.tar.gz"
     },
     {
         "version": "7.4.23",
         "url": "https://www.php.net/distributions/php-7.4.23.tar.gz",
-        "sha256": "2aaa481678ad4d2992e7bcf161e0e98c7268f4979f7ca8b3d97dd6de19c205d6"
+        "sha256": "2aaa481678ad4d2992e7bcf161e0e98c7268f4979f7ca8b3d97dd6de19c205d6",
+        "file_name": "php-7.4.23.tar.gz"
     },
     {
         "version": "7.3.30",
         "url": "https://www.php.net/distributions/php-7.3.30.tar.gz",
-        "sha256": "3810a9b631eb7f236ecf02b9a78bab8d957b6cfdb1646a29e3b34e01d36c0510"
+        "sha256": "3810a9b631eb7f236ecf02b9a78bab8d957b6cfdb1646a29e3b34e01d36c0510",
+        "file_name": "php-7.3.30.tar.gz"
     },
     {
         "version": "7.4.22",
         "url": "https://www.php.net/distributions/php-7.4.22.tar.gz",
-        "sha256": "4ca2642b99a822237d7f84dc19682be702ad0e2d5d282f7646d84b746d454e34"
+        "sha256": "4ca2642b99a822237d7f84dc19682be702ad0e2d5d282f7646d84b746d454e34",
+        "file_name": "php-7.4.22.tar.gz"
     },
     {
         "version": "7.3.29",
         "url": "https://www.php.net/distributions/php-7.3.29.tar.gz",
-        "sha256": "ba4de3955b0cbd33baee55a83568acc4347605e210a54b5654e4c1e09b544659"
+        "sha256": "ba4de3955b0cbd33baee55a83568acc4347605e210a54b5654e4c1e09b544659",
+        "file_name": "php-7.3.29.tar.gz"
     },
     {
         "version": "7.4.21",
         "url": "https://www.php.net/distributions/php-7.4.21.tar.gz",
-        "sha256": "4b9623accbe4b8923a801212f371f784069535009185e7bf7e4dec66bbea61db"
+        "sha256": "4b9623accbe4b8923a801212f371f784069535009185e7bf7e4dec66bbea61db",
+        "file_name": "php-7.4.21.tar.gz"
     },
     {
         "version": "7.4.20",
         "url": "https://www.php.net/distributions/php-7.4.20.tar.gz",
-        "sha256": "84b09e4617e960b36dfa15fdbf2e3cd7141a2e877216ea29391b12ae86963cf4"
+        "sha256": "84b09e4617e960b36dfa15fdbf2e3cd7141a2e877216ea29391b12ae86963cf4",
+        "file_name": "php-7.4.20.tar.gz"
     },
     {
         "version": "7.3.28",
         "url": "https://www.php.net/distributions/php-7.3.28.tar.gz",
-        "sha256": "1f0d9b94e1b11518ffabd19b646c2fee95ea42ca9cd8d337f8d07986fdceede1"
+        "sha256": "1f0d9b94e1b11518ffabd19b646c2fee95ea42ca9cd8d337f8d07986fdceede1",
+        "file_name": "php-7.3.28.tar.gz"
     },
     {
         "version": "7.4.19",
         "url": "https://www.php.net/distributions/php-7.4.19.tar.gz",
-        "sha256": "d7062457ba9f8334ab8ae7e4fea8efe27e2506763551b25db9e6ab9beea8ed6f"
+        "sha256": "d7062457ba9f8334ab8ae7e4fea8efe27e2506763551b25db9e6ab9beea8ed6f",
+        "file_name": "php-7.4.19.tar.gz"
     },
     {
         "version": "7.4.18",
         "url": "https://www.php.net/distributions/php-7.4.18.tar.gz",
-        "sha256": "31a8a4a6e7d641f014749cef21421a6d1c9aaba6dce884e181a3370a8e69a04d"
+        "sha256": "31a8a4a6e7d641f014749cef21421a6d1c9aaba6dce884e181a3370a8e69a04d",
+        "file_name": "php-7.4.18.tar.gz"
     },
     {
         "version": "7.4.16",
         "url": "https://www.php.net/distributions/php-7.4.16.tar.gz",
-        "sha256": "ef2d2b463fc3444895ec599337b663a8832c6ade148d9832417e59aa2b9e93da"
+        "sha256": "ef2d2b463fc3444895ec599337b663a8832c6ade148d9832417e59aa2b9e93da",
+        "file_name": "php-7.4.16.tar.gz"
     },
     {
         "version": "7.3.27",
         "url": "https://www.php.net/distributions/php-7.3.27.tar.gz",
-        "sha256": "4b7b9bd0526ad3f2c8d6fd950ea7b0ab2478b5b09755c6a620a4f3bcfbf59154"
+        "sha256": "4b7b9bd0526ad3f2c8d6fd950ea7b0ab2478b5b09755c6a620a4f3bcfbf59154",
+        "file_name": "php-7.3.27.tar.gz"
     },
     {
         "version": "7.4.15",
         "url": "https://www.php.net/distributions/php-7.4.15.tar.gz",
-        "sha256": "c7403988b69212335dec79e869abe9dbb23d60ea7f6eb16fd6ff99ed6b5f1c87"
+        "sha256": "c7403988b69212335dec79e869abe9dbb23d60ea7f6eb16fd6ff99ed6b5f1c87",
+        "file_name": "php-7.4.15.tar.gz"
     },
     {
         "version": "7.4.14",
         "url": "https://www.php.net/distributions/php-7.4.14.tar.gz",
-        "sha256": "d359183e2436f4ab30b70d4fbd881b5705a46b2e68cc6069fe91cd63d6e98e13"
+        "sha256": "d359183e2436f4ab30b70d4fbd881b5705a46b2e68cc6069fe91cd63d6e98e13",
+        "file_name": "php-7.4.14.tar.gz"
     },
     {
         "version": "7.3.26",
         "url": "https://www.php.net/distributions/php-7.3.26.tar.gz",
-        "sha256": "2b55c2a54d1825e7c3feaf44cf42cdf782b8d5c611314172fbf8e234960b6a99"
+        "sha256": "2b55c2a54d1825e7c3feaf44cf42cdf782b8d5c611314172fbf8e234960b6a99",
+        "file_name": "php-7.3.26.tar.gz"
     },
     {
         "version": "7.3.25",
         "url": "https://www.php.net/distributions/php-7.3.25.tar.gz",
-        "sha256": "097c7a2a2f9189b33799d79ee5a8aac68a4d72696c1cd69c66ef5d0941ce28ad"
+        "sha256": "097c7a2a2f9189b33799d79ee5a8aac68a4d72696c1cd69c66ef5d0941ce28ad",
+        "file_name": "php-7.3.25.tar.gz"
     },
     {
         "version": "7.4.13",
         "url": "https://www.php.net/distributions/php-7.4.13.tar.gz",
-        "sha256": "0865cff41e7210de2537bcd5750377cfe09a9312b9b44c1a166cf372d5204b8f"
+        "sha256": "0865cff41e7210de2537bcd5750377cfe09a9312b9b44c1a166cf372d5204b8f",
+        "file_name": "php-7.4.13.tar.gz"
     },
     {
         "version": "7.2.34",
         "url": "https://www.php.net/distributions/php-7.2.34.tar.gz",
-        "sha256": "8b2777c741e83f188d3ca6d8e98ece7264acafee86787298fae57e05d0dddc78"
+        "sha256": "8b2777c741e83f188d3ca6d8e98ece7264acafee86787298fae57e05d0dddc78",
+        "file_name": "php-7.2.34.tar.gz"
     },
     {
         "version": "7.3.24",
         "url": "https://www.php.net/distributions/php-7.3.24.tar.gz",
-        "sha256": "ac06577e2aeb69d4bed3c1532ed84a548f01399e5481c144c3e61d146be8ced6"
+        "sha256": "ac06577e2aeb69d4bed3c1532ed84a548f01399e5481c144c3e61d146be8ced6",
+        "file_name": "php-7.3.24.tar.gz"
     },
     {
         "version": "7.4.12",
         "url": "https://www.php.net/distributions/php-7.4.12.tar.gz",
-        "sha256": "f056d74409a71f17218f76538c6a2d7b59ee99db9db7685fa0ab9cd0d4c0f286"
+        "sha256": "f056d74409a71f17218f76538c6a2d7b59ee99db9db7685fa0ab9cd0d4c0f286",
+        "file_name": "php-7.4.12.tar.gz"
     },
     {
         "version": "7.4.11",
         "url": "https://www.php.net/distributions/php-7.4.11.tar.gz",
-        "sha256": "b4fae5c39ca1eedf5597071996d9c85d0674b83f5003126c39b7b44bbfbcd821"
+        "sha256": "b4fae5c39ca1eedf5597071996d9c85d0674b83f5003126c39b7b44bbfbcd821",
+        "file_name": "php-7.4.11.tar.gz"
     },
     {
         "version": "7.3.23",
         "url": "https://www.php.net/distributions/php-7.3.23.tar.gz",
-        "sha256": "a21094b9ba2d8fe7fa5838e6566e30cf4bfaf2c8a6dce90ff707c45d0d8d494d"
+        "sha256": "a21094b9ba2d8fe7fa5838e6566e30cf4bfaf2c8a6dce90ff707c45d0d8d494d",
+        "file_name": "php-7.3.23.tar.gz"
     },
     {
         "version": "7.3.22",
         "url": "https://www.php.net/distributions/php-7.3.22.tar.gz",
-        "sha256": "759426cb4054e3f23316c39710faff0bb8063fd0ea50fc2c5efa590429af1a22"
+        "sha256": "759426cb4054e3f23316c39710faff0bb8063fd0ea50fc2c5efa590429af1a22",
+        "file_name": "php-7.3.22.tar.gz"
     },
     {
         "version": "7.4.10",
         "url": "https://www.php.net/distributions/php-7.4.10.tar.gz",
-        "sha256": "e720f1286f895ca37f1c75a2ca338ad2f2456664d7097298167181b25b212feb"
+        "sha256": "e720f1286f895ca37f1c75a2ca338ad2f2456664d7097298167181b25b212feb",
+        "file_name": "php-7.4.10.tar.gz"
     },
     {
         "version": "7.2.33",
         "url": "https://www.php.net/distributions/php-7.2.33.tar.gz",
-        "sha256": "97bb6b88ddfa44f36c4fc84a1a718faef476f61b532d26ea29e3e9f6cd79d839"
+        "sha256": "97bb6b88ddfa44f36c4fc84a1a718faef476f61b532d26ea29e3e9f6cd79d839",
+        "file_name": "php-7.2.33.tar.gz"
     },
     {
         "version": "7.4.9",
         "url": "https://www.php.net/distributions/php-7.4.9.tar.gz",
-        "sha256": "c0c657b5769bc463f5f028b1f4fef8814d98ecf3459a402a9e30d41d68b2323e"
+        "sha256": "c0c657b5769bc463f5f028b1f4fef8814d98ecf3459a402a9e30d41d68b2323e",
+        "file_name": "php-7.4.9.tar.gz"
     },
     {
         "version": "7.3.21",
         "url": "https://www.php.net/distributions/php-7.3.21.tar.gz",
-        "sha256": "f5d6e136768522edd025c4a97b9b6a98a2fda20b68445cbc5ca2efce1e73c7d0"
+        "sha256": "f5d6e136768522edd025c4a97b9b6a98a2fda20b68445cbc5ca2efce1e73c7d0",
+        "file_name": "php-7.3.21.tar.gz"
     },
     {
         "version": "7.4.8",
         "url": "https://www.php.net/distributions/php-7.4.8.tar.gz",
-        "sha256": "649f6bcdb60dc38d5edd7f3a7b2905d15d88c1d13e40307e8972ede347cea6ba"
+        "sha256": "649f6bcdb60dc38d5edd7f3a7b2905d15d88c1d13e40307e8972ede347cea6ba",
+        "file_name": "php-7.4.8.tar.gz"
     },
     {
         "version": "7.3.20",
         "url": "https://www.php.net/distributions/php-7.3.20.tar.gz",
-        "sha256": "d0579b8a6bcdd5e1ae334d83261f2389b0d3d4fd54cc808e20a5031121f97d87"
+        "sha256": "d0579b8a6bcdd5e1ae334d83261f2389b0d3d4fd54cc808e20a5031121f97d87",
+        "file_name": "php-7.3.20.tar.gz"
     },
     {
         "version": "7.2.32",
         "url": "https://www.php.net/distributions/php-7.2.32.tar.gz",
-        "sha256": "b3aabb99e574c407dd58ad071fc52e27c489608fe06f1330d688d0fb7349089c"
+        "sha256": "b3aabb99e574c407dd58ad071fc52e27c489608fe06f1330d688d0fb7349089c",
+        "file_name": "php-7.2.32.tar.gz"
     },
     {
         "version": "7.4.7",
         "url": "https://www.php.net/distributions/php-7.4.7.tar.gz",
-        "sha256": "a554a510190e726ebe7157fb00b4aceabdb50c679430510a3b93cbf5d7546e44"
+        "sha256": "a554a510190e726ebe7157fb00b4aceabdb50c679430510a3b93cbf5d7546e44",
+        "file_name": "php-7.4.7.tar.gz"
     },
     {
         "version": "7.2.31",
         "url": "https://www.php.net/distributions/php-7.2.31.tar.gz",
-        "sha256": "796837831ccebf00dc15921ed327cfbac59177da41b33044d9a6c7134cdd250c"
+        "sha256": "796837831ccebf00dc15921ed327cfbac59177da41b33044d9a6c7134cdd250c",
+        "file_name": "php-7.2.31.tar.gz"
     },
     {
         "version": "7.3.19",
         "url": "https://www.php.net/distributions/php-7.3.19.tar.gz",
-        "sha256": "809126b46d62a1a06c2d5a0f9d7ba61aba40e165f24d2d185396d0f9646d3280"
+        "sha256": "809126b46d62a1a06c2d5a0f9d7ba61aba40e165f24d2d185396d0f9646d3280",
+        "file_name": "php-7.3.19.tar.gz"
     },
     {
         "version": "7.4.6",
         "url": "https://www.php.net/distributions/php-7.4.6.tar.gz",
-        "sha256": "2a37bab4e308c4e3867083137b7cce4a3f1d996ae231b383c1a83609cec3fed0"
+        "sha256": "2a37bab4e308c4e3867083137b7cce4a3f1d996ae231b383c1a83609cec3fed0",
+        "file_name": "php-7.4.6.tar.gz"
     },
     {
         "version": "7.3.18",
         "url": "https://www.php.net/distributions/php-7.3.18.tar.gz",
-        "sha256": "3211d5d6ea8a27c2794498a551bf26e334bc2b986741971809c9bb650eaa47a3"
+        "sha256": "3211d5d6ea8a27c2794498a551bf26e334bc2b986741971809c9bb650eaa47a3",
+        "file_name": "php-7.3.18.tar.gz"
     },
     {
         "version": "7.4.5",
         "url": "https://www.php.net/distributions/php-7.4.5.tar.gz",
-        "sha256": "1ef619411b0bd68c0fbfd2a6c622ad6bc524d0bceb8476fb9807a23a0fe9a343"
+        "sha256": "1ef619411b0bd68c0fbfd2a6c622ad6bc524d0bceb8476fb9807a23a0fe9a343",
+        "file_name": "php-7.4.5.tar.gz"
     },
     {
         "version": "7.3.17",
         "url": "https://www.php.net/distributions/php-7.3.17.tar.gz",
-        "sha256": "0dd484382b8f17dfa8afd44236a5ccf374e1f03de06ef826ebcbda98eadc7bda"
+        "sha256": "0dd484382b8f17dfa8afd44236a5ccf374e1f03de06ef826ebcbda98eadc7bda",
+        "file_name": "php-7.3.17.tar.gz"
     },
     {
         "version": "7.2.30",
         "url": "https://www.php.net/distributions/php-7.2.30.tar.gz",
-        "sha256": "daa53d22510b0fd433904d1c3de460746860a974b776f727ac8acecb44e16e2f"
+        "sha256": "daa53d22510b0fd433904d1c3de460746860a974b776f727ac8acecb44e16e2f",
+        "file_name": "php-7.2.30.tar.gz"
     },
     {
         "version": "7.2.29",
         "url": "https://www.php.net/distributions/php-7.2.29.tar.gz",
-        "sha256": "ea5c96309394a03a38828cc182058be0c09dde1f00f35809622c2d05c50ee890"
+        "sha256": "ea5c96309394a03a38828cc182058be0c09dde1f00f35809622c2d05c50ee890",
+        "file_name": "php-7.2.29.tar.gz"
     },
     {
         "version": "7.4.4",
         "url": "https://www.php.net/distributions/php-7.4.4.tar.gz",
-        "sha256": "1581b3e10c7854597e1086937d5753cdf92d132865c06a50aed4f4f407138616"
+        "sha256": "1581b3e10c7854597e1086937d5753cdf92d132865c06a50aed4f4f407138616",
+        "file_name": "php-7.4.4.tar.gz"
     },
     {
         "version": "7.3.16",
         "url": "https://www.php.net/distributions/php-7.3.16.tar.gz",
-        "sha256": "a01ae4f6baf427413c28f8cfddbae86aeff61cdb88658e75404f2d93d98e3255"
+        "sha256": "a01ae4f6baf427413c28f8cfddbae86aeff61cdb88658e75404f2d93d98e3255",
+        "file_name": "php-7.3.16.tar.gz"
     },
     {
         "version": "7.4.3",
         "url": "https://www.php.net/distributions/php-7.4.3.tar.gz",
-        "sha256": "58e421a1dba10da8542a014535cac77a78f0271afb901cc2bd363b881895a9ed"
+        "sha256": "58e421a1dba10da8542a014535cac77a78f0271afb901cc2bd363b881895a9ed",
+        "file_name": "php-7.4.3.tar.gz"
     },
     {
         "version": "7.2.28",
         "url": "https://www.php.net/distributions/php-7.2.28.tar.gz",
-        "sha256": "ed5fede7602ccd8d1294b4e4aef7f92f4e3af58ab040bd349264b3f5dbef3261"
+        "sha256": "ed5fede7602ccd8d1294b4e4aef7f92f4e3af58ab040bd349264b3f5dbef3261",
+        "file_name": "php-7.2.28.tar.gz"
     },
     {
         "version": "7.3.15",
         "url": "https://www.php.net/distributions/php-7.3.15.tar.gz",
-        "sha256": "c606dd09de2edff1e6b6c5b9f0076214a59f6f1a3272e15d681ed16257737ef6"
+        "sha256": "c606dd09de2edff1e6b6c5b9f0076214a59f6f1a3272e15d681ed16257737ef6",
+        "file_name": "php-7.3.15.tar.gz"
     },
     {
         "version": "7.4.2",
         "url": "https://www.php.net/distributions/php-7.4.2.tar.gz",
-        "sha256": "e1b8dbf561ac1d871362054ff4cd62dca5e19c8c896567996525dda7c4b320f9"
+        "sha256": "e1b8dbf561ac1d871362054ff4cd62dca5e19c8c896567996525dda7c4b320f9",
+        "file_name": "php-7.4.2.tar.gz"
     },
     {
         "version": "7.3.14",
         "url": "https://www.php.net/distributions/php-7.3.14.tar.gz",
-        "sha256": "6aff532a380b0f30c9e295b67dc91d023fee3b0ae14b4771468bf5dda4cbf108"
+        "sha256": "6aff532a380b0f30c9e295b67dc91d023fee3b0ae14b4771468bf5dda4cbf108",
+        "file_name": "php-7.3.14.tar.gz"
     },
     {
         "version": "7.2.27",
         "url": "https://www.php.net/distributions/php-7.2.27.tar.gz",
-        "sha256": "e00ace5e89cb162cba0aebd17144541e1c4d965589155a44ca706d9f9c5a8981"
+        "sha256": "e00ace5e89cb162cba0aebd17144541e1c4d965589155a44ca706d9f9c5a8981",
+        "file_name": "php-7.2.27.tar.gz"
     },
     {
         "version": "7.3.13",
         "url": "https://www.php.net/distributions/php-7.3.13.tar.gz",
-        "sha256": "9cf835416a3471d7e6615e9288e76813d55ffaf60e0aa9ce74884a7c228cb6dd"
+        "sha256": "9cf835416a3471d7e6615e9288e76813d55ffaf60e0aa9ce74884a7c228cb6dd",
+        "file_name": "php-7.3.13.tar.gz"
     },
     {
         "version": "7.2.26",
         "url": "https://www.php.net/distributions/php-7.2.26.tar.gz",
-        "sha256": "e97d0636478bb519cd955a0c17b7970cf173063a840a83fc4afb75c22bc1bf08"
+        "sha256": "e97d0636478bb519cd955a0c17b7970cf173063a840a83fc4afb75c22bc1bf08",
+        "file_name": "php-7.2.26.tar.gz"
     },
     {
         "version": "7.4.1",
         "url": "https://www.php.net/distributions/php-7.4.1.tar.gz",
-        "sha256": "67265d6bd48d828f4725964f71ca5c76c3da63b0d07bec5ec4e5acfdd3708073"
+        "sha256": "67265d6bd48d828f4725964f71ca5c76c3da63b0d07bec5ec4e5acfdd3708073",
+        "file_name": "php-7.4.1.tar.gz"
     },
     {
         "version": "7.2.25",
         "url": "https://www.php.net/distributions/php-7.2.25.tar.gz",
-        "sha256": "b2cb1bd46454d33b2c65c2fd559f464cd14e57dd47b953adf5caa77fdf0de52b"
+        "sha256": "b2cb1bd46454d33b2c65c2fd559f464cd14e57dd47b953adf5caa77fdf0de52b",
+        "file_name": "php-7.2.25.tar.gz"
     },
     {
         "version": "7.3.12",
         "url": "https://www.php.net/distributions/php-7.3.12.tar.gz",
-        "sha256": "d617e5116f8472a628083f448ebe4afdbc4ac013c9a890b08946649dcbe61b34"
+        "sha256": "d617e5116f8472a628083f448ebe4afdbc4ac013c9a890b08946649dcbe61b34",
+        "file_name": "php-7.3.12.tar.gz"
     },
     {
         "version": "7.4.0",
         "url": "https://www.php.net/distributions/php-7.4.0.tar.gz",
-        "sha256": "004a1a8176176ee1b5c112e73d705977507803f425f9e48cb4a84f42b22abf22"
+        "sha256": "004a1a8176176ee1b5c112e73d705977507803f425f9e48cb4a84f42b22abf22",
+        "file_name": "php-7.4.0.tar.gz"
     },
     {
         "version": "7.1.33",
         "url": "https://www.php.net/distributions/php-7.1.33.tar.gz",
-        "sha256": "0055f368ffefe51d5a4483755bd17475e88e74302c08b727952831c5b2682ea2"
+        "sha256": "0055f368ffefe51d5a4483755bd17475e88e74302c08b727952831c5b2682ea2",
+        "file_name": "php-7.1.33.tar.gz"
     },
     {
         "version": "7.2.24",
         "url": "https://www.php.net/distributions/php-7.2.24.tar.gz",
-        "sha256": "01baf7a34c856d2c552121fbad7296a8cde18389ce83db32f18252bc1cee4dd6"
+        "sha256": "01baf7a34c856d2c552121fbad7296a8cde18389ce83db32f18252bc1cee4dd6",
+        "file_name": "php-7.2.24.tar.gz"
     },
     {
         "version": "7.3.11",
         "url": "https://www.php.net/distributions/php-7.3.11.tar.gz",
-        "sha256": "8f385f5bdf9193791f6c0f6303f518f3c324b6655ac108fdb3c426da7f3cf4d4"
+        "sha256": "8f385f5bdf9193791f6c0f6303f518f3c324b6655ac108fdb3c426da7f3cf4d4",
+        "file_name": "php-7.3.11.tar.gz"
     },
     {
         "version": "7.1.32",
         "url": "https://www.php.net/distributions/php-7.1.32.tar.gz",
-        "sha256": "6e51a2fc610352438b2a1c40310468a1e2b5baf2fff43be77f9f408a9111590c"
+        "sha256": "6e51a2fc610352438b2a1c40310468a1e2b5baf2fff43be77f9f408a9111590c",
+        "file_name": "php-7.1.32.tar.gz"
     },
     {
         "version": "7.3.10",
         "url": "https://www.php.net/distributions/php-7.3.10.tar.gz",
-        "sha256": "fb670723a9b8fda31c89529f27e0dda289d8af4b6ce9f152c8010876639c0fb4"
+        "sha256": "fb670723a9b8fda31c89529f27e0dda289d8af4b6ce9f152c8010876639c0fb4",
+        "file_name": "php-7.3.10.tar.gz"
     },
     {
         "version": "7.2.23",
         "url": "https://www.php.net/distributions/php-7.2.23.tar.gz",
-        "sha256": "b32b426c84ff45154d6c11f00aff433bcac831a5c0a09bf0297075eefaea8fcc"
+        "sha256": "b32b426c84ff45154d6c11f00aff433bcac831a5c0a09bf0297075eefaea8fcc",
+        "file_name": "php-7.2.23.tar.gz"
     },
     {
         "version": "7.2.22",
         "url": "https://www.php.net/distributions/php-7.2.22.tar.gz",
-        "sha256": "6e2ccc77484c27971d4550b7071a57b79bc910bfb2d4a74a57ae2c18b78c3dc7"
+        "sha256": "6e2ccc77484c27971d4550b7071a57b79bc910bfb2d4a74a57ae2c18b78c3dc7",
+        "file_name": "php-7.2.22.tar.gz"
     },
     {
         "version": "7.3.9",
         "url": "https://www.php.net/distributions/php-7.3.9.tar.gz",
-        "sha256": "5ecc1b1ad7228ed2e99a970c45358871644fcab1d9fd079a7b129326a7bde42d"
+        "sha256": "5ecc1b1ad7228ed2e99a970c45358871644fcab1d9fd079a7b129326a7bde42d",
+        "file_name": "php-7.3.9.tar.gz"
     },
     {
         "version": "7.1.31",
         "url": "https://www.php.net/distributions/php-7.1.31.tar.gz",
-        "sha256": "ea0558735653b9ce63e9cea41dd8f0d0b90dba6c39d39dd9a6aad5cc58b0bdfc"
+        "sha256": "ea0558735653b9ce63e9cea41dd8f0d0b90dba6c39d39dd9a6aad5cc58b0bdfc",
+        "file_name": "php-7.1.31.tar.gz"
     },
     {
         "version": "7.2.21",
         "url": "https://www.php.net/distributions/php-7.2.21.tar.gz",
-        "sha256": "8327682bee4a8fd2edf5bbfcc393d986b945bec433fc74458d05e766701b313c"
+        "sha256": "8327682bee4a8fd2edf5bbfcc393d986b945bec433fc74458d05e766701b313c",
+        "file_name": "php-7.2.21.tar.gz"
     },
     {
         "version": "7.3.8",
         "url": "https://www.php.net/distributions/php-7.3.8.tar.gz",
-        "sha256": "31af3eff3337fb70733c9b02a3444c3dae662ecab20aeec7fdc3c42e22071490"
+        "sha256": "31af3eff3337fb70733c9b02a3444c3dae662ecab20aeec7fdc3c42e22071490",
+        "file_name": "php-7.3.8.tar.gz"
     },
     {
         "version": "7.1.30",
         "url": "https://www.php.net/distributions/php-7.1.30.tar.gz",
-        "sha256": "a604edf85d5dfc28e6ff3016dad3954c50b93db69afc42295178b4fdf42e026c"
+        "sha256": "a604edf85d5dfc28e6ff3016dad3954c50b93db69afc42295178b4fdf42e026c",
+        "file_name": "php-7.1.30.tar.gz"
     },
     {
         "version": "7.2.20",
         "url": "https://www.php.net/distributions/php-7.2.20.tar.gz",
-        "sha256": "d1dbf6f299514c9aa55b2995928b798b27c21811a0447f0688993cdf36be0749"
+        "sha256": "d1dbf6f299514c9aa55b2995928b798b27c21811a0447f0688993cdf36be0749",
+        "file_name": "php-7.2.20.tar.gz"
     },
     {
         "version": "7.3.7",
         "url": "https://www.php.net/distributions/php-7.3.7.tar.gz",
-        "sha256": "4230bbc862df712b013369de94b131eddea1e5e946a8c5e286b82d441c313328"
+        "sha256": "4230bbc862df712b013369de94b131eddea1e5e946a8c5e286b82d441c313328",
+        "file_name": "php-7.3.7.tar.gz"
     },
     {
         "version": "7.2.19",
         "url": "https://www.php.net/distributions/php-7.2.19.tar.gz",
-        "sha256": "1cd2266a058f3224d3cba594540045542606996f026eeef96747f27f6b3d22b6"
+        "sha256": "1cd2266a058f3224d3cba594540045542606996f026eeef96747f27f6b3d22b6",
+        "file_name": "php-7.2.19.tar.gz"
     },
     {
         "version": "7.3.6",
         "url": "https://www.php.net/distributions/php-7.3.6.tar.gz",
-        "sha256": "72fbf223ff8659a61eed08eebffb4ede0256e7a69d2151ae24affa5377b70bb8"
+        "sha256": "72fbf223ff8659a61eed08eebffb4ede0256e7a69d2151ae24affa5377b70bb8",
+        "file_name": "php-7.3.6.tar.gz"
     },
     {
         "version": "7.1.29",
         "url": "https://www.php.net/distributions/php-7.1.29.tar.gz",
-        "sha256": "bdd0e1707100c8b87f1be516f5b95a26e3eb4114d4316eaf0663bf292ead35bb"
+        "sha256": "bdd0e1707100c8b87f1be516f5b95a26e3eb4114d4316eaf0663bf292ead35bb",
+        "file_name": "php-7.1.29.tar.gz"
     },
     {
         "version": "7.2.18",
         "url": "https://www.php.net/distributions/php-7.2.18.tar.gz",
-        "sha256": "48aeb291814f3cd3ba03c52e79e8e61896d0271fd4c228198f80a072e568f84b"
+        "sha256": "48aeb291814f3cd3ba03c52e79e8e61896d0271fd4c228198f80a072e568f84b",
+        "file_name": "php-7.2.18.tar.gz"
     },
     {
         "version": "7.3.5",
         "url": "https://www.php.net/distributions/php-7.3.5.tar.gz",
-        "sha256": "c953749b7f3310a3a74f920ef698f6d1c04636d11656ac9ffb3ab10d34e30e1e"
+        "sha256": "c953749b7f3310a3a74f920ef698f6d1c04636d11656ac9ffb3ab10d34e30e1e",
+        "file_name": "php-7.3.5.tar.gz"
     },
     {
         "version": "7.1.28",
         "url": "https://www.php.net/distributions/php-7.1.28.tar.gz",
-        "sha256": "4df587338d4c5dfe27050c7ac72a6b7583ecaee9d3fbfc03427667a86e081999"
+        "sha256": "4df587338d4c5dfe27050c7ac72a6b7583ecaee9d3fbfc03427667a86e081999",
+        "file_name": "php-7.1.28.tar.gz"
     },
     {
         "version": "7.2.17",
         "url": "https://www.php.net/distributions/php-7.2.17.tar.gz",
-        "sha256": "e1c6c2553cdb7edbfa65b89e259690ed01b31b12d57349c90b6ed00a410f62b5"
+        "sha256": "e1c6c2553cdb7edbfa65b89e259690ed01b31b12d57349c90b6ed00a410f62b5",
+        "file_name": "php-7.2.17.tar.gz"
     },
     {
         "version": "7.3.4",
         "url": "https://www.php.net/distributions/php-7.3.4.tar.gz",
-        "sha256": "dd41ecf43fe1172030f41d2581909457a0af7bd137a057c3874e0b0f3c2e8761"
+        "sha256": "dd41ecf43fe1172030f41d2581909457a0af7bd137a057c3874e0b0f3c2e8761",
+        "file_name": "php-7.3.4.tar.gz"
     },
     {
         "version": "7.1.27",
         "url": "https://www.php.net/distributions/php-7.1.27.tar.gz",
-        "sha256": "353b9ed341048388cc95e6fa6dab587eee44a3d4d297989aa297936090864357"
+        "sha256": "353b9ed341048388cc95e6fa6dab587eee44a3d4d297989aa297936090864357",
+        "file_name": "php-7.1.27.tar.gz"
     },
     {
         "version": "7.2.16",
         "url": "https://www.php.net/distributions/php-7.2.16.tar.gz",
-        "sha256": "fb95e0bb69caba1dfd3bbac4eeef7a0485e5ea3d6191d35ad5657e18243aa02d"
+        "sha256": "fb95e0bb69caba1dfd3bbac4eeef7a0485e5ea3d6191d35ad5657e18243aa02d",
+        "file_name": "php-7.2.16.tar.gz"
     },
     {
         "version": "7.3.3",
         "url": "https://www.php.net/distributions/php-7.3.3.tar.gz",
-        "sha256": "9bde40cbf8608ae9c595a6643a02cf0c692c131e2b3619af3fd2af8425d8e677"
+        "sha256": "9bde40cbf8608ae9c595a6643a02cf0c692c131e2b3619af3fd2af8425d8e677",
+        "file_name": "php-7.3.3.tar.gz"
     },
     {
         "version": "7.1.26",
         "url": "https://www.php.net/distributions/php-7.1.26.tar.gz",
-        "sha256": "069315d3c3f964fd165bbbb3c2fc56005813e2cf97bed05055318dcc4e775328"
+        "sha256": "069315d3c3f964fd165bbbb3c2fc56005813e2cf97bed05055318dcc4e775328",
+        "file_name": "php-7.1.26.tar.gz"
     },
     {
         "version": "7.2.15",
         "url": "https://www.php.net/distributions/php-7.2.15.tar.gz",
-        "sha256": "9b13bde9f5a32d6f6bdb8b911bb55bb818d0c4073538f8dc48aa2deb560f55a3"
+        "sha256": "9b13bde9f5a32d6f6bdb8b911bb55bb818d0c4073538f8dc48aa2deb560f55a3",
+        "file_name": "php-7.2.15.tar.gz"
     },
     {
         "version": "7.3.2",
         "url": "https://www.php.net/distributions/php-7.3.2.tar.gz",
-        "sha256": "4597294b00edc1c63a021b6c7838eb43384f62eeb9e392f0b91c38a3c090f499"
+        "sha256": "4597294b00edc1c63a021b6c7838eb43384f62eeb9e392f0b91c38a3c090f499",
+        "file_name": "php-7.3.2.tar.gz"
     },
     {
         "version": "7.2.14",
         "url": "https://www.php.net/distributions/php-7.2.14.tar.gz",
-        "sha256": "87e13d80b0c3a66bd463d1cb47dc101335884a0d192ab924f547f8aed7f70c08"
+        "sha256": "87e13d80b0c3a66bd463d1cb47dc101335884a0d192ab924f547f8aed7f70c08",
+        "file_name": "php-7.2.14.tar.gz"
     },
     {
         "version": "7.3.1",
         "url": "https://www.php.net/distributions/php-7.3.1.tar.gz",
-        "sha256": "8006211f7a041dde22fffedc416d142e0ebf22066014077ca936d7e6f655ead5"
+        "sha256": "8006211f7a041dde22fffedc416d142e0ebf22066014077ca936d7e6f655ead5",
+        "file_name": "php-7.3.1.tar.gz"
     },
     {
         "version": "7.0.33",
         "url": "https://www.php.net/distributions/php-7.0.33.tar.gz",
-        "sha256": "d71a6ecb6b13dc53fed7532a7f8f949c4044806f067502f8fb6f9facbb40452a"
+        "sha256": "d71a6ecb6b13dc53fed7532a7f8f949c4044806f067502f8fb6f9facbb40452a",
+        "file_name": "php-7.0.33.tar.gz"
     },
     {
         "version": "7.1.25",
         "url": "https://www.php.net/distributions/php-7.1.25.tar.gz",
-        "sha256": "7dc40e202140e8b4fb3d992c15a68d98dc06b805e6b218497d260abbe51f5958"
+        "sha256": "7dc40e202140e8b4fb3d992c15a68d98dc06b805e6b218497d260abbe51f5958",
+        "file_name": "php-7.1.25.tar.gz"
     },
     {
         "version": "7.3.0",
         "url": "https://www.php.net/distributions/php-7.3.0.tar.gz",
-        "sha256": "391bd0f91d9bdd01ab47ef9607bad8c65e35bc9bb098fb7777b2556e2c847b11"
+        "sha256": "391bd0f91d9bdd01ab47ef9607bad8c65e35bc9bb098fb7777b2556e2c847b11",
+        "file_name": "php-7.3.0.tar.gz"
     },
     {
         "version": "7.2.13",
         "url": "https://www.php.net/distributions/php-7.2.13.tar.gz",
-        "sha256": "e563cee406b1ec96649c22ed2b35796cfe4e9aa9afa6eab6be4cf2fe5d724744"
+        "sha256": "e563cee406b1ec96649c22ed2b35796cfe4e9aa9afa6eab6be4cf2fe5d724744",
+        "file_name": "php-7.2.13.tar.gz"
     },
     {
         "version": "7.0.32",
         "url": "https://www.php.net/distributions/php-7.0.32.tar.gz",
-        "sha256": "08d13389f611ec55f3b9164347a97e410099238a3dd85946e556a288ce366fbe"
+        "sha256": "08d13389f611ec55f3b9164347a97e410099238a3dd85946e556a288ce366fbe",
+        "file_name": "php-7.0.32.tar.gz"
     },
     {
         "version": "7.1.24",
         "url": "https://www.php.net/distributions/php-7.1.24.tar.gz",
-        "sha256": "1e780b1af3eeb8fba9e5af6205c960184a0c3a0ef091aaa192e7b7d6b67405d0"
+        "sha256": "1e780b1af3eeb8fba9e5af6205c960184a0c3a0ef091aaa192e7b7d6b67405d0",
+        "file_name": "php-7.1.24.tar.gz"
     },
     {
         "version": "7.2.12",
         "url": "https://www.php.net/distributions/php-7.2.12.tar.gz",
-        "sha256": "d7cabdf4e51db38121daf0d494dc074743b24b6c79e592037eeedd731f1719dd"
+        "sha256": "d7cabdf4e51db38121daf0d494dc074743b24b6c79e592037eeedd731f1719dd",
+        "file_name": "php-7.2.12.tar.gz"
     },
     {
         "version": "7.1.23",
         "url": "https://www.php.net/distributions/php-7.1.23.tar.gz",
-        "sha256": "b839a4de32e6770d10b87c2495c070d09277fe61008804b2992466f0dcc5f0fa"
+        "sha256": "b839a4de32e6770d10b87c2495c070d09277fe61008804b2992466f0dcc5f0fa",
+        "file_name": "php-7.1.23.tar.gz"
     },
     {
         "version": "7.2.11",
         "url": "https://www.php.net/distributions/php-7.2.11.tar.gz",
-        "sha256": "180c63a9647c0a50d438b6bd5c7a8e7a11bceee8ad613a59d3ef15151fc158d4"
+        "sha256": "180c63a9647c0a50d438b6bd5c7a8e7a11bceee8ad613a59d3ef15151fc158d4",
+        "file_name": "php-7.2.11.tar.gz"
     },
     {
         "version": "7.1.22",
         "url": "https://www.php.net/distributions/php-7.1.22.tar.gz",
-        "sha256": "1d275115593a33315647094a5a4ee9bd73c7960c08686cee35dc2e683a68b157"
+        "sha256": "1d275115593a33315647094a5a4ee9bd73c7960c08686cee35dc2e683a68b157",
+        "file_name": "php-7.1.22.tar.gz"
     },
     {
         "version": "7.2.10",
         "url": "https://www.php.net/distributions/php-7.2.10.tar.gz",
-        "sha256": "d2d908b49b6005e65dcc46cdc986603a19b7ff103119fce8ddd4648586d430a4"
+        "sha256": "d2d908b49b6005e65dcc46cdc986603a19b7ff103119fce8ddd4648586d430a4",
+        "file_name": "php-7.2.10.tar.gz"
     },
     {
         "version": "7.1.21",
         "url": "https://www.php.net/distributions/php-7.1.21.tar.gz",
-        "sha256": "4b448ba9b3c81b88543c1e1fbef465391fecd64d7f19a744df26e9923295dd00"
+        "sha256": "4b448ba9b3c81b88543c1e1fbef465391fecd64d7f19a744df26e9923295dd00",
+        "file_name": "php-7.1.21.tar.gz"
     },
     {
         "version": "7.0.31",
         "url": "https://www.php.net/distributions/php-7.0.31.tar.gz",
-        "sha256": "182f36e5709837158bd4970ce57fe80735bdf79025133c00d6ad882d1c4d98dd"
+        "sha256": "182f36e5709837158bd4970ce57fe80735bdf79025133c00d6ad882d1c4d98dd",
+        "file_name": "php-7.0.31.tar.gz"
     },
     {
         "version": "7.2.9",
         "url": "https://www.php.net/distributions/php-7.2.9.tar.gz",
-        "sha256": "23fcc1e4d10e06ddfdbc1163a8f0d147a7813467273f7946eb0de1b825d1d3e6"
+        "sha256": "23fcc1e4d10e06ddfdbc1163a8f0d147a7813467273f7946eb0de1b825d1d3e6",
+        "file_name": "php-7.2.9.tar.gz"
     },
     {
         "version": "7.1.20",
         "url": "https://www.php.net/distributions/php-7.1.20.tar.gz",
-        "sha256": "77a2091f4ab50367a6c68274a0d92e0da9ecdbf428b280c9836c5c6d512da450"
+        "sha256": "77a2091f4ab50367a6c68274a0d92e0da9ecdbf428b280c9836c5c6d512da450",
+        "file_name": "php-7.1.20.tar.gz"
     },
     {
         "version": "7.2.8",
         "url": "https://www.php.net/distributions/php-7.2.8.tar.gz",
-        "sha256": "a0cb9bf2f78498fc090eb553df03cdacc198785dec0818efa7a1804c2b7a8722"
+        "sha256": "a0cb9bf2f78498fc090eb553df03cdacc198785dec0818efa7a1804c2b7a8722",
+        "file_name": "php-7.2.8.tar.gz"
     },
     {
         "version": "7.1.19",
         "url": "https://www.php.net/distributions/php-7.1.19.tar.gz",
-        "sha256": "e1ae477b72bed02cdcb04f0157b8f8767bd4f6030416ae06408b4f6d85ee66a1"
+        "sha256": "e1ae477b72bed02cdcb04f0157b8f8767bd4f6030416ae06408b4f6d85ee66a1",
+        "file_name": "php-7.1.19.tar.gz"
     },
     {
         "version": "7.0.30",
         "url": "https://www.php.net/distributions/php-7.0.30.tar.gz",
-        "sha256": "54e7615205123b940b996300bf99c707c2317b6b78388061a204b23ab3388a26"
+        "sha256": "54e7615205123b940b996300bf99c707c2317b6b78388061a204b23ab3388a26",
+        "file_name": "php-7.0.30.tar.gz"
     },
     {
         "version": "7.2.7",
         "url": "https://www.php.net/distributions/php-7.2.7.tar.gz",
-        "sha256": "014f0560cfa22e6301b0024a6fd888c3612a0dc102ff355fa2b49544d16d43b1"
+        "sha256": "014f0560cfa22e6301b0024a6fd888c3612a0dc102ff355fa2b49544d16d43b1",
+        "file_name": "php-7.2.7.tar.gz"
     },
     {
         "version": "7.1.18",
         "url": "https://www.php.net/distributions/php-7.1.18.tar.gz",
-        "sha256": "07c24ae4dd59d81d3dc0ce89025ae667979150e2ee0e9e30dd89e04e31d510fb"
+        "sha256": "07c24ae4dd59d81d3dc0ce89025ae667979150e2ee0e9e30dd89e04e31d510fb",
+        "file_name": "php-7.1.18.tar.gz"
     },
     {
         "version": "7.2.6",
         "url": "https://www.php.net/distributions/php-7.2.6.tar.gz",
-        "sha256": "a9f30daf6af82ac02e692465cfd65b04a60d56106c961926e264d2621d313f0e"
+        "sha256": "a9f30daf6af82ac02e692465cfd65b04a60d56106c961926e264d2621d313f0e",
+        "file_name": "php-7.2.6.tar.gz"
     },
     {
         "version": "7.1.17",
         "url": "https://www.php.net/distributions/php-7.1.17.tar.gz",
-        "sha256": "aba44265bf814a020282afa63321323e1f81da61bd7318ab2b941857a15cb144"
+        "sha256": "aba44265bf814a020282afa63321323e1f81da61bd7318ab2b941857a15cb144",
+        "file_name": "php-7.1.17.tar.gz"
     },
     {
         "version": "7.2.5",
         "url": "https://www.php.net/distributions/php-7.2.5.tar.gz",
-        "sha256": "c198aedd4cd16db0803e0ef955036722a1f4ce9ad3827546709fac05f1567ba5"
+        "sha256": "c198aedd4cd16db0803e0ef955036722a1f4ce9ad3827546709fac05f1567ba5",
+        "file_name": "php-7.2.5.tar.gz"
     },
     {
         "version": "7.1.16",
         "url": "https://www.php.net/distributions/php-7.1.16.tar.gz",
-        "sha256": "c8e6fed5b350b29a5b9eaa9fce7c5e8618629346e9a58212f3dc380046065442"
+        "sha256": "c8e6fed5b350b29a5b9eaa9fce7c5e8618629346e9a58212f3dc380046065442",
+        "file_name": "php-7.1.16.tar.gz"
     },
     {
         "version": "7.0.29",
         "url": "https://www.php.net/distributions/php-7.0.29.tar.gz",
-        "sha256": "5efe45e345f967cb20f9ff92cd514753872a65feffea1bf311c71864344bd8e8"
+        "sha256": "5efe45e345f967cb20f9ff92cd514753872a65feffea1bf311c71864344bd8e8",
+        "file_name": "php-7.0.29.tar.gz"
     },
     {
         "version": "7.2.4",
         "url": "https://www.php.net/distributions/php-7.2.4.tar.gz",
-        "sha256": "58e28e978baea0fe9009432bcb436934eaacccfdcb5f5409c7526431a595857b"
+        "sha256": "58e28e978baea0fe9009432bcb436934eaacccfdcb5f5409c7526431a595857b",
+        "file_name": "php-7.2.4.tar.gz"
     },
     {
         "version": "7.1.15",
         "url": "https://www.php.net/distributions/php-7.1.15.tar.gz",
-        "sha256": "0669c68a52cbd2f1cfa83354918ed03b0bcaa34ed9bafaee7dfd343461b881d4"
+        "sha256": "0669c68a52cbd2f1cfa83354918ed03b0bcaa34ed9bafaee7dfd343461b881d4",
+        "file_name": "php-7.1.15.tar.gz"
     },
     {
         "version": "7.2.3",
         "url": "https://www.php.net/distributions/php-7.2.3.tar.gz",
-        "sha256": "5dc98f2266db40c5e4d9b5edf5e29e2449e819fff8321a07eb3830cf0b104bbb"
+        "sha256": "5dc98f2266db40c5e4d9b5edf5e29e2449e819fff8321a07eb3830cf0b104bbb",
+        "file_name": "php-7.2.3.tar.gz"
     },
     {
         "version": "7.0.28",
         "url": "https://www.php.net/distributions/php-7.0.28.tar.gz",
-        "sha256": "cd2fd94feb0d5809ffb9d900138643fa74e70656436e5f2595b03239dd97aa9c"
+        "sha256": "cd2fd94feb0d5809ffb9d900138643fa74e70656436e5f2595b03239dd97aa9c",
+        "file_name": "php-7.0.28.tar.gz"
     },
     {
         "version": "7.1.14",
         "url": "https://www.php.net/distributions/php-7.1.14.tar.gz",
-        "sha256": "8c7360209d255ee46d388bdcd43ef1a2d14b370c331be30ea628ece18a1e7683"
+        "sha256": "8c7360209d255ee46d388bdcd43ef1a2d14b370c331be30ea628ece18a1e7683",
+        "file_name": "php-7.1.14.tar.gz"
     },
     {
         "version": "7.2.2",
         "url": "https://www.php.net/distributions/php-7.2.2.tar.gz",
-        "sha256": "5963df05fec21927c03fe9f7bf379be2d1eacde6c0f9dcde6143c7133e55abd4"
+        "sha256": "5963df05fec21927c03fe9f7bf379be2d1eacde6c0f9dcde6143c7133e55abd4",
+        "file_name": "php-7.2.2.tar.gz"
     },
     {
         "version": "7.0.27",
         "url": "https://www.php.net/distributions/php-7.0.27.tar.gz",
-        "sha256": "809c0181e970dd17c6a6cabbf64518e719c7253e7490f8e1279bc1e1fbdf7996"
+        "sha256": "809c0181e970dd17c6a6cabbf64518e719c7253e7490f8e1279bc1e1fbdf7996",
+        "file_name": "php-7.0.27.tar.gz"
     },
     {
         "version": "7.2.1",
         "url": "https://www.php.net/distributions/php-7.2.1.tar.gz",
-        "sha256": "8ecb2950571054a00687ccbd023874a4a075ccd1e2ec3dc00fc25ef589a77dba"
+        "sha256": "8ecb2950571054a00687ccbd023874a4a075ccd1e2ec3dc00fc25ef589a77dba",
+        "file_name": "php-7.2.1.tar.gz"
     },
     {
         "version": "7.1.13",
         "url": "https://www.php.net/distributions/php-7.1.13.tar.gz",
-        "sha256": "12fcbf59c9eb9af215ef38815d5da39b9d74549092c34b0dfc31442699740ce9"
+        "sha256": "12fcbf59c9eb9af215ef38815d5da39b9d74549092c34b0dfc31442699740ce9",
+        "file_name": "php-7.1.13.tar.gz"
     },
     {
         "version": "7.2.0",
         "url": "https://www.php.net/distributions/php-7.2.0.tar.gz",
-        "sha256": "801876abd52e0dc58a44701344252035fd50702d8f510cda7fdb317ab79897bc"
+        "sha256": "801876abd52e0dc58a44701344252035fd50702d8f510cda7fdb317ab79897bc",
+        "file_name": "php-7.2.0.tar.gz"
     },
     {
         "version": "7.1.12",
         "url": "https://www.php.net/distributions/php-7.1.12.tar.gz",
-        "sha256": "188c67d8e424ce7a6fe93475aa64f53182c1d80ca3ac99439651ca91569d969c"
+        "sha256": "188c67d8e424ce7a6fe93475aa64f53182c1d80ca3ac99439651ca91569d969c",
+        "file_name": "php-7.1.12.tar.gz"
     },
     {
         "version": "7.0.26",
         "url": "https://www.php.net/distributions/php-7.0.26.tar.gz",
-        "sha256": "04c345f7c9e3f1cd02f275bfec893a4e0290e724073f2f3d7282a219128b537c"
+        "sha256": "04c345f7c9e3f1cd02f275bfec893a4e0290e724073f2f3d7282a219128b537c",
+        "file_name": "php-7.0.26.tar.gz"
     },
     {
         "version": "7.1.11",
         "url": "https://www.php.net/distributions/php-7.1.11.tar.gz",
-        "sha256": "de41b2c166bc5ec8ea96a337d4dd675c794f7b115a8a47bb04595c03dbbdf425"
+        "sha256": "de41b2c166bc5ec8ea96a337d4dd675c794f7b115a8a47bb04595c03dbbdf425",
+        "file_name": "php-7.1.11.tar.gz"
     },
     {
         "version": "7.0.25",
         "url": "https://www.php.net/distributions/php-7.0.25.tar.gz",
-        "sha256": "081b46bf588d38c636fd6cd1dab8855b6b3e171550d1e65f770f53aede594ee7"
+        "sha256": "081b46bf588d38c636fd6cd1dab8855b6b3e171550d1e65f770f53aede594ee7",
+        "file_name": "php-7.0.25.tar.gz"
     },
     {
         "version": "7.1.10",
         "url": "https://www.php.net/distributions/php-7.1.10.tar.gz",
-        "sha256": "edc6a7c3fe89419525ce51969c5f48610e53613235bbef255c3a4db33b458083"
+        "sha256": "edc6a7c3fe89419525ce51969c5f48610e53613235bbef255c3a4db33b458083",
+        "file_name": "php-7.1.10.tar.gz"
     },
     {
         "version": "7.0.24",
         "url": "https://www.php.net/distributions/php-7.0.24.tar.gz",
-        "sha256": "151015b578c14a4ab47d1e5894b36c85cf5655237599b805a08d106fe18a8c8e"
+        "sha256": "151015b578c14a4ab47d1e5894b36c85cf5655237599b805a08d106fe18a8c8e",
+        "file_name": "php-7.0.24.tar.gz"
     },
     {
         "version": "7.1.9",
         "url": "https://www.php.net/distributions/php-7.1.9.tar.gz",
-        "sha256": "499c31ad19b2ff553ae686ebf53749aa2351af7d955ee9f1986f144089561a4b"
+        "sha256": "499c31ad19b2ff553ae686ebf53749aa2351af7d955ee9f1986f144089561a4b",
+        "file_name": "php-7.1.9.tar.gz"
     },
     {
         "version": "7.0.23",
         "url": "https://www.php.net/distributions/php-7.0.23.tar.gz",
-        "sha256": "d511089ecaf386f3ab752efba76558c03558afa6b5b3fe71d84881c76644b466"
+        "sha256": "d511089ecaf386f3ab752efba76558c03558afa6b5b3fe71d84881c76644b466",
+        "file_name": "php-7.0.23.tar.gz"
     },
     {
         "version": "7.1.8",
         "url": "https://www.php.net/distributions/php-7.1.8.tar.gz",
-        "sha256": "63517b3264f7cb17fb58e1ce60a6cd8903160239b7cf568d52024e9cf4d6cb04"
+        "sha256": "63517b3264f7cb17fb58e1ce60a6cd8903160239b7cf568d52024e9cf4d6cb04",
+        "file_name": "php-7.1.8.tar.gz"
     },
     {
         "version": "7.0.22",
         "url": "https://www.php.net/distributions/php-7.0.22.tar.gz",
-        "sha256": "04292eaea0eeb75e9b6a36a3db8e90a3d43f939646fd9d7d1e083e5b70884383"
+        "sha256": "04292eaea0eeb75e9b6a36a3db8e90a3d43f939646fd9d7d1e083e5b70884383",
+        "file_name": "php-7.0.22.tar.gz"
     },
     {
         "version": "7.1.7",
         "url": "https://www.php.net/distributions/php-7.1.7.tar.gz",
-        "sha256": "e0dbab8da601ee5119368d6f93dc1a86ad53b799d2f8c1209d6b827a2b259f92"
+        "sha256": "e0dbab8da601ee5119368d6f93dc1a86ad53b799d2f8c1209d6b827a2b259f92",
+        "file_name": "php-7.1.7.tar.gz"
     },
     {
         "version": "7.0.21",
         "url": "https://www.php.net/distributions/php-7.0.21.tar.gz",
-        "sha256": "f2f05f629dd02c75834ddf033916bd5ff92a720602839d81fd8b6d90e37b6225"
+        "sha256": "f2f05f629dd02c75834ddf033916bd5ff92a720602839d81fd8b6d90e37b6225",
+        "file_name": "php-7.0.21.tar.gz"
     },
     {
         "version": "7.1.6",
         "url": "https://www.php.net/distributions/php-7.1.6.tar.gz",
-        "sha256": "7ff8c01af791c7e499ee77e1b82e4b1d56e379efe1f706b1203d48751481fd9f"
+        "sha256": "7ff8c01af791c7e499ee77e1b82e4b1d56e379efe1f706b1203d48751481fd9f",
+        "file_name": "php-7.1.6.tar.gz"
     },
     {
         "version": "7.0.20",
         "url": "https://www.php.net/distributions/php-7.0.20.tar.gz",
-        "sha256": "b44947f0c1926928d5c2f176506b878c32b5cd09ce3b5b52bbbecf4328ab812d"
+        "sha256": "b44947f0c1926928d5c2f176506b878c32b5cd09ce3b5b52bbbecf4328ab812d",
+        "file_name": "php-7.0.20.tar.gz"
     },
     {
         "version": "7.1.5",
         "url": "https://www.php.net/distributions/php-7.1.5.tar.gz",
-        "sha256": "f7ff8039f5c3a7da4d62a3cce6378280224acfa27ab5a5bee25b7439bce01c17"
+        "sha256": "f7ff8039f5c3a7da4d62a3cce6378280224acfa27ab5a5bee25b7439bce01c17",
+        "file_name": "php-7.1.5.tar.gz"
     },
     {
         "version": "7.0.19",
         "url": "https://www.php.net/distributions/php-7.0.19.tar.gz",
-        "sha256": "4b4120acdbb8cbf5f7a18625c2eb5cdd2fdb4fc69a4831bc7ffdfd1ee78b1ce0"
+        "sha256": "4b4120acdbb8cbf5f7a18625c2eb5cdd2fdb4fc69a4831bc7ffdfd1ee78b1ce0",
+        "file_name": "php-7.0.19.tar.gz"
     },
     {
         "version": "7.1.4",
         "url": "https://www.php.net/distributions/php-7.1.4.tar.gz",
-        "sha256": "ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f"
+        "sha256": "ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f",
+        "file_name": "php-7.1.4.tar.gz"
     },
     {
         "version": "7.0.18",
         "url": "https://www.php.net/distributions/php-7.0.18.tar.gz",
-        "sha256": "e0fb336749d72e6c9cfcebb9b48497f004fa99f93b68c21cb3eb657053665e1d"
+        "sha256": "e0fb336749d72e6c9cfcebb9b48497f004fa99f93b68c21cb3eb657053665e1d",
+        "file_name": "php-7.0.18.tar.gz"
     },
     {
         "version": "7.1.3",
         "url": "https://www.php.net/distributions/php-7.1.3.tar.gz",
-        "sha256": "4bfadd0012b966eced448497272150ffeede13136a961aacb9e71553b8e929ec"
+        "sha256": "4bfadd0012b966eced448497272150ffeede13136a961aacb9e71553b8e929ec",
+        "file_name": "php-7.1.3.tar.gz"
     },
     {
         "version": "7.0.17",
         "url": "https://www.php.net/distributions/php-7.0.17.tar.gz",
-        "sha256": "1f42ffe9895dad746baf4a0e8d81f2272f55fdef66cf298ac911d8791ceb1e80"
+        "sha256": "1f42ffe9895dad746baf4a0e8d81f2272f55fdef66cf298ac911d8791ceb1e80",
+        "file_name": "php-7.0.17.tar.gz"
     },
     {
         "version": "7.1.2",
         "url": "https://www.php.net/distributions/php-7.1.2.tar.gz",
-        "sha256": "e6773217c9c719ca22abb104ae3d437d53daceaf31faf2e5eeb1f9f5028005d8"
+        "sha256": "e6773217c9c719ca22abb104ae3d437d53daceaf31faf2e5eeb1f9f5028005d8",
+        "file_name": "php-7.1.2.tar.gz"
     },
     {
         "version": "7.0.16",
         "url": "https://www.php.net/distributions/php-7.0.16.tar.gz",
-        "sha256": "bc6709dc7612957d0533c09c9c8a9c2e7c4fd9d64e697707bb1b39670eab61d4"
+        "sha256": "bc6709dc7612957d0533c09c9c8a9c2e7c4fd9d64e697707bb1b39670eab61d4",
+        "file_name": "php-7.0.16.tar.gz"
     },
     {
         "version": "7.1.1",
         "url": "https://www.php.net/distributions/php-7.1.1.tar.gz",
-        "sha256": "c136279d539c3c2c25176bf149c14913670e79bb27ee6b73e1cd69003985a70d"
+        "sha256": "c136279d539c3c2c25176bf149c14913670e79bb27ee6b73e1cd69003985a70d",
+        "file_name": "php-7.1.1.tar.gz"
     },
     {
         "version": "7.0.15",
         "url": "https://www.php.net/distributions/php-7.0.15.tar.gz",
-        "sha256": "c24324c6d4bf27e8bc1d12da0aae4f15a43c8374f681e23e9b1e67f5b719c3a6"
+        "sha256": "c24324c6d4bf27e8bc1d12da0aae4f15a43c8374f681e23e9b1e67f5b719c3a6",
+        "file_name": "php-7.0.15.tar.gz"
     },
     {
         "version": "7.0.14",
         "url": "https://www.php.net/distributions/php-7.0.14.tar.gz",
-        "sha256": "320cfd2184e7252d3d77eae5d5474554fa04ab9fbee7c6094c07e8bd3b5b632b"
+        "sha256": "320cfd2184e7252d3d77eae5d5474554fa04ab9fbee7c6094c07e8bd3b5b632b",
+        "file_name": "php-7.0.14.tar.gz"
     },
     {
         "version": "7.1.0",
         "url": "https://www.php.net/distributions/php-7.1.0.tar.gz",
-        "sha256": "9e84c5b13005c56374730edf534fe216f6a2e63792a9703d4b894e770bbccbae"
+        "sha256": "9e84c5b13005c56374730edf534fe216f6a2e63792a9703d4b894e770bbccbae",
+        "file_name": "php-7.1.0.tar.gz"
     },
     {
         "version": "7.0.13",
         "url": "https://www.php.net/distributions/php-7.0.13.tar.gz",
-        "sha256": "c8d8cf1b29e7f7e89be9ee64f453cb7ef6d20e1d13a83cba037bd654ef2da42c"
+        "sha256": "c8d8cf1b29e7f7e89be9ee64f453cb7ef6d20e1d13a83cba037bd654ef2da42c",
+        "file_name": "php-7.0.13.tar.gz"
     },
     {
         "version": "7.0.12",
         "url": "https://www.php.net/distributions/php-7.0.12.tar.gz",
-        "sha256": "c4693cc363b4bbc7224294cc94faf3598e616cbe8540dd6975f68c7d3c52682f"
+        "sha256": "c4693cc363b4bbc7224294cc94faf3598e616cbe8540dd6975f68c7d3c52682f",
+        "file_name": "php-7.0.12.tar.gz"
     },
     {
         "version": "7.0.11",
         "url": "https://www.php.net/distributions/php-7.0.11.tar.gz",
-        "sha256": "02d27b5d140dbad8d400a95af808e1e9ce87aa8d2a2100870734ba26e6700d79"
+        "sha256": "02d27b5d140dbad8d400a95af808e1e9ce87aa8d2a2100870734ba26e6700d79",
+        "file_name": "php-7.0.11.tar.gz"
     },
     {
         "version": "7.0.10",
         "url": "https://www.php.net/distributions/php-7.0.10.tar.gz",
-        "sha256": "46216e05db09c0fffbf832e3b64f3722ccbdd6d4ae16d9791e41adf0a4b00641"
+        "sha256": "46216e05db09c0fffbf832e3b64f3722ccbdd6d4ae16d9791e41adf0a4b00641",
+        "file_name": "php-7.0.10.tar.gz"
     },
     {
         "version": "7.0.9",
         "url": "https://www.php.net/distributions/php-7.0.9.tar.gz",
-        "sha256": "93895a6a610c94751c890e5ee91a7f4bc0eae476b95fe30425d13f7ae88753d5"
+        "sha256": "93895a6a610c94751c890e5ee91a7f4bc0eae476b95fe30425d13f7ae88753d5",
+        "file_name": "php-7.0.9.tar.gz"
     },
     {
         "version": "7.0.8",
         "url": "https://www.php.net/distributions/php-7.0.8.tar.gz",
-        "sha256": "1f024fa6d87594b99fa312e3185c357dcffa42e07d21c726f41d1fa6f773720b"
+        "sha256": "1f024fa6d87594b99fa312e3185c357dcffa42e07d21c726f41d1fa6f773720b",
+        "file_name": "php-7.0.8.tar.gz"
     },
     {
         "version": "7.0.7",
         "url": "https://www.php.net/distributions/php-7.0.7.tar.gz",
-        "sha256": "66282ff4a9f88fe9607d9574e15bf335885b964245591a1740adb3f79c514a67"
+        "sha256": "66282ff4a9f88fe9607d9574e15bf335885b964245591a1740adb3f79c514a67",
+        "file_name": "php-7.0.7.tar.gz"
     },
     {
         "version": "7.0.6",
         "url": "https://www.php.net/distributions/php-7.0.6.tar.gz",
-        "sha256": "f6b47cb3e02530d96787ae5c7888aefbd1db6ae4164d68b88808ee6f4da94277"
+        "sha256": "f6b47cb3e02530d96787ae5c7888aefbd1db6ae4164d68b88808ee6f4da94277",
+        "file_name": "php-7.0.6.tar.gz"
     },
     {
         "version": "7.0.5",
         "url": "https://www.php.net/distributions/php-7.0.5.tar.gz",
-        "sha256": "f9d93419031b4df663fc48f03b8a833545de8776225e46637563e2be6029908d"
+        "sha256": "f9d93419031b4df663fc48f03b8a833545de8776225e46637563e2be6029908d",
+        "file_name": "php-7.0.5.tar.gz"
     },
     {
         "version": "7.0.4",
         "url": "https://www.php.net/distributions/php-7.0.4.tar.gz",
-        "sha256": "f6cdac2fd37da0ac0bbcee0187d74b3719c2f83973dfe883d5cde81c356fe0a8"
+        "sha256": "f6cdac2fd37da0ac0bbcee0187d74b3719c2f83973dfe883d5cde81c356fe0a8",
+        "file_name": "php-7.0.4.tar.gz"
     },
     {
         "version": "7.0.3",
         "url": "https://www.php.net/distributions/php-7.0.3.tar.gz",
-        "sha256": "5521df8db153aba35c90cf1a1829106b6bbdac32425216d440f9cc29f00a7c08"
+        "sha256": "5521df8db153aba35c90cf1a1829106b6bbdac32425216d440f9cc29f00a7c08",
+        "file_name": "php-7.0.3.tar.gz"
     },
     {
         "version": "7.0.2",
         "url": "https://www.php.net/distributions/php-7.0.2.tar.gz",
-        "sha256": "040198aef3dc5f17c253c1282160aabc6a05ca0b18b3d6fc9213970363083412"
+        "sha256": "040198aef3dc5f17c253c1282160aabc6a05ca0b18b3d6fc9213970363083412",
+        "file_name": "php-7.0.2.tar.gz"
     },
     {
         "version": "7.0.1",
         "url": "https://www.php.net/distributions/php-7.0.1.tar.gz",
-        "sha256": "d12aaba2bead056322aa53bd5fbe762b27a42d37f451cd42ff2e7a549ca21dbf"
+        "sha256": "d12aaba2bead056322aa53bd5fbe762b27a42d37f451cd42ff2e7a549ca21dbf",
+        "file_name": "php-7.0.1.tar.gz"
     },
     {
         "version": "7.0.0",
         "url": "https://www.php.net/distributions/php-7.0.0.tar.gz",
-        "sha256": "d6ae7b4a2e5c43a9945a97e83b6b3adfb7d0df0b91ef78b647a6dffefaa9c71b"
+        "sha256": "d6ae7b4a2e5c43a9945a97e83b6b3adfb7d0df0b91ef78b647a6dffefaa9c71b",
+        "file_name": "php-7.0.0.tar.gz"
     },
     {
         "version": "5.6.40",
         "url": "https://www.php.net/distributions/php-5.6.40.tar.gz",
-        "sha256": "56fb9878d12fdd921f6a0897e919f4e980d930160e154cbde2cc6d9206a27cac"
+        "sha256": "56fb9878d12fdd921f6a0897e919f4e980d930160e154cbde2cc6d9206a27cac",
+        "file_name": "php-5.6.40.tar.gz"
     },
     {
         "version": "5.6.39",
         "url": "https://www.php.net/distributions/php-5.6.39.tar.gz",
-        "sha256": "127b122b7d6c7f3c211c0ffa554979370c3131196137404a51a391d8e2e9c7bb"
+        "sha256": "127b122b7d6c7f3c211c0ffa554979370c3131196137404a51a391d8e2e9c7bb",
+        "file_name": "php-5.6.39.tar.gz"
     },
     {
         "version": "5.6.38",
         "url": "https://www.php.net/distributions/php-5.6.38.tar.gz",
-        "sha256": "3b74d46cd79a45cce90c8059e09d8bd0beeb5de562cbb0cb42f96ff8fa665fd4"
+        "sha256": "3b74d46cd79a45cce90c8059e09d8bd0beeb5de562cbb0cb42f96ff8fa665fd4",
+        "file_name": "php-5.6.38.tar.gz"
     },
     {
         "version": "5.6.37",
         "url": "https://www.php.net/distributions/php-5.6.37.tar.gz",
-        "sha256": "b7ec077f35ef3a8cdd33c29124140b1761111a1429878b4c463bb20d2a31b184"
+        "sha256": "b7ec077f35ef3a8cdd33c29124140b1761111a1429878b4c463bb20d2a31b184",
+        "file_name": "php-5.6.37.tar.gz"
     },
     {
         "version": "5.6.36",
         "url": "https://www.php.net/distributions/php-5.6.36.tar.gz",
-        "sha256": "06086a8b6a9964ef8009c4d9176b4eeb0c564ea39c1213f015e24f3466d2d69f"
+        "sha256": "06086a8b6a9964ef8009c4d9176b4eeb0c564ea39c1213f015e24f3466d2d69f",
+        "file_name": "php-5.6.36.tar.gz"
     },
     {
         "version": "5.6.35",
         "url": "https://www.php.net/distributions/php-5.6.35.tar.gz",
-        "sha256": "dd0242304f510d48a5216dd2f5796bcf59e8e18366658259aaf205e1d63abf71"
+        "sha256": "dd0242304f510d48a5216dd2f5796bcf59e8e18366658259aaf205e1d63abf71",
+        "file_name": "php-5.6.35.tar.gz"
     },
     {
         "version": "5.6.34",
         "url": "https://www.php.net/distributions/php-5.6.34.tar.gz",
-        "sha256": "de28251ef6d7eb945eb7b770ff668b9f978d9adad52a8c763f6ee409a96732ea"
+        "sha256": "de28251ef6d7eb945eb7b770ff668b9f978d9adad52a8c763f6ee409a96732ea",
+        "file_name": "php-5.6.34.tar.gz"
     },
     {
         "version": "5.6.33",
         "url": "https://www.php.net/distributions/php-5.6.33.tar.gz",
-        "sha256": "bedfac81cfaa25961812a1aec458c4109411a14991b43a416343ffb830b8da6a"
+        "sha256": "bedfac81cfaa25961812a1aec458c4109411a14991b43a416343ffb830b8da6a",
+        "file_name": "php-5.6.33.tar.gz"
     },
     {
         "version": "5.6.32",
         "url": "https://www.php.net/distributions/php-5.6.32.tar.gz",
-        "sha256": "7bef1ae8cd633df5b9c5964262d276d2dc21acbfcd94022d1e2084d199315df4"
+        "sha256": "7bef1ae8cd633df5b9c5964262d276d2dc21acbfcd94022d1e2084d199315df4",
+        "file_name": "php-5.6.32.tar.gz"
     },
     {
         "version": "5.6.31",
         "url": "https://www.php.net/distributions/php-5.6.31.tar.gz",
-        "sha256": "6687ed2f09150b2ad6b3780ff89715891f83a9c331e69c90241ef699dec4c43f"
+        "sha256": "6687ed2f09150b2ad6b3780ff89715891f83a9c331e69c90241ef699dec4c43f",
+        "file_name": "php-5.6.31.tar.gz"
     },
     {
         "version": "5.6.30",
         "url": "https://www.php.net/distributions/php-5.6.30.tar.gz",
-        "sha256": "8bc7d93e4c840df11e3d9855dcad15c1b7134e8acf0cf3b90b932baea2d0bde2"
+        "sha256": "8bc7d93e4c840df11e3d9855dcad15c1b7134e8acf0cf3b90b932baea2d0bde2",
+        "file_name": "php-5.6.30.tar.gz"
     },
     {
         "version": "5.6.29",
         "url": "https://www.php.net/distributions/php-5.6.29.tar.gz",
-        "sha256": "0b1b939129a7286c5a474ac2cf845b979477f26dff36639e04022def9e252574"
+        "sha256": "0b1b939129a7286c5a474ac2cf845b979477f26dff36639e04022def9e252574",
+        "file_name": "php-5.6.29.tar.gz"
     },
     {
         "version": "5.6.28",
         "url": "https://www.php.net/distributions/php-5.6.28.tar.gz",
-        "sha256": "27a47ac15e0868d51181d3909cfe3c63ae9b643a3ab40dc30a75b5b500bce500"
+        "sha256": "27a47ac15e0868d51181d3909cfe3c63ae9b643a3ab40dc30a75b5b500bce500",
+        "file_name": "php-5.6.28.tar.gz"
     },
     {
         "version": "5.6.27",
         "url": "https://www.php.net/distributions/php-5.6.27.tar.gz",
-        "sha256": "3e6cecec615907587a2b35fa8e7f915f038034dc57530734c2b94d381e664a1a"
+        "sha256": "3e6cecec615907587a2b35fa8e7f915f038034dc57530734c2b94d381e664a1a",
+        "file_name": "php-5.6.27.tar.gz"
     },
     {
         "version": "5.6.26",
         "url": "https://www.php.net/distributions/php-5.6.26.tar.gz",
-        "sha256": "f76b6cc23739d9dabf875aee57d91ae73f15e88ddf78803369b8b4728b19b924"
+        "sha256": "f76b6cc23739d9dabf875aee57d91ae73f15e88ddf78803369b8b4728b19b924",
+        "file_name": "php-5.6.26.tar.gz"
     },
     {
         "version": "5.6.25",
         "url": "https://www.php.net/distributions/php-5.6.25.tar.gz",
-        "sha256": "733f1c811d51c2d4031a0c058dc94d09d03858d781ca2eb2cce78853bc76db58"
+        "sha256": "733f1c811d51c2d4031a0c058dc94d09d03858d781ca2eb2cce78853bc76db58",
+        "file_name": "php-5.6.25.tar.gz"
     },
     {
         "version": "5.6.24",
         "url": "https://www.php.net/distributions/php-5.6.24.tar.gz",
-        "sha256": "5f8b2e4e00360fee6eb1b89447266ae45993265955bd1ea9866270d75cdb6ec1"
+        "sha256": "5f8b2e4e00360fee6eb1b89447266ae45993265955bd1ea9866270d75cdb6ec1",
+        "file_name": "php-5.6.24.tar.gz"
     },
     {
         "version": "5.5.38",
         "url": "https://www.php.net/distributions/php-5.5.38.tar.gz",
-        "sha256": "4f458c9b504269615715a62f182b7c2f89bb8284f484befc221b56a1571b506e"
+        "sha256": "4f458c9b504269615715a62f182b7c2f89bb8284f484befc221b56a1571b506e",
+        "file_name": "php-5.5.38.tar.gz"
     },
     {
         "version": "5.6.23",
         "url": "https://www.php.net/distributions/php-5.6.23.tar.gz",
-        "sha256": "5f2274a13970887e8c81500c2afe292d51c3524d1a06554b0a87c74ce0a24ffe"
+        "sha256": "5f2274a13970887e8c81500c2afe292d51c3524d1a06554b0a87c74ce0a24ffe",
+        "file_name": "php-5.6.23.tar.gz"
     },
     {
         "version": "5.5.37",
         "url": "https://www.php.net/distributions/php-5.5.37.tar.gz",
-        "sha256": "7cef04b549fdbe00c26dc785b6ba10439672a1596db518fc46632ecba45f44b9"
+        "sha256": "7cef04b549fdbe00c26dc785b6ba10439672a1596db518fc46632ecba45f44b9",
+        "file_name": "php-5.5.37.tar.gz"
     },
     {
         "version": "5.5.36",
         "url": "https://www.php.net/distributions/php-5.5.36.tar.gz",
-        "sha256": "ef829f9a9600a858e2363533b80c4e4773505bdc8ea3692d703fc893f267728a"
+        "sha256": "ef829f9a9600a858e2363533b80c4e4773505bdc8ea3692d703fc893f267728a",
+        "file_name": "php-5.5.36.tar.gz"
     },
     {
         "version": "5.6.22",
         "url": "https://www.php.net/distributions/php-5.6.22.tar.gz",
-        "sha256": "4ce0f58c3842332c4e3bb2ec1c936c6817294273abaa37ea0ef7ca2a68cf9b21"
+        "sha256": "4ce0f58c3842332c4e3bb2ec1c936c6817294273abaa37ea0ef7ca2a68cf9b21",
+        "file_name": "php-5.6.22.tar.gz"
     },
     {
         "version": "5.6.21",
         "url": "https://www.php.net/distributions/php-5.6.21.tar.gz",
-        "sha256": "5997668c1f6f2d86a59cf75cc86b4a94687884614dec481fad7e13a76b70fcd5"
+        "sha256": "5997668c1f6f2d86a59cf75cc86b4a94687884614dec481fad7e13a76b70fcd5",
+        "file_name": "php-5.6.21.tar.gz"
     },
     {
         "version": "5.5.35",
         "url": "https://www.php.net/distributions/php-5.5.35.tar.gz",
-        "sha256": "21e10a49c62ab34a7edc976af686a952e70142f19135ca8da67758e1c8c3df30"
+        "sha256": "21e10a49c62ab34a7edc976af686a952e70142f19135ca8da67758e1c8c3df30",
+        "file_name": "php-5.5.35.tar.gz"
     },
     {
         "version": "5.6.20",
         "url": "https://www.php.net/distributions/php-5.6.20.tar.gz",
-        "sha256": "9a7ec6e1080ee93dcbe7df3e49ea1c3c3da5fc2258aff763f39ab3786baf8d56"
+        "sha256": "9a7ec6e1080ee93dcbe7df3e49ea1c3c3da5fc2258aff763f39ab3786baf8d56",
+        "file_name": "php-5.6.20.tar.gz"
     },
     {
         "version": "5.5.34",
         "url": "https://www.php.net/distributions/php-5.5.34.tar.gz",
-        "sha256": "0e573b406441294b233e35e1f2e12d7896d68457e3e10bf6e1f4825e75271cca"
+        "sha256": "0e573b406441294b233e35e1f2e12d7896d68457e3e10bf6e1f4825e75271cca",
+        "file_name": "php-5.5.34.tar.gz"
     },
     {
         "version": "5.6.19",
         "url": "https://www.php.net/distributions/php-5.6.19.tar.gz",
-        "sha256": "fce49cddac9337f0c83afbafac5acfb82ba9f876a5a880c88240feac8c9b7a22"
+        "sha256": "fce49cddac9337f0c83afbafac5acfb82ba9f876a5a880c88240feac8c9b7a22",
+        "file_name": "php-5.6.19.tar.gz"
     },
     {
         "version": "5.5.33",
         "url": "https://www.php.net/distributions/php-5.5.33.tar.gz",
-        "sha256": "d2747bcf2cc94f652ac216f522904863a22042c66fabcf82ad7449d261d7a45b"
+        "sha256": "d2747bcf2cc94f652ac216f522904863a22042c66fabcf82ad7449d261d7a45b",
+        "file_name": "php-5.5.33.tar.gz"
     },
     {
         "version": "5.6.18",
         "url": "https://www.php.net/distributions/php-5.6.18.tar.gz",
-        "sha256": "76da4150dc2da86b7b63b1aad3c20d1d11964796251ac0dd4d26d0a3f5045015"
+        "sha256": "76da4150dc2da86b7b63b1aad3c20d1d11964796251ac0dd4d26d0a3f5045015",
+        "file_name": "php-5.6.18.tar.gz"
     },
     {
         "version": "5.5.32",
         "url": "https://www.php.net/distributions/php-5.5.32.tar.gz",
-        "sha256": "419aa62a68a640192799928a29e5cd4cd5b965458223bea2b3209a68c3e95989"
+        "sha256": "419aa62a68a640192799928a29e5cd4cd5b965458223bea2b3209a68c3e95989",
+        "file_name": "php-5.5.32.tar.gz"
     },
     {
         "version": "5.6.17",
         "url": "https://www.php.net/distributions/php-5.6.17.tar.gz",
-        "sha256": "f5036535651e919415f4b6589391c95e4ff48f2d391818251c45da216791aac8"
+        "sha256": "f5036535651e919415f4b6589391c95e4ff48f2d391818251c45da216791aac8",
+        "file_name": "php-5.6.17.tar.gz"
     },
     {
         "version": "5.5.31",
         "url": "https://www.php.net/distributions/php-5.5.31.tar.gz",
-        "sha256": "59a4417029ba5497d17ee02b65f419129ecf9ca8a1d864e0bccd5a3d4407a597"
+        "sha256": "59a4417029ba5497d17ee02b65f419129ecf9ca8a1d864e0bccd5a3d4407a597",
+        "file_name": "php-5.5.31.tar.gz"
     },
     {
         "version": "5.6.16",
         "url": "https://www.php.net/distributions/php-5.6.16.tar.gz",
-        "sha256": "b6618df6b11a275fa28596f1775727679f8492e100f3bd488d8a8bfbfc19349f"
+        "sha256": "b6618df6b11a275fa28596f1775727679f8492e100f3bd488d8a8bfbfc19349f",
+        "file_name": "php-5.6.16.tar.gz"
     },
     {
         "version": "5.5.30",
         "url": "https://www.php.net/distributions/php-5.5.30.tar.gz",
-        "sha256": "8ad57f4317391354e66c83d26752f67515b2e923277eb97b2b420dfeff3c1007"
+        "sha256": "8ad57f4317391354e66c83d26752f67515b2e923277eb97b2b420dfeff3c1007",
+        "file_name": "php-5.5.30.tar.gz"
     },
     {
         "version": "5.6.15",
         "url": "https://www.php.net/distributions/php-5.6.15.tar.gz",
-        "sha256": "bb2d4c226a4897b7c3659c2538a87aef7ec104f58f5ae930a263dd77fb8ebc40"
+        "sha256": "bb2d4c226a4897b7c3659c2538a87aef7ec104f58f5ae930a263dd77fb8ebc40",
+        "file_name": "php-5.6.15.tar.gz"
     },
     {
         "version": "5.6.14",
         "url": "https://www.php.net/distributions/php-5.6.14.tar.gz",
-        "sha256": "29baf7ffca644f7f8e86028c40275b9e460342bdf9562d45f8f0498899cb738d"
+        "sha256": "29baf7ffca644f7f8e86028c40275b9e460342bdf9562d45f8f0498899cb738d",
+        "file_name": "php-5.6.14.tar.gz"
     },
     {
         "version": "5.6.13",
         "url": "https://www.php.net/distributions/php-5.6.13.tar.gz",
-        "sha256": "92acc6c067f5e015a6881b4119eafec10eca11722e810f2c2083f72e17119bcf"
+        "sha256": "92acc6c067f5e015a6881b4119eafec10eca11722e810f2c2083f72e17119bcf",
+        "file_name": "php-5.6.13.tar.gz"
     },
     {
         "version": "5.5.29",
         "url": "https://www.php.net/distributions/php-5.5.29.tar.gz",
-        "sha256": "c25a4c4eae558cc9899d2994813dd272eafff9466926f30821a83edaafe620a9"
+        "sha256": "c25a4c4eae558cc9899d2994813dd272eafff9466926f30821a83edaafe620a9",
+        "file_name": "php-5.5.29.tar.gz"
     },
     {
         "version": "5.5.28",
         "url": "https://www.php.net/distributions/php-5.5.28.tar.gz",
-        "sha256": "6084f25a39ab2f79ade46bf0258a1cd6c9bbb09a106b40dd996dbdf8cd3b08f2"
+        "sha256": "6084f25a39ab2f79ade46bf0258a1cd6c9bbb09a106b40dd996dbdf8cd3b08f2",
+        "file_name": "php-5.5.28.tar.gz"
     },
     {
         "version": "5.6.12",
         "url": "https://www.php.net/distributions/php-5.6.12.tar.gz",
-        "sha256": "7799b42606c1770d1ad90bfc7521d2b6c294c4c27dcf1a206dee562533b4f984"
+        "sha256": "7799b42606c1770d1ad90bfc7521d2b6c294c4c27dcf1a206dee562533b4f984",
+        "file_name": "php-5.6.12.tar.gz"
     },
     {
         "version": "5.6.11",
         "url": "https://www.php.net/distributions/php-5.6.11.tar.gz",
-        "sha256": "85916b46c0d1f2a5315c84fb2773293f4084c3676ba4ed420d0432cbb60ff9d8"
+        "sha256": "85916b46c0d1f2a5315c84fb2773293f4084c3676ba4ed420d0432cbb60ff9d8",
+        "file_name": "php-5.6.11.tar.gz"
     },
     {
         "version": "5.5.27",
         "url": "https://www.php.net/distributions/php-5.5.27.tar.gz",
-        "sha256": "57cc716ebb37a62654c154582e48a282055b08ce91995c79b0be41b9940237f0"
+        "sha256": "57cc716ebb37a62654c154582e48a282055b08ce91995c79b0be41b9940237f0",
+        "file_name": "php-5.5.27.tar.gz"
     },
     {
         "version": "5.6.10",
         "url": "https://www.php.net/distributions/php-5.6.10.tar.gz",
-        "sha256": "7759d6e178be524085e1482921748c14d11cbd0a133ba8aabb96c391ce7ed3fc"
+        "sha256": "7759d6e178be524085e1482921748c14d11cbd0a133ba8aabb96c391ce7ed3fc",
+        "file_name": "php-5.6.10.tar.gz"
     },
     {
         "version": "5.5.26",
         "url": "https://www.php.net/distributions/php-5.5.26.tar.gz",
-        "sha256": "bee980d433bab99d07ee2bf6f2dcb87d746e49d57adec7d0ce7edb39306695ec"
+        "sha256": "bee980d433bab99d07ee2bf6f2dcb87d746e49d57adec7d0ce7edb39306695ec",
+        "file_name": "php-5.5.26.tar.gz"
     },
     {
         "version": "5.6.9",
         "url": "https://www.php.net/distributions/php-5.6.9.tar.gz",
-        "sha256": "49527ba66357fe65bcd463dfb8dcff1b8879419f88b3c334f50696a2aceacb87"
+        "sha256": "49527ba66357fe65bcd463dfb8dcff1b8879419f88b3c334f50696a2aceacb87",
+        "file_name": "php-5.6.9.tar.gz"
     },
     {
         "version": "5.5.25",
         "url": "https://www.php.net/distributions/php-5.5.25.tar.gz",
-        "sha256": "c9397f60bff139e0df441c5e2766108c5bc7ad690de136eb9f5b2f9bbf771240"
+        "sha256": "c9397f60bff139e0df441c5e2766108c5bc7ad690de136eb9f5b2f9bbf771240",
+        "file_name": "php-5.5.25.tar.gz"
     },
     {
         "version": "5.6.8",
         "url": "https://www.php.net/distributions/php-5.6.8.tar.gz",
-        "sha256": "c5b1c75c5671c239473eb611129f33ac432a55a1c341990b70009a2aa3b8dbc3"
+        "sha256": "c5b1c75c5671c239473eb611129f33ac432a55a1c341990b70009a2aa3b8dbc3",
+        "file_name": "php-5.6.8.tar.gz"
     },
     {
         "version": "5.5.24",
         "url": "https://www.php.net/distributions/php-5.5.24.tar.gz",
-        "sha256": "43e6b83fe8151f8d2062ca4da915312fc92e47789801049231c705a8b29b05bc"
+        "sha256": "43e6b83fe8151f8d2062ca4da915312fc92e47789801049231c705a8b29b05bc",
+        "file_name": "php-5.5.24.tar.gz"
     },
     {
         "version": "5.6.7",
         "url": "https://www.php.net/distributions/php-5.6.7.tar.gz",
-        "sha256": "11398540a582c876f5e070207231afde975eb49bb2eeae20b052e8ca325c0f47"
+        "sha256": "11398540a582c876f5e070207231afde975eb49bb2eeae20b052e8ca325c0f47",
+        "file_name": "php-5.6.7.tar.gz"
     },
     {
         "version": "5.5.23",
         "url": "https://www.php.net/distributions/php-5.5.23.tar.gz",
-        "sha256": "bf1246d4aca5b1a4e26f5cea273565ad3ee4607f20b7f28a508e3cab1a4d0c82"
+        "sha256": "bf1246d4aca5b1a4e26f5cea273565ad3ee4607f20b7f28a508e3cab1a4d0c82",
+        "file_name": "php-5.5.23.tar.gz"
     },
     {
         "version": "5.6.6",
         "url": "https://www.php.net/distributions/php-5.6.6.tar.gz",
-        "sha256": "164fb27bab0a0ca4902bc67d5f5638e43466c88153aee3b54546d8ec682ec03b"
+        "sha256": "164fb27bab0a0ca4902bc67d5f5638e43466c88153aee3b54546d8ec682ec03b",
+        "file_name": "php-5.6.6.tar.gz"
     },
     {
         "version": "5.5.22",
         "url": "https://www.php.net/distributions/php-5.5.22.tar.gz",
-        "sha256": "cb6174e1e74de233ec7b461302f823a7eacf7bcc946d347486c930e53f2b7db7"
+        "sha256": "cb6174e1e74de233ec7b461302f823a7eacf7bcc946d347486c930e53f2b7db7",
+        "file_name": "php-5.5.22.tar.gz"
     },
     {
         "version": "5.6.5",
         "url": "https://www.php.net/distributions/php-5.6.5.tar.gz",
-        "sha256": "f67c480bcf2f6f703ec8d8a772540f4a518f766b08d634d7a919402c13a636cf"
+        "sha256": "f67c480bcf2f6f703ec8d8a772540f4a518f766b08d634d7a919402c13a636cf",
+        "file_name": "php-5.6.5.tar.gz"
     },
     {
         "version": "5.5.21",
         "url": "https://www.php.net/distributions/php-5.5.21.tar.gz",
-        "sha256": "45adba5b4d2519f6174b85fd5b07a77389f397603d84084bdd26c44b3d7dc8af"
+        "sha256": "45adba5b4d2519f6174b85fd5b07a77389f397603d84084bdd26c44b3d7dc8af",
+        "file_name": "php-5.5.21.tar.gz"
     },
     {
         "version": "5.6.4",
         "url": "https://www.php.net/distributions/php-5.6.4.tar.gz",
-        "sha256": "9c318f10af598e3d0b306a00860cfeb13c34024a9032a59ff53e3cd3c7791e97"
+        "sha256": "9c318f10af598e3d0b306a00860cfeb13c34024a9032a59ff53e3cd3c7791e97",
+        "file_name": "php-5.6.4.tar.gz"
     },
     {
         "version": "5.5.20",
         "url": "https://www.php.net/distributions/php-5.5.20.tar.gz",
-        "sha256": "7454e4f2dba3b08b2c88bb178e7bf704ed100f3d7ab6b83ea5046a6e4acb7295"
+        "sha256": "7454e4f2dba3b08b2c88bb178e7bf704ed100f3d7ab6b83ea5046a6e4acb7295",
+        "file_name": "php-5.5.20.tar.gz"
     },
     {
         "version": "5.6.3",
         "url": "https://www.php.net/distributions/php-5.6.3.tar.gz",
-        "sha256": "7ac79fe7ef50c2d5893375f5d8854909337adf1632e42bb08b36b66a0d8016a7"
+        "sha256": "7ac79fe7ef50c2d5893375f5d8854909337adf1632e42bb08b36b66a0d8016a7",
+        "file_name": "php-5.6.3.tar.gz"
     },
     {
         "version": "5.5.19",
         "url": "https://www.php.net/distributions/php-5.5.19.tar.gz",
-        "sha256": "8d39f224424f37644da913353f1e773c20b7fc55bb3cc81526c18f91d1d6394e"
+        "sha256": "8d39f224424f37644da913353f1e773c20b7fc55bb3cc81526c18f91d1d6394e",
+        "file_name": "php-5.5.19.tar.gz"
     },
     {
         "version": "5.6.2",
         "url": "https://www.php.net/distributions/php-5.6.2.tar.gz",
-        "sha256": "4bb316831979317caf738bb9e2c590bf3b7951ce60c69b9ca33f26069d9a2f39"
+        "sha256": "4bb316831979317caf738bb9e2c590bf3b7951ce60c69b9ca33f26069d9a2f39",
+        "file_name": "php-5.6.2.tar.gz"
     },
     {
         "version": "5.5.18",
         "url": "https://www.php.net/distributions/php-5.5.18.tar.gz",
-        "sha256": "71f6445cc21c944a3b98592193c62e29a58af3fe26d097312502b4fd400286e4"
+        "sha256": "71f6445cc21c944a3b98592193c62e29a58af3fe26d097312502b4fd400286e4",
+        "file_name": "php-5.5.18.tar.gz"
     },
     {
         "version": "5.6.1",
         "url": "https://www.php.net/distributions/php-5.6.1.tar.gz",
-        "sha256": "e34f0ab6b1f431f3115f60094f6d7ded12a90db2361194b8ef9e6eff812db21c"
+        "sha256": "e34f0ab6b1f431f3115f60094f6d7ded12a90db2361194b8ef9e6eff812db21c",
+        "file_name": "php-5.6.1.tar.gz"
     },
     {
         "version": "5.5.17",
         "url": "https://www.php.net/distributions/php-5.5.17.tar.gz",
-        "sha256": "657169be88ae70625d97bb94dd29140c2b602f1ba8d5e42ca14a400b63cf4720"
+        "sha256": "657169be88ae70625d97bb94dd29140c2b602f1ba8d5e42ca14a400b63cf4720",
+        "file_name": "php-5.5.17.tar.gz"
     },
     {
         "version": "5.6.0",
         "url": "https://www.php.net/distributions/php-5.6.0.tar.gz",
-        "sha256": "284b85376c630a6a7163e5278d64b8526fa1324fe5fd5d21174b54e2c056533f"
+        "sha256": "284b85376c630a6a7163e5278d64b8526fa1324fe5fd5d21174b54e2c056533f",
+        "file_name": "php-5.6.0.tar.gz"
     },
     {
         "version": "5.5.16",
         "url": "https://www.php.net/distributions/php-5.5.16.tar.gz",
-        "sha256": "cdea80ab1b0466f4656b46155e341b700799e78569a5cc582eeaededb448086c"
+        "sha256": "cdea80ab1b0466f4656b46155e341b700799e78569a5cc582eeaededb448086c",
+        "file_name": "php-5.5.16.tar.gz"
     },
     {
         "version": "5.5.15",
         "url": "https://www.php.net/distributions/php-5.5.15.tar.gz",
-        "sha256": "578febd686018401c4857699b29502b1aecaf82bf43525d810867f583961ac6e"
+        "sha256": "578febd686018401c4857699b29502b1aecaf82bf43525d810867f583961ac6e",
+        "file_name": "php-5.5.15.tar.gz"
     },
     {
         "version": "5.5.14",
         "url": "https://www.php.net/distributions/php-5.5.14.tar.gz",
-        "sha256": "ef7e4f4942c5767e01b96650a5bd4178c663738436f99b5695c3144732ff7166"
+        "sha256": "ef7e4f4942c5767e01b96650a5bd4178c663738436f99b5695c3144732ff7166",
+        "file_name": "php-5.5.14.tar.gz"
     },
     {
         "version": "5.5.13",
         "url": "https://www.php.net/distributions/php-5.5.13.tar.gz",
-        "sha256": "15e34eb7c45e66963cbece29fb41e53cc6c6e3ec4a54c291a53cf6a1527771b6"
+        "sha256": "15e34eb7c45e66963cbece29fb41e53cc6c6e3ec4a54c291a53cf6a1527771b6",
+        "file_name": "php-5.5.13.tar.gz"
     },
     {
         "version": "5.5.12",
         "url": "https://www.php.net/distributions/php-5.5.12.tar.gz",
-        "sha256": "a10c6e6ce1145762d6c15ca7ce1aeaab69662c197d24e1294c2519aa85c97bd6"
+        "sha256": "a10c6e6ce1145762d6c15ca7ce1aeaab69662c197d24e1294c2519aa85c97bd6",
+        "file_name": "php-5.5.12.tar.gz"
     },
     {
         "version": "5.5.11",
         "url": "https://www.php.net/distributions/php-5.5.11.tar.gz",
-        "sha256": "a8b7bb1049732bf806e94090661f39f8359e0bf36d59ce6b98a53ea80411b450"
+        "sha256": "a8b7bb1049732bf806e94090661f39f8359e0bf36d59ce6b98a53ea80411b450",
+        "file_name": "php-5.5.11.tar.gz"
     },
     {
         "version": "5.5.10",
         "url": "https://www.php.net/distributions/php-5.5.10.tar.gz",
-        "sha256": "abf751810593844e0897007797210828b193a213d9b204f203e0331019cadb90"
+        "sha256": "abf751810593844e0897007797210828b193a213d9b204f203e0331019cadb90",
+        "file_name": "php-5.5.10.tar.gz"
     },
     {
         "version": "5.5.9",
         "url": "https://www.php.net/distributions/php-5.5.9.tar.gz",
-        "sha256": "ec1bf0cb3be80240049dbd92c272d4bf242a614fa5f9dcc42a15adb5fd01ccde"
+        "sha256": "ec1bf0cb3be80240049dbd92c272d4bf242a614fa5f9dcc42a15adb5fd01ccde",
+        "file_name": "php-5.5.9.tar.gz"
     },
     {
         "version": "5.5.8",
         "url": "https://www.php.net/distributions/php-5.5.8.tar.gz",
-        "sha256": "67c74a9a2357dc65f5b1701cadb574f1309c4c3a20a2a5c56aeae4c4be90f2f8"
+        "sha256": "67c74a9a2357dc65f5b1701cadb574f1309c4c3a20a2a5c56aeae4c4be90f2f8",
+        "file_name": "php-5.5.8.tar.gz"
     },
     {
         "version": "5.5.7",
         "url": "https://www.php.net/distributions/php-5.5.7.tar.gz",
-        "sha256": "7b954338d7dd538ef6fadbc110e6a0f50d0b39dabec2c12a7f000c17332591b8"
+        "sha256": "7b954338d7dd538ef6fadbc110e6a0f50d0b39dabec2c12a7f000c17332591b8",
+        "file_name": "php-5.5.7.tar.gz"
     },
     {
         "version": "5.5.6",
         "url": "https://www.php.net/distributions/php-5.5.6.tar.gz",
-        "sha256": "01f9c45154d4c9a47a825aa662bd64493082bd57dafdc720cf899ee194220a67"
+        "sha256": "01f9c45154d4c9a47a825aa662bd64493082bd57dafdc720cf899ee194220a67",
+        "file_name": "php-5.5.6.tar.gz"
     },
     {
         "version": "5.5.5",
         "url": "https://www.php.net/distributions/php-5.5.5.tar.gz",
-        "sha256": "483ff2370fa3a8863e6b023383c4bcfcc3ba462137c30c5fc75043e1755b7d17"
+        "sha256": "483ff2370fa3a8863e6b023383c4bcfcc3ba462137c30c5fc75043e1755b7d17",
+        "file_name": "php-5.5.5.tar.gz"
     },
     {
         "version": "5.4.45",
         "url": "https://www.php.net/distributions/php-5.4.45.tar.gz",
-        "sha256": "25bc4723955f4e352935258002af14a14a9810b491a19400d76fcdfa9d04b28f"
+        "sha256": "25bc4723955f4e352935258002af14a14a9810b491a19400d76fcdfa9d04b28f",
+        "file_name": "php-5.4.45.tar.gz"
     },
     {
         "version": "5.4.44",
         "url": "https://www.php.net/distributions/php-5.4.44.tar.gz",
-        "sha256": "1799998e48da3d8f34722840628e18789e26ea21741d4e498ade6749b3266602"
+        "sha256": "1799998e48da3d8f34722840628e18789e26ea21741d4e498ade6749b3266602",
+        "file_name": "php-5.4.44.tar.gz"
     },
     {
         "version": "5.4.43",
         "url": "https://www.php.net/distributions/php-5.4.43.tar.gz",
-        "sha256": "cfc2176adc05f009666ecfab4a1cc66cc546c5d071245b2a048b3d113f67a2af"
+        "sha256": "cfc2176adc05f009666ecfab4a1cc66cc546c5d071245b2a048b3d113f67a2af",
+        "file_name": "php-5.4.43.tar.gz"
     },
     {
         "version": "5.4.42",
         "url": "https://www.php.net/distributions/php-5.4.42.tar.gz",
-        "sha256": "f0b40c097a6f11c4c2f5078d34f50fb9428d79b9e9821117bd7d6cca6af78d11"
+        "sha256": "f0b40c097a6f11c4c2f5078d34f50fb9428d79b9e9821117bd7d6cca6af78d11",
+        "file_name": "php-5.4.42.tar.gz"
     },
     {
         "version": "5.4.41",
         "url": "https://www.php.net/distributions/php-5.4.41.tar.gz",
-        "sha256": "638cf19c865bc4eba2a4bab8952116a62691d1a72e1e2c9a9a2aadee92d1ce2e"
+        "sha256": "638cf19c865bc4eba2a4bab8952116a62691d1a72e1e2c9a9a2aadee92d1ce2e",
+        "file_name": "php-5.4.41.tar.gz"
     },
     {
         "version": "5.4.40",
         "url": "https://www.php.net/distributions/php-5.4.40.tar.gz",
-        "sha256": "663f5d06cd648e81ba4f2d6ad621bb580d83de70240c832dae527c97954da33d"
+        "sha256": "663f5d06cd648e81ba4f2d6ad621bb580d83de70240c832dae527c97954da33d",
+        "file_name": "php-5.4.40.tar.gz"
     },
     {
         "version": "5.4.39",
         "url": "https://www.php.net/distributions/php-5.4.39.tar.gz",
-        "sha256": "9af5d2c3782aa94b7336401755dc44b62dc4ea881bf5e39540a4c7181b54d945"
+        "sha256": "9af5d2c3782aa94b7336401755dc44b62dc4ea881bf5e39540a4c7181b54d945",
+        "file_name": "php-5.4.39.tar.gz"
     },
     {
         "version": "5.4.38",
         "url": "https://www.php.net/distributions/php-5.4.38.tar.gz",
-        "sha256": "e694b7265f314f73c9df43538e0e54e2495cb72252e8a91c1aec66ffcf47241f"
+        "sha256": "e694b7265f314f73c9df43538e0e54e2495cb72252e8a91c1aec66ffcf47241f",
+        "file_name": "php-5.4.38.tar.gz"
     },
     {
         "version": "5.4.37",
         "url": "https://www.php.net/distributions/php-5.4.37.tar.gz",
-        "sha256": "6bf3b3ebefa600cfb6dd7f2678f23b17a958e82e8ce2d012286818d7c36dfd31"
+        "sha256": "6bf3b3ebefa600cfb6dd7f2678f23b17a958e82e8ce2d012286818d7c36dfd31",
+        "file_name": "php-5.4.37.tar.gz"
     },
     {
         "version": "5.4.36",
         "url": "https://www.php.net/distributions/php-5.4.36.tar.gz",
-        "sha256": "e11851662222765d6ab6e671adc983c657d5358a183856b43a5bad0c612d2959"
+        "sha256": "e11851662222765d6ab6e671adc983c657d5358a183856b43a5bad0c612d2959",
+        "file_name": "php-5.4.36.tar.gz"
     },
     {
         "version": "5.4.35",
         "url": "https://www.php.net/distributions/php-5.4.35.tar.gz",
-        "sha256": "7ecab4ebb880b6d4f68bd4e3e49d837d4704fe26d81dc992b17b74151ee950a7"
+        "sha256": "7ecab4ebb880b6d4f68bd4e3e49d837d4704fe26d81dc992b17b74151ee950a7",
+        "file_name": "php-5.4.35.tar.gz"
     },
     {
         "version": "5.4.34",
         "url": "https://www.php.net/distributions/php-5.4.34.tar.gz",
-        "sha256": "c8d909062ad7616cedb54dc03d85b40d40f6d4adce986ec8cabd9b8b94872096"
+        "sha256": "c8d909062ad7616cedb54dc03d85b40d40f6d4adce986ec8cabd9b8b94872096",
+        "file_name": "php-5.4.34.tar.gz"
     },
     {
         "version": "5.4.33",
         "url": "https://www.php.net/distributions/php-5.4.33.tar.gz",
-        "sha256": "74e542dd2f15ebbc123738a71e867d57d2996a6edb40e6ac62fcf5ab85763d19"
+        "sha256": "74e542dd2f15ebbc123738a71e867d57d2996a6edb40e6ac62fcf5ab85763d19",
+        "file_name": "php-5.4.33.tar.gz"
     },
     {
         "version": "5.4.32",
         "url": "https://www.php.net/distributions/php-5.4.32.tar.gz",
-        "sha256": "80ebdf34f91b8e1d516080363804137177368777aa9ecffee600f2957e8b0f94"
+        "sha256": "80ebdf34f91b8e1d516080363804137177368777aa9ecffee600f2957e8b0f94",
+        "file_name": "php-5.4.32.tar.gz"
     },
     {
         "version": "5.4.31",
         "url": "https://www.php.net/distributions/php-5.4.31.tar.gz",
-        "sha256": "332f62e4f751482d40ad08544ee97e004170d0382c84d01ce8efe405d0972f66"
+        "sha256": "332f62e4f751482d40ad08544ee97e004170d0382c84d01ce8efe405d0972f66",
+        "file_name": "php-5.4.31.tar.gz"
     },
     {
         "version": "5.4.30",
         "url": "https://www.php.net/distributions/php-5.4.30.tar.gz",
-        "sha256": "c17da64890b728bdc146bdc69b37085412d4e2585fac98848ac2e824bb564c85"
+        "sha256": "c17da64890b728bdc146bdc69b37085412d4e2585fac98848ac2e824bb564c85",
+        "file_name": "php-5.4.30.tar.gz"
     },
     {
         "version": "5.4.29",
         "url": "https://www.php.net/distributions/php-5.4.29.tar.gz",
-        "sha256": "9fa51d3e44783802ea51b910719ad524a8994524f7cf7307f683fe89191bc401"
+        "sha256": "9fa51d3e44783802ea51b910719ad524a8994524f7cf7307f683fe89191bc401",
+        "file_name": "php-5.4.29.tar.gz"
     },
     {
         "version": "5.4.28",
         "url": "https://www.php.net/distributions/php-5.4.28.tar.gz",
-        "sha256": "5140292c94a0301db7a807e6b3aadf6ee966346d0005aa3d15464bd4c595a786"
+        "sha256": "5140292c94a0301db7a807e6b3aadf6ee966346d0005aa3d15464bd4c595a786",
+        "file_name": "php-5.4.28.tar.gz"
     },
     {
         "version": "5.4.27",
         "url": "https://www.php.net/distributions/php-5.4.27.tar.gz",
-        "sha256": "a70dc68eeed902f8378fded473d53e4e37be645b941554dcf4237559cbda2bb3"
+        "sha256": "a70dc68eeed902f8378fded473d53e4e37be645b941554dcf4237559cbda2bb3",
+        "file_name": "php-5.4.27.tar.gz"
     },
     {
         "version": "5.4.26",
         "url": "https://www.php.net/distributions/php-5.4.26.tar.gz",
-        "sha256": "ec3f902b5e8cbdd660e01e784b537f1210a12182d9bbd62164776075bc097eca"
+        "sha256": "ec3f902b5e8cbdd660e01e784b537f1210a12182d9bbd62164776075bc097eca",
+        "file_name": "php-5.4.26.tar.gz"
     },
     {
         "version": "5.4.25",
         "url": "https://www.php.net/distributions/php-5.4.25.tar.gz",
-        "sha256": "0c66cec73bfbd31f68c96e5a4d8454599271f0b0462c2ff7dedce4262fda8fe3"
+        "sha256": "0c66cec73bfbd31f68c96e5a4d8454599271f0b0462c2ff7dedce4262fda8fe3",
+        "file_name": "php-5.4.25.tar.gz"
     },
     {
         "version": "5.4.24",
         "url": "https://www.php.net/distributions/php-5.4.24.tar.gz",
-        "sha256": "c64d6e3b428e78b44760167557e26cd16a9f83f449a255e69d5e035bdd7057ed"
+        "sha256": "c64d6e3b428e78b44760167557e26cd16a9f83f449a255e69d5e035bdd7057ed",
+        "file_name": "php-5.4.24.tar.gz"
     },
     {
         "version": "5.4.23",
         "url": "https://www.php.net/distributions/php-5.4.23.tar.gz",
-        "sha256": "c9add0e59f41298a253bbb9090c47a03064b099120a563ca8ad289e18fcd1ce7"
+        "sha256": "c9add0e59f41298a253bbb9090c47a03064b099120a563ca8ad289e18fcd1ce7",
+        "file_name": "php-5.4.23.tar.gz"
     },
     {
         "version": "5.4.22",
         "url": "https://www.php.net/distributions/php-5.4.22.tar.gz",
-        "sha256": "ca6e52a0ba11e9521c6a26f293a602cdc00cad1adbb4658e35b8d3f41057cbb8"
+        "sha256": "ca6e52a0ba11e9521c6a26f293a602cdc00cad1adbb4658e35b8d3f41057cbb8",
+        "file_name": "php-5.4.22.tar.gz"
     },
     {
         "version": "5.3.29",
         "url": "https://www.php.net/distributions/php-5.3.29.tar.gz",
-        "sha256": "57cf097de3d6c3152dda342f62b1b2e9c988f4cfe300ccfe3c11f3c207a0e317"
+        "sha256": "57cf097de3d6c3152dda342f62b1b2e9c988f4cfe300ccfe3c11f3c207a0e317",
+        "file_name": "php-5.3.29.tar.gz"
     },
     {
         "version": "5.3.28",
         "url": "https://www.php.net/distributions/php-5.3.28.tar.gz",
-        "sha256": "ace8fde82a4275d6dcec4e15feb047416e1813fea46e159dfd113298371396d0"
+        "sha256": "ace8fde82a4275d6dcec4e15feb047416e1813fea46e159dfd113298371396d0",
+        "file_name": "php-5.3.28.tar.gz"
     },
     {
         "version": "5.3.27",
         "url": "https://www.php.net/distributions/php-5.3.27.tar.gz",
-        "sha256": "5ecd737fc79ad33b5c79a9784c0b4211d211ba682d4d721ac6ce975907a5b12b"
+        "sha256": "5ecd737fc79ad33b5c79a9784c0b4211d211ba682d4d721ac6ce975907a5b12b",
+        "file_name": "php-5.3.27.tar.gz"
     },
     {
         "version": "5.2.1",
         "url": "https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.tar.gz",
-        "sha256": "61c763f209817d1b5d96a4c0eab65b4e36bce744f78e73bef3bebd1c07481c46"
+        "sha256": "61c763f209817d1b5d96a4c0eab65b4e36bce744f78e73bef3bebd1c07481c46",
+        "file_name": "phpMyAdmin-5.2.1-all-languages.tar.gz"
     },
     {
         "version": "4.9.11",
         "url": "https://files.phpmyadmin.net/phpMyAdmin/4.9.11/phpMyAdmin-4.9.11-all-languages.tar.gz",
-        "sha256": "1cc78bc1910b7c2855299cb54027e6f36db9f0c4f5be4ce9a07982830e56a396"
+        "sha256": "1cc78bc1910b7c2855299cb54027e6f36db9f0c4f5be4ce9a07982830e56a396",
+        "file_name": "phpMyAdmin-4.9.11-all-languages.tar.gz"
     },
     {
         "version": "redis-3.2.9",
         "sha256": "6eaacfa983b287e440d0839ead20c2231749d5d6b78bbe0e0ffa3a890c59ff26",
-        "url": "https://download.redis.io/releases/redis-3.2.9.tar.gz"
+        "url": "https://download.redis.io/releases/redis-3.2.9.tar.gz",
+        "file_name": "redis-3.2.9.tar.gz"
     },
     {
         "version": "redis-4.0.0",
         "sha256": "d539ae309295721d5c3ed7298939645b6f86ab5d25fdf2a0352ab575c159df2d",
-        "url": "https://download.redis.io/releases/redis-4.0.0.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.0.tar.gz",
+        "file_name": "redis-4.0.0.tar.gz"
     },
     {
         "version": "redis-4.0.1",
         "sha256": "2049cd6ae9167f258705081a6ef23bb80b7eff9ff3d0d7481e89510f27457591",
-        "url": "https://download.redis.io/releases/redis-4.0.1.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.1.tar.gz",
+        "file_name": "redis-4.0.1.tar.gz"
     },
     {
         "version": "redis-3.2.10",
         "sha256": "411c604a716104f7f5a326abfad32de9cea10f15f987bec45cf86f315e9e63a0",
-        "url": "https://download.redis.io/releases/redis-3.2.10.tar.gz"
+        "url": "https://download.redis.io/releases/redis-3.2.10.tar.gz",
+        "file_name": "redis-3.2.10.tar.gz"
     },
     {
         "version": "redis-4.0.2",
         "sha256": "b1a0915dbc91b979d06df1977fe594c3fa9b189f1f3d38743a2948c9f7634813",
-        "url": "https://download.redis.io/releases/redis-4.0.2.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.2.tar.gz",
+        "file_name": "redis-4.0.2.tar.gz"
     },
     {
         "version": "redis-3.2.11",
         "sha256": "31ae927cab09f90c9ca5954aab7aeecc3bb4da6087d3d12ba0a929ceb54081b5",
-        "url": "https://download.redis.io/releases/redis-3.2.11.tar.gz"
+        "url": "https://download.redis.io/releases/redis-3.2.11.tar.gz",
+        "file_name": "redis-3.2.11.tar.gz"
     },
     {
         "version": "redis-4.0.3",
         "sha256": "412f2634e55fe19e8826fae47935a8efe1e60ba2a48a8953c65e7a6caa459e41",
-        "url": "https://download.redis.io/releases/redis-4.0.3.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.3.tar.gz",
+        "file_name": "redis-4.0.3.tar.gz"
     },
     {
         "version": "redis-4.0.4",
         "sha256": "35768145335e874b1b810e23494ad3daa6f442c3dc1d7e3784992ba50799c0cd",
-        "url": "https://download.redis.io/releases/redis-4.0.4.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.4.tar.gz",
+        "file_name": "redis-4.0.4.tar.gz"
     },
     {
         "version": "redis-4.0.5",
         "sha256": "d52bf355b96e20905916482962235e0442634c849934adb034f85362b31ed978",
-        "url": "https://download.redis.io/releases/redis-4.0.5.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.5.tar.gz",
+        "file_name": "redis-4.0.5.tar.gz"
     },
     {
         "version": "redis-4.0.6",
         "sha256": "769b5d69ec237c3e0481a262ff5306ce30db9b5c8ceb14d1023491ca7be5f6fa",
-        "url": "https://download.redis.io/releases/redis-4.0.6.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.6.tar.gz",
+        "file_name": "redis-4.0.6.tar.gz"
     },
     {
         "version": "redis-4.0.7",
         "sha256": "1bba546d44fb40e1fd8be1a15e1a9cc6484bceeea0bbd52919eebc656661ecd1",
-        "url": "https://download.redis.io/releases/redis-4.0.7.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.7.tar.gz",
+        "file_name": "redis-4.0.7.tar.gz"
     },
     {
         "version": "redis-4.0.8",
         "sha256": "ff0c38b8c156319249fec61e5018cf5b5fe63a65b61690bec798f4c998c232ad",
-        "url": "https://download.redis.io/releases/redis-4.0.8.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.8.tar.gz",
+        "file_name": "redis-4.0.8.tar.gz"
     },
     {
         "version": "redis-4.0.9",
         "sha256": "df4f73bc318e2f9ffb2d169a922dec57ec7c73dd07bccf875695dbeecd5ec510",
-        "url": "https://download.redis.io/releases/redis-4.0.9.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.9.tar.gz",
+        "file_name": "redis-4.0.9.tar.gz"
     },
     {
         "version": "redis-3.2.12",
         "sha256": "98c4254ae1be4e452aa7884245471501c9aa657993e0318d88f048093e7f88fd",
-        "url": "https://download.redis.io/releases/redis-3.2.12.tar.gz"
+        "url": "https://download.redis.io/releases/redis-3.2.12.tar.gz",
+        "file_name": "redis-3.2.12.tar.gz"
     },
     {
         "version": "redis-4.0.10",
         "sha256": "1db67435a704f8d18aec9b9637b373c34aa233d65b6e174bdac4c1b161f38ca4",
-        "url": "https://download.redis.io/releases/redis-4.0.10.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.10.tar.gz",
+        "file_name": "redis-4.0.10.tar.gz"
     },
     {
         "version": "redis-4.0.11",
         "sha256": "fc53e73ae7586bcdacb4b63875d1ff04f68c5474c1ddeda78f00e5ae2eed1bbb",
-        "url": "https://download.redis.io/releases/redis-4.0.11.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.11.tar.gz",
+        "file_name": "redis-4.0.11.tar.gz"
     },
     {
         "version": "redis-5.0.0",
         "sha256": "70c98b2d0640b2b73c9d8adb4df63bcb62bad34b788fe46d1634b6cf87dc99a4",
-        "url": "https://download.redis.io/releases/redis-5.0.0.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.0.tar.gz",
+        "file_name": "redis-5.0.0.tar.gz"
     },
     {
         "version": "redis-5.0.1",
         "sha256": "82a67c0eec97f9ad379384c30ec391b269e17a3e4596393c808f02db7595abcb",
-        "url": "https://download.redis.io/releases/redis-5.0.1.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.1.tar.gz",
+        "file_name": "redis-5.0.1.tar.gz"
     },
     {
         "version": "redis-5.0.2",
         "sha256": "937dde6164001c083e87316aa20dad2f8542af089dfcb1cbb64f9c8300cd00ed",
-        "url": "https://download.redis.io/releases/redis-5.0.2.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.2.tar.gz",
+        "file_name": "redis-5.0.2.tar.gz"
     },
     {
         "version": "redis-4.0.12",
         "sha256": "6447259d2eed426a949c9c13f8fdb2d91fb66d9dc915dd50db13b87f46d93162",
-        "url": "https://download.redis.io/releases/redis-4.0.12.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.12.tar.gz",
+        "file_name": "redis-4.0.12.tar.gz"
     },
     {
         "version": "redis-5.0.3",
         "sha256": "e290b4ddf817b26254a74d5d564095b11f9cd20d8f165459efa53eb63cd93e02",
-        "url": "https://download.redis.io/releases/redis-5.0.3.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.3.tar.gz",
+        "file_name": "redis-5.0.3.tar.gz"
     },
     {
         "version": "redis-4.0.13",
         "sha256": "17d955227966dcd68590be6139e5fe7f2d19fc4fb7334248a904ea9cdd30c1d4",
-        "url": "https://download.redis.io/releases/redis-4.0.13.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.13.tar.gz",
+        "file_name": "redis-4.0.13.tar.gz"
     },
     {
         "version": "redis-5.0.4",
         "sha256": "3ce9ceff5a23f60913e1573f6dfcd4aa53b42d4a2789e28fa53ec2bd28c987dd",
-        "url": "https://download.redis.io/releases/redis-5.0.4.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.4.tar.gz",
+        "file_name": "redis-5.0.4.tar.gz"
     },
     {
         "version": "redis-4.0.14",
         "sha256": "1e1e18420a86cfb285933123b04a82e1ebda20bfb0a289472745a087587e93a7",
-        "url": "https://download.redis.io/releases/redis-4.0.14.tar.gz"
+        "url": "https://download.redis.io/releases/redis-4.0.14.tar.gz",
+        "file_name": "redis-4.0.14.tar.gz"
     },
     {
         "version": "redis-3.2.13",
         "sha256": "862979c9853fdb1d275d9eb9077f34621596fec1843e3e7f2e2f09ce09a387ba",
-        "url": "https://download.redis.io/releases/redis-3.2.13.tar.gz"
+        "url": "https://download.redis.io/releases/redis-3.2.13.tar.gz",
+        "file_name": "redis-3.2.13.tar.gz"
     },
     {
         "version": "redis-5.0.5",
         "sha256": "2139009799d21d8ff94fc40b7f36ac46699b9e1254086299f8d3b223ca54a375",
-        "url": "https://download.redis.io/releases/redis-5.0.5.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.5.tar.gz",
+        "file_name": "redis-5.0.5.tar.gz"
     },
     {
         "version": "redis-5.0.6",
         "sha256": "6624841267e142c5d5d5be292d705f8fb6070677687c5aad1645421a936d22b3",
-        "url": "https://download.redis.io/releases/redis-5.0.6.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.6.tar.gz",
+        "file_name": "redis-5.0.6.tar.gz"
     },
     {
         "version": "redis-5.0.7",
         "sha256": "61db74eabf6801f057fd24b590232f2f337d422280fd19486eca03be87d3a82b",
-        "url": "https://download.redis.io/releases/redis-5.0.7.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.7.tar.gz",
+        "file_name": "redis-5.0.7.tar.gz"
     },
     {
         "version": "redis-5.0.8",
         "sha256": "f3c7eac42f433326a8d981b50dba0169fdfaf46abb23fcda2f933a7552ee4ed7",
-        "url": "https://download.redis.io/releases/redis-5.0.8.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.8.tar.gz",
+        "file_name": "redis-5.0.8.tar.gz"
     },
     {
         "version": "redis-5.0.8",
         "sha256": "f3c7eac42f433326a8d981b50dba0169fdfaf46abb23fcda2f933a7552ee4ed7",
-        "url": "https://download.redis.io/releases/redis-5.0.8.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.8.tar.gz",
+        "file_name": "redis-5.0.8.tar.gz"
     },
     {
         "version": "redis-5.0.9",
         "sha256": "53d0ae164cd33536c3d4b720ae9a128ea6166ebf04ff1add3b85f1242090cb85",
-        "url": "https://download.redis.io/releases/redis-5.0.9.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.9.tar.gz",
+        "file_name": "redis-5.0.9.tar.gz"
     },
     {
         "version": "redis-6.0.0",
         "sha256": "16d13ec1c3255206deb4818ed444dca6dda1482b551736f0033253c211b788fc",
-        "url": "https://download.redis.io/releases/redis-6.0.0.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.0.tar.gz",
+        "file_name": "redis-6.0.0.tar.gz"
     },
     {
         "version": "redis-6.0.1",
         "sha256": "b8756e430479edc162ba9c44dc89ac394316cd482f2dc6b91bcd5fe12593f273",
-        "url": "https://download.redis.io/releases/redis-6.0.1.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.1.tar.gz",
+        "file_name": "redis-6.0.1.tar.gz"
     },
     {
         "version": "redis-6.0.2",
         "sha256": "9c37cd4228a57e82e7037094751c63349302b0b86c5e30b778a63a802dfd0109",
-        "url": "https://download.redis.io/releases/redis-6.0.2.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.2.tar.gz",
+        "file_name": "redis-6.0.2.tar.gz"
     },
     {
         "version": "redis-6.0.3",
         "sha256": "bca46dce81fe92f7b2de4cf8ae41fbc4b94fbd5674def7f12c87e7f9165cbb3a",
-        "url": "https://download.redis.io/releases/redis-6.0.3.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.3.tar.gz",
+        "file_name": "redis-6.0.3.tar.gz"
     },
     {
         "version": "redis-6.0.4",
         "sha256": "3337005a1e0c3aa293c87c313467ea8ac11984921fab08807998ba765c9943de",
-        "url": "https://download.redis.io/releases/redis-6.0.4.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.4.tar.gz",
+        "file_name": "redis-6.0.4.tar.gz"
     },
     {
         "version": "redis-6.0.5",
         "sha256": "42cf86a114d2a451b898fcda96acd4d01062a7dbaaad2801d9164a36f898f596",
-        "url": "https://download.redis.io/releases/redis-6.0.5.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.5.tar.gz",
+        "file_name": "redis-6.0.5.tar.gz"
     },
     {
         "version": "redis-6.0.6",
         "sha256": "12ad49b163af5ef39466e8d2f7d212a58172116e5b441eebecb4e6ca22363d94",
-        "url": "https://download.redis.io/releases/redis-6.0.6.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.6.tar.gz",
+        "file_name": "redis-6.0.6.tar.gz"
     },
     {
         "version": "redis-6.0.7",
         "sha256": "c2aaa1a4c7e72c70adedf976fdd5e1d34d395989283dab9d7840e0a304bb2393",
-        "url": "https://download.redis.io/releases/redis-6.0.7.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.7.tar.gz",
+        "file_name": "redis-6.0.7.tar.gz"
     },
     {
         "version": "redis-6.0.8",
         "sha256": "04fa1fddc39bd1aecb6739dd5dd73858a3515b427acd1e2947a66dadce868d68",
-        "url": "https://download.redis.io/releases/redis-6.0.8.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.8.tar.gz",
+        "file_name": "redis-6.0.8.tar.gz"
     },
     {
         "version": "redis-5.0.10",
         "sha256": "e30a5e7d1593a715cdda2a82deb90190816d06c9d1dc1ef5b36874878c683382",
-        "url": "https://download.redis.io/releases/redis-5.0.10.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.10.tar.gz",
+        "file_name": "redis-5.0.10.tar.gz"
     },
     {
         "version": "redis-6.0.9",
         "sha256": "dc2bdcf81c620e9f09cfd12e85d3bc631c897b2db7a55218fd8a65eaa37f86dd",
-        "url": "https://download.redis.io/releases/redis-6.0.9.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.9.tar.gz",
+        "file_name": "redis-6.0.9.tar.gz"
     },
     {
         "version": "redis-6.0.10",
         "sha256": "79bbb894f9dceb33ca699ee3ca4a4e1228be7fb5547aeb2f99d921e86c1285bd",
-        "url": "https://download.redis.io/releases/redis-6.0.10.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.10.tar.gz",
+        "file_name": "redis-6.0.10.tar.gz"
     },
     {
         "version": "redis-5.0.11",
         "sha256": "418135c453a94aac24c24243b041fb978fcc3ea4e1e1f996c1d64b16ae6ac1aa",
-        "url": "https://download.redis.io/releases/redis-5.0.11.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.11.tar.gz",
+        "file_name": "redis-5.0.11.tar.gz"
     },
     {
         "version": "redis-6.2.0",
         "sha256": "67d624c25d962bd68aff8812a135df85bad07556b8825f3bcd5b522a9932dbca",
-        "url": "https://download.redis.io/releases/redis-6.2.0.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.0.tar.gz",
+        "file_name": "redis-6.2.0.tar.gz"
     },
     {
         "version": "redis-6.0.11",
         "sha256": "c927f2d110e88fda308526a1809a4d7dfcd004319f0de66d40a58a42aec23c5f",
-        "url": "https://download.redis.io/releases/redis-6.0.11.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.11.tar.gz",
+        "file_name": "redis-6.0.11.tar.gz"
     },
     {
         "version": "redis-5.0.12",
         "sha256": "7040eba5910f7c3d38f05ea5a1d88b480488215bdbd2e10ec70d18380108e31e",
-        "url": "https://download.redis.io/releases/redis-5.0.12.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.12.tar.gz",
+        "file_name": "redis-5.0.12.tar.gz"
     },
     {
         "version": "redis-6.0.12",
         "sha256": "f16ad973d19f80f121e53794d5eb48a997e2c6a85b5be41bb3b66750cc17bf6b",
-        "url": "https://download.redis.io/releases/redis-6.0.12.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.12.tar.gz",
+        "file_name": "redis-6.0.12.tar.gz"
     },
     {
         "version": "redis-6.2.1",
         "sha256": "cd222505012cce20b25682fca931ec93bd21ae92cb4abfe742cf7b76aa907520",
-        "url": "https://download.redis.io/releases/redis-6.2.1.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.1.tar.gz",
+        "file_name": "redis-6.2.1.tar.gz"
     },
     {
         "version": "redis-6.2.2",
         "sha256": "7a260bb74860f1b88c3d5942bf8ba60ca59f121c6dce42d3017bed6add0b9535",
-        "url": "https://download.redis.io/releases/redis-6.2.2.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.2.tar.gz",
+        "file_name": "redis-6.2.2.tar.gz"
     },
     {
         "version": "redis-6.0.13",
         "sha256": "3049763f4553ddd5a69552f41da3dd7dde9fbc524dbb15e517fee24cc73b790c",
-        "url": "https://download.redis.io/releases/redis-6.0.13.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.13.tar.gz",
+        "file_name": "redis-6.0.13.tar.gz"
     },
     {
         "version": "redis-6.2.3",
         "sha256": "98ed7d532b5e9671f5df0825bb71f0f37483a16546364049384c63db8764512b",
-        "url": "https://download.redis.io/releases/redis-6.2.3.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.3.tar.gz",
+        "file_name": "redis-6.2.3.tar.gz"
     },
     {
         "version": "redis-6.0.14",
         "sha256": "c3e60c928b183ca9fe8e878936a6f8ba99e0441b9b6e04d2412a750ea576c649",
-        "url": "https://download.redis.io/releases/redis-6.0.14.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.14.tar.gz",
+        "file_name": "redis-6.0.14.tar.gz"
     },
     {
         "version": "redis-6.2.4",
         "sha256": "ba32c406a10fc2c09426e2be2787d74ff204eb3a2e496d87cff76a476b6ae16e",
-        "url": "https://download.redis.io/releases/redis-6.2.4.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.4.tar.gz",
+        "file_name": "redis-6.2.4.tar.gz"
     },
     {
         "version": "redis-5.0.13",
         "sha256": "2b617aa2d6ad66c6a5d99fc8590c6b83b40d391fd1184c6eeab30df31f6a7208",
-        "url": "https://download.redis.io/releases/redis-5.0.13.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.13.tar.gz",
+        "file_name": "redis-5.0.13.tar.gz"
     },
     {
         "version": "redis-6.0.15",
         "sha256": "4bc295264a95bc94423c162a9eee66135a24a51eefe5f53f18fc9bde5c3a9f74",
-        "url": "https://download.redis.io/releases/redis-6.0.15.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.15.tar.gz",
+        "file_name": "redis-6.0.15.tar.gz"
     },
     {
         "version": "redis-6.2.5",
         "sha256": "4b9a75709a1b74b3785e20a6c158cab94cf52298aa381eea947a678a60d551ae",
-        "url": "https://download.redis.io/releases/redis-6.2.5.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.5.tar.gz",
+        "file_name": "redis-6.2.5.tar.gz"
     },
     {
         "version": "redis-5.0.14",
         "sha256": "3ea5024766d983249e80d4aa9457c897a9f079957d0fb1f35682df233f997f32",
-        "url": "https://download.redis.io/releases/redis-5.0.14.tar.gz"
+        "url": "https://download.redis.io/releases/redis-5.0.14.tar.gz",
+        "file_name": "redis-5.0.14.tar.gz"
     },
     {
         "version": "redis-6.0.16",
         "sha256": "3639bbf29aca1a1670de1ab2ce224d6511c63969e7e590d3cdf8f7888184fa19",
-        "url": "https://download.redis.io/releases/redis-6.0.16.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.16.tar.gz",
+        "file_name": "redis-6.0.16.tar.gz"
     },
     {
         "version": "redis-6.2.6",
         "sha256": "5b2b8b7a50111ef395bf1c1d5be11e6e167ac018125055daa8b5c2317ae131ab",
-        "url": "https://download.redis.io/releases/redis-6.2.6.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.6.tar.gz",
+        "file_name": "redis-6.2.6.tar.gz"
     },
     {
         "version": "redis-6.2.7",
         "sha256": "b7a79cc3b46d3c6eb52fa37dde34a4a60824079ebdfb3abfbbfa035947c55319",
-        "url": "https://download.redis.io/releases/redis-6.2.7.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.7.tar.gz",
+        "file_name": "redis-6.2.7.tar.gz"
     },
     {
         "version": "redis-7.0.0",
         "sha256": "284d8bd1fd85d6a55a05ee4e7c31c31977ad56cbf344ed83790beeb148baa720",
-        "url": "https://download.redis.io/releases/redis-7.0.0.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.0.tar.gz",
+        "file_name": "redis-7.0.0.tar.gz"
     },
     {
         "version": "redis-7.0.1",
         "sha256": "ca1820d527e4759884620be2917079e61e996fa81da5fbe5c07c4a7b507264dc",
-        "url": "https://download.redis.io/releases/redis-7.0.1.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.1.tar.gz",
+        "file_name": "redis-7.0.1.tar.gz"
     },
     {
         "version": "redis-7.0.2",
         "sha256": "5e57eafe7d4ac5ecb6a7d64d6b61db775616dbf903293b3fcc660716dbda5eeb",
-        "url": "https://download.redis.io/releases/redis-7.0.2.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.2.tar.gz",
+        "file_name": "redis-7.0.2.tar.gz"
     },
     {
         "version": "redis-7.0.3",
         "sha256": "2cde7d17214ffe305953da9fff12333e8a72caa57fd4923e4872f6362a208e73",
-        "url": "https://download.redis.io/releases/redis-7.0.3.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.3.tar.gz",
+        "file_name": "redis-7.0.3.tar.gz"
     },
     {
         "version": "redis-7.0.4",
         "sha256": "f0e65fda74c44a3dd4fa9d512d4d4d833dd0939c934e946a5c622a630d057f2f",
-        "url": "https://download.redis.io/releases/redis-7.0.4.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.4.tar.gz",
+        "file_name": "redis-7.0.4.tar.gz"
     },
     {
         "version": "redis-7.0.5",
         "sha256": "67054cc37b58c125df93bd78000261ec0ef4436a26b40f38262c780e56315cc3",
-        "url": "https://download.redis.io/releases/redis-7.0.5.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.5.tar.gz",
+        "file_name": "redis-7.0.5.tar.gz"
     },
     {
         "version": "redis-6.2.8",
         "sha256": "f91ab24bcb42673cb853292eb5d43c2017d11d659854808ed6a529c97297fdfe",
-        "url": "https://download.redis.io/releases/redis-6.2.8.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.8.tar.gz",
+        "file_name": "redis-6.2.8.tar.gz"
     },
     {
         "version": "redis-7.0.6",
         "sha256": "7b33a7e890d13e27af1f246acb16312669ad8a1d56ce8f807dfbcd3c09aa7bb3",
-        "url": "https://download.redis.io/releases/redis-7.0.6.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.6.tar.gz",
+        "file_name": "redis-7.0.6.tar.gz"
     },
     {
         "version": "redis-7.0.7",
         "sha256": "8d327d7e887d1bb308fc37aaf717a0bf79f58129e3739069aaeeae88955ac586",
-        "url": "https://download.redis.io/releases/redis-7.0.7.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.7.tar.gz",
+        "file_name": "redis-7.0.7.tar.gz"
     },
     {
         "version": "redis-7.0.8",
         "sha256": "06a339e491306783dcf55b97f15a5dbcbdc01ccbde6dc23027c475cab735e914",
-        "url": "https://download.redis.io/releases/redis-7.0.8.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.8.tar.gz",
+        "file_name": "redis-7.0.8.tar.gz"
     },
     {
         "version": "redis-6.2.9",
         "sha256": "9661b2c6b1cc9bf2999471b37a4d759fa5e747d408142c18af8792ebd8384a2a",
-        "url": "https://download.redis.io/releases/redis-6.2.9.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.9.tar.gz",
+        "file_name": "redis-6.2.9.tar.gz"
     },
     {
         "version": "redis-6.0.17",
         "sha256": "ad50bf7c6bf98d7bf3c626bdd5588368f52c82c8d41869cca024455f651e7bfc",
-        "url": "https://download.redis.io/releases/redis-6.0.17.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.17.tar.gz",
+        "file_name": "redis-6.0.17.tar.gz"
     },
     {
         "version": "redis-6.2.10",
         "sha256": "22684f66d272379b91e3e53693918b535e2a6e54b9d14e1cad171658e0eefeca",
-        "url": "https://download.redis.io/releases/redis-6.2.10.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.10.tar.gz",
+        "file_name": "redis-6.2.10.tar.gz"
     },
     {
         "version": "redis-6.0.18",
         "sha256": "d7b4f2a97fcab96727284092b0a4aa854af47d570803fa0e7a0345359743836e",
-        "url": "https://download.redis.io/releases/redis-6.0.18.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.18.tar.gz",
+        "file_name": "redis-6.0.18.tar.gz"
     },
     {
         "version": "redis-6.2.11",
         "sha256": "8c75fb9cdd01849e92c23f30cb7fe205ea0032a38d11d46af191014e9acc3098",
-        "url": "https://download.redis.io/releases/redis-6.2.11.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.11.tar.gz",
+        "file_name": "redis-6.2.11.tar.gz"
     },
     {
         "version": "redis-7.0.9",
         "sha256": "f77135c2a47c9151d4028bfea3b34470ab4d324d1484f79a84c6f32a3cfb9f65",
-        "url": "https://download.redis.io/releases/redis-7.0.9.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.9.tar.gz",
+        "file_name": "redis-7.0.9.tar.gz"
     },
     {
         "version": "redis-7.0.10",
         "sha256": "1dee4c6487341cae7bd6432ff7590906522215a061fdef87c7d040a0cb600131",
-        "url": "https://download.redis.io/releases/redis-7.0.10.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.10.tar.gz",
+        "file_name": "redis-7.0.10.tar.gz"
     },
     {
         "version": "redis-7.0.11",
         "sha256": "ce250d1fba042c613de38a15d40889b78f7cb6d5461a27e35017ba39b07221e3",
-        "url": "https://download.redis.io/releases/redis-7.0.11.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.11.tar.gz",
+        "file_name": "redis-7.0.11.tar.gz"
     },
     {
         "version": "redis-6.2.12",
         "sha256": "75352eef41e97e84bfa94292cbac79e5add5345fc79787df5cbdff703353fb1b",
-        "url": "https://download.redis.io/releases/redis-6.2.12.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.12.tar.gz",
+        "file_name": "redis-6.2.12.tar.gz"
     },
     {
         "version": "redis-6.0.19",
         "sha256": "55e26318c3d9c53a77a6e802f60524afdddd057a2e965cebcf781a0a72f0e3e6",
-        "url": "https://download.redis.io/releases/redis-6.0.19.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.19.tar.gz",
+        "file_name": "redis-6.0.19.tar.gz"
     },
     {
         "version": "redis-6.0.20",
         "sha256": "173d4c5f44b5d7186da96c4adc5cb20e8018b50ec3a8dfe0d191dbbab53952f0",
-        "url": "https://download.redis.io/releases/redis-6.0.20.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.0.20.tar.gz",
+        "file_name": "redis-6.0.20.tar.gz"
     },
     {
         "version": "redis-6.2.13",
         "sha256": "89ff27c80d420456a721ccfb3beb7cc628d883c53059803513749e13214a23d1",
-        "url": "https://download.redis.io/releases/redis-6.2.13.tar.gz"
+        "url": "https://download.redis.io/releases/redis-6.2.13.tar.gz",
+        "file_name": "redis-6.2.13.tar.gz"
     },
     {
         "version": "redis-7.0.12",
         "sha256": "9dd83d5b278bb2bf0e39bfeb75c3e8170024edbaf11ba13b7037b2945cf48ab7",
-        "url": "https://download.redis.io/releases/redis-7.0.12.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.12.tar.gz",
+        "file_name": "redis-7.0.12.tar.gz"
     },
     {
         "version": "redis-7.2.0",
         "sha256": "8b12e242647635b419a0e1833eda02b65bf64e39eb9e509d9db4888fb3124943",
-        "url": "https://download.redis.io/releases/redis-7.2.0.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.2.0.tar.gz",
+        "file_name": "redis-7.2.0.tar.gz"
     },
     {
         "version": "redis-7.0.13",
         "sha256": "97065774d5fb8388eb0d8913458decfcb167d356e40d31dd01cd30c1cc391673",
-        "url": "https://download.redis.io/releases/redis-7.0.13.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.0.13.tar.gz",
+        "file_name": "redis-7.0.13.tar.gz"
     },
     {
         "version": "redis-7.2.1",
         "sha256": "5c76d990a1b1c5f949bcd1eed90d0c8a4f70369bdbdcb40288c561ddf88967a4",
-        "url": "https://download.redis.io/releases/redis-7.2.1.tar.gz"
+        "url": "https://download.redis.io/releases/redis-7.2.1.tar.gz",
+        "file_name": "redis-7.2.1.tar.gz"
     },
     {
         "file_name": "cacert.pem",
@@ -4736,12 +5327,14 @@
     {
         "version": "6.9.12-98",
         "url": "https://imagemagick.org/archive/ImageMagick-6.9.12-98.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.12-98.tar.gz.asc"
+        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.12-98.tar.gz.asc",
+        "file_name": "ImageMagick-6.9.12-98.tar.gz"
     },
     {
         "version": "7.1.1-20",
         "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-20.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-20.tar.gz.asc"
+        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-20.tar.gz.asc",
+        "file_name": "ImageMagick-7.1.1-20.tar.gz"
     },
     {
         "version": "1.21.4.2",
@@ -4763,43 +5356,53 @@
     },
     {
         "version": "1.6.21",
-        "url": "http://www.memcached.org/files/memcached-1.6.21.tar.gz"
+        "url": "http://www.memcached.org/files/memcached-1.6.21.tar.gz",
+        "file_name": "memcached-1.6.21.tar.gz"
     },
     {
         "version": "1.6.20",
-        "url": "http://www.memcached.org/files/memcached-1.6.20.tar.gz"
+        "url": "http://www.memcached.org/files/memcached-1.6.20.tar.gz",
+        "file_name": "memcached-1.6.20.tar.gz"
     },
     {
         "version": "1.6.19",
-        "url": "http://www.memcached.org/files/memcached-1.6.19.tar.gz"
+        "url": "http://www.memcached.org/files/memcached-1.6.19.tar.gz",
+        "file_name": "memcached-1.6.19.tar.gz"
     },
     {
         "version": "1.6.18",
-        "url": "http://www.memcached.org/files/memcached-1.6.18.tar.gz"
+        "url": "http://www.memcached.org/files/memcached-1.6.18.tar.gz",
+        "file_name": "memcached-1.6.18.tar.gz"
     },
     {
         "version": "1.6.17",
-        "url": "http://www.memcached.org/files/memcached-1.6.17.tar.gz"
+        "url": "http://www.memcached.org/files/memcached-1.6.17.tar.gz",
+        "file_name": "memcached-1.6.17.tar.gz"
     },
     {
         "version": "v0.10.25",
-        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.25.zip"
+        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.25.zip",
+        "file_name": "lua-nginx-module-v0.10.25.zip"
     },
     {
         "version": "v0.10.24",
-        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.24.zip"
+        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.24.zip",
+        "file_name": "lua-nginx-module-v0.10.24.zip"
     },
     {
         "version": "v0.10.23",
-        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.23.zip"
+        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.23.zip",
+        "file_name": "lua-nginx-module-v0.10.23.zip"
     },
     {
         "version": "v0.10.22",
-        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.22.zip"
+        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.22.zip",
+        "file_name": "lua-nginx-module-v0.10.22.zip"
     },
     {
         "version": "v0.10.21",
-        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.21.zip"
+        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.21.zip",
+        "file_name": "lua-nginx-module-v0.10.21.zip"
     },
     {
         "version": "23.2.1",
@@ -5061,23 +5664,23 @@
         "file_name": "pure-ftpd-1.0.51.tar.gz"
     },
     {
-        "package_name": "htop-3.2.2.tar.gz",
+        "file_name": "htop-3.2.2.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.2.2.tar.gz/sha512/dd82d5b2f70694e76b3740ef0f6f6d3446fe83b748c2cfe61c783985d62cb6e1d00fcb4b1fe7dc8f1d8c6bc7b29474e1e88eaa01f154198d702b100bcbc135bb/htop-3.2.2.tar.gz"
     },
     {
-        "package_name": "htop-3.2.1.tar.gz",
+        "file_name": "htop-3.2.1.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.2.1.tar.gz/sha512/d7b76e28ee870ac572ba1d9606dec6f9475346a00e599ca15838017c97683f1fc1be40417b9c1e76128cacc8a60ff9ba88c6b237be1835d309f98329b25644fc/htop-3.2.1.tar.gz"
     },
     {
-        "package_name": "htop-3.2.0.tar.gz",
+        "file_name": "htop-3.2.0.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.2.0.tar.gz/sha512/174eaa7333fa60e40f67148560c53125e7aaf46a48e7f3ecfa2daa68553c94b3d076d03320afd479dcee07e739c0ff286a81b67cbc994782c33e798d3ed4605c/htop-3.2.0.tar.gz"
     },
     {
-        "package_name": "htop-3.1.2.tar.gz",
+        "file_name": "htop-3.1.2.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.1.2.tar.gz/sha512/7e08b820042e480ca61137ff24b468804b49b95c1bbedaf82029dd79d29c2c541c5211284ec075692203788bbb868a9d4326ffd24c68419e22eec13ae5012700/htop-3.1.2.tar.gz"
     },
     {
-        "package_name": "htop-3.1.1.tar.gz",
+        "file_name": "htop-3.1.1.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.1.1.tar.gz/sha512/5e4ec9b5fdf4583c8a345dcc2fe9395737e3a6e8dd8e6547800b959be084b9d57ae30bf891f79a25f6bf99ec0b6eb7eaba8bc851072c5a550de70df4178dc07d/htop-3.1.1.tar.gz"
     },
     {
@@ -5725,6 +6328,30 @@
         "file_name": "lua-cjson-2.1.0.13.tar.gz"
     },
     {
+        "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.13/gperftools-2.13.tar.gz",
+        "file_name": "gperftools-2.13.tar.gz"
+    },
+    {
+        "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.12/gperftools-2.12.tar.gz",
+        "file_name": "gperftools-2.12.tar.gz"
+    },
+    {
+        "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.11/gperftools-2.11.tar.gz",
+        "file_name": "gperftools-2.11.tar.gz"
+    },
+    {
+        "url": "https://github.com/unicode-org/icu/releases/download/release-73-2/icu4c-73_2-src.tgz",
+        "file_name": "icu4c-73_2-src.tgz"
+    },
+    {
+        "url": "https://github.com/unicode-org/icu/releases/download/release-73-2/icu4c-73_2-src.tgz.asc",
+        "file_name": "icu4c-73_2-src.tgz.asc"
+    },
+    {
+        "url": "https://github.com/unicode-org/icu/releases/download/release-73-1/icu4c-73_1-src.tgz",
+        "file_name": "icu4c-73_1-src.tgz"
+    },
+    {
         "url": "https://www.sourceguardian.com/loaders/download/loaders.linux-x86_64.tar.gz",
         "file_name": "loaders.linux-x86_64.tar.gz"
     },
@@ -5745,63 +6372,147 @@
         "file_name": "ocp.php"
     },
     {
+        "url": "https://downloads.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz",
+        "file_name": "ioncube_loaders_lin_x86-64.tar.gz"
+    },
+    {
+        "url": "https://downloads.ioncube.com/loader_downloads/ioncube_loaders_lin_x86.tar.gz",
+        "file_name": "ioncube_loaders_lin_x86.tar.gz"
+    },
+    {
+        "url": "https://downloads.ioncube.com/loader_downloads/ioncube_loaders_lin_aarch64.tar.gz",
+        "file_name": "ioncube_loaders_lin_aarch64.tar.gz"
+    },
+    {
+        "url": "https://downloads.ioncube.com/loader_downloads/ioncube_loaders_lin_armv7l.tar.gz",
+        "file_name": "ioncube_loaders_lin_armv7l.tar.gz"
+    },
+    {
+        "url": "https://versaweb.dl.sourceforge.net/project/pcre/pcre/8.45/pcre-8.45.tar.gz",
+        "file_name": "pcre-8.45.tar.gz"
+    },
+    {
+        "url": "https://launchpad.net/libmemcached/1.0/1.0.18/+download/libmemcached-1.0.18.tar.gz",
+        "file_name": "libmemcached-1.0.18.tar.gz"
+    },
+    {
         "version": "5.1.22",
-        "url": "https://pecl.php.net/get/apcu-5.1.22.tgz"
+        "url": "https://pecl.php.net/get/apcu-5.1.22.tgz",
+        "file_name": "apcu-5.1.22.tgz"
     },
     {
         "version": "5.1.21",
-        "url": "https://pecl.php.net/get/apcu-5.1.21.tgz"
+        "url": "https://pecl.php.net/get/apcu-5.1.21.tgz",
+        "file_name": "apcu-5.1.21.tgz"
     },
     {
         "version": "5.1.20",
-        "url": "https://pecl.php.net/get/apcu-5.1.20.tgz"
+        "url": "https://pecl.php.net/get/apcu-5.1.20.tgz",
+        "file_name": "apcu-5.1.20.tgz"
     },
     {
         "version": "2.0.6RC1",
-        "url": "https://pecl.php.net/get/gmagick-2.0.6RC1.tgz"
+        "url": "https://pecl.php.net/get/gmagick-2.0.6RC1.tgz",
+        "file_name": "gmagick-2.0.6RC1.tgz"
     },
     {
         "version": "2.0.5RC1",
-        "url": "https://pecl.php.net/get/gmagick-2.0.5RC1.tgz"
+        "url": "https://pecl.php.net/get/gmagick-2.0.5RC1.tgz",
+        "file_name": "gmagick-2.0.5RC1.tgz"
     },
     {
         "version": "2.0.4RC1",
-        "url": "https://pecl.php.net/get/gmagick-2.0.4RC1.tgz"
+        "url": "https://pecl.php.net/get/gmagick-2.0.4RC1.tgz",
+        "file_name": "gmagick-2.0.4RC1.tgz"
     },
     {
         "version": "3.7.0",
-        "url": "https://pecl.php.net/get/imagick-3.7.0.tgz"
+        "url": "https://pecl.php.net/get/imagick-3.7.0.tgz",
+        "file_name": "imagick-3.7.0.tgz"
     },
     {
         "version": "3.7.0RC1",
-        "url": "https://pecl.php.net/get/imagick-3.7.0RC1.tgz"
+        "url": "https://pecl.php.net/get/imagick-3.7.0RC1.tgz",
+        "file_name": "imagick-3.7.0RC1.tgz"
     },
     {
         "version": "3.6.0",
-        "url": "https://pecl.php.net/get/imagick-3.6.0.tgz"
+        "url": "https://pecl.php.net/get/imagick-3.6.0.tgz",
+        "file_name": "imagick-3.6.0.tgz"
     },
     {
         "version": "8.2",
-        "url": "https://pecl.php.net/get/memcache-8.2.tgz"
+        "url": "https://pecl.php.net/get/memcache-8.2.tgz",
+        "file_name": "memcache-8.2.tgz"
     },
     {
         "version": "8.0",
-        "url": "https://pecl.php.net/get/memcache-8.0.tgz"
+        "url": "https://pecl.php.net/get/memcache-8.0.tgz",
+        "file_name": "memcache-8.0.tgz"
     },
     {
         "version": "4.0.5.2",
-        "url": "https://pecl.php.net/get/memcache-4.0.5.2.tgz"
+        "url": "https://pecl.php.net/get/memcache-4.0.5.2.tgz",
+        "file_name": "memcache-4.0.5.2.tgz"
     },
     {
         "version": "1.16.2",
-        "url": "https://pecl.php.net/get/mongodb-1.16.2.tgz"
+        "url": "https://pecl.php.net/get/mongodb-1.16.2.tgz",
+        "file_name": "mongodb-1.16.2.tgz"
     },
     {
         "version": "1.16.1",
-        "url": "https://pecl.php.net/get/mongodb-1.16.1.tgz"
+        "url": "https://pecl.php.net/get/mongodb-1.16.1.tgz",
+        "file_name": "mongodb-1.16.1.tgz"
     },
     {
         "version": "1.16.0",
-        "url": "https://pecl.php.net/get/mongodb-1.16.0.tgz"
+        "url": "https://pecl.php.net/get/mongodb-1.16.0.tgz",
+        "file_name": "mongodb-1.16.0.tgz"
+    },
+    {
+        "version": "5.1.0",
+        "url": "https://pecl.php.net/get/swoole-5.1.0.tgz",
+        "file_name": "swoole-5.1.0.tgz"
+    },
+    {
+        "version": "5.0.3",
+        "url": "https://pecl.php.net/get/swoole-5.0.3.tgz",
+        "file_name": "swoole-5.0.3.tgz"
+    },
+    {
+        "version": "5.0.2",
+        "url": "https://pecl.php.net/get/swoole-5.0.2.tgz",
+        "file_name": "swoole-5.0.2.tgz"
+    },
+    {
+        "version": "3.3.5",
+        "url": "https://pecl.php.net/get/yaf-3.3.5.tgz",
+        "file_name": "yaf-3.3.5.tgz"
+    },
+    {
+        "version": "3.3.4",
+        "url": "https://pecl.php.net/get/yaf-3.3.4.tgz",
+        "file_name": "yaf-3.3.4.tgz"
+    },
+    {
+        "version": "3.3.3",
+        "url": "https://pecl.php.net/get/yaf-3.3.3.tgz",
+        "file_name": "yaf-3.3.3.tgz"
+    },
+    {
+        "version": "3.2.2",
+        "url": "https://pecl.php.net/get/xdebug-3.2.2.tgz",
+        "file_name": "xdebug-3.2.2.tgz"
+    },
+    {
+        "version": "3.2.1",
+        "url": "https://pecl.php.net/get/xdebug-3.2.1.tgz",
+        "file_name": "xdebug-3.2.1.tgz"
+    },
+    {
+        "version": "3.2.0",
+        "url": "https://pecl.php.net/get/xdebug-3.2.0.tgz",
+        "file_name": "xdebug-3.2.0.tgz"
     }
 ]
