@@ -854,11 +854,11 @@
 /src/openresty-1.21.4.2.tar.gz https://openresty.org/download/openresty-1.21.4.2.tar.gz 301
 /src/openresty-1.15.8.3.tar.gz https://openresty.org/download/openresty-1.15.8.3.tar.gz 301
 /src/openresty-1.15.8.2.tar.gz https://openresty.org/download/openresty-1.15.8.2.tar.gz 301
+/src/memcached-1.6.22.tar.gz http://www.memcached.org/files/memcached-1.6.22.tar.gz 301
 /src/memcached-1.6.21.tar.gz http://www.memcached.org/files/memcached-1.6.21.tar.gz 301
 /src/memcached-1.6.20.tar.gz http://www.memcached.org/files/memcached-1.6.20.tar.gz 301
 /src/memcached-1.6.19.tar.gz http://www.memcached.org/files/memcached-1.6.19.tar.gz 301
 /src/memcached-1.6.18.tar.gz http://www.memcached.org/files/memcached-1.6.18.tar.gz 301
-/src/memcached-1.6.17.tar.gz http://www.memcached.org/files/memcached-1.6.17.tar.gz 301
 /src/lua-nginx-module-v0.10.25.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.25.zip 301
 /src/lua-nginx-module-v0.10.24.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.24.zip 301
 /src/lua-nginx-module-v0.10.23.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.23.zip 301
