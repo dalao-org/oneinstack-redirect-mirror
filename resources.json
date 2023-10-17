@@ -6352,6 +6352,547 @@
         "file_name": "icu4c-73_1-src.tgz"
     },
     {
+        "url": "https://github.com/glotlabs/gdrive/releases/download/3.9.0/gdrive_linux-x64.tar.gz",
+        "file_name": "gdrive_linux-x64.tar.gz"
+    },
+    {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.10.1/libzip-1.10.1.tar.gz",
+        "file_name": "libzip-1.10.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.10.0/libzip-1.10.0.tar.gz",
+        "file_name": "libzip-1.10.0.tar.gz"
+    },
+    {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.9.2/libzip-1.9.2.tar.gz",
+        "file_name": "libzip-1.9.2.tar.gz"
+    },
+    {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.9.1/libzip-1.9.1.tar.gz",
+        "file_name": "libzip-1.9.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.9.0/libzip-1.9.0.tar.gz",
+        "file_name": "libzip-1.9.0.tar.gz"
+    },
+    {
+        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz",
+        "file_name": "libsodium-1.0.19.tar.gz"
+    },
+    {
+        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz.minisig",
+        "file_name": "libsodium-1.0.19.tar.gz.minisig"
+    },
+    {
+        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz.sig",
+        "file_name": "libsodium-1.0.19.tar.gz.sig"
+    },
+    {
+        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz",
+        "file_name": "libsodium-1.0.18.tar.gz"
+    },
+    {
+        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz.minisig",
+        "file_name": "libsodium-1.0.18.tar.gz.minisig"
+    },
+    {
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20151206.tar.gz",
+        "file_name": "phc-winner-argon2-20151206.tar.gz"
+    },
+    {
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20160406.tar.gz",
+        "file_name": "phc-winner-argon2-20160406.tar.gz"
+    },
+    {
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20160821.tar.gz",
+        "file_name": "phc-winner-argon2-20160821.tar.gz"
+    },
+    {
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20161029.tar.gz",
+        "file_name": "phc-winner-argon2-20161029.tar.gz"
+    },
+    {
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20171227.tar.gz",
+        "file_name": "phc-winner-argon2-20171227.tar.gz"
+    },
+    {
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20190702.tar.gz",
+        "file_name": "phc-winner-argon2-20190702.tar.gz"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.0.tar.gz",
+        "file_name": "freetype-2.10.0.tar.gz",
+        "version": "2.10.0"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.0.tar.gz.sig",
+        "file_name": "freetype-2.10.0.tar.gz.sig",
+        "version": "2.10.0"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.1.tar.gz",
+        "file_name": "freetype-2.10.1.tar.gz",
+        "version": "2.10.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.1.tar.gz.sig",
+        "file_name": "freetype-2.10.1.tar.gz.sig",
+        "version": "2.10.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.2.tar.gz",
+        "file_name": "freetype-2.10.2.tar.gz",
+        "version": "2.10.2"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.2.tar.gz.sig",
+        "file_name": "freetype-2.10.2.tar.gz.sig",
+        "version": "2.10.2"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.3.tar.gz",
+        "file_name": "freetype-2.10.3.tar.gz",
+        "version": "2.10.3"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.3.tar.gz.sig",
+        "file_name": "freetype-2.10.3.tar.gz.sig",
+        "version": "2.10.3"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.4.tar.gz",
+        "file_name": "freetype-2.10.4.tar.gz",
+        "version": "2.10.4"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.4.tar.gz.sig",
+        "file_name": "freetype-2.10.4.tar.gz.sig",
+        "version": "2.10.4"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.11.0.tar.gz",
+        "file_name": "freetype-2.11.0.tar.gz",
+        "version": "2.11.0"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.11.0.tar.gz.sig",
+        "file_name": "freetype-2.11.0.tar.gz.sig",
+        "version": "2.11.0"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.11.1.tar.gz",
+        "file_name": "freetype-2.11.1.tar.gz",
+        "version": "2.11.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.11.1.tar.gz.sig",
+        "file_name": "freetype-2.11.1.tar.gz.sig",
+        "version": "2.11.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.12.0.tar.gz",
+        "file_name": "freetype-2.12.0.tar.gz",
+        "version": "2.12.0"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.12.0.tar.gz.sig",
+        "file_name": "freetype-2.12.0.tar.gz.sig",
+        "version": "2.12.0"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.12.1.tar.gz",
+        "file_name": "freetype-2.12.1.tar.gz",
+        "version": "2.12.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.12.1.tar.gz.sig",
+        "file_name": "freetype-2.12.1.tar.gz.sig",
+        "version": "2.12.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.0.tar.gz",
+        "file_name": "freetype-2.13.0.tar.gz",
+        "version": "2.13.0"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.0.tar.gz.sig",
+        "file_name": "freetype-2.13.0.tar.gz.sig",
+        "version": "2.13.0"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.1.tar.gz",
+        "file_name": "freetype-2.13.1.tar.gz",
+        "version": "2.13.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.1.tar.gz.sig",
+        "file_name": "freetype-2.13.1.tar.gz.sig",
+        "version": "2.13.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.2.tar.gz",
+        "file_name": "freetype-2.13.2.tar.gz",
+        "version": "2.13.2"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.2.tar.gz.sig",
+        "file_name": "freetype-2.13.2.tar.gz.sig",
+        "version": "2.13.2"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.7.1.tar.gz",
+        "file_name": "freetype-2.7.1.tar.gz",
+        "version": "2.7.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.7.1.tar.gz.sig",
+        "file_name": "freetype-2.7.1.tar.gz.sig",
+        "version": "2.7.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.8.1.tar.gz",
+        "file_name": "freetype-2.8.1.tar.gz",
+        "version": "2.8.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.8.1.tar.gz.sig",
+        "file_name": "freetype-2.8.1.tar.gz.sig",
+        "version": "2.8.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.9.1.tar.gz",
+        "file_name": "freetype-2.9.1.tar.gz",
+        "version": "2.9.1"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.9.1.tar.gz.sig",
+        "file_name": "freetype-2.9.1.tar.gz.sig",
+        "version": "2.9.1"
+    },
+    {
+        "url": "https://github.com/libevent/libevent/releases/download/release-2.1.12-stable/libevent-2.1.12-stable.tar.gz",
+        "file_name": "libevent-2.1.12-stable.tar.gz"
+    },
+    {
+        "url": "https://github.com/libevent/libevent/releases/download/release-2.1.11-stable/libevent-2.1.11-stable.tar.gz",
+        "file_name": "libevent-2.1.11-stable.tar.gz"
+    },
+    {
+        "url": "https://github.com/libevent/libevent/releases/download/release-2.1.10-stable/libevent-2.1.10-stable.tar.gz",
+        "file_name": "libevent-2.1.10-stable.tar.gz"
+    },
+    {
+        "url": "https://github.com/libevent/libevent/releases/download/release-2.1.8-stable/libevent-2.1.8-stable.tar.gz",
+        "file_name": "libevent-2.1.8-stable.tar.gz"
+    },
+    {
+        "url": "https://github.com/libevent/libevent/releases/download/release-2.0.22-stable/libevent-2.0.22-stable.tar.gz",
+        "file_name": "libevent-2.0.22-stable.tar.gz"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.3.1.zip",
+        "file_name": "webgrind-v1.3.1.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.4.0.zip",
+        "file_name": "webgrind-v1.4.0.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.5.0.zip",
+        "file_name": "webgrind-v1.5.0.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.6.0.zip",
+        "file_name": "webgrind-v1.6.0.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.6.1.zip",
+        "file_name": "webgrind-v1.6.1.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.7.0.zip",
+        "file_name": "webgrind-v1.7.0.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.8.0.zip",
+        "file_name": "webgrind-v1.8.0.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.9.0.zip",
+        "file_name": "webgrind-v1.9.0.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.9.1.zip",
+        "file_name": "webgrind-v1.9.1.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.9.2.zip",
+        "file_name": "webgrind-v1.9.2.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.9.3.zip",
+        "file_name": "webgrind-v1.9.3.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/0.3.zip",
+        "file_name": "webgrind-0.3.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/0.4.zip",
+        "file_name": "webgrind-0.4.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/0.5.zip",
+        "file_name": "webgrind-0.5.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/0.6.zip",
+        "file_name": "webgrind-0.6.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/0.7.zip",
+        "file_name": "webgrind-0.7.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/0.8.zip",
+        "file_name": "webgrind-0.8.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/0.9.zip",
+        "file_name": "webgrind-0.9.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/1.0.zip",
+        "file_name": "webgrind-1.0.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/1.1.zip",
+        "file_name": "webgrind-1.1.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/1.2.zip",
+        "file_name": "webgrind-1.2.zip"
+    },
+    {
+        "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/1.3.zip",
+        "file_name": "webgrind-1.3.zip"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.5.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.5.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.6.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.6.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.7.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.7.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.8.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.8.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.9.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.9.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.10.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.10.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.11.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.11.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.12rc1.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.12rc1.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.13.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.13.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.14rc1.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.14rc1.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.14.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.14.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.15.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.15.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.16.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.16.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.17rc1.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.17rc1.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.17rc2.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.17rc2.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.17.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.17.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.18.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.18.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.2.19.tar.gz",
+        "file_name": "ngx_devel_kit-v0.2.19.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.0rc1.tar.gz",
+        "file_name": "ngx_devel_kit-v0.3.0rc1.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.0.tar.gz",
+        "file_name": "ngx_devel_kit-v0.3.0.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.1rc1.tar.gz",
+        "file_name": "ngx_devel_kit-v0.3.1rc1.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.1.tar.gz",
+        "file_name": "ngx_devel_kit-v0.3.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.2.tar.gz",
+        "file_name": "ngx_devel_kit-v0.3.2.tar.gz"
+    },
+    {
+        "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.9/onig-6.9.9.tar.gz",
+        "file_name": "onig-6.9.9.tar.gz"
+    },
+    {
+        "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.8/onig-6.9.8.tar.gz",
+        "file_name": "onig-6.9.8.tar.gz"
+    },
+    {
+        "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.7.1/onig-6.9.7.1.tar.gz",
+        "file_name": "onig-6.9.7.1.tar.gz"
+    },
+    {
+        "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.7/onig-6.9.7.tar.gz",
+        "file_name": "onig-6.9.7.tar.gz"
+    },
+    {
+        "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.6/onig-6.9.6.tar.gz",
+        "file_name": "onig-6.9.6.tar.gz"
+    },
+    {
+        "url": "https://github.com/dropbox/dbxcli/releases/download/v3.0.0/dbxcli-linux-arm",
+        "file_name": "dbxcli-linux-arm"
+    },
+    {
+        "url": "https://github.com/dropbox/dbxcli/releases/download/v3.0.0/dbxcli-linux-amd64",
+        "file_name": "dbxcli-linux-amd64"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/bison/bison-3.8.2.tar.gz",
+        "file_name": "bison-3.8.2.tar.gz",
+        "version": "3.8.2"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/bison/bison-3.8.1.tar.gz",
+        "file_name": "bison-3.8.1.tar.gz",
+        "version": "3.8.1"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/bison/bison-3.8.tar.gz",
+        "file_name": "bison-3.8.tar.gz",
+        "version": "3.8"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/bison/bison-3.7.6.tar.gz",
+        "file_name": "bison-3.7.6.tar.gz",
+        "version": "3.7.6"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/bison/bison-3.7.5.tar.gz",
+        "file_name": "bison-3.7.5.tar.gz",
+        "version": "3.7.5"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.7.tar.gz",
+        "file_name": "libiconv-1.7.tar.gz",
+        "version": "1.7"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.8.tar.gz",
+        "file_name": "libiconv-1.8.tar.gz",
+        "version": "1.8"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.9.1.tar.gz",
+        "file_name": "libiconv-1.9.1.tar.gz",
+        "version": "1.9.1"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.9.2.tar.gz",
+        "file_name": "libiconv-1.9.2.tar.gz",
+        "version": "1.9.2"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.10.tar.gz",
+        "file_name": "libiconv-1.10.tar.gz",
+        "version": "1.10"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.11.1.tar.gz",
+        "file_name": "libiconv-1.11.1.tar.gz",
+        "version": "1.11.1"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.11.tar.gz",
+        "file_name": "libiconv-1.11.tar.gz",
+        "version": "1.11"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.12.tar.gz",
+        "file_name": "libiconv-1.12.tar.gz",
+        "version": "1.12"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.13.1.tar.gz",
+        "file_name": "libiconv-1.13.1.tar.gz",
+        "version": "1.13.1"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.13.tar.gz",
+        "file_name": "libiconv-1.13.tar.gz",
+        "version": "1.13"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.14.tar.gz",
+        "file_name": "libiconv-1.14.tar.gz",
+        "version": "1.14"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.15.tar.gz",
+        "file_name": "libiconv-1.15.tar.gz",
+        "version": "1.15"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.16.tar.gz",
+        "file_name": "libiconv-1.16.tar.gz",
+        "version": "1.16"
+    },
+    {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.17.tar.gz",
+        "file_name": "libiconv-1.17.tar.gz",
+        "version": "1.17"
+    },
+    {
         "url": "https://www.sourceguardian.com/loaders/download/loaders.linux-x86_64.tar.gz",
         "file_name": "loaders.linux-x86_64.tar.gz"
     },
@@ -6394,6 +6935,30 @@
     {
         "url": "https://launchpad.net/libmemcached/1.0/1.0.18/+download/libmemcached-1.0.18.tar.gz",
         "file_name": "libmemcached-1.0.18.tar.gz"
+    },
+    {
+        "url": "https://src.fedoraproject.org/repo/pkgs/libmcrypt/libmcrypt-2.5.8.tar.gz/0821830d930a86a5c69110837c55b7da/libmcrypt-2.5.8.tar.gz",
+        "file_name": "libmcrypt-2.5.8.tar.gz"
+    },
+    {
+        "url": "https://src.fedoraproject.org/repo/pkgs/mcrypt/mcrypt-2.6.8.tar.gz/97639f8821b10f80943fa17da302607e/mcrypt-2.6.8.tar.gz",
+        "file_name": "mcrypt-2.6.8.tar.gz"
+    },
+    {
+        "url": "https://src.fedoraproject.org/repo/pkgs/mhash/mhash-0.9.9.9.tar.bz2/md5/f91c74f9ccab2b574a98be5bc31eb280/mhash-0.9.9.9.tar.bz2",
+        "file_name": "mhash-0.9.9.9.tar.bz2"
+    },
+    {
+        "url": "https://bootstrap.pypa.io/ez_setup.py",
+        "file_name": "ez_setup.py"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/daleobrien/start-stop-daemon/master/start-stop-daemon.chttps://src.fedoraproject.org/repo/pkgs/php-eaccelerator/eaccelerator-0.9.6.1.tar.bz2/32ccd838e06ef5613c2610c1c65ed228/eaccelerator-0.9.6.1.tar.bz2",
+        "file_name": "eaccelerator-0.9.6.1.tar.bz2"
+    },
+    {
+        "url": "https://opensource.apple.com/source/apache/apache-795.1/httpd/modules/metadata/mod_remoteip.c",
+        "file_name": "mod_remoteip.c"
     },
     {
         "version": "5.1.22",
@@ -6514,5 +7079,20 @@
         "version": "3.2.0",
         "url": "https://pecl.php.net/get/xdebug-3.2.0.tgz",
         "file_name": "xdebug-3.2.0.tgz"
+    },
+    {
+        "version": "1.6.16",
+        "url": "https://pecl.php.net/get/mongo-1.6.16.tgz",
+        "file_name": "mongo-1.6.16.tgz"
+    },
+    {
+        "version": "1.6.15",
+        "url": "https://pecl.php.net/get/mongo-1.6.15.tgz",
+        "file_name": "mongo-1.6.15.tgz"
+    },
+    {
+        "version": "1.6.14",
+        "url": "https://pecl.php.net/get/mongo-1.6.14.tgz",
+        "file_name": "mongo-1.6.14.tgz"
     }
 ]
