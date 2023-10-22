@@ -1,0 +1,118 @@
+[
+    {
+        "version_file_name": "mysql80_ver",
+        "version": "8.0.34"
+    },
+    {
+        "version_file_name": "mysql57_ver",
+        "version": "5.7.43"
+    },
+    {
+        "version_file_name": "mysql56_ver",
+        "version": "5.6.51"
+    },
+    {
+        "version_file_name": "mysql55_ver",
+        "version": "5.5.62"
+    },
+    {
+        "version_file_name": "nginx_ver",
+        "version": "1.25.2"
+    },
+    {
+        "version_file_name": "php53_ver",
+        "version": "5.3.29"
+    },
+    {
+        "version_file_name": "php54_ver",
+        "version": "5.4.45"
+    },
+    {
+        "version_file_name": "php55_ver",
+        "version": "5.5.38"
+    },
+    {
+        "version_file_name": "php56_ver",
+        "version": "5.6.40"
+    },
+    {
+        "version_file_name": "php70_ver",
+        "version": "7.0.33"
+    },
+    {
+        "version_file_name": "php71_ver",
+        "version": "7.1.33"
+    },
+    {
+        "version_file_name": "php72_ver",
+        "version": "7.2.34"
+    },
+    {
+        "version_file_name": "php73_ver",
+        "version": "7.3.33"
+    },
+    {
+        "version_file_name": "php74_ver",
+        "version": "7.4.33"
+    },
+    {
+        "version_file_name": "php80_ver",
+        "version": "8.0.30"
+    },
+    {
+        "version_file_name": "php81_ver",
+        "version": "8.1.24"
+    },
+    {
+        "version_file_name": "php82_ver",
+        "version": "8.2.11"
+    },
+    {
+        "version_file_name": "phpmyadmin_ver",
+        "version": "5.2.1"
+    },
+    {
+        "version_file_name": "phpmyadmin_oldver",
+        "version": "4.9.11"
+    },
+    {
+        "version_file_name": "nghttp2_ver",
+        "version": "1.57.0"
+    },
+    {
+        "version_file_name": "pgsql_ver",
+        "version": "16.0"
+    },
+    {
+        "version_file_name": "apache_ver",
+        "version": "2.4.58"
+    },
+    {
+        "version_file_name": "apr_ver",
+        "version": "1.7.4"
+    },
+    {
+        "version_file_name": "apr_util_ver",
+        "version": "1.6.3"
+    },
+    {
+        "version_file_name": "openresty_ver",
+        "version": "1.21.4.2"
+    },
+    {
+        "version_file_name": "tengine_ver",
+        "version": "3.0.0"
+    },
+    {
+        "version_file_name": "openssl3_ver",
+        "version": "3.1.3"
+    },
+    {
+        "version_file_name": "openssl11_ver",
+        "version": "1.1.1w"
+    },
+    {
+        "version_file_name": "pcre_ver",
+        "version": "8.45"
+    }
+]

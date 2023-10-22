@@ -1858,517 +1858,6 @@
         "version": "5.5.8"
     },
     {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.73-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.73-linux-x86_64-glibc23.tar.gz",
-        "md5": "02291ad2d30f273bc8da24444e55a2ee",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.73-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.73"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.72-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.72-linux-x86_64-glibc23.tar.gz",
-        "md5": "e717f71e8c780c422af26847bf64e99a",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.72-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.72"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.71-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.71-linux-x86_64-glibc23.tar.gz",
-        "md5": "6791953cbfb436fab330d648ceb9b8f0",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.71-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.71"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.70-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.70-linux-x86_64-glibc23.tar.gz",
-        "md5": "c21084a893fe66d58c40e2ff1d6f7c61",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.70-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.70"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.69-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.69-linux-x86_64-glibc23.tar.gz",
-        "md5": "1108ce886f103fc1deb281cb3cab573d",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.69-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.69"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.68-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.68-linux-x86_64-glibc23.tar.gz",
-        "md5": "ddf26afab1e04731b708d31d358663f9",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.68-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.68"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.67-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.67-linux-x86_64-glibc23.tar.gz",
-        "md5": "5c11b8ce1d1c555bb2b6ab99f3728d25",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.67-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.67"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.66-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.66-linux-x86_64-glibc23.tar.gz",
-        "md5": "0dd0b43ed5699a1fef1d6e0ac874aec8",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.66-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.66"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.65-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.65-linux-x86_64-glibc23.tar.gz",
-        "md5": "37e7d736fd2eece3ec19cb2289cf2f20",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.65-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.65"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.63-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.63-linux-x86_64-glibc23.tar.gz",
-        "md5": "594ea37fcd9f29a9e3eddf38e7288e3f",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.63-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.63"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.62-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.62-linux-x86_64-glibc23.tar.gz",
-        "md5": "84d4fb30e4e9cf91536347addd3932a5",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.62-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.62"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.61-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.61-linux-x86_64-glibc23.tar.gz",
-        "md5": "306ed7eab04da516bf48d095b5965969",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.61-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.61"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.60-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.60-linux-x86_64-glibc23.tar.gz",
-        "md5": "bd8d80ffea3aef45a95a5f58fdc280cf",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.60-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.60"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.59-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.59-linux-x86_64-glibc23.tar.gz",
-        "md5": "76486de075f25df04c43e1d991065c03",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.59-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.59"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.58-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.58-linux-x86_64-glibc23.tar.gz",
-        "md5": "0206e679e6d0e7a7fa81e4e778553e28",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.58-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.58"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.57-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.57-linux-x86_64-glibc23.tar.gz",
-        "md5": "7b01d84740224e3d5036b86c3a7b452b",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.57-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.57"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.56-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.56-linux-x86_64-glibc23.tar.gz",
-        "md5": "2dfcffb0daddaa192ec02816e565637c",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.56-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.56"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.55-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.55-linux-x86_64-glibc23.tar.gz",
-        "md5": "c05271d526c51610bdfeeef6428fdd91",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.55-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.55"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.54-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.54-linux-x86_64-glibc23.tar.gz",
-        "md5": "71c40a50bb7e3fd0d7f585e60340932e",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.54-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.54"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.53-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.53-linux-x86_64-glibc23.tar.gz",
-        "md5": "6806b5306ad5e982dd315192d1c540ec",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.53-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.53"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.52-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.52-linux-x86_64-glibc23.tar.gz",
-        "md5": "3afdaa31168a687751cccec69ab00a30",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.52-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.52"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.51-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.51-linux-x86_64-glibc23.tar.gz",
-        "md5": "80e881a80e74a473f528aaebe93cce8b",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.51-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.51"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.50-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.50-linux-x86_64-glibc23.tar.gz",
-        "md5": "6cef077123ca310fd8933d6a58b36bc4",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.50-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.50"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.49-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.49-linux-x86_64-glibc23.tar.gz",
-        "md5": "e9077d06346318ed9523494713a0f0eb",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.49-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.49"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.48-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.48-linux-x86_64-glibc23.tar.gz",
-        "md5": "295c9a992b487f2a2c2e7b81343ba0ea",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.48-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.48"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.47-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.47-linux-x86_64-glibc23.tar.gz",
-        "md5": "efd696395a939b0835c06738ad275bce",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.47-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.47"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.46-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.46-linux-x86_64-glibc23.tar.gz",
-        "md5": "07487fc954654a5961dae16145a38bbf",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.46-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.46"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.45-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.45-linux-x86_64-glibc23.tar.gz",
-        "md5": "1a7fa274adaa514a66a52b75c46cb81e",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.45-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.45"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.44-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.44-linux-x86_64-glibc23.tar.gz",
-        "md5": "b8640f4ebb5549cfdfcfa20153edd1d1",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.44-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.44"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.43-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.43-linux-x86_64-glibc23.tar.gz",
-        "md5": "f7f18754c4b08b846217ec134494fbfe",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.43-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.43"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.41-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.41-linux-x86_64-glibc23.tar.gz",
-        "md5": "4e11a7d6ec6d1663b1cb44363d7868e5",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.41-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.41"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.40-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.40-linux-x86_64-glibc23.tar.gz",
-        "md5": "31a82a9938c02a3929c47cb016bd5784",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.40-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.40"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.39-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.1.39-linux-powerpc-glibc23.tar.gz",
-        "md5": "4dd1f4c674552c024b4c45035f31d430",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.39-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.1.39"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.38-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.1.38-linux-powerpc-glibc23.tar.gz",
-        "md5": "8990d0e7bfb30b3888490a17fbb0ba49",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.38-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.1.38"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.37-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.37-linux-x86_64-glibc23.tar.gz",
-        "md5": "32cadaec4c2c55f188daa1752d91635b",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.37-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.37"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.36-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.1.36-linux-powerpc-glibc23.tar.gz",
-        "md5": "b915393be9347799112e881afd5a6841",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.36-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.1.36"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.35-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.35-linux-x86_64-glibc23.tar.gz",
-        "md5": "b75403a3c6421e7c89e325a9dc6c5858",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.35-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.35"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.34-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.34-linux-x86_64-glibc23.tar.gz",
-        "md5": "d74fd61ff67c24b4f0ae60274e5a5522",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.34-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.34"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.33-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.33-linux-x86_64-glibc23.tar.gz",
-        "md5": "6f5a9dcfa12cb29bc2401debaacc2e4d",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.33-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.33"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.32-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.32-linux-x86_64-glibc23.tar.gz",
-        "md5": "e38d9627eea47c3faaa85f929c9a0fdf",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.32-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.32"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.31-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.31-linux-x86_64-glibc23.tar.gz",
-        "md5": "89962e6a70279c88a792bcd63c7a8632",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.31-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.31"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.1.30-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.1.30-linux-x86_64-glibc23.tar.gz",
-        "md5": "c1340e2650b250e447b441ce6fbf3c03",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.1.30-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.1.30"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.96-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.96-linux-x86_64-glibc23.tar.gz",
-        "md5": "ec0897c53c8c325c816e0d045520939c",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.96-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.96"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.95-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.95-linux-x86_64-glibc23.tar.gz",
-        "md5": "749120f0d9715a387b9dccb552e8c59a",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.95-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.95"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.91-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.91-linux-x86_64-glibc23.tar.gz",
-        "md5": "cca7d1514aa302dc042ad681c31cca30",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.91-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.91"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.90-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.90-linux-x86_64-glibc23.tar.gz",
-        "md5": "1f3ab2fd58955d6249aafa93f73ef25d",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.90-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.90"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.89-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.89-linux-x86_64-glibc23.tar.gz",
-        "md5": "349271dd7fd50ba4c30273723f64076b",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.89-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.89"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.88-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.88-linux-x86_64-glibc23.tar.gz",
-        "md5": "da2eb8e772478120039e6b9dec06d462",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.88-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.88"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.87-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.87-linux-x86_64-glibc23.tar.gz",
-        "md5": "55f559e8360494ebcff29c730a5aff06",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.87-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.87"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.86-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.86-linux-x86_64-glibc23.tar.gz",
-        "md5": "95e418afccbd8fd3641e7e9e997571f8",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.86-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.86"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.85-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.85-linux-x86_64-glibc23.tar.gz",
-        "md5": "670128e7dae52b70741714db2f539388",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.85-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.85"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.84-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.0.84-linux-powerpc-glibc23.tar.gz",
-        "md5": "07dacc79c9a5bbac4d2f217a739dc411",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.84-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.0.84"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.83-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.0.83-linux-powerpc-glibc23.tar.gz",
-        "md5": "cc86c6527f999ddc26aff9c64abef031",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.83-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.0.83"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.82-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.82-linux-x86_64-glibc23.tar.gz",
-        "md5": "bd01b4ae156fcc733b1011422357c6dd",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.82-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.82"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.81-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.0.81-linux-powerpc-glibc23.tar.gz",
-        "md5": "7c9b3a78deee5d2c583e65ccd50650bb",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.81-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.0.81"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.77-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.0.77-linux-powerpc-glibc23.tar.gz",
-        "md5": "bcebacd4aa6cb03bd1bcee4c59ae5242",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.77-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.0.77"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.75.tar.gz",
-        "file_name": "mysql-5.0.75.tar.gz",
-        "md5": "a234f0a60a7f8c290d9875cba3a2c5a2",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.75.tar.gz&p=23",
-        "version": "5.0.75"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.67-linux-x86_64-icc-glibc23.tar.gz",
-        "file_name": "mysql-5.0.67-linux-x86_64-icc-glibc23.tar.gz",
-        "md5": "f194f6a449197dd6a8aae019ad7aac36",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.67-linux-x86_64-icc-glibc23.tar.gz&p=23",
-        "version": "5.0.67"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.45-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.0.45-linux-powerpc-glibc23.tar.gz",
-        "md5": "4a765ceb47e200309c7917cbaba3652e",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.45-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.0.45"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.41-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-5.0.41-linux-powerpc-glibc23.tar.gz",
-        "md5": "4802d49d85fccb2427af9ae50f8402ff",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.41-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.0.41"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.37-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-5.0.37-linux-x86_64-glibc23.tar.gz",
-        "md5": "a5ddc261f546c766494d36f5a7b7afc6",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.37-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.37"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.0.33-win-src.tar.gz",
-        "file_name": "mysql-5.0.33-win-src.tar.gz",
-        "md5": "d510ca2e7aa9250277868c6c74b725e4",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.0.33-win-src.tar.gz&p=23",
-        "version": "5.0.33"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.27-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.27-linux-x86_64-glibc23.tar.gz",
-        "md5": "d7ee4ed1b398527e33bd2c065355efee",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.27-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.27"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.24-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.24-linux-x86_64-glibc23.tar.gz",
-        "md5": "3263e7ab1e11b5fb041120cdb1e3fde9",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.24-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.24"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.23-linux-powerpc-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.23-linux-powerpc-glibc23.tar.gz",
-        "md5": "da29a725c6796f1977951906fad29a25",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.23-linux-powerpc-glibc23.tar.gz&p=23",
-        "version": "5.0.23"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.22-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.22-linux-x86_64-glibc23.tar.gz",
-        "md5": "da4ca7b6c1920bfb943ee82cd9b1d3d6",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.22-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.22"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.21-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.21-linux-x86_64-glibc23.tar.gz",
-        "md5": "402f1c77aaba5058999c13b2fba71dce",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.21-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.21"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.20-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.20-linux-x86_64-glibc23.tar.gz",
-        "md5": "6b4fbbed93ed7307a28c8aff7082c497",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.20-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.20"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.19-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.19-linux-x86_64-glibc23.tar.gz",
-        "md5": "1e6a803c285f6c9d2f1d7faa51acfa48",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.19-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.19"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.18-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.18-linux-x86_64-glibc23.tar.gz",
-        "md5": "55794a494c07d83ed829953cfc6b51e0",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.18-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.18"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.17-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.17-linux-x86_64-glibc23.tar.gz",
-        "md5": "71fef00713dd80bb6d1bf965e8b671e8",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.17-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.17"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.16-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.16-linux-x86_64-glibc23.tar.gz",
-        "md5": "88a4db003078f5d6aa420efc62883d6a",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.16-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.16"
-    },
-    {
-        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-standard-5.0.15-linux-x86_64-glibc23.tar.gz",
-        "file_name": "mysql-standard-5.0.15-linux-x86_64-glibc23.tar.gz",
-        "md5": "fb5d9b32e36f44eeb6decb8705b3d77c",
-        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-standard-5.0.15-linux-x86_64-glibc23.tar.gz&p=23",
-        "version": "5.0.15"
-    },
-    {
         "url": "https://downloads.mysql.com/downloads/file/?id=520293",
         "file_name": "mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz",
         "md5": "2f648e22ba9613ed1b7a47ed379c07cf",
@@ -5009,156 +4498,182 @@
         "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz"
     },
     {
+        "version": "1.57.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/nghttp2-1.57.0.tar.gz",
         "file_name": "nghttp2-1.57.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/nghttp2-1.57.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/checksums.txt"
     },
     {
+        "version": "1.57.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/nghttp2-1.57.0.tar.gz.asc",
         "file_name": "nghttp2-1.57.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/nghttp2-1.57.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/checksums.txt"
     },
     {
+        "version": "1.56.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/nghttp2-1.56.0.tar.gz",
         "file_name": "nghttp2-1.56.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/nghttp2-1.56.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/checksums.txt"
     },
     {
+        "version": "1.56.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/nghttp2-1.56.0.tar.gz.asc",
         "file_name": "nghttp2-1.56.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/nghttp2-1.56.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/checksums.txt"
     },
     {
+        "version": "1.55.1",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz",
         "file_name": "nghttp2-1.55.1.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/checksums.txt"
     },
     {
+        "version": "1.55.1",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz.asc",
         "file_name": "nghttp2-1.55.1.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/checksums.txt"
     },
     {
+        "version": "1.55.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz",
         "file_name": "nghttp2-1.55.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/checksums.txt"
     },
     {
+        "version": "1.55.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz.asc",
         "file_name": "nghttp2-1.55.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/checksums.txt"
     },
     {
+        "version": "1.54.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz",
         "file_name": "nghttp2-1.54.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/checksums.txt"
     },
     {
+        "version": "1.54.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc",
         "file_name": "nghttp2-1.54.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/checksums.txt"
     },
     {
+        "version": "1.53.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz",
         "file_name": "nghttp2-1.53.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/checksums.txt"
     },
     {
+        "version": "1.53.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz.asc",
         "file_name": "nghttp2-1.53.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/checksums.txt"
     },
     {
+        "version": "1.52.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/nghttp2-1.52.0.tar.gz",
         "file_name": "nghttp2-1.52.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/nghttp2-1.52.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/checksums.txt"
     },
     {
+        "version": "1.51.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.51.0/nghttp2-1.51.0.tar.gz",
         "file_name": "nghttp2-1.51.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.51.0/nghttp2-1.51.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.51.0/checksums.txt"
     },
     {
+        "version": "1.50.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/nghttp2-1.50.0.tar.gz",
         "file_name": "nghttp2-1.50.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/nghttp2-1.50.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/checksums.txt"
     },
     {
+        "version": "1.49.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.49.0/nghttp2-1.49.0.tar.gz",
         "file_name": "nghttp2-1.49.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.49.0/nghttp2-1.49.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.49.0/checksums.txt"
     },
     {
+        "version": "16.0",
         "url": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz",
         "file_name": "postgresql-16.0.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz.sha256"
     },
     {
+        "version": "15.4",
         "url": "https://ftp.postgresql.org/pub/source/v15.4/postgresql-15.4.tar.gz",
         "file_name": "postgresql-15.4.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v15.4/postgresql-15.4.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v15.4/postgresql-15.4.tar.gz.sha256"
     },
     {
+        "version": "15.3",
         "url": "https://ftp.postgresql.org/pub/source/v15.3/postgresql-15.3.tar.gz",
         "file_name": "postgresql-15.3.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v15.3/postgresql-15.3.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v15.3/postgresql-15.3.tar.gz.sha256"
     },
     {
+        "version": "15.2",
         "url": "https://ftp.postgresql.org/pub/source/v15.2/postgresql-15.2.tar.gz",
         "file_name": "postgresql-15.2.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v15.2/postgresql-15.2.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v15.2/postgresql-15.2.tar.gz.sha256"
     },
     {
+        "version": "15.1",
         "url": "https://ftp.postgresql.org/pub/source/v15.1/postgresql-15.1.tar.gz",
         "file_name": "postgresql-15.1.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v15.1/postgresql-15.1.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v15.1/postgresql-15.1.tar.gz.sha256"
     },
     {
+        "version": "15.0",
         "url": "https://ftp.postgresql.org/pub/source/v15.0/postgresql-15.0.tar.gz",
         "file_name": "postgresql-15.0.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v15.0/postgresql-15.0.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v15.0/postgresql-15.0.tar.gz.sha256"
     },
     {
+        "version": "14.9",
         "url": "https://ftp.postgresql.org/pub/source/v14.9/postgresql-14.9.tar.gz",
         "file_name": "postgresql-14.9.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v14.9/postgresql-14.9.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v14.9/postgresql-14.9.tar.gz.sha256"
     },
     {
+        "version": "14.8",
         "url": "https://ftp.postgresql.org/pub/source/v14.8/postgresql-14.8.tar.gz",
         "file_name": "postgresql-14.8.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v14.8/postgresql-14.8.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v14.8/postgresql-14.8.tar.gz.sha256"
     },
     {
+        "version": "14.7",
         "url": "https://ftp.postgresql.org/pub/source/v14.7/postgresql-14.7.tar.gz",
         "file_name": "postgresql-14.7.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v14.7/postgresql-14.7.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v14.7/postgresql-14.7.tar.gz.sha256"
     },
     {
+        "version": "14.6",
         "url": "https://ftp.postgresql.org/pub/source/v14.6/postgresql-14.6.tar.gz",
         "file_name": "postgresql-14.6.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v14.6/postgresql-14.6.tar.gz.md5",
@@ -5261,6 +4776,14 @@
         "pgp": "https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tgz.asc"
     },
     {
+        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz",
+        "file_name": "httpd-2.4.58.tar.gz",
+        "version": "2.4.58",
+        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.asc",
+        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.sha256",
+        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.sha512"
+    },
+    {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.57.tar.gz",
         "file_name": "httpd-2.4.57.tar.gz",
         "version": "2.4.57",
@@ -5293,14 +4816,6 @@
         "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.54.tar.gz.sha512"
     },
     {
-        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.53.tar.gz",
-        "file_name": "httpd-2.4.53.tar.gz",
-        "version": "2.4.53",
-        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.53.tar.gz.asc",
-        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.53.tar.gz.sha256",
-        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.53.tar.gz.sha512"
-    },
-    {
         "url": "https://archive.apache.org/dist/apr/apr-1.7.4.tar.gz",
         "file_name": "apr-1.7.4.tar.gz",
         "version": "1.7.4",
@@ -5323,21 +4838,21 @@
     },
     {
         "url": "https://archive.apache.org/dist/apr/apr-util-1.6.3.tar.gz",
-        "file_name": "apr-1.6.3.tar.gz",
+        "file_name": "apr-util-1.6.3.tar.gz",
         "version": "1.6.3",
         "gpg": "https://archive.apache.org/dist/apr/apr-util-1.6.3.tar.gz.asc",
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.3.tar.gz.sha256"
     },
     {
         "url": "https://archive.apache.org/dist/apr/apr-util-1.6.2.tar.gz",
-        "file_name": "apr-1.6.2.tar.gz",
+        "file_name": "apr-util-1.6.2.tar.gz",
         "version": "1.6.2",
         "gpg": "https://archive.apache.org/dist/apr/apr-util-1.6.2.tar.gz.asc",
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.2.tar.gz.sha256"
     },
     {
         "url": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz",
-        "file_name": "apr-1.6.1.tar.gz",
+        "file_name": "apr-util-1.6.1.tar.gz",
         "version": "1.6.1",
         "gpg": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz.asc",
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz.sha256"
@@ -5349,10 +4864,10 @@
         "file_name": "ImageMagick-6.9.12-98.tar.gz"
     },
     {
-        "version": "7.1.1-20",
-        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-20.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-20.tar.gz.asc",
-        "file_name": "ImageMagick-7.1.1-20.tar.gz"
+        "version": "7.1.1-21",
+        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-21.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-21.tar.gz.asc",
+        "file_name": "ImageMagick-7.1.1-21.tar.gz"
     },
     {
         "version": "1.21.4.2",
