@@ -100,6 +100,10 @@
         "version": "1.6.3"
     },
     {
+        "version_file_name": "imagemagick_ver",
+        "version": "6.9.12-98"
+    },
+    {
         "version_file_name": "openresty_ver",
         "version": "1.21.4.2"
     },
@@ -114,6 +118,42 @@
     {
         "version_file_name": "openssl11_ver",
         "version": "1.1.1w"
+    },
+    {
+        "version_file_name": "lua_resty_core_ver",
+        "version": "v0.1.27"
+    },
+    {
+        "version_file_name": "jemalloc_ver",
+        "version": "5.3.0"
+    },
+    {
+        "version_file_name": "lua_resty_lrucache_ver",
+        "version": "v0.13"
+    },
+    {
+        "version_file_name": "luajit2_ver",
+        "version": "v2.1-20231006"
+    },
+    {
+        "version_file_name": "lua_cjson_ver",
+        "version": "2.1.0.13"
+    },
+    {
+        "version_file_name": "icu4c_ver",
+        "version": "release-73-2"
+    },
+    {
+        "version_file_name": "libzip_ver",
+        "version": "v1.10.1"
+    },
+    {
+        "version_file_name": "libsodium_ver",
+        "version": "1.0.19-RELEASE"
+    },
+    {
+        "version_file_name": "argon2_ver",
+        "version": "20190702"
     },
     {
         "version_file_name": "freetype_ver",
@@ -138,5 +178,69 @@
     {
         "version_file_name": "mhash_ver",
         "version": "0.9.9.9"
+    },
+    {
+        "version_file_name": "apcu_ver",
+        "version": "5.1.22"
+    },
+    {
+        "version_file_name": "gmagick_ver",
+        "version": "2.0.6RC1"
+    },
+    {
+        "version_file_name": "imagick_ver",
+        "version": "3.7.0"
+    },
+    {
+        "version_file_name": "pecl_memcache_ver",
+        "version": "8.2"
+    },
+    {
+        "version_file_name": "pecl_mongodb_ver",
+        "version": "1.16.2"
+    },
+    {
+        "version_file_name": "swoole_ver",
+        "version": "5.1.0"
+    },
+    {
+        "version_file_name": "yaf_ver",
+        "version": "3.3.5"
+    },
+    {
+        "version_file_name": "xdebug_ver",
+        "version": "3.2.2"
+    },
+    {
+        "version_file_name": "pecl_mongo_ver",
+        "version": "1.6.16"
+    },
+    {
+        "version_file_name": "apcu_oldver",
+        "version": "4.0.11"
+    },
+    {
+        "version_file_name": "gmagick_oldver",
+        "version": "1.1.7RC3"
+    },
+    {
+        "version_file_name": "imagick_oldver",
+        "version": "3.4.4"
+    },
+    {
+        "version_file_name": "pecl_memcache_oldver",
+        "version": "4.0.5.2"
+    },
+    {
+        "version_file_name": "pecl_mongodb_oldver",
+        "version": "1.9.2"
+    },
+    {
+        "version_file_name": "swoole_oldver",
+        "version": "4.8.12"
+    },
+    {
+        "version_file_name": "xdebug_oldver",
+        "version": "2.9.8"
     }
 ]
