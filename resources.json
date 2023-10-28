@@ -948,6 +948,13 @@
         "file_name": "fail2ban-1.0.2.tar.gz"
     },
     {
+        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz",
+        "file_name": "mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz",
+        "md5": "2f648e22ba9613ed1b7a47ed379c07cf",
+        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz&p=23",
+        "version": "8.0.34"
+    },
+    {
         "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-8.0.33-linux-glibc2.28-x86_64.tar.gz",
         "file_name": "mysql-8.0.33-linux-glibc2.28-x86_64.tar.gz",
         "md5": "b3e68a7ca11cce1bac7e71755f3493c4",
@@ -960,6 +967,13 @@
         "md5": "c1b7e64241866ed68f7c637c99fe39a4",
         "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-8.0.11-linux-glibc2.12-x86_64.tar.gz&p=23",
         "version": "8.0.11"
+    },
+    {
+        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.43-linux-glibc2.12-x86_64.tar.gz",
+        "file_name": "mysql-5.7.43-linux-glibc2.12-x86_64.tar.gz",
+        "md5": "4f49e175c5e9cd22fbf1655537a18125",
+        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.7.43-linux-glibc2.12-x86_64.tar.gz&p=23",
+        "version": "5.7.43"
     },
     {
         "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.42-linux-glibc2.12-x86_64.tar.gz",
@@ -1858,24 +1872,17 @@
         "version": "5.5.8"
     },
     {
-        "url": "https://downloads.mysql.com/downloads/file/?id=520293",
-        "file_name": "mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz",
-        "md5": "2f648e22ba9613ed1b7a47ed379c07cf",
-        "gpg": "https://downloads.mysql.com/downloads/gpg/?file=mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz&p=23",
-        "version": "8.0.34"
+        "url": "https://downloads.mysql.com/downloads/file/?id=521791",
+        "file_name": "mysql-5.7.44-linux-glibc2.12-x86_64.tar.gz",
+        "md5": "d7c8436bbf456e9a4398011a0c52bc40",
+        "gpg": "https://downloads.mysql.com/downloads/gpg/?file=mysql-5.7.44-linux-glibc2.12-x86_64.tar.gz&p=23",
+        "version": "5.7.44"
     },
     {
-        "url": "https://downloads.mysql.com/downloads/file/?id=519542",
-        "file_name": "mysql-5.7.43-linux-glibc2.12-x86_64.tar.gz",
-        "md5": "4f49e175c5e9cd22fbf1655537a18125",
-        "gpg": "https://downloads.mysql.com/downloads/gpg/?file=mysql-5.7.43-linux-glibc2.12-x86_64.tar.gz&p=23",
-        "version": "5.7.43"
-    },
-    {
-        "version": "1.25.2",
-        "url": "https://nginx.org/download/nginx-1.25.2.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.25.2.tar.gz.asc",
-        "file_name": "nginx-1.25.2.tar.gz"
+        "version": "1.25.3",
+        "url": "https://nginx.org/download/nginx-1.25.3.tar.gz",
+        "gpg": "https://nginx.org/download/nginx-1.25.3.tar.gz.asc",
+        "file_name": "nginx-1.25.3.tar.gz"
     },
     {
         "version": "1.22.1",
@@ -1908,10 +1915,22 @@
         "file_name": "nginx-1.14.2.tar.gz"
     },
     {
-        "version": "8.2.11",
-        "url": "https://www.php.net/distributions/php-8.2.11.tar.gz",
-        "sha256": "48b1b41279a678a4d4afcd0b256ed921ebf2a91febb0634fdc4449b91c75799f",
-        "file_name": "php-8.2.11.tar.gz"
+        "version": "8.2.12",
+        "url": "https://www.php.net/distributions/php-8.2.12.tar.gz",
+        "sha256": "b2b74a91f5fac14ce10ece0ac210f6f5d72f4367a3cb638e80d117d183750a21",
+        "file_name": "php-8.2.12.tar.gz"
+    },
+    {
+        "version": "8.1.25",
+        "url": "https://www.php.net/distributions/php-8.1.25.tar.gz",
+        "sha256": "1a8c59d6b3eccb404c229e947558d2bf1220c3dec0b0036690fadc07f39934ab",
+        "file_name": "php-8.1.25.tar.gz"
+    },
+    {
+        "version": "8.0.30",
+        "url": "https://www.php.net/distributions/php-8.0.30.tar.gz",
+        "sha256": "449d2048fcb20a314d8c218097c6d1047a9f1c5bb72aa54d5d3eba0a27a4c80c",
+        "file_name": "php-8.0.30.tar.gz"
     },
     {
         "version": "8.1.24",
@@ -1920,10 +1939,10 @@
         "file_name": "php-8.1.24.tar.gz"
     },
     {
-        "version": "8.0.30",
-        "url": "https://www.php.net/distributions/php-8.0.30.tar.gz",
-        "sha256": "449d2048fcb20a314d8c218097c6d1047a9f1c5bb72aa54d5d3eba0a27a4c80c",
-        "file_name": "php-8.0.30.tar.gz"
+        "version": "8.2.11",
+        "url": "https://www.php.net/distributions/php-8.2.11.tar.gz",
+        "sha256": "48b1b41279a678a4d4afcd0b256ed921ebf2a91febb0634fdc4449b91c75799f",
+        "file_name": "php-8.2.11.tar.gz"
     },
     {
         "version": "8.1.23",
@@ -4498,6 +4517,20 @@
         "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz"
     },
     {
+        "version": "1.58.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/nghttp2-1.58.0.tar.gz",
+        "file_name": "nghttp2-1.58.0.tar.gz",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/nghttp2-1.58.0.tar.gz.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/checksums.txt"
+    },
+    {
+        "version": "1.58.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/nghttp2-1.58.0.tar.gz.asc",
+        "file_name": "nghttp2-1.58.0.tar.gz.asc",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/nghttp2-1.58.0.tar.gz.asc.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/checksums.txt"
+    },
+    {
         "version": "1.57.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/nghttp2-1.57.0.tar.gz",
         "file_name": "nghttp2-1.57.0.tar.gz",
@@ -4601,13 +4634,6 @@
         "file_name": "nghttp2-1.50.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/nghttp2-1.50.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/checksums.txt"
-    },
-    {
-        "version": "1.49.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.49.0/nghttp2-1.49.0.tar.gz",
-        "file_name": "nghttp2-1.49.0.tar.gz",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.49.0/nghttp2-1.49.0.tar.gz.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.49.0/checksums.txt"
     },
     {
         "version": "16.0",
@@ -5051,6 +5077,22 @@
         "version": "1.83.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz",
         "file_name": "boost_1_83_0.tar.gz"
+    },
+    {
+        "version": "3.1.4",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.1.4/openssl-3.1.4.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.1.4/openssl-3.1.4.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.1.4/openssl-3.1.4.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.1.4/openssl-3.1.4.tar.gz.asc",
+        "file_name": "openssl-3.1.4.tar.gz"
+    },
+    {
+        "version": "3.0.12",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.12/openssl-3.0.12.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.12/openssl-3.0.12.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.12/openssl-3.0.12.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.12/openssl-3.0.12.tar.gz.asc",
+        "file_name": "openssl-3.0.12.tar.gz"
     },
     {
         "version": "3.1.3",
