@@ -1915,10 +1915,28 @@
         "file_name": "nginx-1.14.2.tar.gz"
     },
     {
-        "version": "8.2.12",
-        "url": "https://www.php.net/distributions/php-8.2.12.tar.gz",
-        "sha256": "b2b74a91f5fac14ce10ece0ac210f6f5d72f4367a3cb638e80d117d183750a21",
-        "file_name": "php-8.2.12.tar.gz"
+        "version": "8.3.0",
+        "url": "https://www.php.net/distributions/php-8.3.0.tar.gz",
+        "sha256": "557ae14650f1d1984d3213e3fcd8d93a5f11418b3f8026d3a2d5022251163951",
+        "file_name": "php-8.3.0.tar.gz"
+    },
+    {
+        "version": "8.2.13",
+        "url": "https://www.php.net/distributions/php-8.2.13.tar.gz",
+        "sha256": "6a194038f5a9e46d8f70a9d59c072c3b08d6edbdd8e304096e24ccf2225bcf1b",
+        "file_name": "php-8.2.13.tar.gz"
+    },
+    {
+        "version": "8.1.26",
+        "url": "https://www.php.net/distributions/php-8.1.26.tar.gz",
+        "sha256": "d954cecfc3d294c2fccbe2b1a6bef784ce0d6c5d44a9e28f8a527e092825f2cb",
+        "file_name": "php-8.1.26.tar.gz"
+    },
+    {
+        "version": "8.0.30",
+        "url": "https://www.php.net/distributions/php-8.0.30.tar.gz",
+        "sha256": "449d2048fcb20a314d8c218097c6d1047a9f1c5bb72aa54d5d3eba0a27a4c80c",
+        "file_name": "php-8.0.30.tar.gz"
     },
     {
         "version": "8.1.25",
@@ -1927,10 +1945,10 @@
         "file_name": "php-8.1.25.tar.gz"
     },
     {
-        "version": "8.0.30",
-        "url": "https://www.php.net/distributions/php-8.0.30.tar.gz",
-        "sha256": "449d2048fcb20a314d8c218097c6d1047a9f1c5bb72aa54d5d3eba0a27a4c80c",
-        "file_name": "php-8.0.30.tar.gz"
+        "version": "8.2.12",
+        "url": "https://www.php.net/distributions/php-8.2.12.tar.gz",
+        "sha256": "b2b74a91f5fac14ce10ece0ac210f6f5d72f4367a3cb638e80d117d183750a21",
+        "file_name": "php-8.2.12.tar.gz"
     },
     {
         "version": "8.1.24",
@@ -4507,6 +4525,12 @@
         "file_name": "redis-7.2.2.tar.gz"
     },
     {
+        "version": "redis-7.2.3",
+        "sha256": "3e2b196d6eb4ddb9e743088bfc2915ccbb42d40f5a8a3edd8cb69c716ec34be7",
+        "url": "https://download.redis.io/releases/redis-7.2.3.tar.gz",
+        "file_name": "redis-7.2.3.tar.gz"
+    },
+    {
         "file_name": "cacert.pem",
         "url": "https://curl.se/ca/cacert.pem",
         "sha256": "https://curl.se/ca/cacert.pem.sha256"
@@ -4636,11 +4660,25 @@
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/checksums.txt"
     },
     {
+        "version": "16.1",
+        "url": "https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz",
+        "file_name": "postgresql-16.1.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz.sha256"
+    },
+    {
         "version": "16.0",
         "url": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz",
         "file_name": "postgresql-16.0.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz.sha256"
+    },
+    {
+        "version": "15.5",
+        "url": "https://ftp.postgresql.org/pub/source/v15.5/postgresql-15.5.tar.gz",
+        "file_name": "postgresql-15.5.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v15.5/postgresql-15.5.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v15.5/postgresql-15.5.tar.gz.sha256"
     },
     {
         "version": "15.4",
@@ -4690,20 +4728,6 @@
         "file_name": "postgresql-14.8.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v14.8/postgresql-14.8.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v14.8/postgresql-14.8.tar.gz.sha256"
-    },
-    {
-        "version": "14.7",
-        "url": "https://ftp.postgresql.org/pub/source/v14.7/postgresql-14.7.tar.gz",
-        "file_name": "postgresql-14.7.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v14.7/postgresql-14.7.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v14.7/postgresql-14.7.tar.gz.sha256"
-    },
-    {
-        "version": "14.6",
-        "url": "https://ftp.postgresql.org/pub/source/v14.6/postgresql-14.6.tar.gz",
-        "file_name": "postgresql-14.6.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v14.6/postgresql-14.6.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v14.6/postgresql-14.6.tar.gz.sha256"
     },
     {
         "version": "2.7.16",
@@ -4964,6 +4988,12 @@
         "file_name": "lua-nginx-module-v0.10.21.zip"
     },
     {
+        "version": "23.3.1",
+        "file_name": "pip-23.3.1.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.1.tar.gz/sha512/eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56/pip-23.3.1.tar.gz",
+        "sha512": "eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56"
+    },
+    {
         "version": "23.2.1",
         "file_name": "pip-23.2.1.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.2.1.tar.gz/sha512/a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8/pip-23.2.1.tar.gz",
@@ -4988,10 +5018,9 @@
         "sha512": "ed14ce37293e749b4fd93d7f93d81356c77428b1fb14dfd760b59aea720ebb3cce5a49c2d32ab600e73b37389937830ff4dee04750e83078c8ab9d57513f294c"
     },
     {
-        "version": "22.3.1",
-        "file_name": "pip-22.3.1.tar.gz",
-        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-22.3.1.tar.gz/sha512/c7865c4ce79b0fea7ba469fe593af3be205b3bdb574a6ae019842e0f82a0af406ec905d8c6ff02fbbafe01630c8899a398d071ce74501ca830249160f2f6df98/pip-22.3.1.tar.gz",
-        "sha512": "c7865c4ce79b0fea7ba469fe593af3be205b3bdb574a6ae019842e0f82a0af406ec905d8c6ff02fbbafe01630c8899a398d071ce74501ca830249160f2f6df98"
+        "version": "3.1.0",
+        "url": "https://github.com/alibaba/tengine/archive/refs/tags/3.1.0.tar.gz",
+        "file_name": "tengine-3.1.0.tar.gz"
     },
     {
         "version": "3.0.0",
@@ -5077,6 +5106,14 @@
         "version": "1.83.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz",
         "file_name": "boost_1_83_0.tar.gz"
+    },
+    {
+        "version": "3.2.0",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz.asc",
+        "file_name": "openssl-3.2.0.tar.gz"
     },
     {
         "version": "3.1.4",
@@ -5633,6 +5670,16 @@
         "url": "https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.01.tar.gz",
         "file_name": "lua-resty-lrucache-v0.01.tar.gz",
         "version": "v0.01"
+    },
+    {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231117.tar.gz",
+        "file_name": "luajit2-v2.1-20231117.tar.gz",
+        "version": "v2.1-20231117"
+    },
+    {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231021.tar.gz",
+        "file_name": "luajit2-v2.1-20231021.tar.gz",
+        "version": "v2.1-20231021"
     },
     {
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231006.tar.gz",
@@ -6240,19 +6287,19 @@
         "version": "gperftools-2.11"
     },
     {
+        "url": "https://github.com/unicode-org/icu/releases/download/release-74-1/icu4c-74_1-src.tgz",
+        "file_name": "icu4c-74_1-src.tgz",
+        "version": "release-74-1"
+    },
+    {
+        "url": "https://github.com/unicode-org/icu/releases/download/release-74-1/icu4c-74_1-src.tgz.asc",
+        "file_name": "icu4c-74_1-src.tgz.asc",
+        "version": "release-74-1"
+    },
+    {
         "url": "https://github.com/unicode-org/icu/releases/download/release-73-2/icu4c-73_2-src.tgz",
         "file_name": "icu4c-73_2-src.tgz",
         "version": "release-73-2"
-    },
-    {
-        "url": "https://github.com/unicode-org/icu/releases/download/release-73-2/icu4c-73_2-src.tgz.asc",
-        "file_name": "icu4c-73_2-src.tgz.asc",
-        "version": "release-73-2"
-    },
-    {
-        "url": "https://github.com/unicode-org/icu/releases/download/release-73-1/icu4c-73_1-src.tgz",
-        "file_name": "icu4c-73_1-src.tgz",
-        "version": "release-73-1"
     },
     {
         "url": "https://github.com/glotlabs/gdrive/releases/download/3.9.0/gdrive_linux-x64.tar.gz",
@@ -6625,6 +6672,11 @@
         "version": "v1.3.1"
     },
     {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.3.tar.gz",
+        "file_name": "ngx_devel_kit-v0.3.3.tar.gz",
+        "version": "v0.3.3"
+    },
+    {
         "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.2.tar.gz",
         "file_name": "ngx_devel_kit-v0.3.2.tar.gz",
         "version": "v0.3.2"
@@ -6936,6 +6988,11 @@
     {
         "url": "https://opensource.apple.com/source/apache/apache-795.1/httpd/modules/metadata/mod_remoteip.c",
         "file_name": "mod_remoteip.c"
+    },
+    {
+        "version": "5.1.23",
+        "url": "https://pecl.php.net/get/apcu-5.1.23.tgz",
+        "file_name": "apcu-5.1.23.tgz"
     },
     {
         "version": "5.1.22",
@@ -7796,6 +7853,11 @@
         "version": "0.2",
         "url": "https://pecl.php.net/get/memcache-0.2.tgz",
         "file_name": "memcache-0.2.tgz"
+    },
+    {
+        "version": "1.17.0",
+        "url": "https://pecl.php.net/get/mongodb-1.17.0.tgz",
+        "file_name": "mongodb-1.17.0.tgz"
     },
     {
         "version": "1.16.2",
