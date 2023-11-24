@@ -16,6 +16,7 @@ php74_ver=7.4.33
 php80_ver=8.0.30
 php81_ver=8.1.26
 php82_ver=8.2.13
+php83_ver=8.3.0
 phpmyadmin_ver=5.2.1
 phpmyadmin_oldver=4.9.11
 nghttp2_ver=1.58.0

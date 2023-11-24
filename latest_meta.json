@@ -72,6 +72,10 @@
         "version": "8.2.13"
     },
     {
+        "version_file_name": "php83_ver",
+        "version": "8.3.0"
+    },
+    {
         "version_file_name": "phpmyadmin_ver",
         "version": "5.2.1"
     },
