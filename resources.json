@@ -5212,14 +5212,6 @@
         "file_name": "openssl-3.1.0.tar.gz"
     },
     {
-        "version": "3.0.8",
-        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz.asc",
-        "file_name": "openssl-3.0.8.tar.gz"
-    },
-    {
         "version": "1.1.1t",
         "url": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz",
         "sha256": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz.sha256",
@@ -5234,14 +5226,6 @@
         "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz.sha1",
         "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz.asc",
         "file_name": "openssl-3.0.7.tar.gz"
-    },
-    {
-        "version": "1.1.1s",
-        "url": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz.asc",
-        "file_name": "openssl-1.1.1s.tar.gz"
     },
     {
         "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.27.tar.gz",
@@ -7853,6 +7837,11 @@
         "version": "0.2",
         "url": "https://pecl.php.net/get/memcache-0.2.tgz",
         "file_name": "memcache-0.2.tgz"
+    },
+    {
+        "version": "1.17.1",
+        "url": "https://pecl.php.net/get/mongodb-1.17.1.tgz",
+        "file_name": "mongodb-1.17.1.tgz"
     },
     {
         "version": "1.17.0",
