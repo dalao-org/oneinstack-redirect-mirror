@@ -1,3 +1,5 @@
+/src/curl-8.5.0.tar.gz https://curl.se/download/curl-8.5.0.tar.gz 301
+/oneinstack/src/curl-8.5.0.tar.gz https://curl.se/download/curl-8.5.0.tar.gz 301
 /src/curl-8.4.0.tar.gz https://curl.se/download/curl-8.4.0.tar.gz 301
 /oneinstack/src/curl-8.4.0.tar.gz https://curl.se/download/curl-8.4.0.tar.gz 301
 /src/curl-8.3.0.tar.gz https://curl.se/download/curl-8.3.0.tar.gz 301
@@ -1678,10 +1680,14 @@
 /oneinstack/src/openssl-1.1.1u.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1u/openssl-1.1.1u.tar.gz 301
 /src/openssl-3.1.0.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.1.0/openssl-3.1.0.tar.gz 301
 /oneinstack/src/openssl-3.1.0.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.1.0/openssl-3.1.0.tar.gz 301
+/src/openssl-3.0.8.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz 301
+/oneinstack/src/openssl-3.0.8.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz 301
 /src/openssl-1.1.1t.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz 301
 /oneinstack/src/openssl-1.1.1t.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz 301
 /src/openssl-3.0.7.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz 301
 /oneinstack/src/openssl-3.0.7.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz 301
+/src/openssl-1.1.1s.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz 301
+/oneinstack/src/openssl-1.1.1s.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz 301
 /src/lua-resty-core-v0.1.27.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.27.tar.gz 301
 /oneinstack/src/lua-resty-core-v0.1.27.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.27.tar.gz 301
 /src/lua-resty-core-v0.1.26.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.26.tar.gz 301
