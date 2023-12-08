@@ -4832,6 +4832,12 @@
         "pgp": "https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tgz.asc"
     },
     {
+        "version": "3.12.1",
+        "url": "https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz",
+        "file_name": "Python-3.12.1.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz.asc"
+    },
+    {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz",
         "file_name": "httpd-2.4.58.tar.gz",
         "version": "2.4.58",
@@ -5089,11 +5095,6 @@
         "file_name": "tengine-tengine-2.2.0.tar.gz"
     },
     {
-        "version": "1.79.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.79.0/source/boost_1_79_0.tar.gz",
-        "file_name": "boost_1_79_0.tar.gz"
-    },
-    {
         "version": "1.80.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.80.0/source/boost_1_80_0.tar.gz",
         "file_name": "boost_1_80_0.tar.gz"
@@ -5112,6 +5113,11 @@
         "version": "1.83.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz",
         "file_name": "boost_1_83_0.tar.gz"
+    },
+    {
+        "version": "1.84.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz",
+        "file_name": "boost_1_84_0.tar.gz"
     },
     {
         "version": "3.2.0",
