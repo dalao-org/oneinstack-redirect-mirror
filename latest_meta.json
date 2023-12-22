@@ -65,15 +65,15 @@
     },
     {
         "version_file_name": "php81_ver",
-        "version": "8.1.26"
+        "version": "8.1.27"
     },
     {
         "version_file_name": "php82_ver",
-        "version": "8.2.13"
+        "version": "8.2.14"
     },
     {
         "version_file_name": "php83_ver",
-        "version": "8.3.0"
+        "version": "8.3.1"
     },
     {
         "version_file_name": "phpmyadmin_ver",
@@ -109,7 +109,7 @@
     },
     {
         "version_file_name": "openresty_ver",
-        "version": "1.21.4.2"
+        "version": "1.21.4.3"
     },
     {
         "version_file_name": "tengine_ver",
