@@ -4938,16 +4938,16 @@
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz.sha256"
     },
     {
-        "version": "6.9.13-2",
-        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-2.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-2.tar.gz.asc",
-        "file_name": "ImageMagick-6.9.13-2.tar.gz"
+        "version": "6.9.13-3",
+        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-3.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-3.tar.gz.asc",
+        "file_name": "ImageMagick-6.9.13-3.tar.gz"
     },
     {
-        "version": "7.1.1-24",
-        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-24.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-24.tar.gz.asc",
-        "file_name": "ImageMagick-7.1.1-24.tar.gz"
+        "version": "7.1.1-25",
+        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-25.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-25.tar.gz.asc",
+        "file_name": "ImageMagick-7.1.1-25.tar.gz"
     },
     {
         "version": "1.21.4.3",
@@ -5111,31 +5111,6 @@
         "version": "tengine-2.2.0",
         "url": "https://github.com/alibaba/tengine/archive/refs/tags/tengine-2.2.0.tar.gz",
         "file_name": "tengine-tengine-2.2.0.tar.gz"
-    },
-    {
-        "version": "1.80.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.80.0/source/boost_1_80_0.tar.gz",
-        "file_name": "boost_1_80_0.tar.gz"
-    },
-    {
-        "version": "1.81.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.gz",
-        "file_name": "boost_1_81_0.tar.gz"
-    },
-    {
-        "version": "1.82.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz",
-        "file_name": "boost_1_82_0.tar.gz"
-    },
-    {
-        "version": "1.83.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz",
-        "file_name": "boost_1_83_0.tar.gz"
-    },
-    {
-        "version": "1.84.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz",
-        "file_name": "boost_1_84_0.tar.gz"
     },
     {
         "version": "3.2.0",
