@@ -1606,6 +1606,8 @@
 /oneinstack/src/memcached-1.6.19.tar.gz http://www.memcached.org/files/memcached-1.6.19.tar.gz 301
 /src/memcached-1.6.18.tar.gz http://www.memcached.org/files/memcached-1.6.18.tar.gz 301
 /oneinstack/src/memcached-1.6.18.tar.gz http://www.memcached.org/files/memcached-1.6.18.tar.gz 301
+/src/lua-nginx-module-v0.10.26.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.26.zip 301
+/oneinstack/src/lua-nginx-module-v0.10.26.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.26.zip 301
 /src/lua-nginx-module-v0.10.25.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.25.zip 301
 /oneinstack/src/lua-nginx-module-v0.10.25.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.25.zip 301
 /src/lua-nginx-module-v0.10.24.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.24.zip 301
@@ -1614,8 +1616,6 @@
 /oneinstack/src/lua-nginx-module-v0.10.23.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.23.zip 301
 /src/lua-nginx-module-v0.10.22.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.22.zip 301
 /oneinstack/src/lua-nginx-module-v0.10.22.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.22.zip 301
-/src/lua-nginx-module-v0.10.21.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.21.zip 301
-/oneinstack/src/lua-nginx-module-v0.10.21.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.21.zip 301
 /src/pip-23.3.1.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.1.tar.gz/sha512/eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56/pip-23.3.1.tar.gz 301
 /oneinstack/src/pip-23.3.1.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.1.tar.gz/sha512/eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56/pip-23.3.1.tar.gz 301
 /src/pip-23.2.1.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.2.1.tar.gz/sha512/a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8/pip-23.2.1.tar.gz 301
@@ -1696,6 +1696,8 @@
 /oneinstack/src/openssl-3.0.7.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz 301
 /src/openssl-1.1.1s.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz 301
 /oneinstack/src/openssl-1.1.1s.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz 301
+/src/lua-resty-core-v0.1.28.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.28.tar.gz 301
+/oneinstack/src/lua-resty-core-v0.1.28.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.28.tar.gz 301
 /src/lua-resty-core-v0.1.27.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.27.tar.gz 301
 /oneinstack/src/lua-resty-core-v0.1.27.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.27.tar.gz 301
 /src/lua-resty-core-v0.1.26.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.26.tar.gz 301
