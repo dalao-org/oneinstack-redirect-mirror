@@ -4950,6 +4950,12 @@
         "file_name": "ImageMagick-7.1.1-25.tar.gz"
     },
     {
+        "version": "1.25.3.1",
+        "file_name": "openresty-1.25.3.1.tar.gz",
+        "url": "https://openresty.org/download/openresty-1.25.3.1.tar.gz",
+        "pgp": "https://openresty.org/download/openresty-1.25.3.1.tar.gz.asc"
+    },
+    {
         "version": "1.21.4.3",
         "file_name": "openresty-1.21.4.3.tar.gz",
         "url": "https://openresty.org/download/openresty-1.21.4.3.tar.gz",
@@ -4960,12 +4966,6 @@
         "file_name": "openresty-1.21.4.2.tar.gz",
         "url": "https://openresty.org/download/openresty-1.21.4.2.tar.gz",
         "pgp": "https://openresty.org/download/openresty-1.21.4.2.tar.gz.asc"
-    },
-    {
-        "version": "1.15.8.3",
-        "file_name": "openresty-1.15.8.3.tar.gz",
-        "url": "https://openresty.org/download/openresty-1.15.8.3.tar.gz",
-        "pgp": "https://openresty.org/download/openresty-1.15.8.3.tar.gz.asc"
     },
     {
         "version": "1.6.22",
@@ -6307,6 +6307,11 @@
         "version": "empty"
     },
     {
+        "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.15/gperftools-2.15.tar.gz",
+        "file_name": "gperftools-2.15.tar.gz",
+        "version": "gperftools-2.15"
+    },
+    {
         "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.14/gperftools-2.14.tar.gz",
         "file_name": "gperftools-2.14.tar.gz",
         "version": "gperftools-2.14"
@@ -6315,11 +6320,6 @@
         "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.13/gperftools-2.13.tar.gz",
         "file_name": "gperftools-2.13.tar.gz",
         "version": "gperftools-2.13"
-    },
-    {
-        "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.12/gperftools-2.12.tar.gz",
-        "file_name": "gperftools-2.12.tar.gz",
-        "version": "gperftools-2.12"
     },
     {
         "url": "https://github.com/unicode-org/icu/releases/download/release-74-1/icu4c-74_1-src.tgz",
