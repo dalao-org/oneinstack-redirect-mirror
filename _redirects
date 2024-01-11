@@ -1472,6 +1472,10 @@
 /oneinstack/src/redis-7.2.2.tar.gz https://download.redis.io/releases/redis-7.2.2.tar.gz 301
 /src/redis-7.2.3.tar.gz https://download.redis.io/releases/redis-7.2.3.tar.gz 301
 /oneinstack/src/redis-7.2.3.tar.gz https://download.redis.io/releases/redis-7.2.3.tar.gz 301
+/src/redis-7.0.15.tar.gz https://download.redis.io/releases/redis-7.0.15.tar.gz 301
+/oneinstack/src/redis-7.0.15.tar.gz https://download.redis.io/releases/redis-7.0.15.tar.gz 301
+/src/redis-7.2.4.tar.gz https://download.redis.io/releases/redis-7.2.4.tar.gz 301
+/oneinstack/src/redis-7.2.4.tar.gz https://download.redis.io/releases/redis-7.2.4.tar.gz 301
 /src/cacert.pem https://curl.se/ca/cacert.pem 301
 /oneinstack/src/cacert.pem https://curl.se/ca/cacert.pem 301
 /src/acme.sh-master.tar.gz https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz 301
@@ -1596,6 +1600,8 @@
 /oneinstack/src/openresty-1.21.4.3.tar.gz https://openresty.org/download/openresty-1.21.4.3.tar.gz 301
 /src/openresty-1.21.4.2.tar.gz https://openresty.org/download/openresty-1.21.4.2.tar.gz 301
 /oneinstack/src/openresty-1.21.4.2.tar.gz https://openresty.org/download/openresty-1.21.4.2.tar.gz 301
+/src/memcached-1.6.23.tar.gz http://www.memcached.org/files/memcached-1.6.23.tar.gz 301
+/oneinstack/src/memcached-1.6.23.tar.gz http://www.memcached.org/files/memcached-1.6.23.tar.gz 301
 /src/memcached-1.6.22.tar.gz http://www.memcached.org/files/memcached-1.6.22.tar.gz 301
 /oneinstack/src/memcached-1.6.22.tar.gz http://www.memcached.org/files/memcached-1.6.22.tar.gz 301
 /src/memcached-1.6.21.tar.gz http://www.memcached.org/files/memcached-1.6.21.tar.gz 301
@@ -1604,8 +1610,6 @@
 /oneinstack/src/memcached-1.6.20.tar.gz http://www.memcached.org/files/memcached-1.6.20.tar.gz 301
 /src/memcached-1.6.19.tar.gz http://www.memcached.org/files/memcached-1.6.19.tar.gz 301
 /oneinstack/src/memcached-1.6.19.tar.gz http://www.memcached.org/files/memcached-1.6.19.tar.gz 301
-/src/memcached-1.6.18.tar.gz http://www.memcached.org/files/memcached-1.6.18.tar.gz 301
-/oneinstack/src/memcached-1.6.18.tar.gz http://www.memcached.org/files/memcached-1.6.18.tar.gz 301
 /src/lua-nginx-module-v0.10.26.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.26.zip 301
 /oneinstack/src/lua-nginx-module-v0.10.26.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.26.zip 301
 /src/lua-nginx-module-v0.10.25.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.25.zip 301
@@ -1652,6 +1656,16 @@
 /oneinstack/src/tengine-tengine-2.2.1.tar.gz https://github.com/alibaba/tengine/archive/refs/tags/tengine-2.2.1.tar.gz 301
 /src/tengine-tengine-2.2.0.tar.gz https://github.com/alibaba/tengine/archive/refs/tags/tengine-2.2.0.tar.gz 301
 /oneinstack/src/tengine-tengine-2.2.0.tar.gz https://github.com/alibaba/tengine/archive/refs/tags/tengine-2.2.0.tar.gz 301
+/src/boost_1_80_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.80.0/source/boost_1_80_0.tar.gz 301
+/oneinstack/src/boost_1_80_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.80.0/source/boost_1_80_0.tar.gz 301
+/src/boost_1_81_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.gz 301
+/oneinstack/src/boost_1_81_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.gz 301
+/src/boost_1_82_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz 301
+/oneinstack/src/boost_1_82_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz 301
+/src/boost_1_83_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz 301
+/oneinstack/src/boost_1_83_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz 301
+/src/boost_1_84_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz 301
+/oneinstack/src/boost_1_84_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz 301
 /src/openssl-3.2.0.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz 301
 /oneinstack/src/openssl-3.2.0.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz 301
 /src/openssl-3.1.4.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.1.4/openssl-3.1.4.tar.gz 301

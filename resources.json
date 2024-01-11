@@ -4555,6 +4555,18 @@
         "file_name": "redis-7.2.3.tar.gz"
     },
     {
+        "version": "redis-7.0.15",
+        "sha256": "98066f5363504b26c34dd20fbcc3c957990d764cdf42576c836fc021073f4341",
+        "url": "https://download.redis.io/releases/redis-7.0.15.tar.gz",
+        "file_name": "redis-7.0.15.tar.gz"
+    },
+    {
+        "version": "redis-7.2.4",
+        "sha256": "8d104c26a154b29fd67d6568b4f375212212ad41e0c2caa3d66480e78dbd3b59",
+        "url": "https://download.redis.io/releases/redis-7.2.4.tar.gz",
+        "file_name": "redis-7.2.4.tar.gz"
+    },
+    {
         "file_name": "cacert.pem",
         "url": "https://curl.se/ca/cacert.pem",
         "sha256": "https://curl.se/ca/cacert.pem.sha256"
@@ -4968,6 +4980,11 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.2.tar.gz.asc"
     },
     {
+        "version": "1.6.23",
+        "url": "http://www.memcached.org/files/memcached-1.6.23.tar.gz",
+        "file_name": "memcached-1.6.23.tar.gz"
+    },
+    {
         "version": "1.6.22",
         "url": "http://www.memcached.org/files/memcached-1.6.22.tar.gz",
         "file_name": "memcached-1.6.22.tar.gz"
@@ -4986,11 +5003,6 @@
         "version": "1.6.19",
         "url": "http://www.memcached.org/files/memcached-1.6.19.tar.gz",
         "file_name": "memcached-1.6.19.tar.gz"
-    },
-    {
-        "version": "1.6.18",
-        "url": "http://www.memcached.org/files/memcached-1.6.18.tar.gz",
-        "file_name": "memcached-1.6.18.tar.gz"
     },
     {
         "version": "v0.10.26",
@@ -5111,6 +5123,31 @@
         "version": "tengine-2.2.0",
         "url": "https://github.com/alibaba/tengine/archive/refs/tags/tengine-2.2.0.tar.gz",
         "file_name": "tengine-tengine-2.2.0.tar.gz"
+    },
+    {
+        "version": "1.80.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.80.0/source/boost_1_80_0.tar.gz",
+        "file_name": "boost_1_80_0.tar.gz"
+    },
+    {
+        "version": "1.81.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.gz",
+        "file_name": "boost_1_81_0.tar.gz"
+    },
+    {
+        "version": "1.82.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz",
+        "file_name": "boost_1_82_0.tar.gz"
+    },
+    {
+        "version": "1.83.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz",
+        "file_name": "boost_1_83_0.tar.gz"
+    },
+    {
+        "version": "1.84.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz",
+        "file_name": "boost_1_84_0.tar.gz"
     },
     {
         "version": "3.2.0",
