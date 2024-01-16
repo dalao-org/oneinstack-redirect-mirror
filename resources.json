@@ -5484,6 +5484,10 @@
         "file_name": "pure-ftpd-1.0.51.tar.gz"
     },
     {
+        "file_name": "htop-3.3.0.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.3.0.tar.gz/sha512/4c03bd183d97ec84010472ea52ff6e210e6d211c813d0ab52bacef16d7e4eef9483e65279fb0a846dcdb532ad19eb1c1c39bad9dd8b103d36aeb51cb5d28e23a/htop-3.3.0.tar.gz"
+    },
+    {
         "file_name": "htop-3.2.2.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.2.2.tar.gz/sha512/dd82d5b2f70694e76b3740ef0f6f6d3446fe83b748c2cfe61c783985d62cb6e1d00fcb4b1fe7dc8f1d8c6bc7b29474e1e88eaa01f154198d702b100bcbc135bb/htop-3.2.2.tar.gz"
     },
@@ -5498,10 +5502,6 @@
     {
         "file_name": "htop-3.1.2.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.1.2.tar.gz/sha512/7e08b820042e480ca61137ff24b468804b49b95c1bbedaf82029dd79d29c2c541c5211284ec075692203788bbb868a9d4326ffd24c68419e22eec13ae5012700/htop-3.1.2.tar.gz"
-    },
-    {
-        "file_name": "htop-3.1.1.tar.gz",
-        "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.1.1.tar.gz/sha512/5e4ec9b5fdf4583c8a345dcc2fe9395737e3a6e8dd8e6547800b959be084b9d57ae30bf891f79a25f6bf99ec0b6eb7eaba8bc851072c5a550de70df4178dc07d/htop-3.1.1.tar.gz"
     },
     {
         "url": "https://github.com/jemalloc/jemalloc/releases/download/5.3.0/jemalloc-5.3.0.tar.bz2",
