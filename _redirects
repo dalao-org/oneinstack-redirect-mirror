@@ -1484,6 +1484,10 @@
 /oneinstack/src/cacert.pem https://curl.se/ca/cacert.pem 301
 /src/acme.sh-master.tar.gz https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz 301
 /oneinstack/src/acme.sh-master.tar.gz https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz 301
+/src/nghttp2-1.59.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz 301
+/oneinstack/src/nghttp2-1.59.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz 301
+/src/nghttp2-1.59.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz.asc 301
+/oneinstack/src/nghttp2-1.59.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz.asc 301
 /src/nghttp2-1.58.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/nghttp2-1.58.0.tar.gz 301
 /oneinstack/src/nghttp2-1.58.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/nghttp2-1.58.0.tar.gz 301
 /src/nghttp2-1.58.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/nghttp2-1.58.0.tar.gz.asc 301
@@ -1516,8 +1520,6 @@
 /oneinstack/src/nghttp2-1.52.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/nghttp2-1.52.0.tar.gz 301
 /src/nghttp2-1.51.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.51.0/nghttp2-1.51.0.tar.gz 301
 /oneinstack/src/nghttp2-1.51.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.51.0/nghttp2-1.51.0.tar.gz 301
-/src/nghttp2-1.50.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/nghttp2-1.50.0.tar.gz 301
-/oneinstack/src/nghttp2-1.50.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/nghttp2-1.50.0.tar.gz 301
 /src/postgresql-16.1.tar.gz https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz 301
 /oneinstack/src/postgresql-16.1.tar.gz https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz 301
 /src/postgresql-16.0.tar.gz https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz 301
@@ -1594,10 +1596,10 @@
 /oneinstack/src/apr-util-1.6.2.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.2.tar.gz 301
 /src/apr-util-1.6.1.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz 301
 /oneinstack/src/apr-util-1.6.1.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz 301
-/src/ImageMagick-6.9.13-4.tar.gz https://imagemagick.org/archive/ImageMagick-6.9.13-4.tar.gz 301
-/oneinstack/src/ImageMagick-6.9.13-4.tar.gz https://imagemagick.org/archive/ImageMagick-6.9.13-4.tar.gz 301
-/src/ImageMagick-7.1.1-26.tar.gz https://imagemagick.org/archive/ImageMagick-7.1.1-26.tar.gz 301
-/oneinstack/src/ImageMagick-7.1.1-26.tar.gz https://imagemagick.org/archive/ImageMagick-7.1.1-26.tar.gz 301
+/src/ImageMagick-6.9.13-5.tar.gz https://imagemagick.org/archive/ImageMagick-6.9.13-5.tar.gz 301
+/oneinstack/src/ImageMagick-6.9.13-5.tar.gz https://imagemagick.org/archive/ImageMagick-6.9.13-5.tar.gz 301
+/src/ImageMagick-7.1.1-27.tar.gz https://imagemagick.org/archive/ImageMagick-7.1.1-27.tar.gz 301
+/oneinstack/src/ImageMagick-7.1.1-27.tar.gz https://imagemagick.org/archive/ImageMagick-7.1.1-27.tar.gz 301
 /src/openresty-1.25.3.1.tar.gz https://openresty.org/download/openresty-1.25.3.1.tar.gz 301
 /oneinstack/src/openresty-1.25.3.1.tar.gz https://openresty.org/download/openresty-1.25.3.1.tar.gz 301
 /src/openresty-1.21.4.3.tar.gz https://openresty.org/download/openresty-1.21.4.3.tar.gz 301

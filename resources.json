@@ -4589,6 +4589,20 @@
         "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz"
     },
     {
+        "version": "1.59.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz",
+        "file_name": "nghttp2-1.59.0.tar.gz",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/checksums.txt"
+    },
+    {
+        "version": "1.59.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz.asc",
+        "file_name": "nghttp2-1.59.0.tar.gz.asc",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz.asc.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/checksums.txt"
+    },
+    {
         "version": "1.58.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.58.0/nghttp2-1.58.0.tar.gz",
         "file_name": "nghttp2-1.58.0.tar.gz",
@@ -4699,13 +4713,6 @@
         "file_name": "nghttp2-1.51.0.tar.gz",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.51.0/nghttp2-1.51.0.tar.gz.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.51.0/checksums.txt"
-    },
-    {
-        "version": "1.50.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/nghttp2-1.50.0.tar.gz",
-        "file_name": "nghttp2-1.50.0.tar.gz",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/nghttp2-1.50.0.tar.gz.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/checksums.txt"
     },
     {
         "version": "16.1",
@@ -4962,16 +4969,16 @@
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz.sha256"
     },
     {
-        "version": "6.9.13-4",
-        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-4.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-4.tar.gz.asc",
-        "file_name": "ImageMagick-6.9.13-4.tar.gz"
+        "version": "6.9.13-5",
+        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-5.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-5.tar.gz.asc",
+        "file_name": "ImageMagick-6.9.13-5.tar.gz"
     },
     {
-        "version": "7.1.1-26",
-        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-26.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-26.tar.gz.asc",
-        "file_name": "ImageMagick-7.1.1-26.tar.gz"
+        "version": "7.1.1-27",
+        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-27.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-27.tar.gz.asc",
+        "file_name": "ImageMagick-7.1.1-27.tar.gz"
     },
     {
         "version": "1.25.3.1",
