@@ -5049,6 +5049,12 @@
         "file_name": "lua-nginx-module-v0.10.22.zip"
     },
     {
+        "version": "23.3.2",
+        "file_name": "pip-23.3.2.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.2.tar.gz/sha512/976c6ab9959805f4d20d4bdedb4dabc95dd55f1ec78773f63f738599bbe44e766ad3a1394bee052a2c2386826d67686ad456726373345ba9e0d555fd251dff09/pip-23.3.2.tar.gz",
+        "sha512": "976c6ab9959805f4d20d4bdedb4dabc95dd55f1ec78773f63f738599bbe44e766ad3a1394bee052a2c2386826d67686ad456726373345ba9e0d555fd251dff09"
+    },
+    {
         "version": "23.3.1",
         "file_name": "pip-23.3.1.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.1.tar.gz/sha512/eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56/pip-23.3.1.tar.gz",
@@ -5071,12 +5077,6 @@
         "file_name": "pip-23.0.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.0.tar.gz/sha512/9b791ed15b4e5dd768351043929dc6ee18eeab251a26fb2b0d712dec578101f1620a13d5914d44f2761ecb95e64bc47e6b07096126404ca70345268028524d43/pip-23.0.tar.gz",
         "sha512": "9b791ed15b4e5dd768351043929dc6ee18eeab251a26fb2b0d712dec578101f1620a13d5914d44f2761ecb95e64bc47e6b07096126404ca70345268028524d43"
-    },
-    {
-        "version": "23.0.1",
-        "file_name": "pip-23.0.1.tar.gz",
-        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.0.1.tar.gz/sha512/ed14ce37293e749b4fd93d7f93d81356c77428b1fb14dfd760b59aea720ebb3cce5a49c2d32ab600e73b37389937830ff4dee04750e83078c8ab9d57513f294c/pip-23.0.1.tar.gz",
-        "sha512": "ed14ce37293e749b4fd93d7f93d81356c77428b1fb14dfd760b59aea720ebb3cce5a49c2d32ab600e73b37389937830ff4dee04750e83078c8ab9d57513f294c"
     },
     {
         "version": "3.1.0",

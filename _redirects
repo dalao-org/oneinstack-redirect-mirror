@@ -1626,6 +1626,8 @@
 /oneinstack/src/lua-nginx-module-v0.10.23.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.23.zip 301
 /src/lua-nginx-module-v0.10.22.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.22.zip 301
 /oneinstack/src/lua-nginx-module-v0.10.22.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.22.zip 301
+/src/pip-23.3.2.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.2.tar.gz/sha512/976c6ab9959805f4d20d4bdedb4dabc95dd55f1ec78773f63f738599bbe44e766ad3a1394bee052a2c2386826d67686ad456726373345ba9e0d555fd251dff09/pip-23.3.2.tar.gz 301
+/oneinstack/src/pip-23.3.2.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.2.tar.gz/sha512/976c6ab9959805f4d20d4bdedb4dabc95dd55f1ec78773f63f738599bbe44e766ad3a1394bee052a2c2386826d67686ad456726373345ba9e0d555fd251dff09/pip-23.3.2.tar.gz 301
 /src/pip-23.3.1.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.1.tar.gz/sha512/eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56/pip-23.3.1.tar.gz 301
 /oneinstack/src/pip-23.3.1.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.1.tar.gz/sha512/eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56/pip-23.3.1.tar.gz 301
 /src/pip-23.2.1.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.2.1.tar.gz/sha512/a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8/pip-23.2.1.tar.gz 301
@@ -1634,8 +1636,6 @@
 /oneinstack/src/pip-23.1.2.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.1.2.tar.gz/sha512/b33070cb59a1258904a60b48ec8abfd9e316c5f87681fea13d89ddf6d516afac10965ae1db54fea299a0a72f98602ce02e8b3be46f239e857db84866045730e1/pip-23.1.2.tar.gz 301
 /src/pip-23.0.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.0.tar.gz/sha512/9b791ed15b4e5dd768351043929dc6ee18eeab251a26fb2b0d712dec578101f1620a13d5914d44f2761ecb95e64bc47e6b07096126404ca70345268028524d43/pip-23.0.tar.gz 301
 /oneinstack/src/pip-23.0.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.0.tar.gz/sha512/9b791ed15b4e5dd768351043929dc6ee18eeab251a26fb2b0d712dec578101f1620a13d5914d44f2761ecb95e64bc47e6b07096126404ca70345268028524d43/pip-23.0.tar.gz 301
-/src/pip-23.0.1.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.0.1.tar.gz/sha512/ed14ce37293e749b4fd93d7f93d81356c77428b1fb14dfd760b59aea720ebb3cce5a49c2d32ab600e73b37389937830ff4dee04750e83078c8ab9d57513f294c/pip-23.0.1.tar.gz 301
-/oneinstack/src/pip-23.0.1.tar.gz https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.0.1.tar.gz/sha512/ed14ce37293e749b4fd93d7f93d81356c77428b1fb14dfd760b59aea720ebb3cce5a49c2d32ab600e73b37389937830ff4dee04750e83078c8ab9d57513f294c/pip-23.0.1.tar.gz 301
 /src/tengine-3.1.0.tar.gz https://github.com/alibaba/tengine/archive/refs/tags/3.1.0.tar.gz 301
 /oneinstack/src/tengine-3.1.0.tar.gz https://github.com/alibaba/tengine/archive/refs/tags/3.1.0.tar.gz 301
 /src/tengine-3.0.0.tar.gz https://github.com/alibaba/tengine/archive/refs/tags/3.0.0.tar.gz 301
