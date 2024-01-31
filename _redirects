@@ -1672,6 +1672,12 @@
 /oneinstack/src/boost_1_83_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz 301
 /src/boost_1_84_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz 301
 /oneinstack/src/boost_1_84_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz 301
+/src/openssl-3.2.1.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.2.1/openssl-3.2.1.tar.gz 301
+/oneinstack/src/openssl-3.2.1.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.2.1/openssl-3.2.1.tar.gz 301
+/src/openssl-3.1.5.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.1.5/openssl-3.1.5.tar.gz 301
+/oneinstack/src/openssl-3.1.5.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.1.5/openssl-3.1.5.tar.gz 301
+/src/openssl-3.0.13.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.13/openssl-3.0.13.tar.gz 301
+/oneinstack/src/openssl-3.0.13.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.13/openssl-3.0.13.tar.gz 301
 /src/openssl-3.2.0.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz 301
 /oneinstack/src/openssl-3.2.0.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz 301
 /src/openssl-3.1.4.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.1.4/openssl-3.1.4.tar.gz 301
@@ -2134,8 +2140,8 @@
 /oneinstack/src/icu4c-74_1-src.tgz.asc https://github.com/unicode-org/icu/releases/download/release-74-1/icu4c-74_1-src.tgz.asc 301
 /src/icu4c-73_2-src.tgz https://github.com/unicode-org/icu/releases/download/release-73-2/icu4c-73_2-src.tgz 301
 /oneinstack/src/icu4c-73_2-src.tgz https://github.com/unicode-org/icu/releases/download/release-73-2/icu4c-73_2-src.tgz 301
-/src/gdrive_linux-x64.tar.gz https://github.com/glotlabs/gdrive/releases/download/3.9.0/gdrive_linux-x64.tar.gz 301
-/oneinstack/src/gdrive_linux-x64.tar.gz https://github.com/glotlabs/gdrive/releases/download/3.9.0/gdrive_linux-x64.tar.gz 301
+/src/gdrive_linux-x64.tar.gz https://github.com/glotlabs/gdrive/releases/download/3.9.1/gdrive_linux-x64.tar.gz 301
+/oneinstack/src/gdrive_linux-x64.tar.gz https://github.com/glotlabs/gdrive/releases/download/3.9.1/gdrive_linux-x64.tar.gz 301
 /src/libzip-1.10.1.tar.gz https://github.com/nih-at/libzip/releases/download/v1.10.1/libzip-1.10.1.tar.gz 301
 /oneinstack/src/libzip-1.10.1.tar.gz https://github.com/nih-at/libzip/releases/download/v1.10.1/libzip-1.10.1.tar.gz 301
 /src/libzip-1.10.0.tar.gz https://github.com/nih-at/libzip/releases/download/v1.10.0/libzip-1.10.0.tar.gz 301

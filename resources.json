@@ -5169,6 +5169,30 @@
         "file_name": "boost_1_84_0.tar.gz"
     },
     {
+        "version": "3.2.1",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.2.1/openssl-3.2.1.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.2.1/openssl-3.2.1.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.2.1/openssl-3.2.1.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.2.1/openssl-3.2.1.tar.gz.asc",
+        "file_name": "openssl-3.2.1.tar.gz"
+    },
+    {
+        "version": "3.1.5",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.1.5/openssl-3.1.5.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.1.5/openssl-3.1.5.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.1.5/openssl-3.1.5.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.1.5/openssl-3.1.5.tar.gz.asc",
+        "file_name": "openssl-3.1.5.tar.gz"
+    },
+    {
+        "version": "3.0.13",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.13/openssl-3.0.13.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.13/openssl-3.0.13.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.13/openssl-3.0.13.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.13/openssl-3.0.13.tar.gz.asc",
+        "file_name": "openssl-3.0.13.tar.gz"
+    },
+    {
         "version": "3.2.0",
         "url": "https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz",
         "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.2.0/openssl-3.2.0.tar.gz.sha256",
@@ -6368,9 +6392,9 @@
         "version": "release-73-2"
     },
     {
-        "url": "https://github.com/glotlabs/gdrive/releases/download/3.9.0/gdrive_linux-x64.tar.gz",
+        "url": "https://github.com/glotlabs/gdrive/releases/download/3.9.1/gdrive_linux-x64.tar.gz",
         "file_name": "gdrive_linux-x64.tar.gz",
-        "version": "3.9.0"
+        "version": "3.9.1"
     },
     {
         "url": "https://github.com/nih-at/libzip/releases/download/v1.10.1/libzip-1.10.1.tar.gz",
