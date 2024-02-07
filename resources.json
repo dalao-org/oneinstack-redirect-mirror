@@ -4863,12 +4863,6 @@
         "pgp": "https://www.python.org/ftp/python/3.10.13/Python-3.10.13.tgz.asc"
     },
     {
-        "version": "3.11.5",
-        "url": "https://www.python.org/ftp/python/3.11.5/Python-3.11.5.tgz",
-        "file_name": "Python-3.11.5.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.11.5/Python-3.11.5.tgz.asc"
-    },
-    {
         "version": "3.11.6",
         "url": "https://www.python.org/ftp/python/3.11.6/Python-3.11.6.tgz",
         "file_name": "Python-3.11.6.tgz",
@@ -4881,6 +4875,12 @@
         "pgp": "https://www.python.org/ftp/python/3.11.7/Python-3.11.7.tgz.asc"
     },
     {
+        "version": "3.11.8",
+        "url": "https://www.python.org/ftp/python/3.11.8/Python-3.11.8.tgz",
+        "file_name": "Python-3.11.8.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.11.8/Python-3.11.8.tgz.asc"
+    },
+    {
         "version": "3.12.0",
         "url": "https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tgz",
         "file_name": "Python-3.12.0.tgz",
@@ -4891,6 +4891,12 @@
         "url": "https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz",
         "file_name": "Python-3.12.1.tgz",
         "pgp": "https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz.asc"
+    },
+    {
+        "version": "3.12.2",
+        "url": "https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz",
+        "file_name": "Python-3.12.2.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz.asc"
     },
     {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz",
