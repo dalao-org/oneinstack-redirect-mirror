@@ -89,7 +89,7 @@
     },
     {
         "version_file_name": "pgsql_ver",
-        "version": "16.1"
+        "version": "16.2"
     },
     {
         "version_file_name": "apache_ver",
