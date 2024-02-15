@@ -981,6 +981,13 @@
         "version": "8.0.11"
     },
     {
+        "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.44-linux-glibc2.12-x86_64.tar.gz",
+        "file_name": "mysql-5.7.44-linux-glibc2.12-x86_64.tar.gz",
+        "md5": "d7c8436bbf456e9a4398011a0c52bc40",
+        "gpg": "https://downloads.mysql.com/archives/gpg/?file=mysql-5.7.44-linux-glibc2.12-x86_64.tar.gz&p=23",
+        "version": "5.7.44"
+    },
+    {
         "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.43-linux-glibc2.12-x86_64.tar.gz",
         "file_name": "mysql-5.7.43-linux-glibc2.12-x86_64.tar.gz",
         "md5": "4f49e175c5e9cd22fbf1655537a18125",
@@ -1891,10 +1898,10 @@
         "version": "5.7.44"
     },
     {
-        "version": "1.25.3",
-        "url": "https://nginx.org/download/nginx-1.25.3.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.25.3.tar.gz.asc",
-        "file_name": "nginx-1.25.3.tar.gz"
+        "version": "1.25.4",
+        "url": "https://nginx.org/download/nginx-1.25.4.tar.gz",
+        "gpg": "https://nginx.org/download/nginx-1.25.4.tar.gz.asc",
+        "file_name": "nginx-1.25.4.tar.gz"
     },
     {
         "version": "1.22.1",
@@ -7090,6 +7097,174 @@
     {
         "url": "https://opensource.apple.com/source/apache/apache-795.1/httpd/modules/metadata/mod_remoteip.c",
         "file_name": "mod_remoteip.c"
+    },
+    {
+        "file_name": "mariadb-5.5.68-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/5.5.68/mariadb-5.5.68-linux-systemd-x86_64.tar.gz",
+        "md5": "96ecd8aad9da6e659eda6a6d99f2c9d4",
+        "sha256": "a4b5661916047bcc24e08d106a1ff42d7315598eebe04e41f48b5e086f6349ad",
+        "sha512": "d0ed360cb3deebb39ae96a72daddc3e1bc352519c7a7d7c4db496de9c310d1013825e0d43cf4c6a182267d10a113f143e7a5e3776419a828c318dd82307cc828"
+    },
+    {
+        "file_name": "mariadb-5.5.67-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/5.5.67/mariadb-5.5.67-linux-systemd-x86_64.tar.gz",
+        "md5": "7d8ac657f939b31c122ad535f4adf109",
+        "sha256": "2412ca3508d3693577c314e462a45bb73d4639207d15edbcac778ac4de15b03e",
+        "sha512": "3ecde59943f14774ac778c20299583f53514afa4db10f883da2cddee8f6d0d2488db8be70b750711b7461d5caf06b9d3cb075caa56a240d75a74e69d4b416758"
+    },
+    {
+        "file_name": "mariadb-5.5.66-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/5.5.66/mariadb-5.5.66-linux-systemd-x86_64.tar.gz",
+        "md5": "298742a53f8b687c3e8a349b4bcd80a6",
+        "sha256": "8f01845b1534ddddcb96b488ba7a834a41dbe8bf2dbe661d44bf5160cf6e05f9",
+        "sha512": "8f773b5a9682ea5977eb4db134bcd00d178094d36cb552c4edbbb63c4b6229ba20afad60f384bd712f1ebfd3eb74f29a1cc5ea8db2b29570e830a948ae0ab95c"
+    },
+    {
+        "file_name": "mariadb-11.2.3-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.2.3/mariadb-11.2.3-linux-systemd-x86_64.tar.gz",
+        "md5": "886e6d67608c49f2104b651108e2fd91",
+        "sha256": "434cf421ea84a701088a6e8c6cd65eb4845ebdbeab4108481a95963047f90517",
+        "sha512": "cd404170455d4ae6a9779fedb2a8080314fb4139fcab73e12d1abce3ddf50e4b0295903faf310a3f33ca39a91709d5307541f7102d166564d20d8e3228f1c71c"
+    },
+    {
+        "file_name": "mariadb-11.2.2-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.2.2/mariadb-11.2.2-linux-systemd-x86_64.tar.gz",
+        "md5": "bf41499c00b04eb8bb50d508f5618fd9",
+        "sha256": "649e82494fb420a4e4998925774ba0cde59d7e4587568a2c32f4f77663735256",
+        "sha512": "f9f1ada66aa32ed5f43433ae76489eb1f5ed49a6139b3c32f4c2f9bff1e34dae43788d3d6be72e341944159660968a77249913d8b60251d6c31091249e0fee63"
+    },
+    {
+        "file_name": "mariadb-11.2.1-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.2.1/mariadb-11.2.1-linux-systemd-x86_64.tar.gz",
+        "md5": "0b33f3f8309d12a5e34e3d7591f447ec",
+        "sha256": "57fda88b15ed27e247b5268284167a144c4afbfb69c5d52dedd10a6cf38a972f",
+        "sha512": "b08e4f190e427a70d28641ba9acc2589530a605ead94b03a366fe881a2bd02b7bf0947b3b530af12283da0e5b92a4d9bca05cab833eb886545297f9a7ca7d376"
+    },
+    {
+        "file_name": "mariadb-11.1.4-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.1.4/mariadb-11.1.4-linux-systemd-x86_64.tar.gz",
+        "md5": "427bf680ccc3ef5318a564ff835d0762",
+        "sha256": "36c7d87a666b57bbde58391168006ebfcbfde6cc39f470311fb7a10dcbe6f0af",
+        "sha512": "3331cb8188e1490bd072a7f83bcb4a0cd97ab7d6ae8642221c9e60bde6adc797cbe0fe5ae7fa6c3128dab834d39f2c0472d55c3e3ec6d8a6c978710134a8ddb1"
+    },
+    {
+        "file_name": "mariadb-11.1.3-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.1.3/mariadb-11.1.3-linux-systemd-x86_64.tar.gz",
+        "md5": "6fa69db56842e6149bf31d77a027a158",
+        "sha256": "8315d85959aeb60c355879609e32d34296e33a7ea2816d64e9a86240760bd3b8",
+        "sha512": "1f5f61046b272b1510278fc3f4dbca47ed88727786523e7148760d00435072f17a9035706316699a0a5851c1e76922597082fcfab6dcd4b9552a2cceac1a6f01"
+    },
+    {
+        "file_name": "mariadb-11.1.2-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.1.2/mariadb-11.1.2-linux-systemd-x86_64.tar.gz",
+        "md5": "e6dabe98165488e3c1c048b60c16b343",
+        "sha256": "30ecadd512fa4c44b06eb184b68c75810061e94d2c330e232f00528652892779",
+        "sha512": "a49955067c4974011cc51f070106b1c2956c55a8034db9174d10fc3aa2e8135a49a0250cca16099a323743fe5721c2d7d35a952b5ccc42966e55c18e4c08a1a8"
+    },
+    {
+        "file_name": "mariadb-11.0.5-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.0.5/mariadb-11.0.5-linux-systemd-x86_64.tar.gz",
+        "md5": "216737e3599885ae42c5ab5e3bd399b4",
+        "sha256": "7439b30e7f8f976736ace285d39f7ace14310e57f6ac73c8da83881af82c49b4",
+        "sha512": "c5659fd8c32c764e9dbb324c93fd8c2296a64c7d41177ea2d68c78663c4e0a9249a3ca019bb43c67b20eb4643ef013c276d11aa1fa5786eed4f783511b497ef6"
+    },
+    {
+        "file_name": "mariadb-11.0.4-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.0.4/mariadb-11.0.4-linux-systemd-x86_64.tar.gz",
+        "md5": "e40df2dcadbf729267a2dc5b953b0a8a",
+        "sha256": "f1e974047c9320d3fe4eb5e31c66c72af8e2e5b619d9b29633a380c91b2d9ec3",
+        "sha512": "33b41d0528f6919ee487533809709871d08dc3d8ae582cb085d0b3cc9f7164af705566820d2f1fc3200da960c590712a43da9d93e7f7d96ac4c9f3b878ce229c"
+    },
+    {
+        "file_name": "mariadb-11.0.3-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.0.3/mariadb-11.0.3-linux-systemd-x86_64.tar.gz",
+        "md5": "57d3f7d72a7ae3849d3f89aa747fe485",
+        "sha256": "f903fadcb44eac560ee294d5c8eb2d5a332fbf5c0e9a73e9374a18af48e148e9",
+        "sha512": "9f78ddd495bd5add8da6c0ce6dfaccc9d416d7ff8dd10c1a42df360f05b805626e0285151779ac3a4ea5b8c342f0e5d074578ecc2f89d1c12696e870aa70a582"
+    },
+    {
+        "file_name": "mariadb-10.6.17-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.6.17/mariadb-10.6.17-linux-systemd-x86_64.tar.gz",
+        "md5": "37b096d8ec63ccb26af2898f950c1314",
+        "sha256": "f3e322c35246cc2b22f8ed6be2037db8bfed3ad7f41b4c55dcbab4783516a56d",
+        "sha512": "f9668b425324a3dab685311e2d93ec3a2949a8f731a79cf28a8d5e2e15dbb0c7a9bf1014530c73aa1d339440b4e50b49c48e1ec3c1365b5893b9bb8369e9bc1f"
+    },
+    {
+        "file_name": "mariadb-10.6.16-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.6.16/mariadb-10.6.16-linux-systemd-x86_64.tar.gz",
+        "md5": "783a54eceabe0ccc054e8e8d4a2e3c99",
+        "sha256": "52278e6ec0f20c784888a6f8b3922ecf08f9420f970bd46d5fa3e4bbe843c444",
+        "sha512": "59dffe0732bb1e860cca7bc96ce6444776890af523d56f21a6904f5207481405978d6b8ed39ab37fafbf4fbc37e29c952d7ffef730b21a46809bf30826c68ed4"
+    },
+    {
+        "file_name": "mariadb-10.6.15-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.6.15/mariadb-10.6.15-linux-systemd-x86_64.tar.gz",
+        "md5": "92e73d9bcc4b4e26a5fa9f844853b630",
+        "sha256": "871207dbf8008f9bf767cca753a58654d0a5df02810266bf65db9acfafc47366",
+        "sha512": "be3098d490df817021f3961eccab595048ebea7beecad6b23be08fab3c16014f6ec750f65b7860b057205f1b26b3ea64a4d1ebe47015055ed55e02fe2d8c7c05"
+    },
+    {
+        "file_name": "mariadb-10.5.24-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.5.24/mariadb-10.5.24-linux-systemd-x86_64.tar.gz",
+        "md5": "49b71046ea1a8fb2d818b80b1583c18a",
+        "sha256": "b3e3a180c653dc8f7c2f2514ac86618092e55d1127d2caafcfd076766eb3bec3",
+        "sha512": "c118a8b5c003ec5a523c4d4c202de07993be6905c3a1eae1e58369756075164988c22a77d886e87c99b3259785e2cfd9aa994152a9750b5e7bdc57f1ac972580"
+    },
+    {
+        "file_name": "mariadb-10.5.23-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.5.23/mariadb-10.5.23-linux-systemd-x86_64.tar.gz",
+        "md5": "ba2f37c9612a0154a393af178c5c12d9",
+        "sha256": "df299ada7bff21c340b9de1ee99ce40d5c15367cc4f3b31fcd01f21581a404f4",
+        "sha512": "9465f819ad29c54988f904977caac5e48be6eae71e7c7c57d64e20893cfaea50db5e536e67674cc2911d8e54fa72a0bed465e63e412b3374fb71fb5a8cad01a7"
+    },
+    {
+        "file_name": "mariadb-10.5.22-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.5.22/mariadb-10.5.22-linux-systemd-x86_64.tar.gz",
+        "md5": "2c45ea844d1209925708e179fbd5d342",
+        "sha256": "be028b171849a1d1d29ab0a49a1433488b7fce4b77f64ed637f5f50684a0a161",
+        "sha512": "d00f37c53e071f714de9f0aeae519a1f60e5ef1d02df159fe84a5e436e03a917011f104f19529eb3c83129b6450ee01faf3f0ff1e15e60ebcf1c750e3077ab88"
+    },
+    {
+        "file_name": "mariadb-10.4.33-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.4.33/mariadb-10.4.33-linux-systemd-x86_64.tar.gz",
+        "md5": "62c443b6cfe1127ac782f3b994b4a7e5",
+        "sha256": "3d4ef5ed554016c4d221a3dca2e86803a7ce7d0259af9e225c17512403e980c9",
+        "sha512": "f8fcf186bf3e9d6eb739f5e5ea69104c5a89faff4cd10132cb5fdcde52ec887a6a84251a29b245623255f4aa13efffc90635735092e012121d3c337ea9f60470"
+    },
+    {
+        "file_name": "mariadb-10.4.32-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.4.32/mariadb-10.4.32-linux-systemd-x86_64.tar.gz",
+        "md5": "9534c22a1a31dedd8b146025a3ec5efa",
+        "sha256": "04571822051b6465adf4b3d656f34d520bbbc8f23cc60942a2ee1a1d5a67ee20",
+        "sha512": "4b34e89e5bd0ea0125fea05882d79740ae71a355a4fdc881fd8e874af27811badbaf3b35a3e358ecc83b276e36972bead7231d4b639d6f2abdcfc8c29ddd90d2"
+    },
+    {
+        "file_name": "mariadb-10.4.31-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.4.31/mariadb-10.4.31-linux-systemd-x86_64.tar.gz",
+        "md5": "f1a3bca03bd6825466d10c67eb2a4e27",
+        "sha256": "fdd8729786e1fe96ef24daedcda1a25ee0c64258714438b7883bd25dde2d5fa3",
+        "sha512": "a3c36613e31f38cf54d1184eebc5dba5c5bb01a44e3094bff73f00016fbc26a47c9570f5e4b70b9d50f72530112f952cae7acbb98633622e390c72ab84f86feb"
+    },
+    {
+        "file_name": "mariadb-10.11.7-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.11.7/mariadb-10.11.7-linux-systemd-x86_64.tar.gz",
+        "md5": "b2431bdce28055cb3be5431ef1990791",
+        "sha256": "5ea876f814f270bdb9118f0b6091757278de7d851b367d1213474331bebe8b61",
+        "sha512": "42ce6508a0b3737b9181271fd07a2b18b3c0f50f692d9345e8fdd7b4c87bee061419ba0d6035b8abee115ebd70c5f007c7e4c2c865f067ec29f607a42a879a2b"
+    },
+    {
+        "file_name": "mariadb-10.11.6-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.11.6/mariadb-10.11.6-linux-systemd-x86_64.tar.gz",
+        "md5": "e0fe9425b7a6d6478d1d33b5f27eb69d",
+        "sha256": "641cac12285e6d2a1f1346ab542f60e2556ec135df6d57cb8c55e53132d9d4f9",
+        "sha512": "0593aaaa55a1810de854e55729673afa755dc3e787885594b2df2dcef34fd66dac6730232705a4b304e4e63d455c5b29e814e75ec48e1fa82f1ae1f2b61f8b7c"
+    },
+    {
+        "file_name": "mariadb-10.11.5-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.11.5/mariadb-10.11.5-linux-systemd-x86_64.tar.gz",
+        "md5": "dc3750dfdf26d4657f4ae893a24e99d3",
+        "sha256": "9d7dc441f20335be4d0c6637b4a436f77e7003be074ac2cb13088b6fb38218d1",
+        "sha512": "922ac0430b0d2d6433ed0a34b42706546b64631158e619381e6cbcf130ea3a14b894d04a97ca5bdbadc486e3bb0a77c3abf2098bb21937b0163980679d2e5378"
     },
     {
         "version": "5.1.23",

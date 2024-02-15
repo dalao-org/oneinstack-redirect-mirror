@@ -21,7 +21,7 @@
     },
     {
         "version_file_name": "nginx_ver",
-        "version": "1.25.3"
+        "version": "1.25.4"
     },
     {
         "version_file_name": "php53_ver",
@@ -182,6 +182,38 @@
     {
         "version_file_name": "mhash_ver",
         "version": "0.9.9.9"
+    },
+    {
+        "version_file_name": "mariadb55_ver",
+        "version": "5.5.68"
+    },
+    {
+        "version_file_name": "mariadb112_ver",
+        "version": "11.2.3"
+    },
+    {
+        "version_file_name": "mariadb111_ver",
+        "version": "11.1.4"
+    },
+    {
+        "version_file_name": "mariadb110_ver",
+        "version": "11.0.5"
+    },
+    {
+        "version_file_name": "mariadb106_ver",
+        "version": "10.6.17"
+    },
+    {
+        "version_file_name": "mariadb105_ver",
+        "version": "10.5.24"
+    },
+    {
+        "version_file_name": "mariadb104_ver",
+        "version": "10.4.33"
+    },
+    {
+        "version_file_name": "mariadb1011_ver",
+        "version": "10.11.7"
     },
     {
         "version_file_name": "apcu_ver",
