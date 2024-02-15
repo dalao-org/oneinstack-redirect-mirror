@@ -1,8 +1,9 @@
-/src/*.tar.gz /oneinstack/src/:splat 301
-/src/*.tar.bz2 /oneinstack/src/:splat 301
-/src/*.tar.gz.asc /oneinstack/src/:splat 301
-/src/*.tgz /oneinstack/src/:splat 301
-/src/*.rar /oneinstack/src/:splat 301
+/src/*.tar.gz /oneinstack/src/:splat.tar.gz 301
+/src/*.tar.bz2 /oneinstack/src/:splat.tar.bz2 301
+/src/*.tar.gz.asc /oneinstack/src/:splat.tar.gz.asc 301
+/src/*.tgz /oneinstack/src/:splat.tgz 301
+/src/*.zip /oneinstack/src/:splat.zip 301
+/src/*.rar /oneinstack/src/:splat.rar 301
 /oneinstack/src/curl-8.6.0.tar.gz https://curl.se/download/curl-8.6.0.tar.gz 301
 /oneinstack/src/curl-8.5.0.tar.gz https://curl.se/download/curl-8.5.0.tar.gz 301
 /oneinstack/src/curl-8.4.0.tar.gz https://curl.se/download/curl-8.4.0.tar.gz 301
