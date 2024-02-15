@@ -6496,6 +6496,36 @@
         "version": "20151206"
     },
     {
+        "file_name": "argon2-20190702.tar.gz",
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20190702.tar.gz",
+        "version": "20190702"
+    },
+    {
+        "file_name": "argon2-20171227.tar.gz",
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20171227.tar.gz",
+        "version": "20171227"
+    },
+    {
+        "file_name": "argon2-20161029.tar.gz",
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20161029.tar.gz",
+        "version": "20161029"
+    },
+    {
+        "file_name": "argon2-20160821.tar.gz",
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20160821.tar.gz",
+        "version": "20160821"
+    },
+    {
+        "file_name": "argon2-20160406.tar.gz",
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20160406.tar.gz",
+        "version": "20160406"
+    },
+    {
+        "file_name": "argon2-20151206.tar.gz",
+        "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20151206.tar.gz",
+        "version": "20151206"
+    },
+    {
         "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.10.0.tar.gz",
         "file_name": "freetype-2.10.0.tar.gz",
         "version": "2.10.0"
