@@ -1,3 +1,8 @@
+/src/*.tar.gz /oneinstack/src/:splat 301
+/src/*.tar.bz2 /oneinstack/src/:splat 301
+/src/*.tar.gz.asc /oneinstack/src/:splat 301
+/src/*.tgz /oneinstack/src/:splat 301
+/src/*.rar /oneinstack/src/:splat 301
 /oneinstack/src/curl-8.6.0.tar.gz https://curl.se/download/curl-8.6.0.tar.gz 301
 /oneinstack/src/curl-8.5.0.tar.gz https://curl.se/download/curl-8.5.0.tar.gz 301
 /oneinstack/src/curl-8.4.0.tar.gz https://curl.se/download/curl-8.4.0.tar.gz 301
@@ -1211,7 +1216,8 @@
 /oneinstack/src/mcrypt-2.6.8.tar.gz https://src.fedoraproject.org/repo/pkgs/mcrypt/mcrypt-2.6.8.tar.gz/97639f8821b10f80943fa17da302607e/mcrypt-2.6.8.tar.gz 301
 /oneinstack/src/mhash-0.9.9.9.tar.bz2 https://src.fedoraproject.org/repo/pkgs/mhash/mhash-0.9.9.9.tar.bz2/md5/f91c74f9ccab2b574a98be5bc31eb280/mhash-0.9.9.9.tar.bz2 301
 /oneinstack/src/ez_setup.py https://bootstrap.pypa.io/ez_setup.py 301
-/oneinstack/src/eaccelerator-0.9.6.1.tar.bz2 https://raw.githubusercontent.com/daleobrien/start-stop-daemon/master/start-stop-daemon.chttps://src.fedoraproject.org/repo/pkgs/php-eaccelerator/eaccelerator-0.9.6.1.tar.bz2/32ccd838e06ef5613c2610c1c65ed228/eaccelerator-0.9.6.1.tar.bz2 301
+/oneinstack/src/start-stop-daemon.c https://raw.githubusercontent.com/daleobrien/start-stop-daemon/master/start-stop-daemon.c 301
+/oneinstack/src/eaccelerator-0.9.6.1.tar.bz2 https://src.fedoraproject.org/repo/pkgs/php-eaccelerator/eaccelerator-0.9.6.1.tar.bz2/32ccd838e06ef5613c2610c1c65ed228/eaccelerator-0.9.6.1.tar.bz2 301
 /oneinstack/src/mod_remoteip.c https://opensource.apple.com/source/apache/apache-795.1/httpd/modules/metadata/mod_remoteip.c 301
 /oneinstack/src/mariadb-5.5.68-linux-systemd-x86_64.tar.gz http://downloads.mariadb.org/rest-api/mariadb/5.5.68/mariadb-5.5.68-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-5.5.67-linux-systemd-x86_64.tar.gz http://downloads.mariadb.org/rest-api/mariadb/5.5.67/mariadb-5.5.67-linux-systemd-x86_64.tar.gz 301
