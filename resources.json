@@ -1891,13 +1891,6 @@
         "version": "5.5.8"
     },
     {
-        "url": "https://downloads.mysql.com/downloads/file/?id=521791",
-        "file_name": "mysql-5.7.44-linux-glibc2.12-x86_64.tar.gz",
-        "md5": "d7c8436bbf456e9a4398011a0c52bc40",
-        "gpg": "https://downloads.mysql.com/downloads/gpg/?file=mysql-5.7.44-linux-glibc2.12-x86_64.tar.gz&p=23",
-        "version": "5.7.44"
-    },
-    {
         "version": "1.25.4",
         "url": "https://nginx.org/download/nginx-1.25.4.tar.gz",
         "gpg": "https://nginx.org/download/nginx-1.25.4.tar.gz.asc",
@@ -1934,10 +1927,22 @@
         "file_name": "nginx-1.14.2.tar.gz"
     },
     {
-        "version": "8.3.2",
-        "url": "https://www.php.net/distributions/php-8.3.2.tar.gz",
-        "sha256": "decf0f51e5415b21fb6350753e45b6c3be5cc0868e4ec561e5c89326c8e6ef16",
-        "file_name": "php-8.3.2.tar.gz"
+        "version": "8.3.3",
+        "url": "https://www.php.net/distributions/php-8.3.3.tar.gz",
+        "sha256": "61285ae17a93d172c9f2ebfe4280058d05bda17cadab705ca5b51ba3e6f3a5ac",
+        "file_name": "php-8.3.3.tar.gz"
+    },
+    {
+        "version": "8.2.16",
+        "url": "https://www.php.net/distributions/php-8.2.16.tar.gz",
+        "sha256": "62a92ef7c2c6f44b12e459d8f3d649aa8ebac5e05845f7479fe55a7580cd2dd0",
+        "file_name": "php-8.2.16.tar.gz"
+    },
+    {
+        "version": "8.1.27",
+        "url": "https://www.php.net/distributions/php-8.1.27.tar.gz",
+        "sha256": "9aa5d7a29389d799885d90740932697006d5d0f55d1def67678e0c14f6ab7b2d",
+        "file_name": "php-8.1.27.tar.gz"
     },
     {
         "version": "8.2.15",
@@ -1946,10 +1951,10 @@
         "file_name": "php-8.2.15.tar.gz"
     },
     {
-        "version": "8.1.27",
-        "url": "https://www.php.net/distributions/php-8.1.27.tar.gz",
-        "sha256": "9aa5d7a29389d799885d90740932697006d5d0f55d1def67678e0c14f6ab7b2d",
-        "file_name": "php-8.1.27.tar.gz"
+        "version": "8.3.2",
+        "url": "https://www.php.net/distributions/php-8.3.2.tar.gz",
+        "sha256": "decf0f51e5415b21fb6350753e45b6c3be5cc0868e4ec561e5c89326c8e6ef16",
+        "file_name": "php-8.3.2.tar.gz"
     },
     {
         "version": "8.2.14",
