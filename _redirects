@@ -1224,6 +1224,9 @@
 /oneinstack/src/mariadb-5.5.68-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.68/mariadb-5.5.68-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-5.5.67-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.67/mariadb-5.5.67-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-5.5.66-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.66/mariadb-5.5.66-linux-systemd-x86_64.tar.gz 301
+/oneinstack/src/mariadb-11.3.2-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.3.2/mariadb-11.3.2-linux-systemd-x86_64.tar.gz 301
+/oneinstack/src/mariadb-11.3.1-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.3.1/mariadb-11.3.1-linux-systemd-x86_64.tar.gz 301
+/oneinstack/src/mariadb-11.3.0-preview-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.3.0/mariadb-11.3.0-preview-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-11.2.3-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.2.3/mariadb-11.2.3-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-11.2.2-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.2.2/mariadb-11.2.2-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-11.2.1-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.2.1/mariadb-11.2.1-linux-systemd-x86_64.tar.gz 301

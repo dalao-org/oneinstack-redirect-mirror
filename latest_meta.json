@@ -188,6 +188,10 @@
         "version": "5.5.68"
     },
     {
+        "version_file_name": "mariadb113_ver",
+        "version": "11.3.2"
+    },
+    {
         "version_file_name": "mariadb112_ver",
         "version": "11.2.3"
     },

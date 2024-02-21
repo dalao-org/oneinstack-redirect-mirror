@@ -45,6 +45,7 @@ libmcrypt_ver=2.5.8
 mcrypt_ver=2.6.8
 mhash_ver=0.9.9.9
 mariadb55_ver=5.5.68
+mariadb113_ver=11.3.2
 mariadb112_ver=11.2.3
 mariadb111_ver=11.1.4
 mariadb110_ver=11.0.5
