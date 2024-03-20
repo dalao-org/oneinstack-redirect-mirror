@@ -4840,12 +4840,6 @@
         "pgp": "https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tgz.asc"
     },
     {
-        "version": "3.8.16",
-        "url": "https://www.python.org/ftp/python/3.8.16/Python-3.8.16.tgz",
-        "file_name": "Python-3.8.16.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.8.16/Python-3.8.16.tgz.asc"
-    },
-    {
         "version": "3.8.17",
         "url": "https://www.python.org/ftp/python/3.8.17/Python-3.8.17.tgz",
         "file_name": "Python-3.8.17.tgz",
@@ -4858,10 +4852,10 @@
         "pgp": "https://www.python.org/ftp/python/3.8.18/Python-3.8.18.tgz.asc"
     },
     {
-        "version": "3.9.16",
-        "url": "https://www.python.org/ftp/python/3.9.16/Python-3.9.16.tgz",
-        "file_name": "Python-3.9.16.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.9.16/Python-3.9.16.tgz.asc"
+        "version": "3.8.19",
+        "url": "https://www.python.org/ftp/python/3.8.19/Python-3.8.19.tgz",
+        "file_name": "Python-3.8.19.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.8.19/Python-3.8.19.tgz.asc"
     },
     {
         "version": "3.9.17",
@@ -4876,10 +4870,10 @@
         "pgp": "https://www.python.org/ftp/python/3.9.18/Python-3.9.18.tgz.asc"
     },
     {
-        "version": "3.10.11",
-        "url": "https://www.python.org/ftp/python/3.10.11/Python-3.10.11.tgz",
-        "file_name": "Python-3.10.11.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.10.11/Python-3.10.11.tgz.asc"
+        "version": "3.9.19",
+        "url": "https://www.python.org/ftp/python/3.9.19/Python-3.9.19.tgz",
+        "file_name": "Python-3.9.19.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.9.19/Python-3.9.19.tgz.asc"
     },
     {
         "version": "3.10.12",
@@ -4892,6 +4886,12 @@
         "url": "https://www.python.org/ftp/python/3.10.13/Python-3.10.13.tgz",
         "file_name": "Python-3.10.13.tgz",
         "pgp": "https://www.python.org/ftp/python/3.10.13/Python-3.10.13.tgz.asc"
+    },
+    {
+        "version": "3.10.14",
+        "url": "https://www.python.org/ftp/python/3.10.14/Python-3.10.14.tgz",
+        "file_name": "Python-3.10.14.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.10.14/Python-3.10.14.tgz.asc"
     },
     {
         "version": "3.11.6",
@@ -5042,6 +5042,11 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.2.tar.gz.asc"
     },
     {
+        "version": "1.6.25",
+        "url": "http://www.memcached.org/files/memcached-1.6.25.tar.gz",
+        "file_name": "memcached-1.6.25.tar.gz"
+    },
+    {
         "version": "1.6.24",
         "url": "http://www.memcached.org/files/memcached-1.6.24.tar.gz",
         "file_name": "memcached-1.6.24.tar.gz"
@@ -5060,11 +5065,6 @@
         "version": "1.6.21",
         "url": "http://www.memcached.org/files/memcached-1.6.21.tar.gz",
         "file_name": "memcached-1.6.21.tar.gz"
-    },
-    {
-        "version": "1.6.20",
-        "url": "http://www.memcached.org/files/memcached-1.6.20.tar.gz",
-        "file_name": "memcached-1.6.20.tar.gz"
     },
     {
         "version": "v0.10.26",
