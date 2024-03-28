@@ -1,5 +1,17 @@
 [
     {
+        "version": "8.7.1",
+        "url": "https://curl.se/download/curl-8.7.1.tar.gz",
+        "file_name": "curl-8.7.1.tar.gz",
+        "gpg": "https://curl.se/download/curl-8.7.1.tar.gz.asc"
+    },
+    {
+        "version": "8.7.0",
+        "url": "https://curl.se/download/curl-8.7.0.tar.gz",
+        "file_name": "curl-8.7.0.tar.gz",
+        "gpg": "https://curl.se/download/curl-8.7.0.tar.gz.asc"
+    },
+    {
         "version": "8.6.0",
         "url": "https://curl.se/download/curl-8.6.0.tar.gz",
         "file_name": "curl-8.6.0.tar.gz",
@@ -5042,6 +5054,11 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.2.tar.gz.asc"
     },
     {
+        "version": "1.6.26",
+        "url": "http://www.memcached.org/files/memcached-1.6.26.tar.gz",
+        "file_name": "memcached-1.6.26.tar.gz"
+    },
+    {
         "version": "1.6.25",
         "url": "http://www.memcached.org/files/memcached-1.6.25.tar.gz",
         "file_name": "memcached-1.6.25.tar.gz"
@@ -5060,11 +5077,6 @@
         "version": "1.6.22",
         "url": "http://www.memcached.org/files/memcached-1.6.22.tar.gz",
         "file_name": "memcached-1.6.22.tar.gz"
-    },
-    {
-        "version": "1.6.21",
-        "url": "http://www.memcached.org/files/memcached-1.6.21.tar.gz",
-        "file_name": "memcached-1.6.21.tar.gz"
     },
     {
         "version": "v0.10.26",
@@ -5803,6 +5815,11 @@
         "url": "https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.01.tar.gz",
         "file_name": "lua-resty-lrucache-v0.01.tar.gz",
         "version": "v0.01"
+    },
+    {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240314.tar.gz",
+        "file_name": "luajit2-v2.1-20240314.tar.gz",
+        "version": "v2.1-20240314"
     },
     {
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231117.tar.gz",
@@ -8209,6 +8226,11 @@
         "version": "0.2",
         "url": "http://pecl.php.net/get/memcache-0.2.tgz",
         "file_name": "memcache-0.2.tgz"
+    },
+    {
+        "version": "1.18.0",
+        "url": "http://pecl.php.net/get/mongodb-1.18.0.tgz",
+        "file_name": "mongodb-1.18.0.tgz"
     },
     {
         "version": "1.17.3",

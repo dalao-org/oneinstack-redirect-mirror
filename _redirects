@@ -1,3 +1,5 @@
+/oneinstack/src/curl-8.7.1.tar.gz https://curl.se/download/curl-8.7.1.tar.gz 301
+/oneinstack/src/curl-8.7.0.tar.gz https://curl.se/download/curl-8.7.0.tar.gz 301
 /oneinstack/src/curl-8.6.0.tar.gz https://curl.se/download/curl-8.6.0.tar.gz 301
 /oneinstack/src/curl-8.5.0.tar.gz https://curl.se/download/curl-8.5.0.tar.gz 301
 /oneinstack/src/curl-8.4.0.tar.gz https://curl.se/download/curl-8.4.0.tar.gz 301
@@ -809,11 +811,11 @@
 /oneinstack/src/openresty-1.25.3.1.tar.gz https://openresty.org/download/openresty-1.25.3.1.tar.gz 301
 /oneinstack/src/openresty-1.21.4.3.tar.gz https://openresty.org/download/openresty-1.21.4.3.tar.gz 301
 /oneinstack/src/openresty-1.21.4.2.tar.gz https://openresty.org/download/openresty-1.21.4.2.tar.gz 301
+/oneinstack/src/memcached-1.6.26.tar.gz https://www.memcached.org/files/memcached-1.6.26.tar.gz 301
 /oneinstack/src/memcached-1.6.25.tar.gz https://www.memcached.org/files/memcached-1.6.25.tar.gz 301
 /oneinstack/src/memcached-1.6.24.tar.gz https://www.memcached.org/files/memcached-1.6.24.tar.gz 301
 /oneinstack/src/memcached-1.6.23.tar.gz https://www.memcached.org/files/memcached-1.6.23.tar.gz 301
 /oneinstack/src/memcached-1.6.22.tar.gz https://www.memcached.org/files/memcached-1.6.22.tar.gz 301
-/oneinstack/src/memcached-1.6.21.tar.gz https://www.memcached.org/files/memcached-1.6.21.tar.gz 301
 /oneinstack/src/lua-nginx-module-v0.10.26.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.26.zip 301
 /oneinstack/src/lua-nginx-module-v0.10.25.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.25.zip 301
 /oneinstack/src/lua-nginx-module-v0.10.24.zip https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.24.zip 301
@@ -950,6 +952,7 @@
 /oneinstack/src/lua-resty-lrucache-v0.03.tar.gz https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.03.tar.gz 301
 /oneinstack/src/lua-resty-lrucache-v0.02.tar.gz https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.02.tar.gz 301
 /oneinstack/src/lua-resty-lrucache-v0.01.tar.gz https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.01.tar.gz 301
+/oneinstack/src/luajit2-v2.1-20240314.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240314.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231117.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231117.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231021.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231021.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231006.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231006.tar.gz 301
@@ -1424,6 +1427,7 @@
 /oneinstack/src/memcache-1.0.tgz https://pecl.php.net/get/memcache-1.0.tgz 301
 /oneinstack/src/memcache-0.4.tgz https://pecl.php.net/get/memcache-0.4.tgz 301
 /oneinstack/src/memcache-0.2.tgz https://pecl.php.net/get/memcache-0.2.tgz 301
+/oneinstack/src/mongodb-1.18.0.tgz https://pecl.php.net/get/mongodb-1.18.0.tgz 301
 /oneinstack/src/mongodb-1.17.3.tgz https://pecl.php.net/get/mongodb-1.17.3.tgz 301
 /oneinstack/src/mongodb-1.17.2.tgz https://pecl.php.net/get/mongodb-1.17.2.tgz 301
 /oneinstack/src/mongodb-1.17.1.tgz https://pecl.php.net/get/mongodb-1.17.1.tgz 301

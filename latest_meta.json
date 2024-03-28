@@ -1,7 +1,7 @@
 [
     {
         "version_file_name": "curl_ver",
-        "version": "8.6.0"
+        "version": "8.7.1"
     },
     {
         "version_file_name": "mysql80_ver",
@@ -137,7 +137,7 @@
     },
     {
         "version_file_name": "luajit2_ver",
-        "version": "v2.1-20231117"
+        "version": "v2.1-20240314"
     },
     {
         "version_file_name": "lua_cjson_ver",
@@ -237,7 +237,7 @@
     },
     {
         "version_file_name": "pecl_mongodb_ver",
-        "version": "1.17.3"
+        "version": "1.18.0"
     },
     {
         "version_file_name": "swoole_ver",
