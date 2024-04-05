@@ -4631,6 +4631,20 @@
         "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz"
     },
     {
+        "version": "1.61.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/nghttp2-1.61.0.tar.gz",
+        "file_name": "nghttp2-1.61.0.tar.gz",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/nghttp2-1.61.0.tar.gz.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/checksums.txt"
+    },
+    {
+        "version": "1.61.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/nghttp2-1.61.0.tar.gz.asc",
+        "file_name": "nghttp2-1.61.0.tar.gz.asc",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/nghttp2-1.61.0.tar.gz.asc.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/checksums.txt"
+    },
+    {
         "version": "1.60.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.60.0/nghttp2-1.60.0.tar.gz",
         "file_name": "nghttp2-1.60.0.tar.gz",
@@ -4755,13 +4769,6 @@
         "file_name": "nghttp2-1.53.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/checksums.txt"
-    },
-    {
-        "version": "1.52.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/nghttp2-1.52.0.tar.gz",
-        "file_name": "nghttp2-1.52.0.tar.gz",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/nghttp2-1.52.0.tar.gz.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/checksums.txt"
     },
     {
         "version": "16.2",
@@ -4942,6 +4949,14 @@
         "pgp": "https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz.asc"
     },
     {
+        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz",
+        "file_name": "httpd-2.4.59.tar.gz",
+        "version": "2.4.59",
+        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz.asc",
+        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz.sha256",
+        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz.sha512"
+    },
+    {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz",
         "file_name": "httpd-2.4.58.tar.gz",
         "version": "2.4.58",
@@ -4972,14 +4987,6 @@
         "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.55.tar.gz.asc",
         "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.55.tar.gz.sha256",
         "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.55.tar.gz.sha512"
-    },
-    {
-        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.54.tar.gz",
-        "file_name": "httpd-2.4.54.tar.gz",
-        "version": "2.4.54",
-        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.54.tar.gz.asc",
-        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.54.tar.gz.sha256",
-        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.54.tar.gz.sha512"
     },
     {
         "url": "https://archive.apache.org/dist/apr/apr-1.7.4.tar.gz",

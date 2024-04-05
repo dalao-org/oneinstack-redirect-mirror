@@ -85,7 +85,7 @@
     },
     {
         "version_file_name": "nghttp2_ver",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "version_file_name": "pgsql_ver",
@@ -93,7 +93,7 @@
     },
     {
         "version_file_name": "apache_ver",
-        "version": "2.4.58"
+        "version": "2.4.59"
     },
     {
         "version_file_name": "apr_ver",

@@ -748,6 +748,8 @@
 /oneinstack/src/redis-7.2.4.tar.gz https://download.redis.io/releases/redis-7.2.4.tar.gz 301
 /oneinstack/src/cacert.pem https://curl.se/ca/cacert.pem 301
 /oneinstack/src/acme.sh-master.tar.gz https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz 301
+/oneinstack/src/nghttp2-1.61.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/nghttp2-1.61.0.tar.gz 301
+/oneinstack/src/nghttp2-1.61.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/nghttp2-1.61.0.tar.gz.asc 301
 /oneinstack/src/nghttp2-1.60.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.60.0/nghttp2-1.60.0.tar.gz 301
 /oneinstack/src/nghttp2-1.60.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.60.0/nghttp2-1.60.0.tar.gz.asc 301
 /oneinstack/src/nghttp2-1.59.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.59.0/nghttp2-1.59.0.tar.gz 301
@@ -766,7 +768,6 @@
 /oneinstack/src/nghttp2-1.54.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc 301
 /oneinstack/src/nghttp2-1.53.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz 301
 /oneinstack/src/nghttp2-1.53.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz.asc 301
-/oneinstack/src/nghttp2-1.52.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/nghttp2-1.52.0.tar.gz 301
 /oneinstack/src/postgresql-16.2.tar.gz https://ftp.postgresql.org/pub/source/v16.2/postgresql-16.2.tar.gz 301
 /oneinstack/src/postgresql-16.1.tar.gz https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz 301
 /oneinstack/src/postgresql-16.0.tar.gz https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz 301
@@ -795,11 +796,11 @@
 /oneinstack/src/Python-3.12.0.tgz https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tgz 301
 /oneinstack/src/Python-3.12.1.tgz https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz 301
 /oneinstack/src/Python-3.12.2.tgz https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz 301
+/oneinstack/src/httpd-2.4.59.tar.gz https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz 301
 /oneinstack/src/httpd-2.4.58.tar.gz https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz 301
 /oneinstack/src/httpd-2.4.57.tar.gz https://archive.apache.org/dist/httpd/httpd-2.4.57.tar.gz 301
 /oneinstack/src/httpd-2.4.56.tar.gz https://archive.apache.org/dist/httpd/httpd-2.4.56.tar.gz 301
 /oneinstack/src/httpd-2.4.55.tar.gz https://archive.apache.org/dist/httpd/httpd-2.4.55.tar.gz 301
-/oneinstack/src/httpd-2.4.54.tar.gz https://archive.apache.org/dist/httpd/httpd-2.4.54.tar.gz 301
 /oneinstack/src/apr-1.7.4.tar.gz https://archive.apache.org/dist/apr/apr-1.7.4.tar.gz 301
 /oneinstack/src/apr-1.7.3.tar.gz https://archive.apache.org/dist/apr/apr-1.7.3.tar.gz 301
 /oneinstack/src/apr-1.7.2.tar.gz https://archive.apache.org/dist/apr/apr-1.7.2.tar.gz 301
