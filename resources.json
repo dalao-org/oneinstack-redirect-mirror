@@ -5206,11 +5206,6 @@
         "file_name": "tengine-tengine-2.2.0.tar.gz"
     },
     {
-        "version": "1.80.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.80.0/source/boost_1_80_0.tar.gz",
-        "file_name": "boost_1_80_0.tar.gz"
-    },
-    {
         "version": "1.81.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.gz",
         "file_name": "boost_1_81_0.tar.gz"
@@ -5229,6 +5224,11 @@
         "version": "1.84.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz",
         "file_name": "boost_1_84_0.tar.gz"
+    },
+    {
+        "version": "1.85.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.85.0/source/boost_1_85_0.tar.gz",
+        "file_name": "boost_1_85_0.tar.gz"
     },
     {
         "version": "3.2.1",
