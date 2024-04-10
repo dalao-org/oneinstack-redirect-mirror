@@ -105,7 +105,7 @@
     },
     {
         "version_file_name": "imagemagick_ver",
-        "version": "6.9.13-7"
+        "version": "6.9.13-8"
     },
     {
         "version_file_name": "openresty_ver",
@@ -117,7 +117,7 @@
     },
     {
         "version_file_name": "openssl3_ver",
-        "version": "3.2.1"
+        "version": "3.3.0"
     },
     {
         "version_file_name": "openssl11_ver",
