@@ -1939,6 +1939,24 @@
         "file_name": "nginx-1.14.2.tar.gz"
     },
     {
+        "version": "8.3.6",
+        "url": "https://www.php.net/distributions/php-8.3.6.tar.gz",
+        "sha256": "39695f5bd107892e36fd2ed6b3d3a78140fd4b05d556d6c6531a921633cacb5f",
+        "file_name": "php-8.3.6.tar.gz"
+    },
+    {
+        "version": "8.2.18",
+        "url": "https://www.php.net/distributions/php-8.2.18.tar.gz",
+        "sha256": "b934ca7e8c82945c5cbf0aa2a3f66727eb5b5098e551819e1b090572d6a51ead",
+        "file_name": "php-8.2.18.tar.gz"
+    },
+    {
+        "version": "8.1.27",
+        "url": "https://www.php.net/distributions/php-8.1.27.tar.gz",
+        "sha256": "9aa5d7a29389d799885d90740932697006d5d0f55d1def67678e0c14f6ab7b2d",
+        "file_name": "php-8.1.27.tar.gz"
+    },
+    {
         "version": "8.3.4",
         "url": "https://www.php.net/distributions/php-8.3.4.tar.gz",
         "sha256": "0e2801e47fb1b92d2743204fcf650ce2fcad1a13ef7a44fe05738101a383e4a2",
@@ -1949,12 +1967,6 @@
         "url": "https://www.php.net/distributions/php-8.2.17.tar.gz",
         "sha256": "1d8ab98e1c09518c672c5afcbef0e61f9003173c7638fc686461ae670d12742e",
         "file_name": "php-8.2.17.tar.gz"
-    },
-    {
-        "version": "8.1.27",
-        "url": "https://www.php.net/distributions/php-8.1.27.tar.gz",
-        "sha256": "9aa5d7a29389d799885d90740932697006d5d0f55d1def67678e0c14f6ab7b2d",
-        "file_name": "php-8.1.27.tar.gz"
     },
     {
         "version": "8.3.3",
