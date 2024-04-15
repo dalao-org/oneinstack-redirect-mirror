@@ -65,7 +65,7 @@
     },
     {
         "version_file_name": "php81_ver",
-        "version": "8.1.27"
+        "version": "8.1.28"
     },
     {
         "version_file_name": "php82_ver",
@@ -237,7 +237,7 @@
     },
     {
         "version_file_name": "pecl_mongodb_ver",
-        "version": "1.18.0"
+        "version": "1.18.1"
     },
     {
         "version_file_name": "swoole_ver",
