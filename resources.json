@@ -9896,6 +9896,11 @@
         "file_name": "yaf-2.0.0.tgz"
     },
     {
+        "version": "3.3.2",
+        "url": "http://pecl.php.net/get/xdebug-3.3.2.tgz",
+        "file_name": "xdebug-3.3.2.tgz"
+    },
+    {
         "version": "3.3.1",
         "url": "http://pecl.php.net/get/xdebug-3.3.1.tgz",
         "file_name": "xdebug-3.3.1.tgz"
