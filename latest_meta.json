@@ -21,7 +21,7 @@
     },
     {
         "version_file_name": "nginx_ver",
-        "version": "1.25.4"
+        "version": "1.25.5"
     },
     {
         "version_file_name": "php53_ver",
