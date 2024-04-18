@@ -5607,14 +5607,6 @@
         "version": "v0.0.1"
     },
     {
-        "url": "https://ftp.pureftpd.org/public/public/pure-ftpd/releases/pure-ftpd-1.0.50.tar.gz",
-        "file_name": "pure-ftpd-1.0.50.tar.gz"
-    },
-    {
-        "url": "https://ftp.pureftpd.org/public/public/pure-ftpd/releases/pure-ftpd-1.0.51.tar.gz",
-        "file_name": "pure-ftpd-1.0.51.tar.gz"
-    },
-    {
         "file_name": "htop-3.3.0.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.3.0.tar.gz/sha512/4c03bd183d97ec84010472ea52ff6e210e6d211c813d0ab52bacef16d7e4eef9483e65279fb0a846dcdb532ad19eb1c1c39bad9dd8b103d36aeb51cb5d28e23a/htop-3.3.0.tar.gz"
     },
@@ -6470,19 +6462,19 @@
         "version": "gperftools-2.13"
     },
     {
+        "url": "https://github.com/unicode-org/icu/releases/download/release-75-1/icu4c-75_1-src.tgz",
+        "file_name": "icu4c-75_1-src.tgz",
+        "version": "release-75-1"
+    },
+    {
+        "url": "https://github.com/unicode-org/icu/releases/download/release-75-1/icu4c-75_1-src.tgz.asc",
+        "file_name": "icu4c-75_1-src.tgz.asc",
+        "version": "release-75-1"
+    },
+    {
         "url": "https://github.com/unicode-org/icu/releases/download/release-74-2/icu4c-74_2-src.tgz",
         "file_name": "icu4c-74_2-src.tgz",
         "version": "release-74-2"
-    },
-    {
-        "url": "https://github.com/unicode-org/icu/releases/download/release-74-2/icu4c-74_2-src.tgz.asc",
-        "file_name": "icu4c-74_2-src.tgz.asc",
-        "version": "release-74-2"
-    },
-    {
-        "url": "https://github.com/unicode-org/icu/releases/download/release-74-1/icu4c-74_1-src.tgz",
-        "file_name": "icu4c-74_1-src.tgz",
-        "version": "release-74-1"
     },
     {
         "url": "https://github.com/glotlabs/gdrive/releases/download/3.9.1/gdrive_linux-x64.tar.gz",
