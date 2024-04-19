@@ -5607,6 +5607,14 @@
         "version": "v0.0.1"
     },
     {
+        "url": "https://ftp.pureftpd.org/public/public/pure-ftpd/releases/pure-ftpd-1.0.50.tar.gz",
+        "file_name": "pure-ftpd-1.0.50.tar.gz"
+    },
+    {
+        "url": "https://ftp.pureftpd.org/public/public/pure-ftpd/releases/pure-ftpd-1.0.51.tar.gz",
+        "file_name": "pure-ftpd-1.0.51.tar.gz"
+    },
+    {
         "file_name": "htop-3.3.0.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.3.0.tar.gz/sha512/4c03bd183d97ec84010472ea52ff6e210e6d211c813d0ab52bacef16d7e4eef9483e65279fb0a846dcdb532ad19eb1c1c39bad9dd8b103d36aeb51cb5d28e23a/htop-3.3.0.tar.gz"
     },

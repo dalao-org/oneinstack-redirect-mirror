@@ -907,6 +907,8 @@
 /oneinstack/src/lua-resty-core-v0.0.3.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.3.tar.gz 301
 /oneinstack/src/lua-resty-core-v0.0.2.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.2.tar.gz 301
 /oneinstack/src/lua-resty-core-v0.0.1.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.0.1.tar.gz 301
+/oneinstack/src/pure-ftpd-1.0.50.tar.gz https://ftp.pureftpd.org/public/public/pure-ftpd/releases/pure-ftpd-1.0.50.tar.gz 301
+/oneinstack/src/pure-ftpd-1.0.51.tar.gz https://ftp.pureftpd.org/public/public/pure-ftpd/releases/pure-ftpd-1.0.51.tar.gz 301
 /oneinstack/src/htop-3.3.0.tar.gz https://src.fedoraproject.org/repo/pkgs/htop/htop-3.3.0.tar.gz/sha512/4c03bd183d97ec84010472ea52ff6e210e6d211c813d0ab52bacef16d7e4eef9483e65279fb0a846dcdb532ad19eb1c1c39bad9dd8b103d36aeb51cb5d28e23a/htop-3.3.0.tar.gz 301
 /oneinstack/src/htop-3.2.2.tar.gz https://src.fedoraproject.org/repo/pkgs/htop/htop-3.2.2.tar.gz/sha512/dd82d5b2f70694e76b3740ef0f6f6d3446fe83b748c2cfe61c783985d62cb6e1d00fcb4b1fe7dc8f1d8c6bc7b29474e1e88eaa01f154198d702b100bcbc135bb/htop-3.2.2.tar.gz 301
 /oneinstack/src/htop-3.2.1.tar.gz https://src.fedoraproject.org/repo/pkgs/htop/htop-3.2.1.tar.gz/sha512/d7b76e28ee870ac572ba1d9606dec6f9475346a00e599ca15838017c97683f1fc1be40417b9c1e76128cacc8a60ff9ba88c6b237be1835d309f98329b25644fc/htop-3.2.1.tar.gz 301
