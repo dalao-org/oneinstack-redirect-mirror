@@ -966,10 +966,10 @@
         "gpg": "https://curl.se/download/archeology/urlget-3.12.tar.gz.asc"
     },
     {
-        "version": "1.0.2",
-        "url": "https://github.com/fail2ban/fail2ban/archive/refs/tags/1.0.2.tar.gz",
-        "gpg": "https://github.com/fail2ban/fail2ban/releases/download/1.0.2/fail2ban-1.0.2.tar.gz.asc",
-        "file_name": "fail2ban-1.0.2.tar.gz"
+        "version": "1.1.0",
+        "url": "https://github.com/fail2ban/fail2ban/archive/refs/tags/1.1.0.tar.gz",
+        "gpg": "https://github.com/fail2ban/fail2ban/releases/download/1.1.0/fail2ban-1.1.0.tar.gz.asc",
+        "file_name": "fail2ban-1.1.0.tar.gz"
     },
     {
         "url": "https://downloads.mysql.com/archives/get/p/23/file/mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz",

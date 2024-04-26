@@ -159,7 +159,7 @@
 /oneinstack/src/curl-5.9.tar.gz https://curl.se/download/archeology/curl-5.9.tar.gz 301
 /oneinstack/src/curl-4.8.tar.gz https://curl.se/download/archeology/curl-4.8.tar.gz 301
 /oneinstack/src/urlget-3.12.tar.gz https://curl.se/download/archeology/urlget-3.12.tar.gz 301
-/oneinstack/src/fail2ban-1.0.2.tar.gz https://github.com/fail2ban/fail2ban/archive/refs/tags/1.0.2.tar.gz 301
+/oneinstack/src/fail2ban-1.1.0.tar.gz https://github.com/fail2ban/fail2ban/archive/refs/tags/1.1.0.tar.gz 301
 /oneinstack/src/mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz https://downloads.mysql.com/archives/get/p/23/file/mysql-8.0.34-linux-glibc2.28-x86_64.tar.gz 301
 /oneinstack/src/mysql-8.0.33-linux-glibc2.28-x86_64.tar.gz https://downloads.mysql.com/archives/get/p/23/file/mysql-8.0.33-linux-glibc2.28-x86_64.tar.gz 301
 /oneinstack/src/mysql-8.0.11-linux-glibc2.12-x86_64.tar.gz https://downloads.mysql.com/archives/get/p/23/file/mysql-8.0.11-linux-glibc2.12-x86_64.tar.gz 301
