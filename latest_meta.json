@@ -69,11 +69,11 @@
     },
     {
         "version_file_name": "php82_ver",
-        "version": "8.2.18"
+        "version": "8.2.19"
     },
     {
         "version_file_name": "php83_ver",
-        "version": "8.3.6"
+        "version": "8.3.7"
     },
     {
         "version_file_name": "phpmyadmin_ver",
@@ -89,7 +89,7 @@
     },
     {
         "version_file_name": "pgsql_ver",
-        "version": "16.2"
+        "version": "16.3"
     },
     {
         "version_file_name": "apache_ver",
