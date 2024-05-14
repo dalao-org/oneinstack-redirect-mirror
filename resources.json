@@ -4661,6 +4661,20 @@
         "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz"
     },
     {
+        "version": "1.62.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.0/nghttp2-1.62.0.tar.gz",
+        "file_name": "nghttp2-1.62.0.tar.gz",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.0/nghttp2-1.62.0.tar.gz.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.0/checksums.txt"
+    },
+    {
+        "version": "1.62.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.0/nghttp2-1.62.0.tar.gz.asc",
+        "file_name": "nghttp2-1.62.0.tar.gz.asc",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.0/nghttp2-1.62.0.tar.gz.asc.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.0/checksums.txt"
+    },
+    {
         "version": "1.61.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/nghttp2-1.61.0.tar.gz",
         "file_name": "nghttp2-1.61.0.tar.gz",
@@ -4785,20 +4799,6 @@
         "file_name": "nghttp2-1.54.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/checksums.txt"
-    },
-    {
-        "version": "1.53.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz",
-        "file_name": "nghttp2-1.53.0.tar.gz",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/checksums.txt"
-    },
-    {
-        "version": "1.53.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz.asc",
-        "file_name": "nghttp2-1.53.0.tar.gz.asc",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/nghttp2-1.53.0.tar.gz.asc.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.53.0/checksums.txt"
     },
     {
         "version": "16.3",
@@ -8271,6 +8271,11 @@
         "version": "0.2",
         "url": "http://pecl.php.net/get/memcache-0.2.tgz",
         "file_name": "memcache-0.2.tgz"
+    },
+    {
+        "version": "1.19.0",
+        "url": "http://pecl.php.net/get/mongodb-1.19.0.tgz",
+        "file_name": "mongodb-1.19.0.tgz"
     },
     {
         "version": "1.18.1",

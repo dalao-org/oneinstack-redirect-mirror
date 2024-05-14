@@ -85,7 +85,7 @@
     },
     {
         "version_file_name": "nghttp2_ver",
-        "version": "1.61.0"
+        "version": "1.62.0"
     },
     {
         "version_file_name": "pgsql_ver",
@@ -237,7 +237,7 @@
     },
     {
         "version_file_name": "pecl_mongodb_ver",
-        "version": "1.18.1"
+        "version": "1.19.0"
     },
     {
         "version_file_name": "swoole_ver",
