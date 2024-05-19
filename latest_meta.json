@@ -193,31 +193,31 @@
     },
     {
         "version_file_name": "mariadb112_ver",
-        "version": "11.2.3"
+        "version": "11.2.4"
     },
     {
         "version_file_name": "mariadb111_ver",
-        "version": "11.1.4"
+        "version": "11.1.5"
     },
     {
         "version_file_name": "mariadb110_ver",
-        "version": "11.0.5"
+        "version": "11.0.6"
     },
     {
         "version_file_name": "mariadb106_ver",
-        "version": "10.6.17"
+        "version": "10.6.18"
     },
     {
         "version_file_name": "mariadb105_ver",
-        "version": "10.5.24"
+        "version": "10.5.25"
     },
     {
         "version_file_name": "mariadb104_ver",
-        "version": "10.4.33"
+        "version": "10.4.34"
     },
     {
         "version_file_name": "mariadb1011_ver",
-        "version": "10.11.7"
+        "version": "10.11.8"
     },
     {
         "version_file_name": "apcu_ver",
