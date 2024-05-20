@@ -751,8 +751,11 @@
 /oneinstack/src/redis-7.2.3.tar.gz https://download.redis.io/releases/redis-7.2.3.tar.gz 301
 /oneinstack/src/redis-7.0.15.tar.gz https://download.redis.io/releases/redis-7.0.15.tar.gz 301
 /oneinstack/src/redis-7.2.4.tar.gz https://download.redis.io/releases/redis-7.2.4.tar.gz 301
+/oneinstack/src/redis-7.2.5.tar.gz https://download.redis.io/releases/redis-7.2.5.tar.gz 301
 /oneinstack/src/cacert.pem https://curl.se/ca/cacert.pem 301
 /oneinstack/src/acme.sh-master.tar.gz https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz 301
+/oneinstack/src/nghttp2-1.62.1.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.62.1/nghttp2-1.62.1.tar.gz 301
+/oneinstack/src/nghttp2-1.62.1.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.62.1/nghttp2-1.62.1.tar.gz.asc 301
 /oneinstack/src/nghttp2-1.62.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.62.0/nghttp2-1.62.0.tar.gz 301
 /oneinstack/src/nghttp2-1.62.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.62.0/nghttp2-1.62.0.tar.gz.asc 301
 /oneinstack/src/nghttp2-1.61.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.61.0/nghttp2-1.61.0.tar.gz 301
@@ -771,8 +774,6 @@
 /oneinstack/src/nghttp2-1.55.1.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz.asc 301
 /oneinstack/src/nghttp2-1.55.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz 301
 /oneinstack/src/nghttp2-1.55.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz.asc 301
-/oneinstack/src/nghttp2-1.54.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz 301
-/oneinstack/src/nghttp2-1.54.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc 301
 /oneinstack/src/postgresql-16.3.tar.gz https://ftp.postgresql.org/pub/source/v16.3/postgresql-16.3.tar.gz 301
 /oneinstack/src/postgresql-16.2.tar.gz https://ftp.postgresql.org/pub/source/v16.2/postgresql-16.2.tar.gz 301
 /oneinstack/src/postgresql-16.1.tar.gz https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz 301

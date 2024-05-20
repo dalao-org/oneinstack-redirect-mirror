@@ -4651,6 +4651,12 @@
         "file_name": "redis-7.2.4.tar.gz"
     },
     {
+        "version": "redis-7.2.5",
+        "sha256": "5981179706f8391f03be91d951acafaeda91af7fac56beffb2701963103e423d",
+        "url": "https://download.redis.io/releases/redis-7.2.5.tar.gz",
+        "file_name": "redis-7.2.5.tar.gz"
+    },
+    {
         "file_name": "cacert.pem",
         "url": "https://curl.se/ca/cacert.pem",
         "sha256": "https://curl.se/ca/cacert.pem.sha256"
@@ -4659,6 +4665,20 @@
         "file_name": "acme.sh-master.tar.gz",
         "version": "3.0.7",
         "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz"
+    },
+    {
+        "version": "1.62.1",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.1/nghttp2-1.62.1.tar.gz",
+        "file_name": "nghttp2-1.62.1.tar.gz",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.1/nghttp2-1.62.1.tar.gz.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.1/checksums.txt"
+    },
+    {
+        "version": "1.62.1",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.1/nghttp2-1.62.1.tar.gz.asc",
+        "file_name": "nghttp2-1.62.1.tar.gz.asc",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.1/nghttp2-1.62.1.tar.gz.asc.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.62.1/checksums.txt"
     },
     {
         "version": "1.62.0",
@@ -4785,20 +4805,6 @@
         "file_name": "nghttp2-1.55.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/checksums.txt"
-    },
-    {
-        "version": "1.54.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz",
-        "file_name": "nghttp2-1.54.0.tar.gz",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/checksums.txt"
-    },
-    {
-        "version": "1.54.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc",
-        "file_name": "nghttp2-1.54.0.tar.gz.asc",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/nghttp2-1.54.0.tar.gz.asc.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.54.0/checksums.txt"
     },
     {
         "version": "16.3",
