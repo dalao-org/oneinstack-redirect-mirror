@@ -105,7 +105,7 @@
     },
     {
         "version_file_name": "imagemagick_ver",
-        "version": "6.9.13-10"
+        "version": "6.9.13-11"
     },
     {
         "version_file_name": "openresty_ver",
@@ -153,7 +153,7 @@
     },
     {
         "version_file_name": "libsodium_ver",
-        "version": "1.0.19-RELEASE"
+        "version": "1.0.20-RELEASE"
     },
     {
         "version_file_name": "argon2_ver",

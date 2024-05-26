@@ -5073,16 +5073,16 @@
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz.sha256"
     },
     {
-        "version": "6.9.13-10",
-        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-10.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-10.tar.gz.asc",
-        "file_name": "ImageMagick-6.9.13-10.tar.gz"
+        "version": "6.9.13-11",
+        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-11.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-11.tar.gz.asc",
+        "file_name": "ImageMagick-6.9.13-11.tar.gz"
     },
     {
-        "version": "7.1.1-32",
-        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-32.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-32.tar.gz.asc",
-        "file_name": "ImageMagick-7.1.1-32.tar.gz"
+        "version": "7.1.1-33",
+        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-33.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-33.tar.gz.asc",
+        "file_name": "ImageMagick-7.1.1-33.tar.gz"
     },
     {
         "version": "1.25.3.1",
@@ -6539,6 +6539,21 @@
         "version": "v1.9.0"
     },
     {
+        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz",
+        "file_name": "libsodium-1.0.20.tar.gz",
+        "version": "1.0.20-RELEASE"
+    },
+    {
+        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz.minisig",
+        "file_name": "libsodium-1.0.20.tar.gz.minisig",
+        "version": "1.0.20-RELEASE"
+    },
+    {
+        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz.sig",
+        "file_name": "libsodium-1.0.20.tar.gz.sig",
+        "version": "1.0.20-RELEASE"
+    },
+    {
         "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz",
         "file_name": "libsodium-1.0.19.tar.gz",
         "version": "1.0.19-RELEASE"
@@ -6547,21 +6562,6 @@
         "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz.minisig",
         "file_name": "libsodium-1.0.19.tar.gz.minisig",
         "version": "1.0.19-RELEASE"
-    },
-    {
-        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz.sig",
-        "file_name": "libsodium-1.0.19.tar.gz.sig",
-        "version": "1.0.19-RELEASE"
-    },
-    {
-        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz",
-        "file_name": "libsodium-1.0.18.tar.gz",
-        "version": "1.0.18-RELEASE"
-    },
-    {
-        "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz.minisig",
-        "file_name": "libsodium-1.0.18.tar.gz.minisig",
-        "version": "1.0.18-RELEASE"
     },
     {
         "url": "https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20190702.tar.gz",

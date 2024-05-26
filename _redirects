@@ -814,8 +814,8 @@
 /oneinstack/src/apr-util-1.6.3.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.3.tar.gz 301
 /oneinstack/src/apr-util-1.6.2.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.2.tar.gz 301
 /oneinstack/src/apr-util-1.6.1.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz 301
-/oneinstack/src/ImageMagick-6.9.13-10.tar.gz https://imagemagick.org/archive/ImageMagick-6.9.13-10.tar.gz 301
-/oneinstack/src/ImageMagick-7.1.1-32.tar.gz https://imagemagick.org/archive/ImageMagick-7.1.1-32.tar.gz 301
+/oneinstack/src/ImageMagick-6.9.13-11.tar.gz https://imagemagick.org/archive/ImageMagick-6.9.13-11.tar.gz 301
+/oneinstack/src/ImageMagick-7.1.1-33.tar.gz https://imagemagick.org/archive/ImageMagick-7.1.1-33.tar.gz 301
 /oneinstack/src/openresty-1.25.3.1.tar.gz https://openresty.org/download/openresty-1.25.3.1.tar.gz 301
 /oneinstack/src/openresty-1.21.4.3.tar.gz https://openresty.org/download/openresty-1.21.4.3.tar.gz 301
 /oneinstack/src/openresty-1.21.4.2.tar.gz https://openresty.org/download/openresty-1.21.4.2.tar.gz 301
@@ -1094,11 +1094,11 @@
 /oneinstack/src/libzip-1.9.2.tar.gz https://github.com/nih-at/libzip/releases/download/v1.9.2/libzip-1.9.2.tar.gz 301
 /oneinstack/src/libzip-1.9.1.tar.gz https://github.com/nih-at/libzip/releases/download/v1.9.1/libzip-1.9.1.tar.gz 301
 /oneinstack/src/libzip-1.9.0.tar.gz https://github.com/nih-at/libzip/releases/download/v1.9.0/libzip-1.9.0.tar.gz 301
+/oneinstack/src/libsodium-1.0.20.tar.gz https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz 301
+/oneinstack/src/libsodium-1.0.20.tar.gz.minisig https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz.minisig 301
+/oneinstack/src/libsodium-1.0.20.tar.gz.sig https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz.sig 301
 /oneinstack/src/libsodium-1.0.19.tar.gz https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz 301
 /oneinstack/src/libsodium-1.0.19.tar.gz.minisig https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz.minisig 301
-/oneinstack/src/libsodium-1.0.19.tar.gz.sig https://github.com/jedisct1/libsodium/releases/download/1.0.19-RELEASE/libsodium-1.0.19.tar.gz.sig 301
-/oneinstack/src/libsodium-1.0.18.tar.gz https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz 301
-/oneinstack/src/libsodium-1.0.18.tar.gz.minisig https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz.minisig 301
 /oneinstack/src/phc-winner-argon2-20190702.tar.gz https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20190702.tar.gz 301
 /oneinstack/src/phc-winner-argon2-20171227.tar.gz https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20171227.tar.gz 301
 /oneinstack/src/phc-winner-argon2-20161029.tar.gz https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20161029.tar.gz 301
