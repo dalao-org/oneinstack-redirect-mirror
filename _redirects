@@ -852,6 +852,10 @@
 /oneinstack/src/boost_1_83_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz 301
 /oneinstack/src/boost_1_84_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz 301
 /oneinstack/src/boost_1_85_0.tar.gz https://boostorg.jfrog.io/artifactory/main/release/1.85.0/source/boost_1_85_0.tar.gz 301
+/oneinstack/src/openssl-3.3.1.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.3.1/openssl-3.3.1.tar.gz 301
+/oneinstack/src/openssl-3.2.2.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.2.2/openssl-3.2.2.tar.gz 301
+/oneinstack/src/openssl-3.1.6.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.1.6/openssl-3.1.6.tar.gz 301
+/oneinstack/src/openssl-3.0.14.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.14/openssl-3.0.14.tar.gz 301
 /oneinstack/src/openssl-3.3.0.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.3.0/openssl-3.3.0.tar.gz 301
 /oneinstack/src/openssl-3.2.1.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.2.1/openssl-3.2.1.tar.gz 301
 /oneinstack/src/openssl-3.1.5.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.1.5/openssl-3.1.5.tar.gz 301
@@ -872,7 +876,6 @@
 /oneinstack/src/openssl-3.0.8.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz 301
 /oneinstack/src/openssl-1.1.1t.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz 301
 /oneinstack/src/openssl-3.0.7.tar.gz https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz 301
-/oneinstack/src/openssl-1.1.1s.tar.gz https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz 301
 /oneinstack/src/lua-resty-core-v0.1.28.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.28.tar.gz 301
 /oneinstack/src/lua-resty-core-v0.1.27.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.27.tar.gz 301
 /oneinstack/src/lua-resty-core-v0.1.26.tar.gz https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.26.tar.gz 301
@@ -1239,6 +1242,9 @@
 /oneinstack/src/mariadb-5.5.68-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.68/mariadb-5.5.68-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-5.5.67-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.67/mariadb-5.5.67-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-5.5.66-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.66/mariadb-5.5.66-linux-systemd-x86_64.tar.gz 301
+/oneinstack/src/mariadb-11.4.2-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.4.2/mariadb-11.4.2-linux-systemd-x86_64.tar.gz 301
+/oneinstack/src/mariadb-11.4.1-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.4.1/mariadb-11.4.1-linux-systemd-x86_64.tar.gz 301
+/oneinstack/src/mariadb-11.4.0-preview-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.4.0/mariadb-11.4.0-preview-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-11.3.2-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.3.2/mariadb-11.3.2-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-11.3.1-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.3.1/mariadb-11.3.1-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-11.3.0-preview-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.3.0/mariadb-11.3.0-preview-linux-systemd-x86_64.tar.gz 301

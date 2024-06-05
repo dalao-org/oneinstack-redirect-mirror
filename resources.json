@@ -5273,6 +5273,38 @@
         "file_name": "boost_1_85_0.tar.gz"
     },
     {
+        "version": "3.3.1",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.3.1/openssl-3.3.1.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.3.1/openssl-3.3.1.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.3.1/openssl-3.3.1.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.3.1/openssl-3.3.1.tar.gz.asc",
+        "file_name": "openssl-3.3.1.tar.gz"
+    },
+    {
+        "version": "3.2.2",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.2.2/openssl-3.2.2.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.2.2/openssl-3.2.2.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.2.2/openssl-3.2.2.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.2.2/openssl-3.2.2.tar.gz.asc",
+        "file_name": "openssl-3.2.2.tar.gz"
+    },
+    {
+        "version": "3.1.6",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.1.6/openssl-3.1.6.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.1.6/openssl-3.1.6.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.1.6/openssl-3.1.6.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.1.6/openssl-3.1.6.tar.gz.asc",
+        "file_name": "openssl-3.1.6.tar.gz"
+    },
+    {
+        "version": "3.0.14",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.14/openssl-3.0.14.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.14/openssl-3.0.14.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.14/openssl-3.0.14.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.14/openssl-3.0.14.tar.gz.asc",
+        "file_name": "openssl-3.0.14.tar.gz"
+    },
+    {
         "version": "3.3.0",
         "url": "https://github.com/openssl/openssl/releases/download/openssl-3.3.0/openssl-3.3.0.tar.gz",
         "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.3.0/openssl-3.3.0.tar.gz.sha256",
@@ -5431,14 +5463,6 @@
         "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz.sha1",
         "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz.asc",
         "file_name": "openssl-3.0.7.tar.gz"
-    },
-    {
-        "version": "1.1.1s",
-        "url": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1s/openssl-1.1.1s.tar.gz.asc",
-        "file_name": "openssl-1.1.1s.tar.gz"
     },
     {
         "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.28.tar.gz",
@@ -7250,6 +7274,27 @@
         "md5": "298742a53f8b687c3e8a349b4bcd80a6",
         "sha256": "8f01845b1534ddddcb96b488ba7a834a41dbe8bf2dbe661d44bf5160cf6e05f9",
         "sha512": "8f773b5a9682ea5977eb4db134bcd00d178094d36cb552c4edbbb63c4b6229ba20afad60f384bd712f1ebfd3eb74f29a1cc5ea8db2b29570e830a948ae0ab95c"
+    },
+    {
+        "file_name": "mariadb-11.4.2-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.4.2/mariadb-11.4.2-linux-systemd-x86_64.tar.gz",
+        "md5": "2ac6eb07d653b2089b885ef65cee71a9",
+        "sha256": "76fa666f1ea656807cfaf7b78f6fc89b0d0eb64df9dbd2dba6d2d1e771ef3ce7",
+        "sha512": "7f0a3035c1c8372ba84ecf9d8118397b2fdbcd1e542670cb754369abaccfe928b94bb61e4db810aa844a0889ca197cf97e32f7882119a7d078dcc1d97eb39ec8"
+    },
+    {
+        "file_name": "mariadb-11.4.1-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.4.1/mariadb-11.4.1-linux-systemd-x86_64.tar.gz",
+        "md5": "41c2b6e5321cd43f29800e7aa28b1dda",
+        "sha256": "949e7a0c9c6ab4478c515bf76b0b781a0286df0fa23831700f1a2dda2a00460e",
+        "sha512": "082ab42489b487838e0b2933a0fa259789664cf92135883cd8fd6f19726142319455a1e235ad5b1d39c6c6d8a893f7549c02735069ed98081701ba30dfda2ab1"
+    },
+    {
+        "file_name": "mariadb-11.4.0-preview-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.4.0/mariadb-11.4.0-preview-linux-systemd-x86_64.tar.gz",
+        "md5": "33be8a5bb7474fd4402671b20f250882",
+        "sha256": "d909386cdd9288111fa04804ebfb1960136a546ba5d98f8fcf4848dafeb959db",
+        "sha512": "a8b836580d7bb40eabba11f6c27199490e187fc112720f535a6c1ab6c7c2d09c88b4c125ef318aabccbbaf2467d4bcb503515aa1df7292d070583f6f41bef777"
     },
     {
         "file_name": "mariadb-11.3.2-linux-systemd-x86_64.tar.gz",

@@ -117,7 +117,7 @@
     },
     {
         "version_file_name": "openssl3_ver",
-        "version": "3.3.0"
+        "version": "3.3.1"
     },
     {
         "version_file_name": "openssl11_ver",
@@ -186,6 +186,10 @@
     {
         "version_file_name": "mariadb55_ver",
         "version": "5.5.68"
+    },
+    {
+        "version_file_name": "mariadb114_ver",
+        "version": "11.4.2"
     },
     {
         "version_file_name": "mariadb113_ver",
