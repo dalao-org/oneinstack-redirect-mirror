@@ -1945,16 +1945,34 @@
         "file_name": "nginx-1.16.1.tar.gz"
     },
     {
-        "version": "8.3.7",
-        "url": "https://www.php.net/distributions/php-8.3.7.tar.gz",
-        "sha256": "2e11d10b651459a8767401e66b5d70e3b048e446579fcdeb0b69bcba789af8c4",
-        "file_name": "php-8.3.7.tar.gz"
+        "version": "8.3.8",
+        "url": "https://www.php.net/distributions/php-8.3.8.tar.gz",
+        "sha256": "0ebed9f1471871cf131e504629f3947f2acd38a655cc31b036f99efd0e3dbdeb",
+        "file_name": "php-8.3.8.tar.gz"
+    },
+    {
+        "version": "8.2.20",
+        "url": "https://www.php.net/distributions/php-8.2.20.tar.gz",
+        "sha256": "05a4365f7bc6475ac4fef65dde13886913dbc0036e63895d369c1fc6e8206107",
+        "file_name": "php-8.2.20.tar.gz"
+    },
+    {
+        "version": "8.1.29",
+        "url": "https://www.php.net/distributions/php-8.1.29.tar.gz",
+        "sha256": "8b2609bf1d3173aa38269a9af21532c65f730aadd3051f9aae011eea9e246de5",
+        "file_name": "php-8.1.29.tar.gz"
     },
     {
         "version": "8.2.19",
         "url": "https://www.php.net/distributions/php-8.2.19.tar.gz",
         "sha256": "8bfdd20662b41a238a5acd84fab3e05c36a685fcb56e6d8ac18eeb87057ab2bc",
         "file_name": "php-8.2.19.tar.gz"
+    },
+    {
+        "version": "8.3.7",
+        "url": "https://www.php.net/distributions/php-8.3.7.tar.gz",
+        "sha256": "2e11d10b651459a8767401e66b5d70e3b048e446579fcdeb0b69bcba789af8c4",
+        "file_name": "php-8.3.7.tar.gz"
     },
     {
         "version": "8.1.28",
@@ -4973,12 +4991,6 @@
         "pgp": "https://www.python.org/ftp/python/3.11.9/Python-3.11.9.tgz.asc"
     },
     {
-        "version": "3.12.1",
-        "url": "https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz",
-        "file_name": "Python-3.12.1.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz.asc"
-    },
-    {
         "version": "3.12.2",
         "url": "https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz",
         "file_name": "Python-3.12.2.tgz",
@@ -4989,6 +5001,12 @@
         "url": "https://www.python.org/ftp/python/3.12.3/Python-3.12.3.tgz",
         "file_name": "Python-3.12.3.tgz",
         "pgp": "https://www.python.org/ftp/python/3.12.3/Python-3.12.3.tgz.asc"
+    },
+    {
+        "version": "3.12.4",
+        "url": "https://www.python.org/ftp/python/3.12.4/Python-3.12.4.tgz",
+        "file_name": "Python-3.12.4.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.12.4/Python-3.12.4.tgz.asc"
     },
     {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz",
@@ -8330,6 +8348,11 @@
         "file_name": "memcache-0.2.tgz"
     },
     {
+        "version": "1.19.2",
+        "url": "http://pecl.php.net/get/mongodb-1.19.2.tgz",
+        "file_name": "mongodb-1.19.2.tgz"
+    },
+    {
         "version": "1.19.1",
         "url": "http://pecl.php.net/get/mongodb-1.19.1.tgz",
         "file_name": "mongodb-1.19.1.tgz"
@@ -8778,6 +8801,11 @@
         "version": "0.2.0",
         "url": "http://pecl.php.net/get/mongodb-0.2.0.tgz",
         "file_name": "mongodb-0.2.0.tgz"
+    },
+    {
+        "version": "5.1.3",
+        "url": "http://pecl.php.net/get/swoole-5.1.3.tgz",
+        "file_name": "swoole-5.1.3.tgz"
     },
     {
         "version": "5.1.2",
