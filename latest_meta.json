@@ -137,7 +137,7 @@
     },
     {
         "version_file_name": "luajit2_ver",
-        "version": "v2.1-20240314"
+        "version": "v2.1-20240626"
     },
     {
         "version_file_name": "lua_cjson_ver",
@@ -249,7 +249,7 @@
     },
     {
         "version_file_name": "yaf_ver",
-        "version": "3.3.5"
+        "version": "3.3.6"
     },
     {
         "version_file_name": "xdebug_ver",

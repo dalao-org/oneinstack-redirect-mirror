@@ -5916,6 +5916,11 @@
         "version": "v0.01"
     },
     {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240626.tar.gz",
+        "file_name": "luajit2-v2.1-20240626.tar.gz",
+        "version": "v2.1-20240626"
+    },
+    {
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240314.tar.gz",
         "file_name": "luajit2-v2.1-20240314.tar.gz",
         "version": "v2.1-20240314"
@@ -9711,6 +9716,11 @@
         "version": "1.6.7",
         "url": "http://pecl.php.net/get/swoole-1.6.7.tgz",
         "file_name": "swoole-1.6.7.tgz"
+    },
+    {
+        "version": "3.3.6",
+        "url": "http://pecl.php.net/get/yaf-3.3.6.tgz",
+        "file_name": "yaf-3.3.6.tgz"
     },
     {
         "version": "3.3.5",

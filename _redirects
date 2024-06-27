@@ -967,6 +967,7 @@
 /oneinstack/src/lua-resty-lrucache-v0.03.tar.gz https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.03.tar.gz 301
 /oneinstack/src/lua-resty-lrucache-v0.02.tar.gz https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.02.tar.gz 301
 /oneinstack/src/lua-resty-lrucache-v0.01.tar.gz https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.01.tar.gz 301
+/oneinstack/src/luajit2-v2.1-20240626.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240626.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20240314.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240314.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231117.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231117.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231021.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231021.tar.gz 301
@@ -1718,6 +1719,7 @@
 /oneinstack/src/swoole-1.6.9.tgz https://pecl.php.net/get/swoole-1.6.9.tgz 301
 /oneinstack/src/swoole-1.6.8.tgz https://pecl.php.net/get/swoole-1.6.8.tgz 301
 /oneinstack/src/swoole-1.6.7.tgz https://pecl.php.net/get/swoole-1.6.7.tgz 301
+/oneinstack/src/yaf-3.3.6.tgz https://pecl.php.net/get/yaf-3.3.6.tgz 301
 /oneinstack/src/yaf-3.3.5.tgz https://pecl.php.net/get/yaf-3.3.5.tgz 301
 /oneinstack/src/yaf-3.3.4.tgz https://pecl.php.net/get/yaf-3.3.4.tgz 301
 /oneinstack/src/yaf-3.3.3.tgz https://pecl.php.net/get/yaf-3.3.3.tgz 301
