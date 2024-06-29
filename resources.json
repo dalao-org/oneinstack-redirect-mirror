@@ -5121,6 +5121,11 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.2.tar.gz.asc"
     },
     {
+        "version": "1.6.29",
+        "url": "http://www.memcached.org/files/memcached-1.6.29.tar.gz",
+        "file_name": "memcached-1.6.29.tar.gz"
+    },
+    {
         "version": "1.6.28",
         "url": "http://www.memcached.org/files/memcached-1.6.28.tar.gz",
         "file_name": "memcached-1.6.28.tar.gz"
@@ -5139,11 +5144,6 @@
         "version": "1.6.25",
         "url": "http://www.memcached.org/files/memcached-1.6.25.tar.gz",
         "file_name": "memcached-1.6.25.tar.gz"
-    },
-    {
-        "version": "1.6.24",
-        "url": "http://www.memcached.org/files/memcached-1.6.24.tar.gz",
-        "file_name": "memcached-1.6.24.tar.gz"
     },
     {
         "version": "v0.10.26",
@@ -5171,6 +5171,12 @@
         "file_name": "lua-nginx-module-v0.10.22.zip"
     },
     {
+        "version": "24.1.1",
+        "file_name": "pip-24.1.1.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-24.1.1.tar.gz/sha512/523e7273134b68252693ba7a032e7992c72075aebd2bcd895fbd90ad28d76f98b13ea1a7df0b6da1802650782ae977868177f740dc6f0a2eaccb95915c27b318/pip-24.1.1.tar.gz",
+        "sha512": "523e7273134b68252693ba7a032e7992c72075aebd2bcd895fbd90ad28d76f98b13ea1a7df0b6da1802650782ae977868177f740dc6f0a2eaccb95915c27b318"
+    },
+    {
         "version": "24.0",
         "file_name": "pip-24.0.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-24.0.tar.gz/sha512/0c2ecb2ecde4f155c83468d35bc4f52f37efffc16821ae7c706d035e1e8cc3709b41cb10f8140ff09205e8bbdba2c76128ad76d1cbd18401328b619228e834df/pip-24.0.tar.gz",
@@ -5193,12 +5199,6 @@
         "file_name": "pip-23.2.1.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.2.1.tar.gz/sha512/a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8/pip-23.2.1.tar.gz",
         "sha512": "a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8"
-    },
-    {
-        "version": "23.1.2",
-        "file_name": "pip-23.1.2.tar.gz",
-        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.1.2.tar.gz/sha512/b33070cb59a1258904a60b48ec8abfd9e316c5f87681fea13d89ddf6d516afac10965ae1db54fea299a0a72f98602ce02e8b3be46f239e857db84866045730e1/pip-23.1.2.tar.gz",
-        "sha512": "b33070cb59a1258904a60b48ec8abfd9e316c5f87681fea13d89ddf6d516afac10965ae1db54fea299a0a72f98602ce02e8b3be46f239e857db84866045730e1"
     },
     {
         "version": "3.1.0",
