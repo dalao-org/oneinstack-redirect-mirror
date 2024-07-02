@@ -5009,6 +5009,14 @@
         "pgp": "https://www.python.org/ftp/python/3.12.4/Python-3.12.4.tgz.asc"
     },
     {
+        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.60.tar.gz",
+        "file_name": "httpd-2.4.60.tar.gz",
+        "version": "2.4.60",
+        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.60.tar.gz.asc",
+        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.60.tar.gz.sha256",
+        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.60.tar.gz.sha512"
+    },
+    {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz",
         "file_name": "httpd-2.4.59.tar.gz",
         "version": "2.4.59",
@@ -5039,14 +5047,6 @@
         "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.56.tar.gz.asc",
         "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.56.tar.gz.sha256",
         "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.56.tar.gz.sha512"
-    },
-    {
-        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.55.tar.gz",
-        "file_name": "httpd-2.4.55.tar.gz",
-        "version": "2.4.55",
-        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.55.tar.gz.asc",
-        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.55.tar.gz.sha256",
-        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.55.tar.gz.sha512"
     },
     {
         "url": "https://archive.apache.org/dist/apr/apr-1.7.4.tar.gz",
@@ -7323,27 +7323,6 @@
         "md5": "33be8a5bb7474fd4402671b20f250882",
         "sha256": "d909386cdd9288111fa04804ebfb1960136a546ba5d98f8fcf4848dafeb959db",
         "sha512": "a8b836580d7bb40eabba11f6c27199490e187fc112720f535a6c1ab6c7c2d09c88b4c125ef318aabccbbaf2467d4bcb503515aa1df7292d070583f6f41bef777"
-    },
-    {
-        "file_name": "mariadb-11.3.2-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.3.2/mariadb-11.3.2-linux-systemd-x86_64.tar.gz",
-        "md5": "07a8f25d54d7b818f0d7ce72d83b65d7",
-        "sha256": "accedc53e9fbb71739fc43edabe7aa13fe1159c4c13b62fd6596d83d7dbb6ae6",
-        "sha512": "12dc932ec0a6161c9b2fb40aa5759f6a52f5dff6a957622557a3a3b67f67dc2a234371c65c74cc0ee6302def5eec5d5e8b18d3aaa06c8204aedd99bf78d6c7f9"
-    },
-    {
-        "file_name": "mariadb-11.3.1-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.3.1/mariadb-11.3.1-linux-systemd-x86_64.tar.gz",
-        "md5": "a2d3b76b7c9daaecc80fe754bddf49e5",
-        "sha256": "3f06f3eb83bb93e8f59aa3a5ec13f8f901f7ef87e276f0d2a66aeecbe97de385",
-        "sha512": "dd7b6708ae13a7fced1fe7eed49a7df4f0b820843404c268737af93a92d7b7bf204fbfa2945e0dd4a63036a0c10cd938b182d2831b925c969b5a86905974a2c9"
-    },
-    {
-        "file_name": "mariadb-11.3.0-preview-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.3.0/mariadb-11.3.0-preview-linux-systemd-x86_64.tar.gz",
-        "md5": "f4ec02838a14bdfdbb150495d1c43a76",
-        "sha256": "0504c293b56f9a9791595f7b81fb752892e12eb5a9258676f2cb63ae13361898",
-        "sha512": "f1d4e57511d831b6da2761c1721718cc04b7dc2b962e59da8375eb2acd9680aecfae59a1fa2cc31d2abb5bd046a4070420d01fdf530d9601078403317597fcf5"
     },
     {
         "file_name": "mariadb-11.2.4-linux-systemd-x86_64.tar.gz",

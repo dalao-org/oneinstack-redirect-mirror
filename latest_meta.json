@@ -93,7 +93,7 @@
     },
     {
         "version_file_name": "apache_ver",
-        "version": "2.4.59"
+        "version": "2.4.60"
     },
     {
         "version_file_name": "apr_ver",
@@ -190,10 +190,6 @@
     {
         "version_file_name": "mariadb114_ver",
         "version": "11.4.2"
-    },
-    {
-        "version_file_name": "mariadb113_ver",
-        "version": "11.3.2"
     },
     {
         "version_file_name": "mariadb112_ver",
