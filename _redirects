@@ -300,9 +300,11 @@
 /oneinstack/src/nginx-1.20.2.tar.gz https://nginx.org/download/nginx-1.20.2.tar.gz 301
 /oneinstack/src/nginx-1.18.0.tar.gz https://nginx.org/download/nginx-1.18.0.tar.gz 301
 /oneinstack/src/nginx-1.16.1.tar.gz https://nginx.org/download/nginx-1.16.1.tar.gz 301
+/oneinstack/src/php-8.3.9.tar.gz https://www.php.net/distributions/php-8.3.9.tar.gz 301
+/oneinstack/src/php-8.2.21.tar.gz https://www.php.net/distributions/php-8.2.21.tar.gz 301
+/oneinstack/src/php-8.1.29.tar.gz https://www.php.net/distributions/php-8.1.29.tar.gz 301
 /oneinstack/src/php-8.3.8.tar.gz https://www.php.net/distributions/php-8.3.8.tar.gz 301
 /oneinstack/src/php-8.2.20.tar.gz https://www.php.net/distributions/php-8.2.20.tar.gz 301
-/oneinstack/src/php-8.1.29.tar.gz https://www.php.net/distributions/php-8.1.29.tar.gz 301
 /oneinstack/src/php-8.2.19.tar.gz https://www.php.net/distributions/php-8.2.19.tar.gz 301
 /oneinstack/src/php-8.3.7.tar.gz https://www.php.net/distributions/php-8.3.7.tar.gz 301
 /oneinstack/src/php-8.1.28.tar.gz https://www.php.net/distributions/php-8.1.28.tar.gz 301
