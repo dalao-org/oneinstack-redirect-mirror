@@ -971,6 +971,7 @@
 /oneinstack/src/lua-resty-lrucache-v0.01.tar.gz https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.01.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20240626.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240626.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20240314.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240314.tar.gz 301
+/oneinstack/src/luajit2-v2.1-20231117.1.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231117.1.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231117.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231117.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231021.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231021.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231006.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231006.tar.gz 301

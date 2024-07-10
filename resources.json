@@ -5938,6 +5938,11 @@
         "version": "v2.1-20240314"
     },
     {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231117.1.tar.gz",
+        "file_name": "luajit2-v2.1-20231117.1.tar.gz",
+        "version": "v2.1-20231117.1"
+    },
+    {
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231117.tar.gz",
         "file_name": "luajit2-v2.1-20231117.tar.gz",
         "version": "v2.1-20231117"
