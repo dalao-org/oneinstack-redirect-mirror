@@ -976,6 +976,7 @@
 /oneinstack/src/luajit2-v2.1-20231021.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231021.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20231006.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20231006.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20230911.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20230911.tar.gz 301
+/oneinstack/src/luajit2-v2.1-20230410.1.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20230410.1.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20230410.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20230410.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20230119.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20230119.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20220915.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20220915.tar.gz 301
@@ -984,6 +985,7 @@
 /oneinstack/src/luajit2-v2.1-20220309.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20220309.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20220111.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20220111.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20211210.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20211210.tar.gz 301
+/oneinstack/src/luajit2-v2.1-20210510.1.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20210510.1.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20210510.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20210510.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20201229.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20201229.tar.gz 301
 /oneinstack/src/luajit2-v2.1-20201027.tar.gz https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20201027.tar.gz 301

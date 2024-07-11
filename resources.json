@@ -5963,6 +5963,11 @@
         "version": "v2.1-20230911"
     },
     {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20230410.1.tar.gz",
+        "file_name": "luajit2-v2.1-20230410.1.tar.gz",
+        "version": "v2.1-20230410.1"
+    },
+    {
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20230410.tar.gz",
         "file_name": "luajit2-v2.1-20230410.tar.gz",
         "version": "v2.1-20230410"
@@ -6001,6 +6006,11 @@
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20211210.tar.gz",
         "file_name": "luajit2-v2.1-20211210.tar.gz",
         "version": "v2.1-20211210"
+    },
+    {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20210510.1.tar.gz",
+        "file_name": "luajit2-v2.1-20210510.1.tar.gz",
+        "version": "v2.1-20210510.1"
     },
     {
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20210510.tar.gz",
