@@ -5103,16 +5103,16 @@
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz.sha256"
     },
     {
-        "version": "6.9.13-12",
-        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-12.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-12.tar.gz.asc",
-        "file_name": "ImageMagick-6.9.13-12.tar.gz"
+        "version": "6.9.13-13",
+        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-13.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-13.tar.gz.asc",
+        "file_name": "ImageMagick-6.9.13-13.tar.gz"
     },
     {
-        "version": "7.1.1-34",
-        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-34.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-34.tar.gz.asc",
-        "file_name": "ImageMagick-7.1.1-34.tar.gz"
+        "version": "7.1.1-35",
+        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-35.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-35.tar.gz.asc",
+        "file_name": "ImageMagick-7.1.1-35.tar.gz"
     },
     {
         "version": "1.25.3.1",
