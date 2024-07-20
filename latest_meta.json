@@ -93,7 +93,7 @@
     },
     {
         "version_file_name": "apache_ver",
-        "version": "2.4.61"
+        "version": "2.4.62"
     },
     {
         "version_file_name": "apr_ver",
@@ -109,7 +109,7 @@
     },
     {
         "version_file_name": "openresty_ver",
-        "version": "1.25.3.1"
+        "version": ""
     },
     {
         "version_file_name": "tengine_ver",

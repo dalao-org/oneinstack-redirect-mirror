@@ -5021,6 +5021,14 @@
         "pgp": "https://www.python.org/ftp/python/3.12.4/Python-3.12.4.tgz.asc"
     },
     {
+        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.62.tar.gz",
+        "file_name": "httpd-2.4.62.tar.gz",
+        "version": "2.4.62",
+        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.62.tar.gz.asc",
+        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.62.tar.gz.sha256",
+        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.62.tar.gz.sha512"
+    },
+    {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.61.tar.gz",
         "file_name": "httpd-2.4.61.tar.gz",
         "version": "2.4.61",
@@ -5051,14 +5059,6 @@
         "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.asc",
         "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.sha256",
         "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.sha512"
-    },
-    {
-        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.57.tar.gz",
-        "file_name": "httpd-2.4.57.tar.gz",
-        "version": "2.4.57",
-        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.57.tar.gz.asc",
-        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.57.tar.gz.sha256",
-        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.57.tar.gz.sha512"
     },
     {
         "url": "https://archive.apache.org/dist/apr/apr-1.7.4.tar.gz",
@@ -5115,6 +5115,12 @@
         "file_name": "ImageMagick-7.1.1-35.tar.gz"
     },
     {
+        "version": "",
+        "file_name": "openresty-.tar.gz",
+        "url": "https://openresty.org/download/openresty-.tar.gz",
+        "pgp": "https://openresty.org/download/openresty-.tar.gz.asc"
+    },
+    {
         "version": "1.25.3.1",
         "file_name": "openresty-1.25.3.1.tar.gz",
         "url": "https://openresty.org/download/openresty-1.25.3.1.tar.gz",
@@ -5125,12 +5131,6 @@
         "file_name": "openresty-1.21.4.3.tar.gz",
         "url": "https://openresty.org/download/openresty-1.21.4.3.tar.gz",
         "pgp": "https://openresty.org/download/openresty-1.21.4.3.tar.gz.asc"
-    },
-    {
-        "version": "1.21.4.2",
-        "file_name": "openresty-1.21.4.2.tar.gz",
-        "url": "https://openresty.org/download/openresty-1.21.4.2.tar.gz",
-        "pgp": "https://openresty.org/download/openresty-1.21.4.2.tar.gz.asc"
     },
     {
         "version": "1.6.29",
