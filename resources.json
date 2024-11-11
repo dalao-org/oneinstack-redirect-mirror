@@ -1,5 +1,29 @@
 [
     {
+        "version": "8.11.0",
+        "url": "https://curl.se/download/curl-8.11.0.tar.gz",
+        "file_name": "curl-8.11.0.tar.gz",
+        "gpg": "https://curl.se/download/curl-8.11.0.tar.gz.asc"
+    },
+    {
+        "version": "8.10.1",
+        "url": "https://curl.se/download/curl-8.10.1.tar.gz",
+        "file_name": "curl-8.10.1.tar.gz",
+        "gpg": "https://curl.se/download/curl-8.10.1.tar.gz.asc"
+    },
+    {
+        "version": "8.10.0",
+        "url": "https://curl.se/download/curl-8.10.0.tar.gz",
+        "file_name": "curl-8.10.0.tar.gz",
+        "gpg": "https://curl.se/download/curl-8.10.0.tar.gz.asc"
+    },
+    {
+        "version": "8.9.1",
+        "url": "https://curl.se/download/curl-8.9.1.tar.gz",
+        "file_name": "curl-8.9.1.tar.gz",
+        "gpg": "https://curl.se/download/curl-8.9.1.tar.gz.asc"
+    },
+    {
         "version": "8.9.0",
         "url": "https://curl.se/download/curl-8.9.0.tar.gz",
         "file_name": "curl-8.9.0.tar.gz",
@@ -1915,10 +1939,10 @@
         "version": "5.5.8"
     },
     {
-        "version": "1.27.0",
-        "url": "https://nginx.org/download/nginx-1.27.0.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.27.0.tar.gz.asc",
-        "file_name": "nginx-1.27.0.tar.gz"
+        "version": "1.27.2",
+        "url": "https://nginx.org/download/nginx-1.27.2.tar.gz",
+        "gpg": "https://nginx.org/download/nginx-1.27.2.tar.gz.asc",
+        "file_name": "nginx-1.27.2.tar.gz"
     },
     {
         "version": "1.24.0",
@@ -1951,10 +1975,64 @@
         "file_name": "nginx-1.16.1.tar.gz"
     },
     {
-        "version": "8.3.9",
-        "url": "https://www.php.net/distributions/php-8.3.9.tar.gz",
-        "sha256": "f484dec6ee005c83f899af02fc021e1bc3b1d7b3f143ca062ef66b0fcee96566",
-        "file_name": "php-8.3.9.tar.gz"
+        "version": "8.3.13",
+        "url": "https://www.php.net/distributions/php-8.3.13.tar.gz",
+        "sha256": "ffe34317d2688ed3161809c90ca4135c84ebfdfd12a46880a264d7d1e1d7739a",
+        "file_name": "php-8.3.13.tar.gz"
+    },
+    {
+        "version": "8.2.25",
+        "url": "https://www.php.net/distributions/php-8.2.25.tar.gz",
+        "sha256": "7fe7ba6e3e66cd0e61cfa95341e6aefc8790030a7867333f54aef5fb78aad18b",
+        "file_name": "php-8.2.25.tar.gz"
+    },
+    {
+        "version": "8.1.30",
+        "url": "https://www.php.net/distributions/php-8.1.30.tar.gz",
+        "sha256": "80addd302b7e9708e0d106779c3827520eccaf14af1149174b51da33d63e6af7",
+        "file_name": "php-8.1.30.tar.gz"
+    },
+    {
+        "version": "8.2.24",
+        "url": "https://www.php.net/distributions/php-8.2.24.tar.gz",
+        "sha256": "5d26441969279a594e404bb9f2e17b6f74bb10606fe05911e739137673ae6c4c",
+        "file_name": "php-8.2.24.tar.gz"
+    },
+    {
+        "version": "8.3.12",
+        "url": "https://www.php.net/distributions/php-8.3.12.tar.gz",
+        "sha256": "7090e551e05b26384546345d6a162c71b74550febf75bdfd16dfd1f0cfa8647c",
+        "file_name": "php-8.3.12.tar.gz"
+    },
+    {
+        "version": "8.1.29",
+        "url": "https://www.php.net/distributions/php-8.1.29.tar.gz",
+        "sha256": "8b2609bf1d3173aa38269a9af21532c65f730aadd3051f9aae011eea9e246de5",
+        "file_name": "php-8.1.29.tar.gz"
+    },
+    {
+        "version": "8.2.23",
+        "url": "https://www.php.net/distributions/php-8.2.23.tar.gz",
+        "sha256": "f5cb5f0e063bcc632c60a8f26af63b19d5f924f1fc54b4471d88cfaa865d6917",
+        "file_name": "php-8.2.23.tar.gz"
+    },
+    {
+        "version": "8.3.11",
+        "url": "https://www.php.net/distributions/php-8.3.11.tar.gz",
+        "sha256": "b93a69af83a1302543789408194bd1ae9829e116e784d578778200f20f1b72d4",
+        "file_name": "php-8.3.11.tar.gz"
+    },
+    {
+        "version": "8.3.10",
+        "url": "https://www.php.net/distributions/php-8.3.10.tar.gz",
+        "sha256": "d0b4dd5ff465053248fd28dacf2fe0bed79deaaef657890cecb6bfcb73996dcd",
+        "file_name": "php-8.3.10.tar.gz"
+    },
+    {
+        "version": "8.2.22",
+        "url": "https://www.php.net/distributions/php-8.2.22.tar.gz",
+        "sha256": "44197016c9eeed5c50523e20eb44adc4dd9d84ac08bdf9e46077e775d467d7d0",
+        "file_name": "php-8.2.22.tar.gz"
     },
     {
         "version": "8.2.21",
@@ -1963,10 +2041,10 @@
         "file_name": "php-8.2.21.tar.gz"
     },
     {
-        "version": "8.1.29",
-        "url": "https://www.php.net/distributions/php-8.1.29.tar.gz",
-        "sha256": "8b2609bf1d3173aa38269a9af21532c65f730aadd3051f9aae011eea9e246de5",
-        "file_name": "php-8.1.29.tar.gz"
+        "version": "8.3.9",
+        "url": "https://www.php.net/distributions/php-8.3.9.tar.gz",
+        "sha256": "f484dec6ee005c83f899af02fc021e1bc3b1d7b3f143ca062ef66b0fcee96566",
+        "file_name": "php-8.3.9.tar.gz"
     },
     {
         "version": "8.3.8",
@@ -4699,14 +4777,72 @@
         "file_name": "redis-7.2.5.tar.gz"
     },
     {
+        "version": "redis-7.4.0",
+        "sha256": "57b47c2c6682636d697dbf5d66d8d495b4e653afc9cd32b7adf9da3e433b8aaf",
+        "url": "https://download.redis.io/releases/redis-7.4.0.tar.gz",
+        "file_name": "redis-7.4.0.tar.gz"
+    },
+    {
+        "version": "redis-6.2.15",
+        "sha256": "21f5dd7155cb213961748adca55b177f35dae29d428f53da665686977530181d",
+        "url": "https://download.redis.io/releases/redis-6.2.15.tar.gz",
+        "file_name": "redis-6.2.15.tar.gz"
+    },
+    {
+        "version": "redis-7.2.6",
+        "sha256": "fb10d67a2fe2b4556f6cb840064dd6e6e3175ce8ca035f0726990ec2da9f3d0e",
+        "url": "https://download.redis.io/releases/redis-7.2.6.tar.gz",
+        "file_name": "redis-7.2.6.tar.gz"
+    },
+    {
+        "version": "redis-7.4.1",
+        "sha256": "bc34b878eb89421bbfca6fa78752343bf37af312a09eb0fae47c9575977dfaa2",
+        "url": "https://download.redis.io/releases/redis-7.4.1.tar.gz",
+        "file_name": "redis-7.4.1.tar.gz"
+    },
+    {
+        "version": "redis-6.2.16",
+        "sha256": "846bff83c26d827d49f8cc8114ea9d1e72eea1169f7de36b8135ea2cec104e7d",
+        "url": "https://download.redis.io/releases/redis-6.2.16.tar.gz",
+        "file_name": "redis-6.2.16.tar.gz"
+    },
+    {
         "file_name": "cacert.pem",
         "url": "https://curl.se/ca/cacert.pem",
         "sha256": "https://curl.se/ca/cacert.pem.sha256"
     },
     {
         "file_name": "acme.sh-master.tar.gz",
-        "version": "3.0.7",
-        "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.7.tar.gz"
+        "version": "3.0.9",
+        "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.9.tar.gz"
+    },
+    {
+        "version": "1.64.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/nghttp2-1.64.0.tar.gz",
+        "file_name": "nghttp2-1.64.0.tar.gz",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/nghttp2-1.64.0.tar.gz.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/checksums.txt"
+    },
+    {
+        "version": "1.64.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/nghttp2-1.64.0.tar.gz.asc",
+        "file_name": "nghttp2-1.64.0.tar.gz.asc",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/nghttp2-1.64.0.tar.gz.asc.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/checksums.txt"
+    },
+    {
+        "version": "1.63.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.63.0/nghttp2-1.63.0.tar.gz",
+        "file_name": "nghttp2-1.63.0.tar.gz",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.63.0/nghttp2-1.63.0.tar.gz.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.63.0/checksums.txt"
+    },
+    {
+        "version": "1.63.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.63.0/nghttp2-1.63.0.tar.gz.asc",
+        "file_name": "nghttp2-1.63.0.tar.gz.asc",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.63.0/nghttp2-1.63.0.tar.gz.asc.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.63.0/checksums.txt"
     },
     {
         "version": "1.62.1",
@@ -4821,32 +4957,18 @@
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/checksums.txt"
     },
     {
-        "version": "1.55.1",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz",
-        "file_name": "nghttp2-1.55.1.tar.gz",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/checksums.txt"
+        "version": "17.0",
+        "url": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz",
+        "file_name": "postgresql-17.0.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz.sha256"
     },
     {
-        "version": "1.55.1",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz.asc",
-        "file_name": "nghttp2-1.55.1.tar.gz.asc",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/nghttp2-1.55.1.tar.gz.asc.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.1/checksums.txt"
-    },
-    {
-        "version": "1.55.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz",
-        "file_name": "nghttp2-1.55.0.tar.gz",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/checksums.txt"
-    },
-    {
-        "version": "1.55.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz.asc",
-        "file_name": "nghttp2-1.55.0.tar.gz.asc",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/nghttp2-1.55.0.tar.gz.asc.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.55.0/checksums.txt"
+        "version": "16.4",
+        "url": "https://ftp.postgresql.org/pub/source/v16.4/postgresql-16.4.tar.gz",
+        "file_name": "postgresql-16.4.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v16.4/postgresql-16.4.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v16.4/postgresql-16.4.tar.gz.sha256"
     },
     {
         "version": "16.3",
@@ -4877,6 +4999,13 @@
         "sha256": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz.sha256"
     },
     {
+        "version": "15.8",
+        "url": "https://ftp.postgresql.org/pub/source/v15.8/postgresql-15.8.tar.gz",
+        "file_name": "postgresql-15.8.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v15.8/postgresql-15.8.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v15.8/postgresql-15.8.tar.gz.sha256"
+    },
+    {
         "version": "15.7",
         "url": "https://ftp.postgresql.org/pub/source/v15.7/postgresql-15.7.tar.gz",
         "file_name": "postgresql-15.7.tar.gz",
@@ -4898,27 +5027,6 @@
         "sha256": "https://ftp.postgresql.org/pub/source/v15.5/postgresql-15.5.tar.gz.sha256"
     },
     {
-        "version": "15.4",
-        "url": "https://ftp.postgresql.org/pub/source/v15.4/postgresql-15.4.tar.gz",
-        "file_name": "postgresql-15.4.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v15.4/postgresql-15.4.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v15.4/postgresql-15.4.tar.gz.sha256"
-    },
-    {
-        "version": "15.3",
-        "url": "https://ftp.postgresql.org/pub/source/v15.3/postgresql-15.3.tar.gz",
-        "file_name": "postgresql-15.3.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v15.3/postgresql-15.3.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v15.3/postgresql-15.3.tar.gz.sha256"
-    },
-    {
-        "version": "15.2",
-        "url": "https://ftp.postgresql.org/pub/source/v15.2/postgresql-15.2.tar.gz",
-        "file_name": "postgresql-15.2.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v15.2/postgresql-15.2.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v15.2/postgresql-15.2.tar.gz.sha256"
-    },
-    {
         "version": "2.7.16",
         "url": "https://www.python.org/ftp/python/2.7.16/Python-2.7.16.tgz",
         "file_name": "Python-2.7.16.tgz",
@@ -4937,12 +5045,6 @@
         "pgp": "https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tgz.asc"
     },
     {
-        "version": "3.8.17",
-        "url": "https://www.python.org/ftp/python/3.8.17/Python-3.8.17.tgz",
-        "file_name": "Python-3.8.17.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.8.17/Python-3.8.17.tgz.asc"
-    },
-    {
         "version": "3.8.18",
         "url": "https://www.python.org/ftp/python/3.8.18/Python-3.8.18.tgz",
         "file_name": "Python-3.8.18.tgz",
@@ -4955,10 +5057,10 @@
         "pgp": "https://www.python.org/ftp/python/3.8.19/Python-3.8.19.tgz.asc"
     },
     {
-        "version": "3.9.17",
-        "url": "https://www.python.org/ftp/python/3.9.17/Python-3.9.17.tgz",
-        "file_name": "Python-3.9.17.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.9.17/Python-3.9.17.tgz.asc"
+        "version": "3.8.20",
+        "url": "https://www.python.org/ftp/python/3.8.20/Python-3.8.20.tgz",
+        "file_name": "Python-3.8.20.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.8.20/Python-3.8.20.tgz.asc"
     },
     {
         "version": "3.9.18",
@@ -4973,10 +5075,10 @@
         "pgp": "https://www.python.org/ftp/python/3.9.19/Python-3.9.19.tgz.asc"
     },
     {
-        "version": "3.10.12",
-        "url": "https://www.python.org/ftp/python/3.10.12/Python-3.10.12.tgz",
-        "file_name": "Python-3.10.12.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.10.12/Python-3.10.12.tgz.asc"
+        "version": "3.9.20",
+        "url": "https://www.python.org/ftp/python/3.9.20/Python-3.9.20.tgz",
+        "file_name": "Python-3.9.20.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.9.20/Python-3.9.20.tgz.asc"
     },
     {
         "version": "3.10.13",
@@ -4991,10 +5093,16 @@
         "pgp": "https://www.python.org/ftp/python/3.10.14/Python-3.10.14.tgz.asc"
     },
     {
-        "version": "3.11.7",
-        "url": "https://www.python.org/ftp/python/3.11.7/Python-3.11.7.tgz",
-        "file_name": "Python-3.11.7.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.11.7/Python-3.11.7.tgz.asc"
+        "version": "3.10.15",
+        "url": "https://www.python.org/ftp/python/3.10.15/Python-3.10.15.tgz",
+        "file_name": "Python-3.10.15.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.10.15/Python-3.10.15.tgz.asc"
+    },
+    {
+        "version": "3.11.10",
+        "url": "https://www.python.org/ftp/python/3.11.10/Python-3.11.10.tgz",
+        "file_name": "Python-3.11.10.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.11.10/Python-3.11.10.tgz.asc"
     },
     {
         "version": "3.11.8",
@@ -5009,22 +5117,22 @@
         "pgp": "https://www.python.org/ftp/python/3.11.9/Python-3.11.9.tgz.asc"
     },
     {
-        "version": "3.12.2",
-        "url": "https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz",
-        "file_name": "Python-3.12.2.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz.asc"
+        "version": "3.12.5",
+        "url": "https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz",
+        "file_name": "Python-3.12.5.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz.asc"
     },
     {
-        "version": "3.12.3",
-        "url": "https://www.python.org/ftp/python/3.12.3/Python-3.12.3.tgz",
-        "file_name": "Python-3.12.3.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.12.3/Python-3.12.3.tgz.asc"
+        "version": "3.12.6",
+        "url": "https://www.python.org/ftp/python/3.12.6/Python-3.12.6.tgz",
+        "file_name": "Python-3.12.6.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.12.6/Python-3.12.6.tgz.asc"
     },
     {
-        "version": "3.12.4",
-        "url": "https://www.python.org/ftp/python/3.12.4/Python-3.12.4.tgz",
-        "file_name": "Python-3.12.4.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.12.4/Python-3.12.4.tgz.asc"
+        "version": "3.12.7",
+        "url": "https://www.python.org/ftp/python/3.12.7/Python-3.12.7.tgz",
+        "file_name": "Python-3.12.7.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.12.7/Python-3.12.7.tgz.asc"
     },
     {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.62.tar.gz",
@@ -5067,6 +5175,13 @@
         "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.sha512"
     },
     {
+        "url": "https://archive.apache.org/dist/apr/apr-1.7.5.tar.gz",
+        "file_name": "apr-1.7.5.tar.gz",
+        "version": "1.7.5",
+        "gpg": "https://archive.apache.org/dist/apr/apr-1.7.5.tar.gz.asc",
+        "sha256": "https://archive.apache.org/dist/apr/apr-1.7.5.tar.gz.sha256"
+    },
+    {
         "url": "https://archive.apache.org/dist/apr/apr-1.7.4.tar.gz",
         "file_name": "apr-1.7.4.tar.gz",
         "version": "1.7.4",
@@ -5079,13 +5194,6 @@
         "version": "1.7.3",
         "gpg": "https://archive.apache.org/dist/apr/apr-1.7.3.tar.gz.asc",
         "sha256": "https://archive.apache.org/dist/apr/apr-1.7.3.tar.gz.sha256"
-    },
-    {
-        "url": "https://archive.apache.org/dist/apr/apr-1.7.2.tar.gz",
-        "file_name": "apr-1.7.2.tar.gz",
-        "version": "1.7.2",
-        "gpg": "https://archive.apache.org/dist/apr/apr-1.7.2.tar.gz.asc",
-        "sha256": "https://archive.apache.org/dist/apr/apr-1.7.2.tar.gz.sha256"
     },
     {
         "url": "https://archive.apache.org/dist/apr/apr-util-1.6.3.tar.gz",
@@ -5109,16 +5217,16 @@
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz.sha256"
     },
     {
-        "version": "6.9.13-14",
-        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-14.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-14.tar.gz.asc",
-        "file_name": "ImageMagick-6.9.13-14.tar.gz"
+        "version": "6.9.13-18",
+        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-18.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-18.tar.gz.asc",
+        "file_name": "ImageMagick-6.9.13-18.tar.gz"
     },
     {
-        "version": "7.1.1-36",
-        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-36.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-36.tar.gz.asc",
-        "file_name": "ImageMagick-7.1.1-36.tar.gz"
+        "version": "7.1.1-40",
+        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-40.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-40.tar.gz.asc",
+        "file_name": "ImageMagick-7.1.1-40.tar.gz"
     },
     {
         "version": "",
@@ -5139,6 +5247,21 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.3.tar.gz.asc"
     },
     {
+        "version": "1.6.32",
+        "url": "http://www.memcached.org/files/memcached-1.6.32.tar.gz",
+        "file_name": "memcached-1.6.32.tar.gz"
+    },
+    {
+        "version": "1.6.31",
+        "url": "http://www.memcached.org/files/memcached-1.6.31.tar.gz",
+        "file_name": "memcached-1.6.31.tar.gz"
+    },
+    {
+        "version": "1.6.30",
+        "url": "http://www.memcached.org/files/memcached-1.6.30.tar.gz",
+        "file_name": "memcached-1.6.30.tar.gz"
+    },
+    {
         "version": "1.6.29",
         "url": "http://www.memcached.org/files/memcached-1.6.29.tar.gz",
         "file_name": "memcached-1.6.29.tar.gz"
@@ -5149,19 +5272,9 @@
         "file_name": "memcached-1.6.28.tar.gz"
     },
     {
-        "version": "1.6.27",
-        "url": "http://www.memcached.org/files/memcached-1.6.27.tar.gz",
-        "file_name": "memcached-1.6.27.tar.gz"
-    },
-    {
-        "version": "1.6.26",
-        "url": "http://www.memcached.org/files/memcached-1.6.26.tar.gz",
-        "file_name": "memcached-1.6.26.tar.gz"
-    },
-    {
-        "version": "1.6.25",
-        "url": "http://www.memcached.org/files/memcached-1.6.25.tar.gz",
-        "file_name": "memcached-1.6.25.tar.gz"
+        "version": "v0.10.27",
+        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.27.zip",
+        "file_name": "lua-nginx-module-v0.10.27.zip"
     },
     {
         "version": "v0.10.26",
@@ -5184,9 +5297,16 @@
         "file_name": "lua-nginx-module-v0.10.23.zip"
     },
     {
-        "version": "v0.10.22",
-        "url": "https://github.com/openresty/lua-nginx-module/archive/refs/tags/v0.10.22.zip",
-        "file_name": "lua-nginx-module-v0.10.22.zip"
+        "version": "24.3.1",
+        "file_name": "pip-24.3.1.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-24.3.1.tar.gz/sha512/9cf5f18eefd559cf27bc026e5206b0028ea77fd904a61fea9a6682b519305c962dd19170b841581bd05ff72192a9c458ec0eba173fa66db0438b046111ff5856/pip-24.3.1.tar.gz",
+        "sha512": "9cf5f18eefd559cf27bc026e5206b0028ea77fd904a61fea9a6682b519305c962dd19170b841581bd05ff72192a9c458ec0eba173fa66db0438b046111ff5856"
+    },
+    {
+        "version": "24.2",
+        "file_name": "pip-24.2.tar.gz",
+        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-24.2.tar.gz/sha512/2c44881f62f7b89cedeb0b739409ad67c6144bfdffc347efeb7bcf85aed77bcd7ddd10868d24577fbba0ef84dd752473d6b6dff329b42841939fae2ff2f63d28/pip-24.2.tar.gz",
+        "sha512": "2c44881f62f7b89cedeb0b739409ad67c6144bfdffc347efeb7bcf85aed77bcd7ddd10868d24577fbba0ef84dd752473d6b6dff329b42841939fae2ff2f63d28"
     },
     {
         "version": "24.1.1",
@@ -5205,18 +5325,6 @@
         "file_name": "pip-23.3.2.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.2.tar.gz/sha512/976c6ab9959805f4d20d4bdedb4dabc95dd55f1ec78773f63f738599bbe44e766ad3a1394bee052a2c2386826d67686ad456726373345ba9e0d555fd251dff09/pip-23.3.2.tar.gz",
         "sha512": "976c6ab9959805f4d20d4bdedb4dabc95dd55f1ec78773f63f738599bbe44e766ad3a1394bee052a2c2386826d67686ad456726373345ba9e0d555fd251dff09"
-    },
-    {
-        "version": "23.3.1",
-        "file_name": "pip-23.3.1.tar.gz",
-        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.3.1.tar.gz/sha512/eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56/pip-23.3.1.tar.gz",
-        "sha512": "eddca29e8c3727d1d8d793ab0b05f069781cac06df805fcf7a363da738d39498135ccbbb6d2d442604a7bf78ba6c3d101ec2043431ac1832a3f2710db7cc5e56"
-    },
-    {
-        "version": "23.2.1",
-        "file_name": "pip-23.2.1.tar.gz",
-        "url": "https://src.fedoraproject.org/repo/pkgs/python-pip/pip-23.2.1.tar.gz/sha512/a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8/pip-23.2.1.tar.gz",
-        "sha512": "a6c629976c332cffe5dff0ec1e201d694c7a42fa8def202ebf1db251a6dbd90091eaac89c36a354a0cf0c60cdb267b4e0ec9ff6a88b0ac61cfaafdf159e34fc8"
     },
     {
         "version": "3.1.0",
@@ -5284,11 +5392,6 @@
         "file_name": "tengine-tengine-2.2.0.tar.gz"
     },
     {
-        "version": "1.81.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.gz",
-        "file_name": "boost_1_81_0.tar.gz"
-    },
-    {
         "version": "1.82.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz",
         "file_name": "boost_1_82_0.tar.gz"
@@ -5307,6 +5410,51 @@
         "version": "1.85.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.85.0/source/boost_1_85_0.tar.gz",
         "file_name": "boost_1_85_0.tar.gz"
+    },
+    {
+        "version": "1.86.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.86.0/source/boost_1_86_0.tar.gz",
+        "file_name": "boost_1_86_0.tar.gz"
+    },
+    {
+        "version": "3.4.0",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.4.0/openssl-3.4.0.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.4.0/openssl-3.4.0.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.4.0/openssl-3.4.0.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.4.0/openssl-3.4.0.tar.gz.asc",
+        "file_name": "openssl-3.4.0.tar.gz"
+    },
+    {
+        "version": "3.3.2",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.3.2/openssl-3.3.2.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.3.2/openssl-3.3.2.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.3.2/openssl-3.3.2.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.3.2/openssl-3.3.2.tar.gz.asc",
+        "file_name": "openssl-3.3.2.tar.gz"
+    },
+    {
+        "version": "3.2.3",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.2.3/openssl-3.2.3.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.2.3/openssl-3.2.3.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.2.3/openssl-3.2.3.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.2.3/openssl-3.2.3.tar.gz.asc",
+        "file_name": "openssl-3.2.3.tar.gz"
+    },
+    {
+        "version": "3.1.7",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.1.7/openssl-3.1.7.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.1.7/openssl-3.1.7.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.1.7/openssl-3.1.7.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.1.7/openssl-3.1.7.tar.gz.asc",
+        "file_name": "openssl-3.1.7.tar.gz"
+    },
+    {
+        "version": "3.0.15",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.15/openssl-3.0.15.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.15/openssl-3.0.15.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.15/openssl-3.0.15.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.15/openssl-3.0.15.tar.gz.asc",
+        "file_name": "openssl-3.0.15.tar.gz"
     },
     {
         "version": "3.3.1",
@@ -5453,52 +5601,14 @@
         "file_name": "openssl-3.1.1.tar.gz"
     },
     {
-        "version": "3.0.9",
-        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.9/openssl-3.0.9.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.9/openssl-3.0.9.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.9/openssl-3.0.9.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.9/openssl-3.0.9.tar.gz.asc",
-        "file_name": "openssl-3.0.9.tar.gz"
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.30.tar.gz",
+        "file_name": "lua-resty-core-v0.1.30.tar.gz",
+        "version": "v0.1.30"
     },
     {
-        "version": "1.1.1u",
-        "url": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1u/openssl-1.1.1u.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1u/openssl-1.1.1u.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1u/openssl-1.1.1u.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1u/openssl-1.1.1u.tar.gz.asc",
-        "file_name": "openssl-1.1.1u.tar.gz"
-    },
-    {
-        "version": "3.1.0",
-        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.1.0/openssl-3.1.0.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.1.0/openssl-3.1.0.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.1.0/openssl-3.1.0.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.1.0/openssl-3.1.0.tar.gz.asc",
-        "file_name": "openssl-3.1.0.tar.gz"
-    },
-    {
-        "version": "3.0.8",
-        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.8/openssl-3.0.8.tar.gz.asc",
-        "file_name": "openssl-3.0.8.tar.gz"
-    },
-    {
-        "version": "1.1.1t",
-        "url": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1t/openssl-1.1.1t.tar.gz.asc",
-        "file_name": "openssl-1.1.1t.tar.gz"
-    },
-    {
-        "version": "3.0.7",
-        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.7/openssl-3.0.7.tar.gz.asc",
-        "file_name": "openssl-3.0.7.tar.gz"
+        "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.29.tar.gz",
+        "file_name": "lua-resty-core-v0.1.29.tar.gz",
+        "version": "v0.1.29"
     },
     {
         "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.28.tar.gz",
@@ -5699,6 +5809,10 @@
         "file_name": "pure-ftpd-1.0.51.tar.gz"
     },
     {
+        "url": "https://ftp.pureftpd.org/public/public/pure-ftpd/releases/pure-ftpd-1.0.52.tar.gz",
+        "file_name": "pure-ftpd-1.0.52.tar.gz"
+    },
+    {
         "file_name": "htop-3.3.0.tar.gz",
         "url": "https://src.fedoraproject.org/repo/pkgs/htop/htop-3.3.0.tar.gz/sha512/4c03bd183d97ec84010472ea52ff6e210e6d211c813d0ab52bacef16d7e4eef9483e65279fb0a846dcdb532ad19eb1c1c39bad9dd8b103d36aeb51cb5d28e23a/htop-3.3.0.tar.gz"
     },
@@ -5869,6 +5983,16 @@
         "version": "2.2.5"
     },
     {
+        "url": "https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.15.tar.gz",
+        "file_name": "lua-resty-lrucache-v0.15.tar.gz",
+        "version": "v0.15"
+    },
+    {
+        "url": "https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.14.tar.gz",
+        "file_name": "lua-resty-lrucache-v0.14.tar.gz",
+        "version": "v0.14"
+    },
+    {
         "url": "https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.13.tar.gz",
         "file_name": "lua-resty-lrucache-v0.13.tar.gz",
         "version": "v0.13"
@@ -5932,6 +6056,16 @@
         "url": "https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.01.tar.gz",
         "file_name": "lua-resty-lrucache-v0.01.tar.gz",
         "version": "v0.01"
+    },
+    {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20241104.tar.gz",
+        "file_name": "luajit2-v2.1-20241104.tar.gz",
+        "version": "v2.1-20241104"
+    },
+    {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240815.tar.gz",
+        "file_name": "luajit2-v2.1-20240815.tar.gz",
+        "version": "v2.1-20240815"
     },
     {
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20240626.tar.gz",
@@ -6564,6 +6698,11 @@
         "version": "empty"
     },
     {
+        "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.16/gperftools-2.16.tar.gz",
+        "file_name": "gperftools-2.16.tar.gz",
+        "version": "gperftools-2.16"
+    },
+    {
         "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.15/gperftools-2.15.tar.gz",
         "file_name": "gperftools-2.15.tar.gz",
         "version": "gperftools-2.15"
@@ -6574,9 +6713,14 @@
         "version": "gperftools-2.14"
     },
     {
-        "url": "https://github.com/gperftools/gperftools/releases/download/gperftools-2.13/gperftools-2.13.tar.gz",
-        "file_name": "gperftools-2.13.tar.gz",
-        "version": "gperftools-2.13"
+        "url": "https://github.com/unicode-org/icu/releases/download/release-76-1/icu4c-76_1-src.tgz",
+        "file_name": "icu4c-76_1-src.tgz",
+        "version": "release-76-1"
+    },
+    {
+        "url": "https://github.com/unicode-org/icu/releases/download/release-76-1/icu4c-76_1-src.tgz.asc",
+        "file_name": "icu4c-76_1-src.tgz.asc",
+        "version": "release-76-1"
     },
     {
         "url": "https://github.com/unicode-org/icu/releases/download/release-75-1/icu4c-75_1-src.tgz",
@@ -6584,19 +6728,24 @@
         "version": "release-75-1"
     },
     {
-        "url": "https://github.com/unicode-org/icu/releases/download/release-75-1/icu4c-75_1-src.tgz.asc",
-        "file_name": "icu4c-75_1-src.tgz.asc",
-        "version": "release-75-1"
-    },
-    {
-        "url": "https://github.com/unicode-org/icu/releases/download/release-74-2/icu4c-74_2-src.tgz",
-        "file_name": "icu4c-74_2-src.tgz",
-        "version": "release-74-2"
-    },
-    {
         "url": "https://github.com/glotlabs/gdrive/releases/download/3.9.1/gdrive_linux-x64.tar.gz",
         "file_name": "gdrive_linux-x64.tar.gz",
         "version": "3.9.1"
+    },
+    {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.11.2/libzip-1.11.2.tar.gz",
+        "file_name": "libzip-1.11.2.tar.gz",
+        "version": "v1.11.2"
+    },
+    {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.11.1/libzip-1.11.1.tar.gz",
+        "file_name": "libzip-1.11.1.tar.gz",
+        "version": "v1.11.1"
+    },
+    {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.11/libzip-1.11.tar.gz",
+        "file_name": "libzip-1.11.tar.gz",
+        "version": "v1.11"
     },
     {
         "url": "https://github.com/nih-at/libzip/releases/download/v1.10.1/libzip-1.10.1.tar.gz",
@@ -6607,21 +6756,6 @@
         "url": "https://github.com/nih-at/libzip/releases/download/v1.10.0/libzip-1.10.0.tar.gz",
         "file_name": "libzip-1.10.0.tar.gz",
         "version": "v1.10.0"
-    },
-    {
-        "url": "https://github.com/nih-at/libzip/releases/download/v1.9.2/libzip-1.9.2.tar.gz",
-        "file_name": "libzip-1.9.2.tar.gz",
-        "version": "v1.9.2"
-    },
-    {
-        "url": "https://github.com/nih-at/libzip/releases/download/v1.9.1/libzip-1.9.1.tar.gz",
-        "file_name": "libzip-1.9.1.tar.gz",
-        "version": "v1.9.1"
-    },
-    {
-        "url": "https://github.com/nih-at/libzip/releases/download/v1.9.0/libzip-1.9.0.tar.gz",
-        "file_name": "libzip-1.9.0.tar.gz",
-        "version": "v1.9.0"
     },
     {
         "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz",
@@ -6827,6 +6961,16 @@
         "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.2.tar.gz.sig",
         "file_name": "freetype-2.13.2.tar.gz.sig",
         "version": "2.13.2"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.3.tar.gz",
+        "file_name": "freetype-2.13.3.tar.gz",
+        "version": "2.13.3"
+    },
+    {
+        "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.13.3.tar.gz.sig",
+        "file_name": "freetype-2.13.3.tar.gz.sig",
+        "version": "2.13.3"
     },
     {
         "url": "https://download.savannah.gnu.org/releases/freetype/freetype-2.7.1.tar.gz",
@@ -7337,6 +7481,20 @@
         "sha512": "8f773b5a9682ea5977eb4db134bcd00d178094d36cb552c4edbbb63c4b6229ba20afad60f384bd712f1ebfd3eb74f29a1cc5ea8db2b29570e830a948ae0ab95c"
     },
     {
+        "file_name": "mariadb-11.4.4-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.4.4/mariadb-11.4.4-linux-systemd-x86_64.tar.gz",
+        "md5": "1f75d3b6bac292474fd05dfd18b685e1",
+        "sha256": "c9f26fd8c37a97458310fb577d6cc3bce44cf048c0e6ce014ee6ae157ebc1697",
+        "sha512": "00f96622dd9ffa79b5ed4d299cae6039a483b300dbce2fcd490e62ee96dc623dc547969fee842dcc11747e984fd439986eae5d1b8ff46baa05329ee03b4b6eb1"
+    },
+    {
+        "file_name": "mariadb-11.4.3-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.4.3/mariadb-11.4.3-linux-systemd-x86_64.tar.gz",
+        "md5": "3071a3d5d9baa3df11e741612a80a386",
+        "sha256": "87c3c1d3fc56904049fdac707446b5d23c16adcb98929d8bb3a983d46e13cd78",
+        "sha512": "58ba2a47f15a834a50478d3f9fe5314acaf5ae7eb41a9b8b6f5ff8f8e278425c644d8c17ae152dbaa6669fb7578c87650fd5cac3f39ae083e1962a08080c7778"
+    },
+    {
         "file_name": "mariadb-11.4.2-linux-systemd-x86_64.tar.gz",
         "url": "http://downloads.mariadb.org/rest-api/mariadb/11.4.2/mariadb-11.4.2-linux-systemd-x86_64.tar.gz",
         "md5": "2ac6eb07d653b2089b885ef65cee71a9",
@@ -7344,81 +7502,18 @@
         "sha512": "7f0a3035c1c8372ba84ecf9d8118397b2fdbcd1e542670cb754369abaccfe928b94bb61e4db810aa844a0889ca197cf97e32f7882119a7d078dcc1d97eb39ec8"
     },
     {
-        "file_name": "mariadb-11.4.1-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.4.1/mariadb-11.4.1-linux-systemd-x86_64.tar.gz",
-        "md5": "41c2b6e5321cd43f29800e7aa28b1dda",
-        "sha256": "949e7a0c9c6ab4478c515bf76b0b781a0286df0fa23831700f1a2dda2a00460e",
-        "sha512": "082ab42489b487838e0b2933a0fa259789664cf92135883cd8fd6f19726142319455a1e235ad5b1d39c6c6d8a893f7549c02735069ed98081701ba30dfda2ab1"
+        "file_name": "mariadb-10.6.20-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.6.20/mariadb-10.6.20-linux-systemd-x86_64.tar.gz",
+        "md5": "ad5dd5e6fccca04f167dad75e43745b9",
+        "sha256": "eae1d3953abf4506ecc43f6b0dbcc8f0a133f05b242669f8e3312103aab76724",
+        "sha512": "affcfed836444fc035e6e5a237dfa627e43b74f2f1400548bd4f2be90f322c181985f907d53b3c33d21dc40955501f53033585ba602bce348c3f72b70617e0f2"
     },
     {
-        "file_name": "mariadb-11.4.0-preview-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.4.0/mariadb-11.4.0-preview-linux-systemd-x86_64.tar.gz",
-        "md5": "33be8a5bb7474fd4402671b20f250882",
-        "sha256": "d909386cdd9288111fa04804ebfb1960136a546ba5d98f8fcf4848dafeb959db",
-        "sha512": "a8b836580d7bb40eabba11f6c27199490e187fc112720f535a6c1ab6c7c2d09c88b4c125ef318aabccbbaf2467d4bcb503515aa1df7292d070583f6f41bef777"
-    },
-    {
-        "file_name": "mariadb-11.2.4-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.2.4/mariadb-11.2.4-linux-systemd-x86_64.tar.gz",
-        "md5": "9eb3e03cacdb02364e54b695080bce60",
-        "sha256": "99b28e7177a2768d56f247aaaf79b33d6a873b1aa86baef0af7b6bf6285f68f5",
-        "sha512": "6b3f76b1c857c7bba57c4489cd223baeb2ccd829431d6567ba43b97d5ff3fc783583cf7a5b7e652b4cd523706c1bac6626370d16690338a742997e1ef17eefd8"
-    },
-    {
-        "file_name": "mariadb-11.2.3-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.2.3/mariadb-11.2.3-linux-systemd-x86_64.tar.gz",
-        "md5": "886e6d67608c49f2104b651108e2fd91",
-        "sha256": "434cf421ea84a701088a6e8c6cd65eb4845ebdbeab4108481a95963047f90517",
-        "sha512": "cd404170455d4ae6a9779fedb2a8080314fb4139fcab73e12d1abce3ddf50e4b0295903faf310a3f33ca39a91709d5307541f7102d166564d20d8e3228f1c71c"
-    },
-    {
-        "file_name": "mariadb-11.2.2-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.2.2/mariadb-11.2.2-linux-systemd-x86_64.tar.gz",
-        "md5": "bf41499c00b04eb8bb50d508f5618fd9",
-        "sha256": "649e82494fb420a4e4998925774ba0cde59d7e4587568a2c32f4f77663735256",
-        "sha512": "f9f1ada66aa32ed5f43433ae76489eb1f5ed49a6139b3c32f4c2f9bff1e34dae43788d3d6be72e341944159660968a77249913d8b60251d6c31091249e0fee63"
-    },
-    {
-        "file_name": "mariadb-11.1.5-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.1.5/mariadb-11.1.5-linux-systemd-x86_64.tar.gz",
-        "md5": "df3ac54c3fd06dd5f9ca91527a92d84c",
-        "sha256": "ebc1dcc28fe9f99728fa148eaaf7801b21bda459373ca781b92910791e2e2723",
-        "sha512": "190db1fdb6554b6fe2d7364cd2ead24919e40aac94c0258c60702dd2fafeafb9355d4f3762c5a8fd04d9b8dd128c33c12db0bfc1e45513484d812df403f77529"
-    },
-    {
-        "file_name": "mariadb-11.1.4-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.1.4/mariadb-11.1.4-linux-systemd-x86_64.tar.gz",
-        "md5": "427bf680ccc3ef5318a564ff835d0762",
-        "sha256": "36c7d87a666b57bbde58391168006ebfcbfde6cc39f470311fb7a10dcbe6f0af",
-        "sha512": "3331cb8188e1490bd072a7f83bcb4a0cd97ab7d6ae8642221c9e60bde6adc797cbe0fe5ae7fa6c3128dab834d39f2c0472d55c3e3ec6d8a6c978710134a8ddb1"
-    },
-    {
-        "file_name": "mariadb-11.1.3-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.1.3/mariadb-11.1.3-linux-systemd-x86_64.tar.gz",
-        "md5": "6fa69db56842e6149bf31d77a027a158",
-        "sha256": "8315d85959aeb60c355879609e32d34296e33a7ea2816d64e9a86240760bd3b8",
-        "sha512": "1f5f61046b272b1510278fc3f4dbca47ed88727786523e7148760d00435072f17a9035706316699a0a5851c1e76922597082fcfab6dcd4b9552a2cceac1a6f01"
-    },
-    {
-        "file_name": "mariadb-11.0.6-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.0.6/mariadb-11.0.6-linux-systemd-x86_64.tar.gz",
-        "md5": "1c8cd1bf02065bbd9e7bd65edeb3d3c9",
-        "sha256": "4565458b5496676019868a80cdd5e4463b9c13a83e8449c63f3ecbc3e9b2b2e1",
-        "sha512": "442439b1d0806838904ba4a274ffa39049aa55f521cee52b76a1f74448d845e7c1f23e8729224bda9432354952c2be23aecc1795cab887d460a84cdf6dbea299"
-    },
-    {
-        "file_name": "mariadb-11.0.5-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.0.5/mariadb-11.0.5-linux-systemd-x86_64.tar.gz",
-        "md5": "216737e3599885ae42c5ab5e3bd399b4",
-        "sha256": "7439b30e7f8f976736ace285d39f7ace14310e57f6ac73c8da83881af82c49b4",
-        "sha512": "c5659fd8c32c764e9dbb324c93fd8c2296a64c7d41177ea2d68c78663c4e0a9249a3ca019bb43c67b20eb4643ef013c276d11aa1fa5786eed4f783511b497ef6"
-    },
-    {
-        "file_name": "mariadb-11.0.4-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.0.4/mariadb-11.0.4-linux-systemd-x86_64.tar.gz",
-        "md5": "e40df2dcadbf729267a2dc5b953b0a8a",
-        "sha256": "f1e974047c9320d3fe4eb5e31c66c72af8e2e5b619d9b29633a380c91b2d9ec3",
-        "sha512": "33b41d0528f6919ee487533809709871d08dc3d8ae582cb085d0b3cc9f7164af705566820d2f1fc3200da960c590712a43da9d93e7f7d96ac4c9f3b878ce229c"
+        "file_name": "mariadb-10.6.19-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.6.19/mariadb-10.6.19-linux-systemd-x86_64.tar.gz",
+        "md5": "240b7664ca45113f411a83c2c7d38d17",
+        "sha256": "ff34af4c5e1851597e590b9cdd2a3507718c36804ccb2bf1ac7210ca6d0834f2",
+        "sha512": "1bf8314b6dee35ee3423909441cae1fc4c5e7f8e6ab80016a711bfed966efe6706b328a265493089a6d5e6d504966b311c627a416cd1ad946c741f1f4694f991"
     },
     {
         "file_name": "mariadb-10.6.18-linux-systemd-x86_64.tar.gz",
@@ -7428,18 +7523,18 @@
         "sha512": "cac195aa20a128bb36875e1baacd295d06e06008d982a7dcf3a5f3a1e16f34b62161c4da4742f3bf188b873f4834dc172e5a0a97b23cbd409a48aed4d4cc0988"
     },
     {
-        "file_name": "mariadb-10.6.17-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.6.17/mariadb-10.6.17-linux-systemd-x86_64.tar.gz",
-        "md5": "37b096d8ec63ccb26af2898f950c1314",
-        "sha256": "f3e322c35246cc2b22f8ed6be2037db8bfed3ad7f41b4c55dcbab4783516a56d",
-        "sha512": "f9668b425324a3dab685311e2d93ec3a2949a8f731a79cf28a8d5e2e15dbb0c7a9bf1014530c73aa1d339440b4e50b49c48e1ec3c1365b5893b9bb8369e9bc1f"
+        "file_name": "mariadb-10.5.27-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.5.27/mariadb-10.5.27-linux-systemd-x86_64.tar.gz",
+        "md5": "dad531c1b6db52e583fd38a76e0f9563",
+        "sha256": "f792dd22674810ddbb1a06a5ba208f14b3fe9a948081b64e3c72de3916491614",
+        "sha512": "fdee80014c4e159ab052205cf3f0592bc13a7462e7a7b09e27bd7d0fbe52d72c47a60bb0c5bb030b5071d7c2066e5776f82064659306e29c1387d6590c670b1a"
     },
     {
-        "file_name": "mariadb-10.6.16-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.6.16/mariadb-10.6.16-linux-systemd-x86_64.tar.gz",
-        "md5": "783a54eceabe0ccc054e8e8d4a2e3c99",
-        "sha256": "52278e6ec0f20c784888a6f8b3922ecf08f9420f970bd46d5fa3e4bbe843c444",
-        "sha512": "59dffe0732bb1e860cca7bc96ce6444776890af523d56f21a6904f5207481405978d6b8ed39ab37fafbf4fbc37e29c952d7ffef730b21a46809bf30826c68ed4"
+        "file_name": "mariadb-10.5.26-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.5.26/mariadb-10.5.26-linux-systemd-x86_64.tar.gz",
+        "md5": "f21b5965e049de1a0615616a1d74f173",
+        "sha256": "04eeaf61cc9186b1f9dc9a9d22231213f25decba1da8eb6118dd78b1ad1a31fa",
+        "sha512": "513c047da37bac807cbf085055ecfa50731447768e84e3219950366fcc73efc4b4658057c7b3a3e8dba91c68a469c7314708d2ae1b3dcb07ec260ca776bd7adb"
     },
     {
         "file_name": "mariadb-10.5.25-linux-systemd-x86_64.tar.gz",
@@ -7447,20 +7542,6 @@
         "md5": "e127059b42d4ee7f31ccf0abc7af12d5",
         "sha256": "b6c709908d4f5ed76dd956ab70aa44d1b4b1ccfe16d68cc8d143161cd75074a2",
         "sha512": "692e13fa17dcdfb5a499d64c763dd9f3317dacb981ebe519e1a3c24ffac03d448849c19e98ec0a46c5887ac78ae415f46f87d67c474e1a6202bf458bd06e3404"
-    },
-    {
-        "file_name": "mariadb-10.5.24-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.5.24/mariadb-10.5.24-linux-systemd-x86_64.tar.gz",
-        "md5": "49b71046ea1a8fb2d818b80b1583c18a",
-        "sha256": "b3e3a180c653dc8f7c2f2514ac86618092e55d1127d2caafcfd076766eb3bec3",
-        "sha512": "c118a8b5c003ec5a523c4d4c202de07993be6905c3a1eae1e58369756075164988c22a77d886e87c99b3259785e2cfd9aa994152a9750b5e7bdc57f1ac972580"
-    },
-    {
-        "file_name": "mariadb-10.5.23-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.5.23/mariadb-10.5.23-linux-systemd-x86_64.tar.gz",
-        "md5": "ba2f37c9612a0154a393af178c5c12d9",
-        "sha256": "df299ada7bff21c340b9de1ee99ce40d5c15367cc4f3b31fcd01f21581a404f4",
-        "sha512": "9465f819ad29c54988f904977caac5e48be6eae71e7c7c57d64e20893cfaea50db5e536e67674cc2911d8e54fa72a0bed465e63e412b3374fb71fb5a8cad01a7"
     },
     {
         "file_name": "mariadb-10.4.34-linux-systemd-x86_64.tar.gz",
@@ -7484,6 +7565,20 @@
         "sha512": "4b34e89e5bd0ea0125fea05882d79740ae71a355a4fdc881fd8e874af27811badbaf3b35a3e358ecc83b276e36972bead7231d4b639d6f2abdcfc8c29ddd90d2"
     },
     {
+        "file_name": "mariadb-10.11.10-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.11.10/mariadb-10.11.10-linux-systemd-x86_64.tar.gz",
+        "md5": "8e47ebc5d19186c8cd7db6f39d8a2043",
+        "sha256": "207e86f30fe1b4909093872f2d9c8062e1bb13b6116e50394e3955404abf31a7",
+        "sha512": "fa7f20af926a49779b151c99e57621baff403c66af81bf0711ad4461d301bfd58b99938911d33bb15ef1ad18ea7671e368ac8651a4f39343d747f175bfc486f9"
+    },
+    {
+        "file_name": "mariadb-10.11.9-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.11.9/mariadb-10.11.9-linux-systemd-x86_64.tar.gz",
+        "md5": "0362d04172e7814b4fc7a669b1376a77",
+        "sha256": "c45becf9f8e9e90d9e32d5f2b4378cac971ef7a54c2ba4b668625e203285b5cb",
+        "sha512": "b97ae1f1a4f425312fea114e9d0864012266443da31a3da777f6f211d003a7dfb22c6df58531f7043d6e0cd96436f50336f37d0a42cb153a7ab90d7aa4c1a6d3"
+    },
+    {
         "file_name": "mariadb-10.11.8-linux-systemd-x86_64.tar.gz",
         "url": "http://downloads.mariadb.org/rest-api/mariadb/10.11.8/mariadb-10.11.8-linux-systemd-x86_64.tar.gz",
         "md5": "fb58a2ae8bc536dcf9f9186cfe9b5bff",
@@ -7491,18 +7586,9 @@
         "sha512": "29f2a4a56d5d5ff186c8a54e3b60ec167857c88a922fd3190ba4187d55f56a5ca68ce6938e800849f47fa26c69d45281e53c3ce9e8bb9074398d0afb632a5297"
     },
     {
-        "file_name": "mariadb-10.11.7-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.11.7/mariadb-10.11.7-linux-systemd-x86_64.tar.gz",
-        "md5": "b2431bdce28055cb3be5431ef1990791",
-        "sha256": "5ea876f814f270bdb9118f0b6091757278de7d851b367d1213474331bebe8b61",
-        "sha512": "42ce6508a0b3737b9181271fd07a2b18b3c0f50f692d9345e8fdd7b4c87bee061419ba0d6035b8abee115ebd70c5f007c7e4c2c865f067ec29f607a42a879a2b"
-    },
-    {
-        "file_name": "mariadb-10.11.6-linux-systemd-x86_64.tar.gz",
-        "url": "http://downloads.mariadb.org/rest-api/mariadb/10.11.6/mariadb-10.11.6-linux-systemd-x86_64.tar.gz",
-        "md5": "e0fe9425b7a6d6478d1d33b5f27eb69d",
-        "sha256": "641cac12285e6d2a1f1346ab542f60e2556ec135df6d57cb8c55e53132d9d4f9",
-        "sha512": "0593aaaa55a1810de854e55729673afa755dc3e787885594b2df2dcef34fd66dac6730232705a4b304e4e63d455c5b29e814e75ec48e1fa82f1ae1f2b61f8b7c"
+        "version": "5.1.24",
+        "url": "http://pecl.php.net/get/apcu-5.1.24.tgz",
+        "file_name": "apcu-5.1.24.tgz"
     },
     {
         "version": "5.1.23",
@@ -8370,6 +8456,16 @@
         "file_name": "memcache-0.2.tgz"
     },
     {
+        "version": "1.20.0",
+        "url": "http://pecl.php.net/get/mongodb-1.20.0.tgz",
+        "file_name": "mongodb-1.20.0.tgz"
+    },
+    {
+        "version": "1.19.4",
+        "url": "http://pecl.php.net/get/mongodb-1.19.4.tgz",
+        "file_name": "mongodb-1.19.4.tgz"
+    },
+    {
         "version": "1.19.3",
         "url": "http://pecl.php.net/get/mongodb-1.19.3.tgz",
         "file_name": "mongodb-1.19.3.tgz"
@@ -8828,6 +8924,16 @@
         "version": "0.2.0",
         "url": "http://pecl.php.net/get/mongodb-0.2.0.tgz",
         "file_name": "mongodb-0.2.0.tgz"
+    },
+    {
+        "version": "5.1.5",
+        "url": "http://pecl.php.net/get/swoole-5.1.5.tgz",
+        "file_name": "swoole-5.1.5.tgz"
+    },
+    {
+        "version": "5.1.4",
+        "url": "http://pecl.php.net/get/swoole-5.1.4.tgz",
+        "file_name": "swoole-5.1.4.tgz"
     },
     {
         "version": "6.0.0",

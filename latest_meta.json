@@ -1,7 +1,7 @@
 [
     {
         "version_file_name": "curl_ver",
-        "version": "8.9.0"
+        "version": "8.11.0"
     },
     {
         "version_file_name": "mysql80_ver",
@@ -21,7 +21,7 @@
     },
     {
         "version_file_name": "nginx_ver",
-        "version": "1.27.0"
+        "version": "1.27.2"
     },
     {
         "version_file_name": "php53_ver",
@@ -65,15 +65,15 @@
     },
     {
         "version_file_name": "php81_ver",
-        "version": "8.1.29"
+        "version": "8.1.30"
     },
     {
         "version_file_name": "php82_ver",
-        "version": "8.2.21"
+        "version": "8.2.25"
     },
     {
         "version_file_name": "php83_ver",
-        "version": "8.3.9"
+        "version": "8.3.13"
     },
     {
         "version_file_name": "phpmyadmin_ver",
@@ -85,11 +85,11 @@
     },
     {
         "version_file_name": "nghttp2_ver",
-        "version": "1.62.1"
+        "version": "1.64.0"
     },
     {
         "version_file_name": "pgsql_ver",
-        "version": "16.3"
+        "version": "17.0"
     },
     {
         "version_file_name": "apache_ver",
@@ -97,7 +97,7 @@
     },
     {
         "version_file_name": "apr_ver",
-        "version": "1.7.4"
+        "version": "1.7.5"
     },
     {
         "version_file_name": "apr_util_ver",
@@ -105,7 +105,7 @@
     },
     {
         "version_file_name": "imagemagick_ver",
-        "version": "6.9.13-14"
+        "version": "6.9.13-18"
     },
     {
         "version_file_name": "openresty_ver",
@@ -117,7 +117,7 @@
     },
     {
         "version_file_name": "openssl3_ver",
-        "version": "3.3.1"
+        "version": "3.4.0"
     },
     {
         "version_file_name": "openssl11_ver",
@@ -125,7 +125,7 @@
     },
     {
         "version_file_name": "lua_resty_core_ver",
-        "version": "v0.1.28"
+        "version": "v0.1.30"
     },
     {
         "version_file_name": "jemalloc_ver",
@@ -133,11 +133,11 @@
     },
     {
         "version_file_name": "lua_resty_lrucache_ver",
-        "version": "v0.13"
+        "version": "v0.15"
     },
     {
         "version_file_name": "luajit2_ver",
-        "version": "v2.1-20240626"
+        "version": "v2.1-20241104"
     },
     {
         "version_file_name": "lua_cjson_ver",
@@ -145,11 +145,11 @@
     },
     {
         "version_file_name": "icu4c_ver",
-        "version": "release-75-1"
+        "version": "release-76-1"
     },
     {
         "version_file_name": "libzip_ver",
-        "version": "v1.10.1"
+        "version": "v1.11.2"
     },
     {
         "version_file_name": "libsodium_ver",
@@ -189,27 +189,15 @@
     },
     {
         "version_file_name": "mariadb114_ver",
-        "version": "11.4.2"
-    },
-    {
-        "version_file_name": "mariadb112_ver",
-        "version": "11.2.4"
-    },
-    {
-        "version_file_name": "mariadb111_ver",
-        "version": "11.1.5"
-    },
-    {
-        "version_file_name": "mariadb110_ver",
-        "version": "11.0.6"
+        "version": "11.4.4"
     },
     {
         "version_file_name": "mariadb106_ver",
-        "version": "10.6.18"
+        "version": "10.6.20"
     },
     {
         "version_file_name": "mariadb105_ver",
-        "version": "10.5.25"
+        "version": "10.5.27"
     },
     {
         "version_file_name": "mariadb104_ver",
@@ -217,11 +205,11 @@
     },
     {
         "version_file_name": "mariadb1011_ver",
-        "version": "10.11.8"
+        "version": "10.11.10"
     },
     {
         "version_file_name": "apcu_ver",
-        "version": "5.1.23"
+        "version": "5.1.24"
     },
     {
         "version_file_name": "gmagick_ver",
@@ -237,11 +225,11 @@
     },
     {
         "version_file_name": "pecl_mongodb_ver",
-        "version": "1.19.3"
+        "version": "1.20.0"
     },
     {
         "version_file_name": "swoole_ver",
-        "version": "6.0.0"
+        "version": "5.1.5"
     },
     {
         "version_file_name": "yaf_ver",
