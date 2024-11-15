@@ -4957,11 +4957,25 @@
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/checksums.txt"
     },
     {
+        "version": "17.1",
+        "url": "https://ftp.postgresql.org/pub/source/v17.1/postgresql-17.1.tar.gz",
+        "file_name": "postgresql-17.1.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v17.1/postgresql-17.1.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v17.1/postgresql-17.1.tar.gz.sha256"
+    },
+    {
         "version": "17.0",
         "url": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz",
         "file_name": "postgresql-17.0.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz.sha256"
+    },
+    {
+        "version": "16.5",
+        "url": "https://ftp.postgresql.org/pub/source/v16.5/postgresql-16.5.tar.gz",
+        "file_name": "postgresql-16.5.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v16.5/postgresql-16.5.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v16.5/postgresql-16.5.tar.gz.sha256"
     },
     {
         "version": "16.4",
@@ -4999,32 +5013,18 @@
         "sha256": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz.sha256"
     },
     {
+        "version": "15.9",
+        "url": "https://ftp.postgresql.org/pub/source/v15.9/postgresql-15.9.tar.gz",
+        "file_name": "postgresql-15.9.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v15.9/postgresql-15.9.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v15.9/postgresql-15.9.tar.gz.sha256"
+    },
+    {
         "version": "15.8",
         "url": "https://ftp.postgresql.org/pub/source/v15.8/postgresql-15.8.tar.gz",
         "file_name": "postgresql-15.8.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v15.8/postgresql-15.8.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v15.8/postgresql-15.8.tar.gz.sha256"
-    },
-    {
-        "version": "15.7",
-        "url": "https://ftp.postgresql.org/pub/source/v15.7/postgresql-15.7.tar.gz",
-        "file_name": "postgresql-15.7.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v15.7/postgresql-15.7.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v15.7/postgresql-15.7.tar.gz.sha256"
-    },
-    {
-        "version": "15.6",
-        "url": "https://ftp.postgresql.org/pub/source/v15.6/postgresql-15.6.tar.gz",
-        "file_name": "postgresql-15.6.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v15.6/postgresql-15.6.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v15.6/postgresql-15.6.tar.gz.sha256"
-    },
-    {
-        "version": "15.5",
-        "url": "https://ftp.postgresql.org/pub/source/v15.5/postgresql-15.5.tar.gz",
-        "file_name": "postgresql-15.5.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v15.5/postgresql-15.5.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v15.5/postgresql-15.5.tar.gz.sha256"
     },
     {
         "version": "2.7.16",
@@ -6056,6 +6056,11 @@
         "url": "https://github.com/openresty/lua-resty-lrucache/archive/refs/tags/v0.01.tar.gz",
         "file_name": "lua-resty-lrucache-v0.01.tar.gz",
         "version": "v0.01"
+    },
+    {
+        "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20241113.tar.gz",
+        "file_name": "luajit2-v2.1-20241113.tar.gz",
+        "version": "v2.1-20241113"
     },
     {
         "url": "https://github.com/openresty/luajit2/archive/refs/tags/v2.1-20241104.tar.gz",

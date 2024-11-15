@@ -89,7 +89,7 @@
     },
     {
         "version_file_name": "pgsql_ver",
-        "version": "17.0"
+        "version": "17.1"
     },
     {
         "version_file_name": "apache_ver",
@@ -137,7 +137,7 @@
     },
     {
         "version_file_name": "luajit2_ver",
-        "version": "v2.1-20241104"
+        "version": "v2.1-20241113"
     },
     {
         "version_file_name": "lua_cjson_ver",
