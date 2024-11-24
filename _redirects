@@ -782,7 +782,7 @@
 /oneinstack/src/redis-7.4.1.tar.gz https://download.redis.io/releases/redis-7.4.1.tar.gz 301
 /oneinstack/src/redis-6.2.16.tar.gz https://download.redis.io/releases/redis-6.2.16.tar.gz 301
 /oneinstack/src/cacert.pem https://curl.se/ca/cacert.pem 301
-/oneinstack/src/acme.sh-master.tar.gz https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.0.9.tar.gz 301
+/oneinstack/src/acme.sh-master.tar.gz https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.1.0.tar.gz 301
 /oneinstack/src/nghttp2-1.64.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/nghttp2-1.64.0.tar.gz 301
 /oneinstack/src/nghttp2-1.64.0.tar.gz.asc https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/nghttp2-1.64.0.tar.gz.asc 301
 /oneinstack/src/nghttp2-1.63.0.tar.gz https://github.com/nghttp2/nghttp2/releases/download/v1.63.0/nghttp2-1.63.0.tar.gz 301
