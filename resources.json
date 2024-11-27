@@ -1939,10 +1939,10 @@
         "version": "5.5.8"
     },
     {
-        "version": "1.27.2",
-        "url": "https://nginx.org/download/nginx-1.27.2.tar.gz",
-        "gpg": "https://nginx.org/download/nginx-1.27.2.tar.gz.asc",
-        "file_name": "nginx-1.27.2.tar.gz"
+        "version": "1.27.3",
+        "url": "https://nginx.org/download/nginx-1.27.3.tar.gz",
+        "gpg": "https://nginx.org/download/nginx-1.27.3.tar.gz.asc",
+        "file_name": "nginx-1.27.3.tar.gz"
     },
     {
         "version": "1.24.0",
