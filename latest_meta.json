@@ -225,7 +225,7 @@
     },
     {
         "version_file_name": "pecl_mongodb_ver",
-        "version": "1.20.0"
+        "version": "1.20.1"
     },
     {
         "version_file_name": "swoole_ver",
