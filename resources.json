@@ -8960,6 +8960,11 @@
         "file_name": "mongodb-0.2.0.tgz"
     },
     {
+        "version": "5.1.6",
+        "url": "http://pecl.php.net/get/swoole-5.1.6.tgz",
+        "file_name": "swoole-5.1.6.tgz"
+    },
+    {
         "version": "5.1.5",
         "url": "http://pecl.php.net/get/swoole-5.1.5.tgz",
         "file_name": "swoole-5.1.5.tgz"
@@ -10178,6 +10183,11 @@
         "version": "2.0.0",
         "url": "http://pecl.php.net/get/yaf-2.0.0.tgz",
         "file_name": "yaf-2.0.0.tgz"
+    },
+    {
+        "version": "3.4.0",
+        "url": "http://pecl.php.net/get/xdebug-3.4.0.tgz",
+        "file_name": "xdebug-3.4.0.tgz"
     },
     {
         "version": "3.3.2",
