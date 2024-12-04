@@ -5087,12 +5087,6 @@
         "pgp": "https://www.python.org/ftp/python/3.8.20/Python-3.8.20.tgz.asc"
     },
     {
-        "version": "3.9.18",
-        "url": "https://www.python.org/ftp/python/3.9.18/Python-3.9.18.tgz",
-        "file_name": "Python-3.9.18.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.9.18/Python-3.9.18.tgz.asc"
-    },
-    {
         "version": "3.9.19",
         "url": "https://www.python.org/ftp/python/3.9.19/Python-3.9.19.tgz",
         "file_name": "Python-3.9.19.tgz",
@@ -5105,10 +5099,10 @@
         "pgp": "https://www.python.org/ftp/python/3.9.20/Python-3.9.20.tgz.asc"
     },
     {
-        "version": "3.10.13",
-        "url": "https://www.python.org/ftp/python/3.10.13/Python-3.10.13.tgz",
-        "file_name": "Python-3.10.13.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.10.13/Python-3.10.13.tgz.asc"
+        "version": "3.9.21",
+        "url": "https://www.python.org/ftp/python/3.9.21/Python-3.9.21.tgz",
+        "file_name": "Python-3.9.21.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.9.21/Python-3.9.21.tgz.asc"
     },
     {
         "version": "3.10.14",
@@ -5123,28 +5117,28 @@
         "pgp": "https://www.python.org/ftp/python/3.10.15/Python-3.10.15.tgz.asc"
     },
     {
+        "version": "3.10.16",
+        "url": "https://www.python.org/ftp/python/3.10.16/Python-3.10.16.tgz",
+        "file_name": "Python-3.10.16.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.10.16/Python-3.10.16.tgz.asc"
+    },
+    {
         "version": "3.11.10",
         "url": "https://www.python.org/ftp/python/3.11.10/Python-3.11.10.tgz",
         "file_name": "Python-3.11.10.tgz",
         "pgp": "https://www.python.org/ftp/python/3.11.10/Python-3.11.10.tgz.asc"
     },
     {
-        "version": "3.11.8",
-        "url": "https://www.python.org/ftp/python/3.11.8/Python-3.11.8.tgz",
-        "file_name": "Python-3.11.8.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.11.8/Python-3.11.8.tgz.asc"
+        "version": "3.11.11",
+        "url": "https://www.python.org/ftp/python/3.11.11/Python-3.11.11.tgz",
+        "file_name": "Python-3.11.11.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.11.11/Python-3.11.11.tgz.asc"
     },
     {
         "version": "3.11.9",
         "url": "https://www.python.org/ftp/python/3.11.9/Python-3.11.9.tgz",
         "file_name": "Python-3.11.9.tgz",
         "pgp": "https://www.python.org/ftp/python/3.11.9/Python-3.11.9.tgz.asc"
-    },
-    {
-        "version": "3.12.5",
-        "url": "https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz",
-        "file_name": "Python-3.12.5.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz.asc"
     },
     {
         "version": "3.12.6",
@@ -5157,6 +5151,12 @@
         "url": "https://www.python.org/ftp/python/3.12.7/Python-3.12.7.tgz",
         "file_name": "Python-3.12.7.tgz",
         "pgp": "https://www.python.org/ftp/python/3.12.7/Python-3.12.7.tgz.asc"
+    },
+    {
+        "version": "3.12.8",
+        "url": "https://www.python.org/ftp/python/3.12.8/Python-3.12.8.tgz",
+        "file_name": "Python-3.12.8.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.12.8/Python-3.12.8.tgz.asc"
     },
     {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.62.tar.gz",
