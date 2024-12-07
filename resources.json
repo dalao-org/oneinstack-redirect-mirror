@@ -5271,6 +5271,11 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.3.tar.gz.asc"
     },
     {
+        "version": "1.6.33",
+        "url": "http://www.memcached.org/files/memcached-1.6.33.tar.gz",
+        "file_name": "memcached-1.6.33.tar.gz"
+    },
+    {
         "version": "1.6.32",
         "url": "http://www.memcached.org/files/memcached-1.6.32.tar.gz",
         "file_name": "memcached-1.6.32.tar.gz"
@@ -5289,11 +5294,6 @@
         "version": "1.6.29",
         "url": "http://www.memcached.org/files/memcached-1.6.29.tar.gz",
         "file_name": "memcached-1.6.29.tar.gz"
-    },
-    {
-        "version": "1.6.28",
-        "url": "http://www.memcached.org/files/memcached-1.6.28.tar.gz",
-        "file_name": "memcached-1.6.28.tar.gz"
     },
     {
         "version": "v0.10.27",
@@ -5416,11 +5416,6 @@
         "file_name": "tengine-tengine-2.2.0.tar.gz"
     },
     {
-        "version": "1.82.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz",
-        "file_name": "boost_1_82_0.tar.gz"
-    },
-    {
         "version": "1.83.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz",
         "file_name": "boost_1_83_0.tar.gz"
@@ -5439,6 +5434,11 @@
         "version": "1.86.0",
         "url": "https://boostorg.jfrog.io/artifactory/main/release/1.86.0/source/boost_1_86_0.tar.gz",
         "file_name": "boost_1_86_0.tar.gz"
+    },
+    {
+        "version": "1.87.0",
+        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.87.0/source/boost_1_87_0.tar.gz",
+        "file_name": "boost_1_87_0.tar.gz"
     },
     {
         "version": "3.4.0",
