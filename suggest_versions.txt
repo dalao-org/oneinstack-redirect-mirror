@@ -1,4 +1,4 @@
-curl_ver=8.11.0
+curl_ver=8.11.1
 mysql80_ver=8.0.34
 mysql57_ver=5.7.44
 mysql56_ver=5.6.51
