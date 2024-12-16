@@ -7423,6 +7423,11 @@
         "version": "1.17"
     },
     {
+        "url": "https://ftp.gnu.org/gnu/libiconv/libiconv-1.18.tar.gz",
+        "file_name": "libiconv-1.18.tar.gz",
+        "version": "1.18"
+    },
+    {
         "url": "https://www.sourceguardian.com/loaders/download/loaders.linux-x86_64.tar.gz",
         "file_name": "loaders.linux-x86_64.tar.gz"
     },
