@@ -5295,6 +5295,11 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.3.tar.gz.asc"
     },
     {
+        "version": "1.6.34",
+        "url": "http://www.memcached.org/files/memcached-1.6.34.tar.gz",
+        "file_name": "memcached-1.6.34.tar.gz"
+    },
+    {
         "version": "1.6.33",
         "url": "http://www.memcached.org/files/memcached-1.6.33.tar.gz",
         "file_name": "memcached-1.6.33.tar.gz"
@@ -5313,11 +5318,6 @@
         "version": "1.6.30",
         "url": "http://www.memcached.org/files/memcached-1.6.30.tar.gz",
         "file_name": "memcached-1.6.30.tar.gz"
-    },
-    {
-        "version": "1.6.29",
-        "url": "http://www.memcached.org/files/memcached-1.6.29.tar.gz",
-        "file_name": "memcached-1.6.29.tar.gz"
     },
     {
         "version": "v0.10.27",
