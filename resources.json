@@ -5440,31 +5440,6 @@
         "file_name": "tengine-tengine-2.2.0.tar.gz"
     },
     {
-        "version": "1.83.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.83.0/source/boost_1_83_0.tar.gz",
-        "file_name": "boost_1_83_0.tar.gz"
-    },
-    {
-        "version": "1.84.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.gz",
-        "file_name": "boost_1_84_0.tar.gz"
-    },
-    {
-        "version": "1.85.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.85.0/source/boost_1_85_0.tar.gz",
-        "file_name": "boost_1_85_0.tar.gz"
-    },
-    {
-        "version": "1.86.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.86.0/source/boost_1_86_0.tar.gz",
-        "file_name": "boost_1_86_0.tar.gz"
-    },
-    {
-        "version": "1.87.0",
-        "url": "https://boostorg.jfrog.io/artifactory/main/release/1.87.0/source/boost_1_87_0.tar.gz",
-        "file_name": "boost_1_87_0.tar.gz"
-    },
-    {
         "version": "3.4.0",
         "url": "https://github.com/openssl/openssl/releases/download/openssl-3.4.0/openssl-3.4.0.tar.gz",
         "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.4.0/openssl-3.4.0.tar.gz.sha256",
@@ -7311,6 +7286,11 @@
         "version": "v0.2.5"
     },
     {
+        "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.10/onig-6.9.10.tar.gz",
+        "file_name": "onig-6.9.10.tar.gz",
+        "version": "v6.9.10"
+    },
+    {
         "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.9/onig-6.9.9.tar.gz",
         "file_name": "onig-6.9.9.tar.gz",
         "version": "v6.9.9"
@@ -7329,11 +7309,6 @@
         "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.7/onig-6.9.7.tar.gz",
         "file_name": "onig-6.9.7.tar.gz",
         "version": "v6.9.7"
-    },
-    {
-        "url": "https://github.com/kkos/oniguruma/releases/download/v6.9.6/onig-6.9.6.tar.gz",
-        "file_name": "onig-6.9.6.tar.gz",
-        "version": "v6.9.6"
     },
     {
         "url": "https://github.com/dropbox/dbxcli/releases/download/v3.0.0/dbxcli-linux-arm",
