@@ -4855,6 +4855,24 @@
         "file_name": "redis-6.2.16.tar.gz"
     },
     {
+        "version": "redis-6.2.17",
+        "sha256": "f7aab300407aaa005bc1a688e61287111f4ae13ed657ec50ef4ab529893ddc30",
+        "url": "https://download.redis.io/releases/redis-6.2.17.tar.gz",
+        "file_name": "redis-6.2.17.tar.gz"
+    },
+    {
+        "version": "redis-7.2.7",
+        "sha256": "72c081e3b8cfae7144273d26d76736f08319000af46c01515cad5d29765cead5",
+        "url": "https://download.redis.io/releases/redis-7.2.7.tar.gz",
+        "file_name": "redis-7.2.7.tar.gz"
+    },
+    {
+        "version": "redis-7.4.2",
+        "sha256": "4ddebbf09061cbb589011786febdb34f29767dd7f89dbe712d2b68e808af6a1f",
+        "url": "https://download.redis.io/releases/redis-7.4.2.tar.gz",
+        "file_name": "redis-7.4.2.tar.gz"
+    },
+    {
         "file_name": "cacert.pem",
         "url": "https://curl.se/ca/cacert.pem",
         "sha256": "https://curl.se/ca/cacert.pem.sha256"
@@ -10192,6 +10210,11 @@
         "version": "2.0.0",
         "url": "http://pecl.php.net/get/yaf-2.0.0.tgz",
         "file_name": "yaf-2.0.0.tgz"
+    },
+    {
+        "version": "3.4.1",
+        "url": "http://pecl.php.net/get/xdebug-3.4.1.tgz",
+        "file_name": "xdebug-3.4.1.tgz"
     },
     {
         "version": "3.4.0",
