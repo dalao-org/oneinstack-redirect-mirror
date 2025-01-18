@@ -125,7 +125,7 @@
     },
     {
         "version_file_name": "lua_resty_core_ver",
-        "version": "v0.1.30"
+        "version": "v0.1.31"
     },
     {
         "version_file_name": "jemalloc_ver",
@@ -137,7 +137,7 @@
     },
     {
         "version_file_name": "luajit2_ver",
-        "version": "v2.1-20241113"
+        "version": "v2.1-20250117"
     },
     {
         "version_file_name": "lua_cjson_ver",
