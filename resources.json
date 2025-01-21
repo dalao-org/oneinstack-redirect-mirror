@@ -6806,6 +6806,11 @@
         "version": "3.9.1"
     },
     {
+        "url": "https://github.com/nih-at/libzip/releases/download/v1.11.3/libzip-1.11.3.tar.gz",
+        "file_name": "libzip-1.11.3.tar.gz",
+        "version": "v1.11.3"
+    },
+    {
         "url": "https://github.com/nih-at/libzip/releases/download/v1.11.2/libzip-1.11.2.tar.gz",
         "file_name": "libzip-1.11.2.tar.gz",
         "version": "v1.11.2"
@@ -6824,11 +6829,6 @@
         "url": "https://github.com/nih-at/libzip/releases/download/v1.10.1/libzip-1.10.1.tar.gz",
         "file_name": "libzip-1.10.1.tar.gz",
         "version": "v1.10.1"
-    },
-    {
-        "url": "https://github.com/nih-at/libzip/releases/download/v1.10.0/libzip-1.10.0.tar.gz",
-        "file_name": "libzip-1.10.0.tar.gz",
-        "version": "v1.10.0"
     },
     {
         "url": "https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz",

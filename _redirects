@@ -1139,11 +1139,11 @@
 /oneinstack/src/icu4c-76_1-src.tgz.asc https://github.com/unicode-org/icu/releases/download/release-76-1/icu4c-76_1-src.tgz.asc 301
 /oneinstack/src/icu4c-75_1-src.tgz https://github.com/unicode-org/icu/releases/download/release-75-1/icu4c-75_1-src.tgz 301
 /oneinstack/src/gdrive_linux-x64.tar.gz https://github.com/glotlabs/gdrive/releases/download/3.9.1/gdrive_linux-x64.tar.gz 301
+/oneinstack/src/libzip-1.11.3.tar.gz https://github.com/nih-at/libzip/releases/download/v1.11.3/libzip-1.11.3.tar.gz 301
 /oneinstack/src/libzip-1.11.2.tar.gz https://github.com/nih-at/libzip/releases/download/v1.11.2/libzip-1.11.2.tar.gz 301
 /oneinstack/src/libzip-1.11.1.tar.gz https://github.com/nih-at/libzip/releases/download/v1.11.1/libzip-1.11.1.tar.gz 301
 /oneinstack/src/libzip-1.11.tar.gz https://github.com/nih-at/libzip/releases/download/v1.11/libzip-1.11.tar.gz 301
 /oneinstack/src/libzip-1.10.1.tar.gz https://github.com/nih-at/libzip/releases/download/v1.10.1/libzip-1.10.1.tar.gz 301
-/oneinstack/src/libzip-1.10.0.tar.gz https://github.com/nih-at/libzip/releases/download/v1.10.0/libzip-1.10.0.tar.gz 301
 /oneinstack/src/libsodium-1.0.20.tar.gz https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz 301
 /oneinstack/src/libsodium-1.0.20.tar.gz.minisig https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz.minisig 301
 /oneinstack/src/libsodium-1.0.20.tar.gz.sig https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz.sig 301
