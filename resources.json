@@ -4261,10 +4261,10 @@
         "file_name": "php-5.3.27.tar.gz"
     },
     {
-        "version": "5.2.1",
-        "url": "https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.tar.gz",
-        "sha256": "61c763f209817d1b5d96a4c0eab65b4e36bce744f78e73bef3bebd1c07481c46",
-        "file_name": "phpMyAdmin-5.2.1-all-languages.tar.gz"
+        "version": "5.2.2",
+        "url": "https://files.phpmyadmin.net/phpMyAdmin/5.2.2/phpMyAdmin-5.2.2-all-languages.tar.gz",
+        "sha256": "8551c8bf3b166f232d5cf64bac877472e9d0cb8f2fe1858fab24f975e7d765b6",
+        "file_name": "phpMyAdmin-5.2.2-all-languages.tar.gz"
     },
     {
         "version": "4.9.11",
