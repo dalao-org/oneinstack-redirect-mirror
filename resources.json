@@ -5213,6 +5213,14 @@
         "pgp": "https://www.python.org/ftp/python/3.12.8/Python-3.12.8.tgz.asc"
     },
     {
+        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.63.tar.gz",
+        "file_name": "httpd-2.4.63.tar.gz",
+        "version": "2.4.63",
+        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.63.tar.gz.asc",
+        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.63.tar.gz.sha256",
+        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.63.tar.gz.sha512"
+    },
+    {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.62.tar.gz",
         "file_name": "httpd-2.4.62.tar.gz",
         "version": "2.4.62",
@@ -5243,14 +5251,6 @@
         "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz.asc",
         "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz.sha256",
         "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.59.tar.gz.sha512"
-    },
-    {
-        "url": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz",
-        "file_name": "httpd-2.4.58.tar.gz",
-        "version": "2.4.58",
-        "gpg": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.asc",
-        "sha256": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.sha256",
-        "sha512": "https://archive.apache.org/dist/httpd/httpd-2.4.58.tar.gz.sha512"
     },
     {
         "url": "https://archive.apache.org/dist/apr/apr-1.7.5.tar.gz",
