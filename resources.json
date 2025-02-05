@@ -5195,12 +5195,6 @@
         "pgp": "https://www.python.org/ftp/python/3.11.9/Python-3.11.9.tgz.asc"
     },
     {
-        "version": "3.12.6",
-        "url": "https://www.python.org/ftp/python/3.12.6/Python-3.12.6.tgz",
-        "file_name": "Python-3.12.6.tgz",
-        "pgp": "https://www.python.org/ftp/python/3.12.6/Python-3.12.6.tgz.asc"
-    },
-    {
         "version": "3.12.7",
         "url": "https://www.python.org/ftp/python/3.12.7/Python-3.12.7.tgz",
         "file_name": "Python-3.12.7.tgz",
@@ -5211,6 +5205,12 @@
         "url": "https://www.python.org/ftp/python/3.12.8/Python-3.12.8.tgz",
         "file_name": "Python-3.12.8.tgz",
         "pgp": "https://www.python.org/ftp/python/3.12.8/Python-3.12.8.tgz.asc"
+    },
+    {
+        "version": "3.12.9",
+        "url": "https://www.python.org/ftp/python/3.12.9/Python-3.12.9.tgz",
+        "file_name": "Python-3.12.9.tgz",
+        "pgp": "https://www.python.org/ftp/python/3.12.9/Python-3.12.9.tgz.asc"
     },
     {
         "url": "https://archive.apache.org/dist/httpd/httpd-2.4.63.tar.gz",
@@ -5325,6 +5325,11 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.3.tar.gz.asc"
     },
     {
+        "version": "1.6.36",
+        "url": "http://www.memcached.org/files/memcached-1.6.36.tar.gz",
+        "file_name": "memcached-1.6.36.tar.gz"
+    },
+    {
         "version": "1.6.35",
         "url": "http://www.memcached.org/files/memcached-1.6.35.tar.gz",
         "file_name": "memcached-1.6.35.tar.gz"
@@ -5343,11 +5348,6 @@
         "version": "1.6.32",
         "url": "http://www.memcached.org/files/memcached-1.6.32.tar.gz",
         "file_name": "memcached-1.6.32.tar.gz"
-    },
-    {
-        "version": "1.6.31",
-        "url": "http://www.memcached.org/files/memcached-1.6.31.tar.gz",
-        "file_name": "memcached-1.6.31.tar.gz"
     },
     {
         "version": "v0.10.28",
