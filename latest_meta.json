@@ -1,7 +1,7 @@
 [
     {
         "version_file_name": "curl_ver",
-        "version": "8.11.1"
+        "version": "8.12.0"
     },
     {
         "version_file_name": "mysql80_ver",
@@ -21,7 +21,7 @@
     },
     {
         "version_file_name": "nginx_ver",
-        "version": "1.27.3"
+        "version": "1.27.4"
     },
     {
         "version_file_name": "php53_ver",
@@ -189,15 +189,15 @@
     },
     {
         "version_file_name": "mariadb114_ver",
-        "version": "11.4.4"
+        "version": "11.4.5"
     },
     {
         "version_file_name": "mariadb106_ver",
-        "version": "10.6.20"
+        "version": "10.6.21"
     },
     {
         "version_file_name": "mariadb105_ver",
-        "version": "10.5.27"
+        "version": "10.5.28"
     },
     {
         "version_file_name": "mariadb104_ver",
@@ -205,7 +205,7 @@
     },
     {
         "version_file_name": "mariadb1011_ver",
-        "version": "10.11.10"
+        "version": "10.11.11"
     },
     {
         "version_file_name": "apcu_ver",
