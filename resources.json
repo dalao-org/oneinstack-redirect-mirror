@@ -5476,6 +5476,46 @@
         "file_name": "tengine-tengine-2.2.0.tar.gz"
     },
     {
+        "version": "3.4.1",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.4.1/openssl-3.4.1.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.4.1/openssl-3.4.1.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.4.1/openssl-3.4.1.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.4.1/openssl-3.4.1.tar.gz.asc",
+        "file_name": "openssl-3.4.1.tar.gz"
+    },
+    {
+        "version": "3.3.3",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.3.3/openssl-3.3.3.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.3.3/openssl-3.3.3.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.3.3/openssl-3.3.3.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.3.3/openssl-3.3.3.tar.gz.asc",
+        "file_name": "openssl-3.3.3.tar.gz"
+    },
+    {
+        "version": "3.2.4",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.2.4/openssl-3.2.4.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.2.4/openssl-3.2.4.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.2.4/openssl-3.2.4.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.2.4/openssl-3.2.4.tar.gz.asc",
+        "file_name": "openssl-3.2.4.tar.gz"
+    },
+    {
+        "version": "3.1.8",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.1.8/openssl-3.1.8.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.1.8/openssl-3.1.8.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.1.8/openssl-3.1.8.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.1.8/openssl-3.1.8.tar.gz.asc",
+        "file_name": "openssl-3.1.8.tar.gz"
+    },
+    {
+        "version": "3.0.16",
+        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.16/openssl-3.0.16.tar.gz",
+        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.16/openssl-3.0.16.tar.gz.sha256",
+        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.16/openssl-3.0.16.tar.gz.sha1",
+        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.16/openssl-3.0.16.tar.gz.asc",
+        "file_name": "openssl-3.0.16.tar.gz"
+    },
+    {
         "version": "3.4.0",
         "url": "https://github.com/openssl/openssl/releases/download/openssl-3.4.0/openssl-3.4.0.tar.gz",
         "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.4.0/openssl-3.4.0.tar.gz.sha256",
@@ -5626,38 +5666,6 @@
         "sha1": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1w/openssl-1.1.1w.tar.gz.sha1",
         "pgp": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1w/openssl-1.1.1w.tar.gz.asc",
         "file_name": "openssl-1.1.1w.tar.gz"
-    },
-    {
-        "version": "3.1.2",
-        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.1.2/openssl-3.1.2.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.1.2/openssl-3.1.2.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.1.2/openssl-3.1.2.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.1.2/openssl-3.1.2.tar.gz.asc",
-        "file_name": "openssl-3.1.2.tar.gz"
-    },
-    {
-        "version": "3.0.10",
-        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.0.10/openssl-3.0.10.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.0.10/openssl-3.0.10.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.0.10/openssl-3.0.10.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.0.10/openssl-3.0.10.tar.gz.asc",
-        "file_name": "openssl-3.0.10.tar.gz"
-    },
-    {
-        "version": "1.1.1v",
-        "url": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1v/openssl-1.1.1v.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1v/openssl-1.1.1v.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1v/openssl-1.1.1v.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1v/openssl-1.1.1v.tar.gz.asc",
-        "file_name": "openssl-1.1.1v.tar.gz"
-    },
-    {
-        "version": "3.1.1",
-        "url": "https://github.com/openssl/openssl/releases/download/openssl-3.1.1/openssl-3.1.1.tar.gz",
-        "sha256": "https://github.com/openssl/openssl/releases/download/openssl-3.1.1/openssl-3.1.1.tar.gz.sha256",
-        "sha1": "https://github.com/openssl/openssl/releases/download/openssl-3.1.1/openssl-3.1.1.tar.gz.sha1",
-        "pgp": "https://github.com/openssl/openssl/releases/download/openssl-3.1.1/openssl-3.1.1.tar.gz.asc",
-        "file_name": "openssl-3.1.1.tar.gz"
     },
     {
         "url": "https://github.com/openresty/lua-resty-core/archive/refs/tags/v0.1.31.tar.gz",
