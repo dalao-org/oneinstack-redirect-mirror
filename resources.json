@@ -1,5 +1,11 @@
 [
     {
+        "version": "8.12.1",
+        "url": "https://curl.se/download/curl-8.12.1.tar.gz",
+        "file_name": "curl-8.12.1.tar.gz",
+        "gpg": "https://curl.se/download/curl-8.12.1.tar.gz.asc"
+    },
+    {
         "version": "8.12.0",
         "url": "https://curl.se/download/curl-8.12.0.tar.gz",
         "file_name": "curl-8.12.0.tar.gz",
@@ -1987,16 +1993,16 @@
         "file_name": "nginx-1.16.1.tar.gz"
     },
     {
-        "version": "8.4.3",
-        "url": "https://www.php.net/distributions/php-8.4.3.tar.gz",
-        "sha256": "45b88555b31487401b42c8bd36f2c45d84992bc93ae4c1a23d93bb3347984ecb",
-        "file_name": "php-8.4.3.tar.gz"
+        "version": "8.4.4",
+        "url": "https://www.php.net/distributions/php-8.4.4.tar.gz",
+        "sha256": "719551f50a81961f802aa9102bf4a1a0b5a315074330ab37bc8035a15f4be71b",
+        "file_name": "php-8.4.4.tar.gz"
     },
     {
-        "version": "8.3.16",
-        "url": "https://www.php.net/distributions/php-8.3.16.tar.gz",
-        "sha256": "61441627dca50cf0173e3f054ffe8c4f5db6552555c43cab87a8ecacfd201c7e",
-        "file_name": "php-8.3.16.tar.gz"
+        "version": "8.3.17",
+        "url": "https://www.php.net/distributions/php-8.3.17.tar.gz",
+        "sha256": "e2bbeca5fa62ff27d6ba6241619cf92a80e5346556be187aa962b91bd0eb9df1",
+        "file_name": "php-8.3.17.tar.gz"
     },
     {
         "version": "8.2.27",
@@ -2009,6 +2015,18 @@
         "url": "https://www.php.net/distributions/php-8.1.31.tar.gz",
         "sha256": "618923b407c4575bfee085f00c4aaa16a5cc86d4b1eb893c0f352d61541bbfb1",
         "file_name": "php-8.1.31.tar.gz"
+    },
+    {
+        "version": "8.3.16",
+        "url": "https://www.php.net/distributions/php-8.3.16.tar.gz",
+        "sha256": "61441627dca50cf0173e3f054ffe8c4f5db6552555c43cab87a8ecacfd201c7e",
+        "file_name": "php-8.3.16.tar.gz"
+    },
+    {
+        "version": "8.4.3",
+        "url": "https://www.php.net/distributions/php-8.4.3.tar.gz",
+        "sha256": "45b88555b31487401b42c8bd36f2c45d84992bc93ae4c1a23d93bb3347984ecb",
+        "file_name": "php-8.4.3.tar.gz"
     },
     {
         "version": "8.4.2",
@@ -5041,6 +5059,13 @@
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/checksums.txt"
     },
     {
+        "version": "17.3",
+        "url": "https://ftp.postgresql.org/pub/source/v17.3/postgresql-17.3.tar.gz",
+        "file_name": "postgresql-17.3.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v17.3/postgresql-17.3.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v17.3/postgresql-17.3.tar.gz.sha256"
+    },
+    {
         "version": "17.2",
         "url": "https://ftp.postgresql.org/pub/source/v17.2/postgresql-17.2.tar.gz",
         "file_name": "postgresql-17.2.tar.gz",
@@ -5060,6 +5085,13 @@
         "file_name": "postgresql-17.0.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz.sha256"
+    },
+    {
+        "version": "16.7",
+        "url": "https://ftp.postgresql.org/pub/source/v16.7/postgresql-16.7.tar.gz",
+        "file_name": "postgresql-16.7.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v16.7/postgresql-16.7.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v16.7/postgresql-16.7.tar.gz.sha256"
     },
     {
         "version": "16.6",
@@ -5095,20 +5127,6 @@
         "file_name": "postgresql-16.2.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v16.2/postgresql-16.2.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v16.2/postgresql-16.2.tar.gz.sha256"
-    },
-    {
-        "version": "16.1",
-        "url": "https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz",
-        "file_name": "postgresql-16.1.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v16.1/postgresql-16.1.tar.gz.sha256"
-    },
-    {
-        "version": "16.0",
-        "url": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz",
-        "file_name": "postgresql-16.0.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v16.0/postgresql-16.0.tar.gz.sha256"
     },
     {
         "version": "2.7.16",
@@ -7571,6 +7589,20 @@
         "md5": "298742a53f8b687c3e8a349b4bcd80a6",
         "sha256": "8f01845b1534ddddcb96b488ba7a834a41dbe8bf2dbe661d44bf5160cf6e05f9",
         "sha512": "8f773b5a9682ea5977eb4db134bcd00d178094d36cb552c4edbbb63c4b6229ba20afad60f384bd712f1ebfd3eb74f29a1cc5ea8db2b29570e830a948ae0ab95c"
+    },
+    {
+        "file_name": "mariadb-11.8.1-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.8.1/mariadb-11.8.1-linux-systemd-x86_64.tar.gz",
+        "md5": "9a4e280eeb4d959f976f977aa431a3fe",
+        "sha256": "0a66feb2b58e9b02ac8db1b9e9946d12a78ce38385eaf54f2179027f0c9831e7",
+        "sha512": "6d4978f5ccb9ab13c16f2d11e049f570907f21b528b7e1608c5dac046cd7084f856bda76b92223147e45c09d7b72cb30d78e8a69ffa45455d3cf2a08a37742c9"
+    },
+    {
+        "file_name": "mariadb-11.8.0-preview-linux-systemd-x86_64.tar.gz",
+        "url": "http://downloads.mariadb.org/rest-api/mariadb/11.8.0/mariadb-11.8.0-preview-linux-systemd-x86_64.tar.gz",
+        "md5": "bae2c6d806366b39d893196f460ac224",
+        "sha256": "30017721b907164dc0967c358259405534469fdc034329f52ab7b7a409aafd59",
+        "sha512": "772e79990c8b266fd603fdc1377974ad9381a0dfbeddd5586051d01967870fc6a8625d23e4a9b382fe8169d34b42b5c4e308871e8f7b226c2f31d676cf32dea3"
     },
     {
         "file_name": "mariadb-11.4.5-linux-systemd-x86_64.tar.gz",

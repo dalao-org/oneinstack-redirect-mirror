@@ -1,7 +1,7 @@
 [
     {
         "version_file_name": "curl_ver",
-        "version": "8.12.0"
+        "version": "8.12.1"
     },
     {
         "version_file_name": "mysql80_ver",
@@ -73,7 +73,7 @@
     },
     {
         "version_file_name": "php83_ver",
-        "version": "8.3.16"
+        "version": "8.3.17"
     },
     {
         "version_file_name": "phpmyadmin_ver",
@@ -89,7 +89,7 @@
     },
     {
         "version_file_name": "pgsql_ver",
-        "version": "17.2"
+        "version": "17.3"
     },
     {
         "version_file_name": "apache_ver",
@@ -186,6 +186,10 @@
     {
         "version_file_name": "mariadb55_ver",
         "version": "5.5.68"
+    },
+    {
+        "version_file_name": "mariadb118_ver",
+        "version": "11.8.1"
     },
     {
         "version_file_name": "mariadb114_ver",
