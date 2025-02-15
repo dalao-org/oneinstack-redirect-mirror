@@ -188,10 +188,6 @@
         "version": "5.5.68"
     },
     {
-        "version_file_name": "mariadb118_ver",
-        "version": "11.8.1"
-    },
-    {
         "version_file_name": "mariadb114_ver",
         "version": "11.4.5"
     },
@@ -233,7 +229,7 @@
     },
     {
         "version_file_name": "swoole_ver",
-        "version": "6.0.0"
+        "version": "6.0.1"
     },
     {
         "version_file_name": "yaf_ver",

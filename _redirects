@@ -1300,10 +1300,6 @@
 /oneinstack/src/mariadb/mariadb-5.5.67/bintar-linux-systemd-x86_64/mariadb-5.5.67-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.67/mariadb-5.5.67-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-5.5.66-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.66/mariadb-5.5.66-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb/mariadb-5.5.66/bintar-linux-systemd-x86_64/mariadb-5.5.66-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/5.5.66/mariadb-5.5.66-linux-systemd-x86_64.tar.gz 301
-/oneinstack/src/mariadb-11.8.1-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.8.1/mariadb-11.8.1-linux-systemd-x86_64.tar.gz 301
-/oneinstack/src/mariadb/mariadb-11.8.1/bintar-linux-systemd-x86_64/mariadb-11.8.1-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.8.1/mariadb-11.8.1-linux-systemd-x86_64.tar.gz 301
-/oneinstack/src/mariadb-11.8.0-preview-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.8.0/mariadb-11.8.0-preview-linux-systemd-x86_64.tar.gz 301
-/oneinstack/src/mariadb/mariadb-11.8.0-preview/bintar-linux-systemd-x86_64/mariadb-11.8.0-preview-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.8.0/mariadb-11.8.0-preview-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-11.4.5-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.4.5/mariadb-11.4.5-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb/mariadb-11.4.5/bintar-linux-systemd-x86_64/mariadb-11.4.5-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.4.5/mariadb-11.4.5-linux-systemd-x86_64.tar.gz 301
 /oneinstack/src/mariadb-11.4.4-linux-systemd-x86_64.tar.gz https://downloads.mariadb.org/rest-api/mariadb/11.4.4/mariadb-11.4.4-linux-systemd-x86_64.tar.gz 301
@@ -1603,6 +1599,7 @@
 /oneinstack/src/mongodb-0.3.1.tgz https://pecl.php.net/get/mongodb-0.3.1.tgz 301
 /oneinstack/src/mongodb-0.3.0.tgz https://pecl.php.net/get/mongodb-0.3.0.tgz 301
 /oneinstack/src/mongodb-0.2.0.tgz https://pecl.php.net/get/mongodb-0.2.0.tgz 301
+/oneinstack/src/swoole-6.0.1.tgz https://pecl.php.net/get/swoole-6.0.1.tgz 301
 /oneinstack/src/swoole-6.0.0.tgz https://pecl.php.net/get/swoole-6.0.0.tgz 301
 /oneinstack/src/swoole-5.1.6.tgz https://pecl.php.net/get/swoole-5.1.6.tgz 301
 /oneinstack/src/swoole-5.1.5.tgz https://pecl.php.net/get/swoole-5.1.5.tgz 301
