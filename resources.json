@@ -9041,6 +9041,11 @@
         "file_name": "mongodb-0.2.0.tgz"
     },
     {
+        "version": "5.1.7",
+        "url": "http://pecl.php.net/get/swoole-5.1.7.tgz",
+        "file_name": "swoole-5.1.7.tgz"
+    },
+    {
         "version": "6.0.1",
         "url": "http://pecl.php.net/get/swoole-6.0.1.tgz",
         "file_name": "swoole-6.0.1.tgz"
