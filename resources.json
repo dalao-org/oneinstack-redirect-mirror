@@ -5059,6 +5059,13 @@
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/checksums.txt"
     },
     {
+        "version": "17.4",
+        "url": "https://ftp.postgresql.org/pub/source/v17.4/postgresql-17.4.tar.gz",
+        "file_name": "postgresql-17.4.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v17.4/postgresql-17.4.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v17.4/postgresql-17.4.tar.gz.sha256"
+    },
+    {
         "version": "17.3",
         "url": "https://ftp.postgresql.org/pub/source/v17.3/postgresql-17.3.tar.gz",
         "file_name": "postgresql-17.3.tar.gz",
@@ -5087,6 +5094,13 @@
         "sha256": "https://ftp.postgresql.org/pub/source/v17.0/postgresql-17.0.tar.gz.sha256"
     },
     {
+        "version": "16.8",
+        "url": "https://ftp.postgresql.org/pub/source/v16.8/postgresql-16.8.tar.gz",
+        "file_name": "postgresql-16.8.tar.gz",
+        "md5": "https://ftp.postgresql.org/pub/source/v16.8/postgresql-16.8.tar.gz.md5",
+        "sha256": "https://ftp.postgresql.org/pub/source/v16.8/postgresql-16.8.tar.gz.sha256"
+    },
+    {
         "version": "16.7",
         "url": "https://ftp.postgresql.org/pub/source/v16.7/postgresql-16.7.tar.gz",
         "file_name": "postgresql-16.7.tar.gz",
@@ -5113,20 +5127,6 @@
         "file_name": "postgresql-16.4.tar.gz",
         "md5": "https://ftp.postgresql.org/pub/source/v16.4/postgresql-16.4.tar.gz.md5",
         "sha256": "https://ftp.postgresql.org/pub/source/v16.4/postgresql-16.4.tar.gz.sha256"
-    },
-    {
-        "version": "16.3",
-        "url": "https://ftp.postgresql.org/pub/source/v16.3/postgresql-16.3.tar.gz",
-        "file_name": "postgresql-16.3.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v16.3/postgresql-16.3.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v16.3/postgresql-16.3.tar.gz.sha256"
-    },
-    {
-        "version": "16.2",
-        "url": "https://ftp.postgresql.org/pub/source/v16.2/postgresql-16.2.tar.gz",
-        "file_name": "postgresql-16.2.tar.gz",
-        "md5": "https://ftp.postgresql.org/pub/source/v16.2/postgresql-16.2.tar.gz.md5",
-        "sha256": "https://ftp.postgresql.org/pub/source/v16.2/postgresql-16.2.tar.gz.sha256"
     },
     {
         "version": "2.7.16",
@@ -5349,6 +5349,11 @@
         "pgp": "https://openresty.org/download/openresty-1.21.4.3.tar.gz.asc"
     },
     {
+        "version": "1.6.37",
+        "url": "http://www.memcached.org/files/memcached-1.6.37.tar.gz",
+        "file_name": "memcached-1.6.37.tar.gz"
+    },
+    {
         "version": "1.6.36",
         "url": "http://www.memcached.org/files/memcached-1.6.36.tar.gz",
         "file_name": "memcached-1.6.36.tar.gz"
@@ -5367,11 +5372,6 @@
         "version": "1.6.33",
         "url": "http://www.memcached.org/files/memcached-1.6.33.tar.gz",
         "file_name": "memcached-1.6.33.tar.gz"
-    },
-    {
-        "version": "1.6.32",
-        "url": "http://www.memcached.org/files/memcached-1.6.32.tar.gz",
-        "file_name": "memcached-1.6.32.tar.gz"
     },
     {
         "version": "v0.10.28",
@@ -7241,6 +7241,11 @@
         "url": "https://github.com/jokkedk/webgrind/archive/refs/tags/v1.3.1.zip",
         "file_name": "webgrind-v1.3.1.zip",
         "version": "v1.3.1"
+    },
+    {
+        "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.4.tar.gz",
+        "file_name": "ngx_devel_kit-v0.3.4.tar.gz",
+        "version": "v0.3.4"
     },
     {
         "url": "https://github.com/vision5/ngx_devel_kit/archive/refs/tags/v0.3.3.tar.gz",
