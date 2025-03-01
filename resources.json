@@ -8571,6 +8571,11 @@
         "file_name": "memcache-0.2.tgz"
     },
     {
+        "version": "1.21.0",
+        "url": "http://pecl.php.net/get/mongodb-1.21.0.tgz",
+        "file_name": "mongodb-1.21.0.tgz"
+    },
+    {
         "version": "1.20.1",
         "url": "http://pecl.php.net/get/mongodb-1.20.1.tgz",
         "file_name": "mongodb-1.20.1.tgz"
