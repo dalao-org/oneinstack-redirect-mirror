@@ -4919,6 +4919,20 @@
         "url": "https://github.com/acmesh-official/acme.sh/archive/refs/tags/3.1.0.tar.gz"
     },
     {
+        "version": "1.65.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.65.0/nghttp2-1.65.0.tar.gz",
+        "file_name": "nghttp2-1.65.0.tar.gz",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.65.0/nghttp2-1.65.0.tar.gz.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.65.0/checksums.txt"
+    },
+    {
+        "version": "1.65.0",
+        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.65.0/nghttp2-1.65.0.tar.gz.asc",
+        "file_name": "nghttp2-1.65.0.tar.gz.asc",
+        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.65.0/nghttp2-1.65.0.tar.gz.asc.asc",
+        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.65.0/checksums.txt"
+    },
+    {
         "version": "1.64.0",
         "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.64.0/nghttp2-1.64.0.tar.gz",
         "file_name": "nghttp2-1.64.0.tar.gz",
@@ -5043,20 +5057,6 @@
         "file_name": "nghttp2-1.57.0.tar.gz.asc",
         "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/nghttp2-1.57.0.tar.gz.asc.asc",
         "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.57.0/checksums.txt"
-    },
-    {
-        "version": "1.56.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/nghttp2-1.56.0.tar.gz",
-        "file_name": "nghttp2-1.56.0.tar.gz",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/nghttp2-1.56.0.tar.gz.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/checksums.txt"
-    },
-    {
-        "version": "1.56.0",
-        "url": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/nghttp2-1.56.0.tar.gz.asc",
-        "file_name": "nghttp2-1.56.0.tar.gz.asc",
-        "gpg": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/nghttp2-1.56.0.tar.gz.asc.asc",
-        "md5": "https://github.com/nghttp2/nghttp2/releases/download/v1.56.0/checksums.txt"
     },
     {
         "version": "17.4",
