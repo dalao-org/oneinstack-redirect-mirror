@@ -5319,16 +5319,16 @@
         "sha256": "https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz.sha256"
     },
     {
-        "version": "6.9.13-22",
-        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-22.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-22.tar.gz.asc",
-        "file_name": "ImageMagick-6.9.13-22.tar.gz"
+        "version": "6.9.13-23",
+        "url": "https://imagemagick.org/archive/ImageMagick-6.9.13-23.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-6.9.13-23.tar.gz.asc",
+        "file_name": "ImageMagick-6.9.13-23.tar.gz"
     },
     {
-        "version": "7.1.1-44",
-        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-44.tar.gz",
-        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-44.tar.gz.asc",
-        "file_name": "ImageMagick-7.1.1-44.tar.gz"
+        "version": "7.1.1-45",
+        "url": "https://imagemagick.org/archive/ImageMagick-7.1.1-45.tar.gz",
+        "gpg": "https://imagemagick.org/archive/ImageMagick-7.1.1-45.tar.gz.asc",
+        "file_name": "ImageMagick-7.1.1-45.tar.gz"
     },
     {
         "version": "",
@@ -10289,6 +10289,11 @@
         "version": "2.0.0",
         "url": "http://pecl.php.net/get/yaf-2.0.0.tgz",
         "file_name": "yaf-2.0.0.tgz"
+    },
+    {
+        "version": "3.4.2",
+        "url": "http://pecl.php.net/get/xdebug-3.4.2.tgz",
+        "file_name": "xdebug-3.4.2.tgz"
     },
     {
         "version": "3.4.1",

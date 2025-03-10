@@ -105,7 +105,7 @@
     },
     {
         "version_file_name": "imagemagick_ver",
-        "version": "6.9.13-22"
+        "version": "6.9.13-23"
     },
     {
         "version_file_name": "openresty_ver",
@@ -237,7 +237,7 @@
     },
     {
         "version_file_name": "xdebug_ver",
-        "version": "3.4.1"
+        "version": "3.4.2"
     },
     {
         "version_file_name": "pecl_mongo_ver",

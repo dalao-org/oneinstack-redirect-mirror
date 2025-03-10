@@ -855,8 +855,8 @@
 /oneinstack/src/apr-util-1.6.3.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.3.tar.gz 301
 /oneinstack/src/apr-util-1.6.2.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.2.tar.gz 301
 /oneinstack/src/apr-util-1.6.1.tar.gz https://archive.apache.org/dist/apr/apr-util-1.6.1.tar.gz 301
-/oneinstack/src/ImageMagick-6.9.13-22.tar.gz https://imagemagick.org/archive/ImageMagick-6.9.13-22.tar.gz 301
-/oneinstack/src/ImageMagick-7.1.1-44.tar.gz https://imagemagick.org/archive/ImageMagick-7.1.1-44.tar.gz 301
+/oneinstack/src/ImageMagick-6.9.13-23.tar.gz https://imagemagick.org/archive/ImageMagick-6.9.13-23.tar.gz 301
+/oneinstack/src/ImageMagick-7.1.1-45.tar.gz https://imagemagick.org/archive/ImageMagick-7.1.1-45.tar.gz 301
 /oneinstack/src/openresty-.tar.gz https://openresty.org/download/openresty-.tar.gz 301
 /oneinstack/src/openresty-1.25.3.1.tar.gz https://openresty.org/download/openresty-1.25.3.1.tar.gz 301
 /oneinstack/src/openresty-1.21.4.3.tar.gz https://openresty.org/download/openresty-1.21.4.3.tar.gz 301
@@ -1849,6 +1849,7 @@
 /oneinstack/src/yaf-2.1.0.tgz https://pecl.php.net/get/yaf-2.1.0.tgz 301
 /oneinstack/src/yaf-2.0.1.tgz https://pecl.php.net/get/yaf-2.0.1.tgz 301
 /oneinstack/src/yaf-2.0.0.tgz https://pecl.php.net/get/yaf-2.0.0.tgz 301
+/oneinstack/src/xdebug-3.4.2.tgz https://pecl.php.net/get/xdebug-3.4.2.tgz 301
 /oneinstack/src/xdebug-3.4.1.tgz https://pecl.php.net/get/xdebug-3.4.1.tgz 301
 /oneinstack/src/xdebug-3.4.0.tgz https://pecl.php.net/get/xdebug-3.4.0.tgz 301
 /oneinstack/src/xdebug-3.3.2.tgz https://pecl.php.net/get/xdebug-3.3.2.tgz 301
